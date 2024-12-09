@@ -1,0 +1,144 @@
+TITLE0: QCM : QCM Sols
+TITLE1: QCM : Les sols - Auto-évaluation
+TITLE2: À l'interface entre lithosphère, atmosphère, hydrosphère et biosphère ?
+
+UP:	../fiche03.html
+PREV: qcm02.html
+NEXT: qcm04.html
+
+NOSHUFFLE
+
+#-------------------------------------------------------------------------------
+
+Q:  Qu'est-ce que l'humus ? 
+	G: De la matière organique issue de la décomposition de débris végétaux ou animaux par les microbes du sol et autres organismes.
+	B: Les débris végétaux (feuilles mortes, branches, ...) et restes animaux (cadavres, déjections fécales, ...) accumulés à la surface du sol.
+	B: La terre végétale, de couleur généralement foncée (brune ou noire), dans un sol.
+	B: Le réseau de filaments produits par les champignons.
+	C: L'humus est de la matière organique dégradée. Il résulte de la transformation de la matière organique (restes de plantes, d'animaux, excréments) par des organismes du sol comme les bactéries, les champignons et les vers de terre.
+
+Q: L'humus présente une affinité particulière avec certains minéraux en
+	se liant avec eux. Lesquels ? 
+	G: Les argiles.
+	G: Les oxydes et hydroxydes de fer.	
+	B: Les quartz.
+	B: Les carbonates.
+	C: Ces associations avec les argiles et les oxydes de fer permettent à l'humus de mieux se stabiliser dans le sol, contribuant ainsi à la fertilité et à la rétention des nutriments.	
+
+Q: Comment appelle-t'on les différentes zones, généralement horizontales,
+	qu'on peut distinguer sur la coupe d'un sol ? 
+	G: Les horizons
+	B: Les pédons
+	B: Les solons
+	B: Les penons.
+	C: Les horizons représentent les différentes couches qui composent un sol, chaque horizon ayant des caractéristiques spécifiques, comme la couleur, la texture et la composition.	
+
+Q: Où trouve-t'on les sols actifs les plus anciens ? 
+	G: A la surface des grands boucliers africains et sud-africains.
+	B: Dans l'Himalaya.
+	B: Dans le Massif Central.
+	B: Dans les îles volcaniques.
+	C: Les grands boucliers africains et sud-africains, comme le Bouclier de l'Afrique de l'Ouest, sont des zones géologiques stables et anciennes où les sols ont eu le temps de se développer et de rester actifs pendant de longues périodes.
+
+Q: Le beryllium 10 (<sup>10</sup>Be) est un isotope du beryllium qui permet de dater la formation et l'érosion des sols. A quelle particularité doit-il cette utilisation ? 
+	I: images/e24.jpg &&	
+	G: Car c'est élément radioactif, absent à l'intérieur de la Terre, mais qui est formé dans l'atmosphère ou à la surface des sols par l'action de rayons cosmiques venus de l'espace.
+	B: Car c'est un élément radioactif, initialement présent dans les roches crustales à des teneurs connues, mais qui est dégradé à la surface par les rayons cosmiques venus de l'espace. La mesure de sa quantité résiduelle permet donc de donner un âge aux sols.
+	C: Le <sup>10</sup>Be est formé dans l'atmosphère sous l'influence des rayons cosmiques et peut être utilisé pour dater l'altération et l'érosion des sols.	
+
+Q:  Combien de temps faut-il en moyenne à la nature pour former un sol sur une roche nue ? 
+	G: Environ 10 000 ans.
+	B: Environ un siècle.
+	B: Environ 100 000 ans.
+	B: Environ une année.
+	C: Le processus de formation des sols varie en fonction des conditions environnementales, mais il est généralement long et dépend de l'altération des roches, de l'activité biologique et des conditions climatiques. Les sols européens actuels se sont formés depuis la fin de la période glaciaire.
+	
+Q: Les chernozems font partie des sols les plus riches en matières organiques. Pour un chernozem comptant 4% en poids de matières organiques, quel est le pourcentage en volume de sa fraction organique ? On prend d1 = 0.2 pour la densité de la fraction organique, et d2 = 2 pour la densité de la fraction minérale.
+	B: 2%
+	B: 10%
+	B: 20%
+	G: 30%
+	C: On écrit pour un kg de sol. <br> 1 kg = m1 + m2 <br> 1/rho V = V1 / rho1 + V2 / rho2 <br> 1/rho V = V1 / rho1 + V2 / rho2
+
+Q:  Dans un sol, selon la norme NF X 31-003, on désigne par <em>graviers</em> comme étant tous les éléments détritiques de taille comprise ...
+	I: images/g01.png &&
+	G: Entre 2 mm et 2 cm.
+	B: Entre 2 mm et 5 cm.
+	B: Entre 50 µm et 2 mm.
+	B: Entre 3 cm et 5 cm.
+	C: Selon la norme NF X 31-003, qui définit les différentes classes granulométriques des sols, les graviers sont classés comme étant tous les éléments détritiques dont la taille est comprise entre 2 mm et 2 cm.	<img src="images/g02.png" class="question-image">
+
+Q: Dans un sol, selon la norme NF X 31-003, on appelle les <em> cailloux </em> tous les éléments détritiques ayant une taille comprise ... 
+	G: Entre 2 cm et 7,5 cm.		
+	B: Entre 2 cm et 5 cm.
+	B: Entre 1 cm et 5 cm.
+	B: Entre 1 cm et 10 cm.
+	C: Selon la norme NF X 31-003, qui définit les différentes classes granulométriques des sols, les cailloux sont classés comme étant tous les éléments détritiques dont la taille est comprise entre 2 cm et 7.5 cm.	<img src="images/g02.png" class="question-image">
+
+Q: Dans un sol, selon la norme NF X 31-003, les éléments détritiques ayant une taille comprise entre 7,5 cm et 25 cm, sont appelés ...
+	G: Des pierres.
+	B: Des cailloux.
+	B: Des blocs.
+	B: Des graviers.
+	C: Selon la norme NF X 31-003, qui définit les différentes classes granulométriques des sols, les pierres et les grosses pierres sont classées comme étant tous les éléments détritiques dont la taille est comprise entre 7.5 cm et 25 cm.	<img src="images/g02.png" class="question-image">
+
+Q: Dans un sol, selon la norme NF X 31-003, tous les éléments détritiques ayant une taille supérieure à 25 cm, sont appelés ...
+	B: Des pierres.
+	B: Des cailloux.
+	G: Des blocs.
+	B: Des graviers.
+	C: Selon la norme NF X 31-003, qui définit les différentes classes granulométriques des sols, les blocs sont classés comme étant tous les éléments détritiques dont la taille est supérieure à 25 cm.	<img src="images/g02.png" class="question-image">
+
+Q:  Pourquoi les cailloux reviennent-ils toujours quand on épierre un terrain ? 
+	G: Parce que le ruissellement entraîne les particules fines et finit par faire affleurer en surface les cailloux qui étaient sous terre.
+	G: Parce les particules fines ont tendance à être entraînées dans les profondeurs du sol.
+	B: Parce les taupes et les vers de terre font remonter les cailloux en surface.
+	G: Parce que les alternances de gel et de dégel finissent par faire remonter les cailloux en surface.
+	C: Lorsque l'eau de pluie ruisselle sur un terrain, elle entraîne avec elle les particules de sol les plus fines (argile, limon, sable). Ces particules sont plus facilement mises en suspension dans l'eau et transportées. Au fil du temps, ce processus d'érosion différentielle entraîne une diminution progressive de la couche superficielle fine du sol. Les cailloux, plus gros et plus lourds, restent en place et finissent par affleurer à la surface. Les alternances de gel et de dégel peuvent contribuer à déplacer de petites pierres, mais ils ne sont pas le facteur dominant.
+
+
+Q:  Que peut-on dire sur les sols sableux ? 
+	G: Ce sont des sols faciles à travailler.
+	B: Ce sont des sols avec de bonnes capacités nutritives.
+	B: Ce sont des sols avec de bonne capacité de rétention en eau.
+	G: Ce sont des sols bien drainés.
+	G: Ce sont des sols bien aérés.
+	C: Les sols sableux présentent plusieurs caractéristiques distinctives :<br> <ul style="text-align:left;"> <li>Faciles à travailler : Leur texture grossière les rend légers et faciles à ameublir.</li> <li>Bien drainés : Les espaces entre les grains de sable permettent à l'eau de s'infiltrer rapidement, évitant ainsi les problèmes d'engorgement.</li> <li>Bien aérés : La structure poreuse du sol sableux favorise la circulation de l'air, essentielle pour la vie microbienne du sol.</li> </ul> Cependant, les sols sableux présentent aussi quelques inconvénients : <ul style="text-align:left;"> <li>Faible capacité de rétention en eau : L'eau s'infiltre rapidement et est peu retenue par les grains de sable, ce qui peut entraîner un dessèchement rapide du sol.</li> <li>Pauvres en éléments nutritifs : Les nutriments ont tendance à être lessivés par l'eau, ce qui rend ces sols moins fertiles.</li> <li>En résumé, les sols sableux sont des sols légers, bien aérés et bien drainés, mais ils sont aussi pauvres en nutriments et ont une faible capacité de rétention en eau.</li></ul>
+
+Q:  Quels sont les points négatifs des sols argileux ? 
+	G: Ce sont des sols difficiles à travailler.
+	B: Ce sont des sols qui retiennent mal les nutriments pour les plantes.
+	B: Ce sont des sols avec de faibles capacités de rétention d'eau pour les plantes.
+	G: Ce sont des sols mal aérés.
+	G: Ce sont des sols mal drainés.
+	C: Les sols argileux, bien qu'ayant certains avantages, présentent également plusieurs inconvénients qui peuvent rendre leur culture plus complexe : <ul style="text-align:left;"> <li>Difficiles à travailler : Les particules d'argile sont très fines et collantes, ce qui rend le sol lourd et compact. Il est difficile à travailler, surtout lorsqu'il est humide, et forme des mottes tenaces.</li> <li>Mal aérés : La structure compacte des sols argileux laisse peu d'espace pour la circulation de l'air, ce qui peut limiter l'activité des micro-organismes du sol et asphyxier les racines des plantes.</li> <li>Mal drainés : L'eau a du mal à s'infiltrer dans un sol argileux, ce qui peut entraîner des problèmes de stagnation d'eau et favoriser le développement de maladies cryptogamiques.</li> <li>Réchauffement lent au printemps : En raison de leur forte capacité de rétention en eau, les sols argileux mettent plus de temps à se réchauffer au printemps, retardant ainsi les semis et la croissance des plantes.</li> <li>Bien que les sols argileux retiennent bien l'eau, cette eau n'est pas toujours disponible pour les plantes car elle est souvent liée aux particules d'argile.</li></ul>En résumé, les principaux inconvénients des sols argileux sont liés à leur texture fine et compacte, qui limitent l'aération, le drainage et la facilité de travail du sol.
+
+Q:  Pourquoi les sols argileux sont-ils difficiles à travailler ? 
+	G: Ce sont des terres lourdes et collantes quand ces sols sont humides.
+	B: Ce sont des sols qui abrasent les outils quand ces sols sont gorgés d'eau.
+	G: Ce sont des sols durs en période de sécheresse.
+	C:  La difficulté de travailler un sol argileux est principalement liée à sa texture fine et à sa capacité à retenir l'eau, ce qui le rend lourd, collant et difficile à pénétrer lorsqu'il est humide. Et enfin, comme tous les sols, ils peuvent devenir durs en période de sécheresse.
+
+Q:  Le test de consistance d'un échantillon de sol entre les doigts est un moyen rapide d'apprécier sa texture. Quelles affirmations ci-dessous sont justes ? 
+	G: Les sols sableux ont un toucher rugueux.
+	B: Les sols argileux humides peuvent se laisser modeler sous forme de boudins, mais ceux-ci ne sont pas très stables.
+	G: Les sols limoneux ont un toucher soyeux.
+	C: Le test de consistance permet de distinguer les sols en fonction de leur nature. Dans les affirmations ci-dessous, seulement celle concernant les sols argileux est inexacte: les sols argileux forment des boudins assez stables.
+
+Q:  Quels sont les points négatifs des sols limoneux ? 		
+	G: Ce sont des sols battants.
+	G: Ce sont des sols assez sensibles au tassement.
+	B: Ce sont des terres lourdes.
+	B: Ce sont des terres qui usent les outils.
+	C: Les sols limoneux, bien qu'étant généralement considérés comme fertiles, présentent quelques inconvénients liés à leur texture particulière : <ul style="text-align:left;"> <li>Sols battants : Les particules de limon, lorsqu'elles sont soumises à l'impact de la pluie ou du passage, ont tendance à se tasser et à former une croûte dure en surface. Cette croûte empêche l'eau de pénétrer dans le sol, limite l'aération et peut entraver la germination des graines.</li> <li>Sensibles au tassement : Le tassement du sol limoneux est favorisé par le passage de machines agricoles lourdes ou par le piétinement. Ce tassement réduit la porosité du sol, ce qui diminue l'infiltration de l'eau et l'aération.</li> </ul> Pourquoi les autres affirmations sont incorrectes ?<br> <ul style="text-align:left;"> <li>Ce sont des terres lourdes : Les sols limoneux ne sont pas aussi lourds que les sols argileux. Ils sont plutôt légers et faciles à travailler.</li> <li>Ce sont des terres qui usent les outils : Les sols limoneux ne sont pas particulièrement abrasifs pour les outils.</li> <li>En résumé, les principaux inconvénients des sols limoneux sont liés à leur fragilité et à leur tendance à se tasser, ce qui peut entraîner une diminution de la fertilité du sol à long terme.</li></ul>
+
+Q:  Dans certaines régions du Bassin Parisien (comme la Picardie, par exemple), les sols peuvent contenir une quantité non négligeable de silex.  Quel est le principal problème posé par ces silex pour l'agriculture ? 
+	I: images/e25.png &&
+	G: Ces silex entraînent une usure prématurée des outils de travail du sol.
+	B: Ces silex gênent le drainage du sol.
+	B: Ces silex empêchent l'aération du sol.
+	B: Ces silex imperméabilisent la surface du sol.
+	C:  L'usure prématurée des outils agricoles est le principal problème posé par les silex dans les sols du Bassin Parisien. Cette problématique a des conséquences économiques importantes pour les agriculteurs, en termes de coûts de maintenance et de productivité.
+
+
+

@@ -11,6 +11,7 @@ BROWSER=$(CHROME)
 LOCAL0=html/
 LOCAL1=http://localhost:8080/rocksandwalk/
 DIST=https://geocool.fr
+DIST3=https://rocksandwalk.netlify.app/html
 
 CPANEL=https://owl.o2switch.net:2083/
 USER=thre9886
@@ -104,6 +105,9 @@ view1:
 
 view2:
 	open -a $(BROWSER) $(DIST)/$(INDEX).html
+
+view3:
+	open -a $(BROWSER) $(DIST3)/$(INDEX).html
 
 
 # Nettoyer les fichiers générés

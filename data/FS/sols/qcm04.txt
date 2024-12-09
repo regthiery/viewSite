@@ -1,0 +1,206 @@
+TITLE0: QCM : QCM Sols
+TITLE1: QCM : Les sols - Auto-évaluation
+TITLE2: À l'interface entre lithosphère, atmosphère, hydrosphère et biosphère ?
+
+UP:	../fiche03.html
+PREV: qcm03.html
+NEXT: qcm05.html
+
+NOSHUFFLE
+
+Q:  Qu'est-ce qu'on appelle la <em>battance</em> ? 
+	G: La battance est un phénomène affectant certains sols, qui ont tendance à former une croûte imperméable en surface, lorsqu'ils sont frappés par de fortes pluies.
+	B: La battance est le phénomène de mouvement, tantôt vers le haut, tantôt vers le bas, de la limite supérieure de la nappe phréatique superficielle dans un sol.	
+	B: La battance désigne le retournement du sol par le labourage.
+	B: La battance désigne l'aptitude d'un sol à supporter le poids et le roulement des engins agricoles.
+	C: La battance est un processus de dégradation des sols qui se manifeste par la formation d'une croûte superficielle dure et compacte. Cette croûte, imperméable, résulte de l'impact des gouttes de pluie sur les particules du sol, principalement dans les sols limoneux ou sablo-limoneux.
+
+Q:  Cette photo montre un champ de tournesol avec deux sols différents. La partie à gauche montre une bonne structure favorable à l'aération et au drainage, mais quel est le problème sur la partie à droite ? 
+	I: images/e25.jpg &&
+	G: La partie à droite montre une croûte de battance.
+	B: La partie à droite montre une croûte de battement.
+	B: La partie à droite montre une croûte de tassement.
+	B: La partie à droite montre une croûte de dessèchement.
+	C: La partie à droite montre une croûte de battance. Les conséquences de la battance sont nombreuses :
+	<ul style="text-align:left;"> 
+		<li>**Réduction de l'infiltration de l'eau:** L'eau de pluie ruisselle en surface plutôt que de pénétrer dans le sol, augmentant les risques d'érosion.</li> 
+		<li>**Difficulté de germination:** Les jeunes plantules ont du mal à percer cette croûte dure, ce qui peut entraîner des levées irrégulières et une réduction des rendements.</li> 
+		<li>**Limitation de l'aération du sol:** La croûte de battance réduit les échanges gazeux entre le sol et l'atmosphère, ce qui peut nuire au développement racinaire des plantes.</li> 
+	</ul>
+
+Q:  Quels sont les sols les plus concernés par la battance ? 
+	G: Les sols limoneux.
+	B: Les sols argileux.
+	B: Les sols pierreux.
+	B: Les sols sableux.
+	C: Les sols limoneux, composés de particules de taille moyenne, sont particulièrement sensibles à la formation de croûtes de battance pour plusieurs raisons :<br>
+	<ul style="text-align:left;"> 
+	<li>**Structure instable des agrégats:** Les agrégats de limon sont moins stables que ceux des sols argileux, ce qui les rend plus vulnérables à la dispersion par l'impact des gouttes de pluie.</li> 
+	<li>**Taille des particules:** Les particules de limon sont suffisamment fines pour colmater les pores du sol après avoir été dispersées, empêchant ainsi l'infiltration de l'eau et favorisant la formation d'une croûte imperméable.</li> 
+	</ul>
+
+Q:  Quels sont les problèmes posés par la battance ? 
+	G: Cela imperméabilise la surface du sol.
+	G: Cela augmente le quantité d'eau ruisselant à la surface du sol.
+	G: Cela empêche les racines de respirer.
+	B: Cela engorge les sols en eau.
+	C: La battance, c'est-à-dire la formation d'une croûte dure et compacte à la surface du sol, pose plusieurs problèmes majeurs pour l'agriculture et l'environnement :
+	<ul style="text-align:left;"> 
+	<li>**Imperméabilisation du sol:** La croûte de battance empêche l'eau de pluie de pénétrer dans le sol. Elle agit comme une surface imperméable, limitant ainsi l'infiltration de l'eau.</li> 
+	<li>**Augmentation du ruissellement:** Lorsque l'eau ne peut pas s'infiltrer, elle ruisselle en surface, emportant avec elle des particules de sol et des nutriments. Cela entraîne une érosion des sols et une dégradation de leur fertilité.</li> 
+	<li>**Difficulté de germination:** Les jeunes plantules ont du mal à percer cette croûte dure pour émerger. Cela réduit le taux de germination et peut entraîner des levées irrégulières.</li> 
+	<li>**Limitation de l'aération du sol:** La croûte de battance réduit les échanges gazeux entre le sol et l'atmosphère. Les racines des plantes ont ainsi plus de difficulté à respirer, ce qui peut nuire à leur développement.</li>
+	</ul>
+
+Q:  Quel effet ont les racines, en général, sur l'acidité du sols ? 
+	G: Les racines tendent à acidifier le sol, car elles libèrent des H<sup>+</sup>.
+	B: Les racines n'ont qu'une influence négligeable sur l'acidité du sol.
+	B: Les racines tendent à augmenter le pH des sols, car elles libèrent des bases.
+	C: Les racines des plantes, au cours de leur croissance et de leur activité métabolique, libèrent diverses substances dans le sol, dont des protons (H<sup>+</sup>). Ce phénomène contribue à l'acidification de la rhizosphère, la zone du sol directement en contact avec les racines.<br>Plusieurs mécanismes expliquent cette acidification :
+	<ul style="text-align:left;"> 
+	<li>**Respiration racinaire:** La respiration des racines consomme de l'oxygène et libère du dioxyde de carbone (CO<sub>2</sub>). Ce CO<sub>2</sub> réagit avec l'eau du sol pour former de l'acide carbonique (H<sub>2</sub>CO<sub>3</sub>), qui se dissocie en ions hydrogénocarbonate (HCO<sub>3</sub><sup>-</sup>) et protons (H<sup>+</sup>).</li>
+	<li>**Absorption sélective des cations:** Les racines absorbent préférentiellement certains cations (comme le potassium K<sup>+</sup> ou le calcium Ca<sup>2+</sup>) par rapport à des protons. Cette absorption sélective entraîne un enrichissement relatif en protons dans la solution du sol.</li> 
+	<li>**Excrétion d'acides organiques:** Certaines plantes excrètent des acides organiques (comme l'acide citrique ou l'acide malique) par leurs racines. Ces acides contribuent à acidifier le sol en libérant des protons.</li>
+	</ul>
+
+Q:  Pourquoi les sols sont-ils acides dans des pays comme l'Alaska, la Sibérie, le Canada ou la Scandinavie ? 
+	G: La décomposition de la litière fournit des acides, que les microbes n'ont pas le temps de traiter en raison de l'activité microbienne réduite.	
+	B: L'ensoleillement réduit dans ces pays accroit l'acidité des sols.
+	B: L'humidité importante des sols dans ces pays rend ces sols acides.
+	B: Les retombées atmosphériques des polluants produits par les zones industrielles
+	C: Dans les régions froides comme l'Alaska, la Sibérie, le Canada et la Scandinavie, l'acidité des sols est principalement due à la lenteur des processus de décomposition de la matière organique.<br> Voici les principales raisons :
+	<ul style="text-align:left;"> 
+	<li>**Faible activité microbienne:** Les basses températures ralentissent considérablement l'activité des micro-organismes du sol. Ces derniers jouent un rôle crucial dans la décomposition de la matière organique et la minéralisation des éléments nutritifs. Lorsque leur activité est réduite, la matière organique s'accumule et se décompose lentement, libérant des acides organiques qui acidifient le sol.</li> 
+	<li>**Accumulation de litière:** La végétation, principalement composée de conifères dans ces régions, produit une litière acide. Cette litière s'accumule plus rapidement qu'elle ne se décompose, contribuant à l'acidification du sol.</li> 
+	<li>**Lessivage des bases:** Les précipitations, même faibles, peuvent lessiver les bases échangeables (calcium, magnésium, potassium) présentes dans le sol, accentuant ainsi son acidité.</li>
+	</ul>
+
+Q:  Quel(s) effet(s) a l'acidité sur ces sols des pays froids (Scandinavie, Sibérie, Alaska, ...) ?
+	G: Cela génère une hydrolyse intense des minéraux alumino-silicatés.
+	G: Cela solubilise les ions Al<sup>3+</sup> et Fe<sup>3+</sup> qui migrent en profondeur.
+	G: Cela hydrolyse les argiles.
+	B: Cela réduit les Fe<sup>3+</sup> en Fe<sup>2+</sup>.
+	C: L'acidité élevée des sols dans les régions froides a plusieurs conséquences sur la composition et la structure de ces sols. Parmi les effets les plus notables, on peut citer :
+	<ul style="text-align:left;"> 
+	<li>**Solubilisation des métaux:** L'acidité favorise la solubilisation de certains métaux comme l'aluminium (Al<sup>3+</sup>) et le fer (Fe<sup>3+</sup>). Ces cations, en se déplaçant dans le profil du sol, peuvent atteindre des horizons plus profonds.</li> 
+	<li>**Hydrolyse des minéraux:** L'acidité accélère l'hydrolyse des minéraux, notamment des minéraux argileux. Cette hydrolyse entraîne une modification de la structure des argiles et une libération de cations comme l'aluminium.</li> 
+	<li>**Formation d'horizons particuliers:** L'accumulation d'oxydes de fer et d'aluminium dans les horizons inférieurs du profil peut conduire à la formation d'horizons particuliers, comme les spodosols, caractéristiques des régions froides.</li>
+	</ul>
+
+
+Q:  Dans les podzols, que contient l'horizon "gris cendreux", noté <em>E</em> ou <em>A2</em> ? 
+	G: Des particules de quartz.
+	B: Des particules d'argiles.
+	B: Des particules de feldspaths.
+	B: Des cendres issues de la combustion du bois.
+	C: L'horizon E d'un podzol, caractérisé par sa couleur claire et sa texture sableuse, est le résultat d'un intense lessivage. Cet horizon a subi une perte importante de ses constituants les plus solubles (matière organique, oxydes de fer et d'aluminium, argiles) par percolation de l'eau.
+	<ul style="text-align:left;">
+	<li>**Quartz:** très résistant à l'altération: Le quartz est un minéral très résistant à l'altération chimique. Il n'est pas affecté par les processus d'altération qui entraînent la dissolution des autres minéraux.</li>
+	<li>**Taille des particules:** Les particules de quartz sont généralement de taille plus importante que les particules d'argile ou de matière organique. Elles sont donc moins facilement transportées par l'eau de percolation.</li>
+	</ul>
+	En résumé, l'horizon E d'un podzol est essentiellement constitué de particules de quartz car ce minéral est le plus résistant aux processus d'altération et de lessivage qui affectent les autres constituants du sol.
+	<br><br>
+	Pourquoi les autres options sont incorrectes ?
+	<ul style="text-align:left;">
+	<li>**Des particules d'argiles:** Les argiles sont des minéraux très sensibles à l'altération et au lessivage. Elles sont donc généralement lessivées de l'horizon E.</li>
+	<li>**Des particules de feldspaths:** Les feldspaths sont des minéraux altérables qui se transforment en argiles au cours de l'altération. Ils sont donc rarement présents en quantité significative dans l'horizon E.</li>
+	<li>**Des cendres issues de la combustion du bois:** Cette option est incorrecte car la formation de l'horizon E est un processus naturel lié à l'altération des roches et à la migration des éléments dans le sol.</li>
+	</ul>
+
+
+Q:  Quelles sont les activités humaines qui contribuent à acidifier les sols ? 
+	G: La combustion du charbon et des hydrocarbures issus du pétrole ou du gaz naturel.
+	G: L'épandage d'engrais à base de sulfates ou nitrates.
+	B: Les centrales nucléaires.
+	B: Le chaulage du sol.
+	C: Les activités humaines contribuent significativement à l'acidification des sols, accélérant un processus naturel. Voici les principales causes anthropiques :
+	<ol style="text-align:left;">
+	<li><b>1. Les émissions industrielles et domestiques</b>
+	<br>Combustion de combustibles fossiles: La combustion du charbon, du pétrole et du gaz naturel libère dans l'atmosphère des oxydes de soufre (SOx) et des oxydes d'azote (NOx). Ces composés se combinent avec l'eau de pluie pour former des acides sulfurique et nitrique, qui sont ensuite déposés sur les sols lors des précipitations acides. Industries lourdes: Certaines industries, comme la métallurgie ou la chimie, émettent également des polluants acidifiants.</li>
+	<li><b>L'agriculture intensive</b><br>Engrais azotés: L'utilisation excessive d'engrais azotés peut entraîner une acidification des sols. L'azote ammoniacal contenu dans ces engrais est transformé en acide nitrique par les bactéries du sol.</li>
+	<li><b>Les transports</b><br>Les véhicules thermiques: Les émissions des véhicules thermiques (voitures, camions, etc.) contribuent à l'augmentation des concentrations d'oxydes d'azote dans l'atmosphère.</li>
+	</ol>
+	<br><br><b>Pourquoi les autres options sont incorrectes ?</b><br>
+	<ul style="text-align:left;">
+	<li>**Les centrales nucléaires:** Les centrales nucléaires ne sont pas une source directe d'acidification des sols. Les émissions des centrales nucléaires sont principalement liées à la radioactivité et non à l'acidité.</li>
+	<li>**Le chaulage du sol:** Au contraire, le chaulage est une technique utilisée pour corriger l'acidité des sols en apportant des matières alcalines (comme la chaux) qui neutralisent les acides.</li>
+	</ul>
+
+Q:  Parmi ces éléments chimiques, lesquels sont prélevés par les plantes dans le sol ? 
+	B: Le carbone.
+	G: L'azote.
+	G: Le phosphore.
+	G: Le potassium.
+	G: Le magnésium.
+	G: Le soufre.
+	G: Le calcium.
+	C: Les plantes prélèvent dans le sol les éléments nutritifs essentiels à leur croissance, principalement sous forme de sels minéraux dissous dans l'eau du sol. Le carbone, en revanche, est assimilé via la photosynthèse à partir du dioxyde de carbone (CO₂) présent dans l'atmosphère.
+	
+Q:  Dans quel contexte trouve-t-on des sols pauvres ? 
+	G: Sur les vieux sols allitisés sous climat tropical.
+	G: Sur les sols reposant sur des substrats siliceux (grès, sables, quartzites, ...).
+	B: Sur les sols volcaniques.
+	B: Sur les sols alluvionnaires.
+	C: Les sols pauvres en éléments nutritifs sont souvent liés à un climat ou un substrat particulier. Les vieux sols allitisés sous climat tropical ont subi une intense lixiviation, entraînant une perte importante des éléments solubles. Les substrats siliceux, eux, fournissent peu de minéraux nutritifs pour les plantes. En revanche, les sols volcaniques et alluvionnaires sont souvent riches en nutriments, du fait de leur origine géologique ou de l'apport continu de matériaux fertiles.	
+
+Q:  Comment s'appellent les forêts marécageuse littorales, à eau salée et installées sur les côtes basses des régions ou dans les estuaires, sous climat tropical ou équatorial ? 
+	I: images/e26.jpg &&	
+	G: La mangrove.
+	B: La jungle.
+	B: La ripisylve.
+	B: Le bayou
+	C: La mangrove est un écosystème caractéristique des régions tropicales et équatoriales. Elle est constituée principalement d'arbres et d'arbustes adaptés à des conditions d'eau salée et de sol vaseux, comme les palétuviers. Cet environnement joue un rôle crucial dans la protection des côtes contre l'érosion et les tempêtes, tout en abritant une biodiversité riche.	
+
+Q:  Qu'est-ce qui différencie la mangrove du bayou ? 
+	I: images/e27.jpg &&  Le bayou
+	G: La mangrove baigne dans de l'eau salée, tandis que le bayou baigne dans de l'eau douce.
+	B: La mangrove est sous climat tropical, tandis que le bayou se développe sous climat tempéré.
+	B: Aucune différence, le bayou n'est qu'un nom local donné à la mangrove en Louisiane.
+	B: Le bayou se caractérise par des eaux plus salées que dans la mangrove.
+	C: La mangrove est un écosystème côtier adapté aux eaux salées ou saumâtres, souvent sous climat tropical, avec des arbres tels que les palétuviers. Le bayou, quant à lui, est une zone marécageuse à eau douce, typiquement située dans le sud des États-Unis, avec une végétation différente.	
+
+Q:  Quel arbre constitue la principale espèce arborescente dans les mangroves ? 
+	I: images/e28.jpg &&
+	G: Le palétuvier.
+	B: Le papayer.
+	B: Le manguier.
+	B: Le palmier.
+	C: Les palétuviers, adaptés aux conditions salines et aux sols instables des mangroves, jouent un rôle crucial dans la stabilisation des côtes et la protection contre l'érosion.	
+
+Q:  L'eau marécageuse salée des mangroves est très pauvre en dioxygène. Quelles adaptations ont développé différentes espèces de palétuviers face à cette situation ? 
+	G: Des racines aériennes permettant de prélever l'oxygène de l'atmosphère.
+	G: Un tissu ligneux spécial, appelé <em>aérenchyme</em>  pour l'achemeniment du dioxygène aux racines.
+	B: Captage du dioxygène au niveau des feuilles.
+	B: Des branchies au niveau de ses racines sous l'eau.
+	C: Les palétuviers ont développé des racines aériennes, comme les pneumatophores ou les échasses, et des structures internes, comme l’aérenchyme, pour assurer l’apport d’oxygène malgré les conditions d’hypoxie dans les sols marécageux.	
+
+Q:  Les sols des mangroves sont très anoxiques. Quelles réactions chimiques se produisent dans ces conditions ? 	
+	G: Les sulfates apportées par l'eau de mer sont réduits en sulfures.
+	G: Le Fe<sup>3+</sup> des oxyhydroxydes ferriques sont réduits en ions Fe<sup>2+</sup>.
+	G: La matière organique est oxydée.
+	B: Les sulfures sont oxydées en sulfates.
+	C: Dans les sols anoxiques des mangroves, les sulfates se transforment en sulfures sous l'effet de la réduction microbienne, tandis que les oxyhydroxydes ferriques sont réduits en ions ferreux, et la matière organique subit une oxydation partielle par des bactéries anaérobies.	
+
+Q:  Que se passe-t-il quand on assèche des sols de mangroves pour les mettre en culture ? 
+	G: Les sulfures sont oxydées en sulfates.	
+	G: Les ions Fe<sup>2+</sup> sont oxydés en ions Fe<sup>3+</sup> pour donner des oxyhydroxydes ferriques.
+	G: Les sulfates acidifient le sol.
+	B: Les alcalins (Na<sup>+</sup>, K<sup>+</sup>) sont oxydés.
+	C: L'assèchement des sols de mangroves entraîne une oxydation des sulfures en sulfates, qui acidifient le sol. Parallèlement, le fer ferreux (Fe<sup>2+</sup>) est transformé en oxyhydroxydes ferriques, modifiant la chimie du sol.
+
+
+Q: Que veut dire la racine "cherno" dans le mot "chernozem" ?
+	B: gris foncé
+	G: noir
+	B: gris clair
+	B: brun
+	C: La racine "cherno" du mot "chernozem" est d'origine slave et signifie "noir," en référence à la couleur sombre de ce type de sol riche en matière organique.	
+
+Q:  Les ségalas sont des régions naturelles dans le sud du Massif Central (Aveyron, Lozère, ...), qui doivent leur nom à la culture du seigle, une céréale réputée peu exigeante capable de pousser sur des sols pauvres. Quelle roche peut constituer le substrat de ces sols ?
+	I: images/a0.png &&
+	B: Des alluvions sablo-limoneuses
+	B: Des limons éoliens (loess)
+	G: Des roches acides (granites, gneiss)
+	B: Des marnes et des marno-calcaires
+	C: Les ségalas, souvent associés à des sols pauvres, sont principalement constitués de roches acides comme le granite et le gneiss. Ces types de substrats limitent la fertilité des sols, d'où la culture du seigle.	
+	

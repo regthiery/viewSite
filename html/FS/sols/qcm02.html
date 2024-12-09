@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QCM : QCM Sols</title>
+    <link rel="stylesheet" href="../../css/styleqcm1.css">
+</head>
+<body>
+
+<div class="nav-buttons">
+    <a href="../fiche03.html"   class="nav-button"  >Retour</a>
+    <a href="qcm01.html" class="nav-button"  >Page précédente</a>
+    <a href="qcm03.html" class="nav-button"  >Page suivante</a>
+</div>
+
+<div class="container">
+    <h1>QCM : Les sols - Auto-évaluation</h1>
+    <h2>À l'interface entre lithosphère, atmosphère, hydrosphère et biosphère ?</h2>
+    <form id="qcm-form">
+        <div class="question-box" id="q1-box">
+            <div class="question">1. Que peut-on faire pour lutter contre l'hydromorphie de sols générée par une nappe d'eau perchée ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="C"> A) Irriguer le sol. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="A"> B) Installer un système de drainage superficiel du sol. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="B"> C) Chauler le sol. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="D"> D) Labourer le sol.	 </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Pour remédier à l'hydromorphie due à une nappe d'eau perchée, l'installation d'un système de drainage superficiel permet d'évacuer l'excès d'eau et de réduire la saturation du sol, favorisant ainsi un environnement propice à l'agriculture.</div>
+		</div>
+        <div class="question-box" id="q2-box">
+            <div class="question">2. Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e13.png" alt="Image pour la question 2" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="B"> A) Un sol brun (ou brunisol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="A"> B) Un sol lessivé (ou luvisol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="D"> C) Un ranker (ou rankosol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="C"> D) Un podzol (ou podzosol). </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Ce profil correspond à un sol lessivé (luvisol), caractérisé par un horizon éluvié (appauvri en argiles) et un horizon d'accumulation (illuvié) où les argiles se sont déposées, souvent trouvé dans des climats tempérés sous des végétations variées.</div>
+		</div>
+        <div class="question-box" id="q3-box">
+            <div class="question">3. Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e14.png" alt="Image pour la question 3" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="B"> A) Un sol brun (ou brunisol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="D"> B) Un ranker (ou rankosol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="E"> C) C'est plus compliqué que cela. On a la superposition de deux sols: un podzol au-dessus d'un sol lessivé. </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="A"> D) Un sol lessivé (ou luvisol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="C"> E) Un podzol (ou podzosol). </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Ce profil montre une situation complexe avec la superposition d'un podzol, caractérisé par un horizon éluvié et des accumulations de matière organique, sur un sol lessivé (luvisol), témoignant de processus pédogénétiques multiples influencés par des variations climatiques ou des changements dans la végétation.	</div>
+		</div>
+        <div class="question-box" id="q4-box">
+            <div class="question">4. Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e15.png" alt="Image pour la question 4" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="A"> A) Un sol lessivé (ou luvisol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="C"> B) Un podzol (ou podzosol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="D"> C) Un ranker (ou rankosol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="B"> D) Un sol brun (ou brunisol). </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Ce profil correspond à un sol brun (brunisol), caractérisé par une teinte brun foncé homogène due à une bonne activité biologique et une faible différenciation des horizons, souvent observé sous climat tempéré et végétation forestière ou prairiale.	</div>
+		</div>
+        <div class="question-box" id="q5-box">
+            <div class="question">5. Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? (les petites croix représentent du calcaire) </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e16.png" alt="Image pour la question 5" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="A"> A) Une rendzine </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="B"> B) Un sol brun (ou brunisol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="C"> C) Un podzol (ou podzosol). </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="D"> D) Un ranker (ou rankosol). </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Une rendzine est un sol mince et riche en matières organiques, souvent formé sur une roche-mère calcaire, comme le montrent les petites croix représentant des fragments calcaires dans le profil. Ce type de sol est typique des zones karstiques ou calcaires.	</div>
+		</div>
+        <div class="question-box" id="q6-box">
+            <div class="question">6. Dans les podzols, à quoi est due la formation du liseré noir juste en-desssous de l'horizon blanchi ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e17.png" alt="Image pour la question 6" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="B"> A) &Agrave; la formation de matières charbonneuses. </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="C"> B) &Agrave; des remontées de bitume. </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="D"> C) &Agrave; des reprécipitations d'oxydes du fer. </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="A"> D) &Agrave; l'accumulation de matières organiques. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Le liseré noir sous l'horizon blanchi dans les podzols est dû à l'accumulation de matières organiques complexes (acides fulviques et humiques) qui se déplacent depuis l'horizon supérieur éluvié et se déposent juste en dessous, souvent accompagnées d'aluminium ou de fer complexé.	</div>
+		</div>
+        <div class="question-box" id="q7-box">
+            <div class="question">7. Quel type d'humus trouve-t'on dans l'horizon de surface d'un podzol ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e17.png" alt="Image pour la question 7" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="C"> A) Le mull </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="A"> B) Le mor </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="B"> C) Le moder </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Le mor est un humus caractéristique des podzols, où la décomposition de la matière organique est lente en raison de conditions acides et froides. Il se distingue par une faible incorporation de la matière organique dans le sol minéral et une accumulation en surface.	</div>
+		</div>
+        <div class="question-box" id="q8-box">
+            <div class="question">8. L'agriculture intensive des céréales nécessite des apports importants d'engrais azotés à l'origine d'émissions non négligeables de protoxyde d'azote N<sub>2</sub>O, un puissant gaz à effet de serre. Comment est créé principalement ce protoxyde d'azote ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e18.png" alt="Image pour la question 8" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class="image-container">
+				<img class="question-image" src="images/e19.png" alt="Image pour la question 8" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q8" value="C"> A) La production de N<sub>2</sub>O est accentuée dans les sols argileux qui ont tendance à présenter des excès d'eau. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q8" value="A"> B) La production de N<sub>2</sub>O est issue principalement de l'oxydation des nitrates en cas d'aération imparfaite du sol. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q8" value="D"> C) La production de N<sub>2</sub>O est accentuée quand de trop grandes quantités de nitrates sont déversées.	 </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q8" value="B"> D) La production de N<sub>2</sub>O est issue principalement de la réduction des nitrates en cas d'aération imparfaite du sol. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Le N₂O est principalement produit par la dénitrification, un processus biologique où les nitrates (NO₃⁻) sont réduits par des bactéries en conditions d'anaérobiose partielle (sols mal aérés). Cette production est amplifiée dans les sols argileux saturés en eau et par des excès d'engrais nitrés.	</div>
+		</div>
+        <div class="question-box" id="q9-box">
+            <div class="question">9. La carte ci-dessous montre la quantité de carbone organique dans l'horizon superficiel des sols. Dans quels environnements, celle-ci est-elle la plus importante ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e20.png" alt="Image pour la question 9" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="C"> A) Dans les régions de céréaliculture intensive. </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="B"> B) Dans les régions viticoles. </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="A"> C) Dans les sols de montagne. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Les sols de montagne présentent souvent une teneur élevée en carbone organique, car les basses températures ralentissent la décomposition de la matière organique, favorisant son accumulation dans l'horizon superficiel.</div>
+		</div>
+        <div class="question-box" id="q10-box">
+            <div class="question">10. Pour quelle raison, les sols de montagne sont caractérisés par un  stock plus important de carbone organique (plus de 13 kg de C/m<sup>2</sup>) ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e20.png" alt="Image pour la question 10" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="B"> A) Parce que ces sols sont caractérisés par une importante activité microbienne favorisant l'accumulation de matières organiques. </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="A"> B) &Agrave; cause de la rudesse du climat en montagne, qui ralentit l'activité microbienne, et donc la décomposition et la minéralisation de la matière organique. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Les températures basses et les conditions climatiques rigoureuses des zones montagneuses réduisent l'activité microbienne, ce qui ralentit la décomposition de la matière organique. Cela favorise son accumulation et explique les stocks élevés de carbone organique dans ces sols.	</div>
+		</div>
+        <div class="question-box" id="q11-box">
+            <div class="question">11. Qu'est-ce que la réserve utile (RU) dans un sol ?  </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e21.png" alt="Image pour la question 11" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="B"> A) La réserve utile est la quantité d'eau, mesurée en millimètres, utilisable pour les apports en eau potable. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="C"> B) La réserve utile est la quantité d'eau, mesurée en millimètres, stockée dans un sol.  </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="A"> C) La réserve utile	est la quantité d'eau, mesurée en millimètres, utilisable par les plantes pour leurs besoins. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> La réserve utile correspond à la quantité d'eau retenue dans le sol entre la capacité au champ et le point de flétrissement, qui peut être exploitée par les racines des plantes pour leur croissance.	</div>
+		</div>
+        <div class="question-box" id="q12-box">
+            <div class="question">12. Pourquoi la réserve utile (RU) est-elle mesurée en millimètres ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="A"> A) Car c'est un volume d'eau rapportée à une surface de terrain donnée. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="B"> B) Car c'est mesurée par un pluviomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="D"> C) Car c'est mesurée par un potomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="C"> D) Car c'est mesurée par un piézomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> La réserve utile représente le volume d'eau disponible dans le sol pour les plantes, et est exprimée en millimètres car cela correspond à la quantité d'eau accumulée sur une surface donnée, comme si cette eau se déposait sous forme de précipitations.	</div>
+		</div>
+        <div class="question-box" id="q13-box">
+            <div class="question">13. Dans quel type de sol, la réserve utile (RU), est-elle la plus forte ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e21.png" alt="Image pour la question 13" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="C"> A) La RU est la plus forte dans les sols argileux.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="A"> B) La RU est la plus forte dans les sols sableux.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="B"> C) La RU est la plus forte dans les sols limoneux.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="D"> D) La RU est la plus forte dans les sols cohérents fissurés. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Les sols limoneux ont une capacité de rétention d'eau plus élevée que les sols sableux et argileux, car ils équilibrent bien la capacité de drainage et de rétention.</div>
+		</div>
+        <div class="question-box" id="q14-box">
+            <div class="question">14. Qu'est-ce qu'on appelle la texture de l'horizon d'un sol ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="D"> A) La disposition et l'orientation des grains du sol. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="B"> B) La forme et la taille des agrégats qui se forment dans un sol. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="A"> C) La proportion massique des argiles (au sens granulométrique), des limons et des sables dans la fraction détritique d'un sol. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="C"> D) La répartition spatiale, homogène ou hétérogène, des particules dans le sol. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> La texture du sol se réfère à la proportion relative des différentes tailles de particules minérales (argile, limon, sable) dans un sol. C'est la réponse A qui définit correctement la texture.	</div>
+		</div>
+        <div class="question-box" id="q15-box">
+            <div class="question">15. Qu'appelle-t'on les minéraux primaires dans un sol ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="A"> A) Les minéraux issus de la désagrégation mécanique des roches. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="C"> B) Les minéraux issus de la désagrégation mécanique de roches magmatiques. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="B"> C) Les minéraux issus de la désagrégation mécanique de roches du socle. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="D"> D) Les minéraux issus de l'altération des roches. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Les minéraux primaires sont les premiers minéraux que l'on retrouve dans un sol, ceux qui sont hérités directement de la roche mère. Ils n'ont pas subi de transformations chimiques importantes.</div>
+		</div>
+        <div class="question-box" id="q16-box">
+            <div class="question">16. Sous quel autre terme, peut-on désigner les minéraux primaires d'un horizon ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e22.jpg" alt="Image pour la question 16" onclick="openModal(this);">
+				<p class="image-caption">Grains de quartz &&</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="D"> A) Les minéraux du Primaire </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="A"> B) Les minéraux hérités </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="B"> C) Les minéraux magmatiques </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="C"> D) Les minéraux du Paléozoïque </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Minéraux primaires et minéraux hérités, ces deux termes sont synonymes et désignent les mêmes éléments. Ils correspondent aux minéraux qui sont présents dans le sol directement depuis la roche mère, sans avoir subi de transformations chimiques importantes. Ils sont donc "hérités" de la roche d'origine.	</div>
+		</div>
+        <div class="question-box" id="q17-box">
+            <div class="question">17. Qu'est-ce qu'on appelle les minéraux secondaires ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="B"> A) Les minéraux néoformés. </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="C"> B) Les minéraux datant du Mésozoïque. </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="D"> C) Les minéraux issus de roches sédimentaires </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="A"> D) Les minéraux issus de la trasformation de minéraux primaires. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Les minéraux secondaires sont des composants essentiels du sol qui se forment à partir de l'altération et de la transformation des minéraux primaires. Ces derniers, issus directement de la roche mère, sont progressivement modifiés par des processus chimiques et physiques, tels que l'hydrolyse (décomposition des minéraux primaires avec libération des ions solubles) et l'oxydation.</div>
+		</div>
+        <div class="question-box" id="q18-box">
+            <div class="question">18. Parmi ces minéraux, lesquels constituent le plus souvent des minéraux secondaires ? </div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="C"> A) Les oxydes et hydroxydes d'aluminium. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="E"> B) Les feldspaths. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="B"> C) Les oxydes et hydroxydes de fer. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="A"> D) Les argiles. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="D"> E) Les quartz. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Les bonnes réponses sont les argiles, les oxydes et hydroxydes de fer, et les oxydes et hydroxydes d'aluminium. Ces trois catégories de minéraux sont typiquement des minéraux secondaires formés par l'altération des minéraux primaires (comme le quartz et les feldspaths, qui sont des minéraux primaires).</div>
+		</div>
+        <div class="question-box" id="q19-box">
+            <div class="question">19. &Agrave; quoi est due la couleur rouille, orange, jaune, marron ou rouge des sols ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/e23.jpg" alt="Image pour la question 19" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="B"> A) Aux oxydes et hydroxydes de fer, principalement à l'état ferreux (Fe<sup>2+</sup>). </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="A"> B) Aux oxydes et hydroxydes de fer, principalement sous forme ferrique (Fe<sup>3+</sup>). </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="C"> C) &Agrave; des ferrites. </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="D"> D) &Agrave; de la magnétite. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Les oxydes et hydroxydes de fer sont des minéraux secondaires qui se forment par l'altération de minéraux contenant du fer, comme la biotite. <br> La couleur de ces composés varie du jaune pâle au rouge foncé en fonction de leur degré d'hydratation et de leur cristallisation. <br> Le fer ferrique (Fe³⁺) est particulièrement responsable des teintes rouges et brunes. Il forme des liaisons plus stables avec l'oxygène que le fer ferreux (Fe²⁺), ce qui explique sa prédominance dans les sols bien drainés et exposés à l'air.</div>
+		</div>
+        <div class="question-box" id="q20-box">
+            <div class="question">20. Dans la majorité des cas, quel est le devenir final d'un sol ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q20" value="A"> A) D'être repris par l'érosion, avec libération de ses éléments constitutifs qui sont recyclés pour la formation de nouvelles roches sédimentaires dans les lacs ou les océans, ou pour le développement d'organismes vivants. </label>
+                <label><input type="radio" class="checkbox-margin" name="q20" value="C"> B) De se durcir et s'épaissir de plus en plus. </label>
+                <label><input type="radio" class="checkbox-margin" name="q20" value="B"> C) D'être recouvert par d'autres dépôts et enfoui pour donner un paléosol. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<div class='comment' style='display:none;'><strong>Commentaire:</strong> Le sol est un système dynamique en constante évolution, soumis à l'action de nombreux facteurs externes comme le climat, la végétation, la gravité et l'activité humaine. Au fil du temps, les sols sont soumis à des processus d'érosion qui entraînent leur dégradation progressive.</div>
+		</div>
+
+        <div class="buttons">
+            <button type="button" onclick="evaluateQCM()">Corriger</button>
+            <button type="button" onclick="resetTest()">Recommencer</button>
+        </div>
+
+    </form>
+    <p id="result"></p>
+</div>
+
+<footer>
+    RocksandWalk - @ <script> document.write(new Date().getFullYear())</script> - Régis THIÉRY
+</footer>
+
+<script>
+    function evaluateQCM() {
+        const correctAnswers = {
+            "q1": ["A"],
+            "q2": ["A"],
+            "q3": ["E"],
+            "q4": ["B"],
+            "q5": ["A"],
+            "q6": ["A"],
+            "q7": ["A"],
+            "q8": ["C", "D", "B"],
+            "q9": ["A"],
+            "q10": ["A"],
+            "q11": ["A"],
+            "q12": ["A"],
+            "q13": ["B"],
+            "q14": ["A"],
+            "q15": ["A"],
+            "q16": ["A"],
+            "q17": ["A"],
+            "q18": ["C", "B", "A"],
+            "q19": ["A"],
+            "q20": ["A"],
+        };
+        
+
+        let score = 0;
+
+        function generateFeedbackText(goodAnswers, goodCount, questionBox) {
+            // Fonction utilitaire pour récupérer les 3 premières lettres d'une réponse
+    
+            function getAnswerLabel(value) {
+                const label = questionBox.querySelector(`input[value="${value}"]`).parentNode;
+                return label.textContent.trim().slice(0, 3); // Extrait les 3 premières lettres (ex: "A)")
+            }
+
+            if (goodAnswers.length === 0) {
+                return "Pas de bonne réponse !";
+            }
+
+            const formattedAnswers = goodAnswers.map(answer => getAnswerLabel(answer));
+
+            if (goodAnswers.length === 1) {
+                return `${formattedAnswers[0]} est ${goodCount === 1 ? "la" : "une"} bonne réponse.`;
+            }
+
+            if (goodAnswers.length > 1) {
+                return `${formattedAnswers.slice(0, -1).join(", ")} et ${formattedAnswers[formattedAnswers.length - 1]} sont de bonnes réponses.`;
+            }
+
+            return "";
+            }
+
+
+        for (let question in correctAnswers) {
+            const selected = Array.from(document.querySelectorAll(`input[name="${question}"]:checked`)).map(e => e.value);
+            const questionBox = document.getElementById(`${question}-box`);
+            const correctOptions = correctAnswers[question];
+            
+            const goodAnswers = selected.filter(val => correctOptions.includes(val));
+            let feedback = generateFeedbackText(goodAnswers, correctOptions.length, questionBox);
+
+            let isCorrect = selected.length === correctOptions.length && correctOptions.every(option => selected.includes(option));
+            questionBox.classList.toggle("correct", isCorrect);
+            questionBox.classList.toggle("incorrect", !isCorrect);
+
+            selected.forEach(val => {
+                const optionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (correctOptions.includes(val)) {
+                    optionLabel.style.fontWeight = "bold";
+                } else {
+                    optionLabel.classList.add("strikethrough");
+                }
+            });
+
+            correctOptions.forEach(val => {
+                const correctOptionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (!selected.includes(val)) {
+                    correctOptionLabel.style.fontWeight = "bold";
+                }
+            });
+
+            const correctAnswerLabel = questionBox.querySelector('.correct-answer');
+            const feedbackLabel = questionBox.querySelector('.feedback');
+            const commentBox = questionBox.querySelector('.comment');
+            if (feedbackLabel) {
+                feedbackLabel.style.display = 'block';
+                feedbackLabel.innerHTML = feedback;
+            }
+            if (commentBox) {
+                commentBox.style.display = 'block';
+            }
+           
+            // Mappage des bonnes réponses avec les lettres (A, B, C, D)
+            const correctAnswerLabels = correctOptions.map(val => {
+                const label = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                const text = label.textContent.trim();
+                return `${text}`;
+                });
+
+
+            let correctAnswerText = correctOptions.length === 1 
+                ? `Bonne réponse : ${correctAnswerLabels.join("; ")}`
+                : `Bonnes réponses : ${correctAnswerLabels.join("; ")}`;
+            
+            correctAnswerLabel.innerHTML = correctAnswerText;
+            correctAnswerLabel.style.display = 'block';
+
+            if (isCorrect) score+=goodAnswers.length;
+        }
+
+        const totalValues = Object.values(correctAnswers).reduce((acc, curr) => acc + curr.length, 0);
+        const result = document.getElementById("result");
+
+        if (score === 0) {
+            result.textContent = `Vous n'avez obtenu aucune bonne réponse sur ${totalValues}.`;
+        } else if (score === 1) {
+            result.textContent = `Vous avez obtenu 1 bonne réponse sur ${totalValues}.`;
+        } else {
+            result.textContent = `Vous avez obtenu ${score} bonnes réponses sur ${totalValues}.`;
+        }
+    }
+
+    function resetTest() {
+        window.location.reload();
+    }
+
+    function openModal(imgElement) {
+        var modal = document.getElementById("imageModal");
+        var modalImg = document.getElementById("modalImage");
+        modal.style.display = "block";
+        modalImg.src = imgElement.src;  // Utiliser l'image cliquée
+    }
+
+    function closeModal() {
+        var modal = document.getElementById("imageModal");
+        modal.style.display = "none";
+    }
+
+</script>
+
+
+
+
+</body>
+</html>

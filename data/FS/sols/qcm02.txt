@@ -1,0 +1,164 @@
+TITLE0: QCM : QCM Sols
+TITLE1: QCM : Les sols - Auto-évaluation
+TITLE2: À l'interface entre lithosphère, atmosphère, hydrosphère et biosphère ?
+
+UP:	../fiche03.html
+PREV: qcm01.html
+NEXT: qcm03.html
+
+NOSHUFFLE
+
+Q:  Que peut-on faire pour lutter contre l'hydromorphie de sols générée par une nappe d'eau perchée ? 
+	G: Installer un système de drainage superficiel du sol.
+	B: Chauler le sol.
+	B: Irriguer le sol.
+	B: Labourer le sol.	
+	C: Pour remédier à l'hydromorphie due à une nappe d'eau perchée, l'installation d'un système de drainage superficiel permet d'évacuer l'excès d'eau et de réduire la saturation du sol, favorisant ainsi un environnement propice à l'agriculture.
+
+Q:  Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? 
+	I: images/e13.png &&
+	G: Un sol lessivé (ou luvisol).
+	B: Un sol brun (ou brunisol).
+	B: Un podzol (ou podzosol).
+	B: Un ranker (ou rankosol).
+	C: Ce profil correspond à un sol lessivé (luvisol), caractérisé par un horizon éluvié (appauvri en argiles) et un horizon d'accumulation (illuvié) où les argiles se sont déposées, souvent trouvé dans des climats tempérés sous des végétations variées.
+
+Q:  Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? 
+	I: images/e14.png &&
+	B: Un sol lessivé (ou luvisol).
+	B: Un sol brun (ou brunisol).
+	B: Un podzol (ou podzosol).
+	B: Un ranker (ou rankosol).
+	G: C'est plus compliqué que cela. On a la superposition de deux sols: un podzol au-dessus d'un sol lessivé.
+	C: Ce profil montre une situation complexe avec la superposition d'un podzol, caractérisé par un horizon éluvié et des accumulations de matière organique, sur un sol lessivé (luvisol), témoignant de processus pédogénétiques multiples influencés par des variations climatiques ou des changements dans la végétation.	
+
+Q:  Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? 
+	I: images/e15.png &&
+	B: Un sol lessivé (ou luvisol).
+	G: Un sol brun (ou brunisol).
+	B: Un podzol (ou podzosol).
+	B: Un ranker (ou rankosol).
+	C: Ce profil correspond à un sol brun (brunisol), caractérisé par une teinte brun foncé homogène due à une bonne activité biologique et une faible différenciation des horizons, souvent observé sous climat tempéré et végétation forestière ou prairiale.	
+
+Q:  Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? (les petites croix représentent du calcaire) 
+	I: images/e16.png &&
+	G: Une rendzine
+	B: Un sol brun (ou brunisol).
+	B: Un podzol (ou podzosol).
+	B: Un ranker (ou rankosol).
+	C: Une rendzine est un sol mince et riche en matières organiques, souvent formé sur une roche-mère calcaire, comme le montrent les petites croix représentant des fragments calcaires dans le profil. Ce type de sol est typique des zones karstiques ou calcaires.	
+
+Q:  Dans les podzols, à quoi est due la formation du liseré noir juste en-desssous de l'horizon blanchi ? 
+	I: images/e17.png &&
+	G: &Agrave; l'accumulation de matières organiques.
+	B: &Agrave; la formation de matières charbonneuses.
+	B: &Agrave; des remontées de bitume.
+	B: &Agrave; des reprécipitations d'oxydes du fer.
+	C: Le liseré noir sous l'horizon blanchi dans les podzols est dû à l'accumulation de matières organiques complexes (acides fulviques et humiques) qui se déplacent depuis l'horizon supérieur éluvié et se déposent juste en dessous, souvent accompagnées d'aluminium ou de fer complexé.	
+
+Q:  Quel type d'humus trouve-t'on dans l'horizon de surface d'un podzol ? 
+	I: images/e17.png &&
+	G: Le mor
+	B: Le moder
+	B: Le mull
+	C: Le mor est un humus caractéristique des podzols, où la décomposition de la matière organique est lente en raison de conditions acides et froides. Il se distingue par une faible incorporation de la matière organique dans le sol minéral et une accumulation en surface.	
+
+Q:  L'agriculture intensive des céréales nécessite des apports importants d'engrais azotés à l'origine d'émissions non négligeables de protoxyde d'azote N<sub>2</sub>O, un puissant gaz à effet de serre. Comment est créé principalement ce protoxyde d'azote ? 
+	I: images/e18.png &&
+	I: images/e19.png &&
+	B: La production de N<sub>2</sub>O est issue principalement de l'oxydation des nitrates en cas d'aération imparfaite du sol.
+	G: La production de N<sub>2</sub>O est issue principalement de la réduction des nitrates en cas d'aération imparfaite du sol.
+	G: La production de N<sub>2</sub>O est accentuée dans les sols argileux qui ont tendance à présenter des excès d'eau.
+	G: La production de N<sub>2</sub>O est accentuée quand de trop grandes quantités de nitrates sont déversées.	
+	C: Le N₂O est principalement produit par la dénitrification, un processus biologique où les nitrates (NO₃⁻) sont réduits par des bactéries en conditions d'anaérobiose partielle (sols mal aérés). Cette production est amplifiée dans les sols argileux saturés en eau et par des excès d'engrais nitrés.	
+
+Q:  La carte ci-dessous montre la quantité de carbone organique dans l'horizon superficiel des sols. Dans quels environnements, celle-ci est-elle la plus importante ? 
+	I: images/e20.png &&
+	G: Dans les sols de montagne.
+	B: Dans les régions viticoles.
+	B: Dans les régions de céréaliculture intensive.
+	C: Les sols de montagne présentent souvent une teneur élevée en carbone organique, car les basses températures ralentissent la décomposition de la matière organique, favorisant son accumulation dans l'horizon superficiel.
+
+Q:  Pour quelle raison, les sols de montagne sont caractérisés par un  stock plus important de carbone organique (plus de 13 kg de C/m<sup>2</sup>) ? 
+	I: images/e20.png &&
+	G: &Agrave; cause de la rudesse du climat en montagne, qui ralentit l'activité microbienne, et donc la décomposition et la minéralisation de la matière organique.
+	B: Parce que ces sols sont caractérisés par une importante activité microbienne favorisant l'accumulation de matières organiques.
+	C: Les températures basses et les conditions climatiques rigoureuses des zones montagneuses réduisent l'activité microbienne, ce qui ralentit la décomposition de la matière organique. Cela favorise son accumulation et explique les stocks élevés de carbone organique dans ces sols.	
+
+Q:  Qu'est-ce que la réserve utile (RU) dans un sol ?  
+	I: images/e21.png &&
+	G: La réserve utile	est la quantité d'eau, mesurée en millimètres, utilisable par les plantes pour leurs besoins.
+	B: La réserve utile est la quantité d'eau, mesurée en millimètres, utilisable pour les apports en eau potable.
+	B: La réserve utile est la quantité d'eau, mesurée en millimètres, stockée dans un sol. 
+	C: La réserve utile correspond à la quantité d'eau retenue dans le sol entre la capacité au champ et le point de flétrissement, qui peut être exploitée par les racines des plantes pour leur croissance.	
+
+Q:  Pourquoi la réserve utile (RU) est-elle mesurée en millimètres ? 
+	G: Car c'est un volume d'eau rapportée à une surface de terrain donnée.
+	B: Car c'est mesurée par un pluviomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres.
+	B: Car c'est mesurée par un piézomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres.
+	B: Car c'est mesurée par un potomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres.
+	C: La réserve utile représente le volume d'eau disponible dans le sol pour les plantes, et est exprimée en millimètres car cela correspond à la quantité d'eau accumulée sur une surface donnée, comme si cette eau se déposait sous forme de précipitations.	
+
+Q:  Dans quel type de sol, la réserve utile (RU), est-elle la plus forte ? 
+	I: images/e21.png &&
+	B: La RU est la plus forte dans les sols sableux.  
+	G: La RU est la plus forte dans les sols limoneux.  
+	B: La RU est la plus forte dans les sols argileux.  
+	B: La RU est la plus forte dans les sols cohérents fissurés.
+	C: Les sols limoneux ont une capacité de rétention d'eau plus élevée que les sols sableux et argileux, car ils équilibrent bien la capacité de drainage et de rétention.
+
+Q:  Qu'est-ce qu'on appelle la texture de l'horizon d'un sol ? 
+	G: La proportion massique des argiles (au sens granulométrique), des limons et des sables dans la fraction détritique d'un sol.
+	B: La forme et la taille des agrégats qui se forment dans un sol.
+	B: La répartition spatiale, homogène ou hétérogène, des particules dans le sol.
+	B: La disposition et l'orientation des grains du sol.
+	C: La texture du sol se réfère à la proportion relative des différentes tailles de particules minérales (argile, limon, sable) dans un sol. C'est la réponse A qui définit correctement la texture.	
+
+Q:  Qu'appelle-t'on les minéraux primaires dans un sol ? 
+	G: Les minéraux issus de la désagrégation mécanique des roches.
+	B: Les minéraux issus de la désagrégation mécanique de roches du socle.
+	B: Les minéraux issus de la désagrégation mécanique de roches magmatiques.
+	B: Les minéraux issus de l'altération des roches.
+	C: Les minéraux primaires sont les premiers minéraux que l'on retrouve dans un sol, ceux qui sont hérités directement de la roche mère. Ils n'ont pas subi de transformations chimiques importantes.
+
+Q:  Sous quel autre terme, peut-on désigner les minéraux primaires d'un horizon ? 
+	I: images/e22.jpg && Grains de quartz &&
+	G: Les minéraux hérités
+	B: Les minéraux magmatiques
+	B: Les minéraux du Paléozoïque
+	B: Les minéraux du Primaire
+	C: Minéraux primaires et minéraux hérités, ces deux termes sont synonymes et désignent les mêmes éléments. Ils correspondent aux minéraux qui sont présents dans le sol directement depuis la roche mère, sans avoir subi de transformations chimiques importantes. Ils sont donc "hérités" de la roche d'origine.	
+
+Q:  Qu'est-ce qu'on appelle les minéraux secondaires ? 
+	G: Les minéraux issus de la trasformation de minéraux primaires.
+	B: Les minéraux néoformés.
+	B: Les minéraux datant du Mésozoïque.
+	B: Les minéraux issus de roches sédimentaires
+	C: Les minéraux secondaires sont des composants essentiels du sol qui se forment à partir de l'altération et de la transformation des minéraux primaires. Ces derniers, issus directement de la roche mère, sont progressivement modifiés par des processus chimiques et physiques, tels que l'hydrolyse (décomposition des minéraux primaires avec libération des ions solubles) et l'oxydation.
+
+Q:  Parmi ces minéraux, lesquels constituent le plus souvent des minéraux secondaires ? 
+	G: Les argiles.
+	G: Les oxydes et hydroxydes de fer.
+	G: Les oxydes et hydroxydes d'aluminium.
+	B: Les quartz.
+	B: Les feldspaths.
+	C: Les bonnes réponses sont les argiles, les oxydes et hydroxydes de fer, et les oxydes et hydroxydes d'aluminium. Ces trois catégories de minéraux sont typiquement des minéraux secondaires formés par l'altération des minéraux primaires (comme le quartz et les feldspaths, qui sont des minéraux primaires).
+
+Q:  &Agrave; quoi est due la couleur rouille, orange, jaune, marron ou rouge des sols ? 
+	I: images/e23.jpg &&
+	G: Aux oxydes et hydroxydes de fer, principalement sous forme ferrique (Fe<sup>3+</sup>).
+	B: Aux oxydes et hydroxydes de fer, principalement à l'état ferreux (Fe<sup>2+</sup>).
+	B: &Agrave; des ferrites.
+	B: &Agrave; de la magnétite.
+	C: Les oxydes et hydroxydes de fer sont des minéraux secondaires qui se forment par l'altération de minéraux contenant du fer, comme la biotite. <br> La couleur de ces composés varie du jaune pâle au rouge foncé en fonction de leur degré d'hydratation et de leur cristallisation. <br> Le fer ferrique (Fe³⁺) est particulièrement responsable des teintes rouges et brunes. Il forme des liaisons plus stables avec l'oxygène que le fer ferreux (Fe²⁺), ce qui explique sa prédominance dans les sols bien drainés et exposés à l'air.
+
+
+Q:  Dans la majorité des cas, quel est le devenir final d'un sol ? 
+	G: D'être repris par l'érosion, avec libération de ses éléments constitutifs qui sont recyclés pour la formation de nouvelles roches sédimentaires dans les lacs ou les océans, ou pour le développement d'organismes vivants.
+	B: D'être recouvert par d'autres dépôts et enfoui pour donner un paléosol.
+	B: De se durcir et s'épaissir de plus en plus.
+	C: Le sol est un système dynamique en constante évolution, soumis à l'action de nombreux facteurs externes comme le climat, la végétation, la gravité et l'activité humaine. Au fil du temps, les sols sont soumis à des processus d'érosion qui entraînent leur dégradation progressive.
+
+
+
+

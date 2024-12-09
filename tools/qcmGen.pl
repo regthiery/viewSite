@@ -115,7 +115,7 @@ while (my $line = <$fh>) {
         my $letter = 'A';
 
 
-		while (my $answer_line = <$fh>) {
+        while (my $answer_line = <$fh> ) {
 			chomp($answer_line);
 			last if $answer_line =~ /^\s*$/;
 
@@ -128,6 +128,18 @@ while (my $line = <$fh>) {
 			} elsif ($answer_line =~ /^\tC:\s*(.*)/) {
 				$comment = $1;
 				$comment =~ s/\*\*(.*?)\*\*/<strong>$1<\/strong>/g;
+				
+				while (my $next_line = <$fh>) {
+		            chomp($next_line);
+		            last if $next_line =~ /^\s*$/;  # Fin du commentaire
+
+        		    # Ajoute la ligne suivante au commentaire
+		            $next_line =~ s/\*\*(.*?)\*\*/<strong>$1<\/strong>/g;
+		            $comment .= " " . $next_line;
+			        }				
+				
+                last ;
+				
 			} elsif ($answer_line =~ /^\tI:\s*([^\s&]+)\s*&&\s*(.*)/) {
 			    my %image = ( path => $1, caption => $2 );
 			    push(@images, \%image);
@@ -290,7 +302,7 @@ EOF
         print $out "\t\t\t<p class='correct-answer' style='display:none;'></p>\n";
 
         if ($comment) {
-            print $out "\t\t\t<p class='comment' style='display:none;'><strong>Commentaire:</strong> $comment</p>\n";
+            print $out "\t\t\t<div class='comment' style='display:none;'><strong>Commentaire:</strong> $comment</div>\n";
         }
         
         print $out "\t\t</div>\n";

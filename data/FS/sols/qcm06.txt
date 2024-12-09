@@ -1,0 +1,638 @@
+TITLE0: QCM : QCM Sols
+TITLE1: QCM : Les sols - Auto-évaluation
+TITLE2: À l'interface entre lithosphère, atmosphère, hydrosphère et biosphère ?
+
+UP:	../fiche03.html
+PREV: qcm05.html
+NEXT: qcm07.html
+
+NOSHUFFLE
+
+Q:  Dans la terminologie du RP, comment désigne-t'on l'horizon enrichi en argiles TO des ferralitisols et oxydisols ? 
+	G: L'horizon F.
+	B: L'horizon FE.
+	B: L'horizon OX.
+	B: L'horizon FS.
+
+Q:  La CEC dans les ferralitisols et oxydisols est ... 
+	G: Généralement variable
+	G: Faible
+	B: Forte
+
+Q:  L'altération chimique des minéraux alumino-silicatés dans les oxydisols et ferralitisols est ... 
+	G: Très élevée.
+	B: Modérée.
+	B: Faible.
+
+Q:  L'halloysite est un minéral qui se développe parfois dans les 1ers stades de formation des ferrallitisols et oxydisols. Qu'est-ce que l'halloysite ? 
+	I: images/e39.jpg &&
+	G: C'est une argile de formule Al<sub>2</sub> Si<sub>2</sub> O<sub>5</sub> (OH)<sub>4</sub>
+	B: C'est un oxyde de fer.
+	B: C'est un hydroxyde de fer.
+	B: C'est un composé amorphe constitué de silice et de Fe<sup>3+</sup>.	
+
+Q:  Ce sol, développé sous climat tropical semi-aride, présente <ul> <li> un horizon noir, épais et argileux, </li> <li> sur un horizon d'accumulation calcaire. </li> </ul> Quel est ce sol ? 
+	I: images/e40.jpg &&
+	G: Un vertisol.
+	B: Un chernozem.
+	B: Un andosol.
+	B: Un pélosol.
+
+Q:  Qu'est-ce qui caractérise un vertisol ? 
+	G: Ce sont des sols riches en smectites.
+	G: Ce sont des sols qui, vus en coupe, présentent des faces de glissement.
+	B: Ce sont des sols calcaires.
+	B: Ce sont des sols, riches en kaolinite.
+
+Q:  Ce sol, développé sous climat méditerranéen sub-aride, présente: <ul> <li> un horizon A, riche en argiles gonflantes, </li> <li> un horizon S à structure pédologique, </li> <li> un horizon Bca avec nodules calcaires. </li> </ul> Quel est ce sol ?
+	I: images/e41.jpg &&
+	G: Un vertisol.
+	B: Un andosol.
+	B: Un calcosol.
+	B: Un chernozem.	
+
+Q:  Ce sol, développé sous climat méditerranéen sub-aride, présente: <ul> <li> un horizon A, riche en argiles gonflantes, </li> <li> un horizon S à structure pédologique, </li> <li> un horizon Bca avec nodules calcaires. </li> </ul> Quel est ce sol ?
+	I: images/e42.png &&
+	G: Un vertisol.
+	B: Un andosol.
+	B: Un calcosol.
+	B: Un chernozem.	
+
+Q:  Selon la WRB, qu'est-ce qu'un phaeozem ? 
+	I: images/e42.png &&
+	G: C'est un sol de steppe humide.
+	G: C'est un sol avec un horizon de surface, noir, humifère.
+	G: C'est un sol lessivé, notamment pendant les saisons humides.
+	B: C'est un sol développé sous climat tropical.
+
+Q:  Selon WRB, quel est ce sol ? On précise que:  <ul> <li> ce sol est fortement salé, </li> <li> ce sol se trouve dans un endroit à forte évapo-transpiration et à précipitation faible, </li> <li> des cristaux de sel sont visibles en surface.</ul>
+	I: images/e43.png &&
+	I: images/e44.png &&
+	G: Un solonchak.
+	B: Un solonetz.
+	B: Un podzol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ? On précise que: <ul><li> ce sol est salé, </li><li> l'horizon de subsurface est riche en argiles à structure columnaire, </li><li> des cristaux de sel sont visibles en surface,</li><li> le sol est riche en sodium et magnésium adsorbé, </li><li> ce sol se trouve dans des zones à été chaud et sec. </li> </ul>
+	I: images/e45.png &&
+	I: images/e46.png &&
+	B: Un solonchak.
+	G: Un solonetz.
+	B: Un podzol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ?  On précise que:  <ul> <li> ce sol est riche en argiles gonflantes, </li> <li> ce sol se rétracte et gonfle selon , </li> <li> des cristaux de sel sont visibles en surface,</li> <li> le sol est riche en sodium et magnésium adsorbé, </li>	 <li> ce sol se trouve dans des zones à été chaud et sec. </li> </ul>
+	I: images/e47.png &&
+	I: images/e48.png &&
+	B: Un solonchak.
+	G: Un solonetz.
+	B: Un podzol.
+	B: Un vertisol.
+
+Q:  Quel est l'étymologie du mot <em>podzol</em> ? 
+	G: <em>pod</em> signifie "dessous".
+	G: <em>zol</em> signifie "cendres".
+	B: <em>pod</em> signifie "noir".
+	B: <em>zol</em> signifie "sol".
+
+Q: Quel est ce sol selon la WRB ? 
+	I: images/e49.png &&
+	I: images/e50.png &&
+	G: Un podzol.
+	B: Un vertisol.
+	B: Un chernozem.
+	B: Un cambisol.
+
+Q: Quel est ce sol selon la WRB ? 
+	I: images/e51.png &&
+	I: images/e52.png &&
+	G: Un luvisol.
+	B: Un vertisol.
+	B: Un chernozem.
+	B: Un cambisol.
+
+Q:  Qu'est-ce qui caractérise un luvisol ? 
+	I: images/e53.jpg &&
+	G: Ce sont des sols marqué par un lessivage des argiles.
+	G: Ce sont des sols avec une bonne activité biologique en général.
+	G: Un horizon de subsurface, appauvri en argile, est au-dessus d'un horizon d'accumulation d'argiles.
+	B: Ce sont des sols sableux marqué par de la pédoturbation.
+
+Q:  Quel est ce sol selon la WRB ? 
+	I: images/e54.png &&
+	I: images/e55.png &&
+	G: Un leptosol.
+	B: Un chernozem.
+	B: Un cambisol.
+	B: Un luvisol.
+
+Q:  Qu'est-ce qui caractérise un leptosol selon la WRB ? </b>
+	G: Ce sont des sols peu épais.
+	G: Ce sont des sols graveleux, caillouteux ou pierreux.
+	G: Ce sont des sols dans zones de montagnes ou des zones d'érosion importante.
+	B: Ce sont des sols épais.
+
+Q:  Que signifie la racine grecque <em>lepto</em> retrouvé dans
+	de certains mots en sciences de la terre, comme "leptosols", "leptynites", ... ? 
+	G: Mince, peu épais.
+	B: Important
+	B: En position élevée, en altitude.
+	B: En provenance des pays nordiques.
+
+Q:  Un leptosol développé sur un substrat rocheux calcaire constitue ... 
+	I: images/e56.jpg &&
+	G: Une rendzine
+	B: Un ranker.
+	B: Un cambisol.
+	B: Un luvisol.
+
+Q:  Un leptosol développé sur un substrat rocheux siliceux (une roche acide comme un granite ou un gneiss) constitue ... 
+	I: images/e57.jpg &&
+	G: Un ranker.
+	B: Une rendzine.
+	B: Un pélosol.
+	B: Un podzol.
+
+Q: Selon la WRB, quel est ce sol, très riche en débris végétaux mal décomposés ? 
+	I: images/e58.png &&
+	I: images/e59.png &&
+	G: Un histosol.
+	B: Un chernozem.
+	B: Un vertisol.
+	B: Un leptosol.
+
+Q:  Qu'est-ce qui caractérise un histosol ? 
+	I: images/e60.jpg &&
+	G: Ce sont des sols se formant en climat froid et humide.
+	G: Ce sont des sols où la décomposition des débris végétaux est très ralentie.
+	B: Ce sont des sols peu épais.
+	B: Ce sont des sols argileux.
+
+Q:  Selon la WRB, quel est ce sol, que l'on trouve dans les plaines d'inondation ? 
+	I: images/e61.png &&
+	I: images/e62.png &&
+	G: Un fluvisol.
+	B: Un leptosol.
+	B: Un luvisol.
+	B: Un cambisol.
+
+Q:  Qu'est-ce qui caractérise un fluvisol ? 
+	G: Ce sont des sols composés de matériaux alluvionnaires.
+	G: Ce sont des sols qui se développent le long des cours d'eau, dans les plaines d'inondation.
+	B: Ce sont des sols secs.
+	B: Ce sont des sols de couleur rougeâtre.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e63.png &&
+	I: images/e64.png &&
+	G: Un cryosol.
+	B: Un leptsol.
+	B: Un vertisol.
+	B: Un podzol.
+
+Q:  Qu'est-ce qui caractérise un cryosol ? 
+	G: Ce sont des sols se développant dans les régions arctiques ou d'altitude.
+	G: Ce sont des sols marqués par de nombreux phénomènes périglaciaires (gélifraction, cryoturbation, cryoexpulsion, ...).
+	B: Ce sont des sols salés.
+	B: Ce sont des sols riches en matières organiques.
+
+Q: Selon la WRB, quel est ce sol, qui est développé sur un substrat de cendres volcaniques ? 
+	I: images/e65.png &&
+	I: images/e66.png &&
+	G: Un andosol.
+	B: Un leptosol.
+	B: Un cambisol.
+	B: Un luvisol.
+
+Q:  Qu'est-ce qui caractérise un andosol ? 
+	G: L'altération chimique d'un substrat riche en nutriments		
+	G: La richesse en matières organiques de l'horizon superficiel.
+	G: L'horizon superficiel est de couleur foncée.
+	B: Ce sont des sols secs et sableux.
+	
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e67.png &&
+	I: images/e68.png &&
+	G: Un arénosol.
+	B: Un ranker.
+	B: Un leptosol.
+	B: Un cryosol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e69.png &&
+	I: images/e70.png &&
+	G: Un calcisol.
+	B: Un ranker.
+	B: Un leptosol.
+	B: Un cryosol.
+
+Q:  Qu'est-ce qui caractérise un calcisol selon la WRB ? 
+	G: Ce sont des sols avec des reprécipitations secondaires de carbonates sous forme de filaments, nodules ou croûtes.
+	G: Ce sont des sols marqués par les déplacements de la nappe phréatique superficielle.
+	B: Ce sont des sols décarbonatés.
+	B: Ce sont des sols sableux.
+	
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e71.png &&
+	I: images/e72.png &&
+	G: Un cambisol.
+	B: Un luvisol.
+	B: Un chernozem.
+	B: Un arénosol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e73.png &&
+	I: images/e74.png &&
+	G: Un chernozem.
+	B: Un luvisol.
+	B: Un cambisol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e75.png &&
+	I: images/e76.png &&
+	G: Un gleysol.
+	B: Un chernozem.
+	B: Un cambisol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e77.png &&
+	I: images/e78.png &&
+	G: Un kastanozem.
+	B: Un chernozem.
+	B: Un cambisol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e79.png &&
+	I: images/e80.png &&
+	G: Un régosol.
+	B: Un leptosol.
+	B: Un fluvisol.
+	B: Un arénosol.
+
+Q:  Cette carte montre la nature des roches substrat, sur lesquels se sont les développés les sols en France et ses proches voisins ? Que peut-on en déduire ? 
+	I: images/e81.png &&
+	I: images/e82.png &&
+	G: Les dépôts éoliens (loess) constituent une bonne partie du substrat des sols en Belgique, dans le Nord de la France et dans la région des Landes.
+	B: Dans le Massif Central, les roches parentales sont de nature sédimentaire.
+	G: Les glaciers ont laissé d'importants dépôts dans le Nord de l'Europe, en Suisse et en Italie.
+	G: La vallée de la Somme est à substrat organique.
+	G: La Sologne est sur un substrat constitué de dépôts détritiques non consolidés.	
+
+
+Q:  Cette carte montre la nature des roches substrat, sur lesquels se sont développés les sols d'Europe ?  Que peut-on en déduire ? 
+	I: images/e81.png &&
+	I: images/e83.png &&
+	G: Le loess (dépôts éoliens) constitue le principal substrat des sols du sud de l'Europe Centrale  (Ukraine, Sud de la Russie, ...) et du nord de l'Europe Occidentale (Belgique, nord de la France, ...).
+	G: Les dépôts glaciaires constituent la majeure partie du substrat des sols  en Scandinavie et au nord de la Russie.
+	G: Les dépôts de nature organique (tourbes) forment le substrat de nombreux sols en Europe du Nord et Sibérie.	
+	B: La Grande-Bretagne possèdent des sols à substrat essentiellement  granito-métamorphique.
+
+Q:  Quel type de ruissellement voit-on à la surface de ce champ cultivé sur un chernozem ? 
+	I: images/e84.png &&
+	G: Du ruissellement aréolaire.
+	G: Du ruissellement laminaire.
+	G: Du ruissellement en nappe.
+	B: Du ruissellement concentré.
+	B: Du ruissellement diffus.
+
+Q:  Cette carte montre une modélisation de l'érosion par ruissellement en Europe ? Que représente une perte de matière d'une tonne par ha et par an (en adoptant une densité de 1 pour la tranche de sol érodé) ?
+	I: images/e85.png &&
+	I: images/e86.png &&
+	G: Un dizième de millimètre.
+	B: Un millimètre.
+	B: Un centimètre.
+	B: 10 µm.
+
+Q:  Comment s'appelle le petit livret posé sur le sol et qui a pour objet de caractériser la couleur des carottes de sol ? 
+	I: images/e87.png &&
+	G: La charte de couleurs Munsell.
+	B: La charte de couleurs Pantone.
+	B: La charte de couleurs Adobe.
+	B: La charte de couleur Kodak.	
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e88.png &&
+	G: Les podzols.
+	B: Les chernozems.
+	B: Les cambisols.
+	B: Les vertisols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e89.png &&
+	G: Les régosols.
+	B: Les luvisols.
+	B: Les podzols.
+	B: Les andosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e90.png &&
+	G: Les luvisols.
+	B: Les cambisols.
+	B: Les podzols.
+	B: Les andosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e91.png &&
+	G: Les histosols.
+	B: Les cryosols.
+	B: Les podzols.
+	B: Les régosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e92.png &&
+	G: Les fluvisols.
+	B: Les cryosols.
+	B: Les podzols.
+	B: Les régosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e93.png &&
+	G: Les cryosols.
+	B: Les histosols.
+	B: Les podzols.
+	B: Les regosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e94.png &&
+	G: Les cambisols.
+	B: Les luvisols.
+	B: Les calcisols.
+	B: Les podzols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e95.png &&
+	G: Les chernozems.
+	B: Les cambisols.
+	B: Les calcisols.
+	B: Les podzols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e96.png &&
+	G: Les calcisols.
+	B: Les cambisols.
+	B: Les luvisols.
+	B: Les régosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e97.png &&
+	G: Les gleysols.
+	B: Les chernozems.
+	B: Les luvisols.
+	B: Les podzols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e98.png &&
+	G: Les vertisols.
+	B: Les chernozems.
+	B: Les luvisols.
+	B: Les calcisols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e99.png &&
+	G: Les umbrisols.
+	B: Les vertisols.
+	B: Les luvisols.
+	B: Les calcisols.
+
+#-------------------------------------------------------------------------------
+
+Q:  A la fin du XVIII<sup>e</sup> siècle et au XIX<sup>e</sup> siècle, quel est le principal courant de pensée scientifique dans l'étude des sols ? 
+	G: C'est le règne de la chimie agricole. Les sols sont étudiés par des chimistes, qui étudient la composition chimique des sols et leurs interactions avec des composés chimiques (notamment apportés sous forme d'engrais), dans le but d'améliorer la productivité agricole.
+	B: &Agrave; cette époque, il n'y a pas encore de science s'intéressant au sol.		
+	I: images/e100.png &&
+	I: images/e101.png &&
+
+Q: Pour les scientifiques français du XIX<sup>e</sup> siècle, quel est le principal facteur déterminant la nature d'un sol en un endroit donné ? 
+	I: images/e102.jpg && 1<sup>ere</sup> carte géologique de France (publiée par Dufrénoy et Elie de Beaumont en 1841)
+	G: La nature lithologique de la roche sous-jacente. Il suffit de savoir quelle roche se trouve en-dessous du sol pour connaître le sol au-dessus.
+	B: Le climat. Il suffit de de savoir le climat du site pour savoir quel type de sol va se former.
+	B: La végétation. Ce sont les végétaux qui prédéterminent la nature du sol. Il suffit de connaître la couverture végétale pour savoir quel type de sol est en-dessous.
+
+Q:  Dans le contexte des connaissances de l'époque, quel a été l'un des principaux apports du savant russe Vasily Dokuchaev sur la formation des sols après avoir étudié les sols russes sur des milliers de kilomètres ? 
+	I: images/e103.jpg &&
+	I: images/e104.jpg && 1<sup>er</sup> essai de cartographie mondiale des sols de Dokuchaev
+	G: D'avoir montré que la pédogénèse dépendait aussi du climat (entre autres facteurs).
+	B: D'avoir montré que la pédogénèse dépendait aussi de la nature des roches sous-jacentes (entre autres facteurs).	
+	B: D'avoir montré que la pédogénèse dépendait aussi de l'agriculture pratiquée par l'homme (entre autres facteurs).
+
+Q:  Pour Dokuchaev, quels sont les facteurs de différenciation des sols (ou facteurs de la pédogénèse) ? 
+	G: Le climat.
+	G: La végétation et autres agents biologiques
+	G: La roche parentale.
+	G: La topographie.
+	G: L'âge du sol.
+	B: La Lune.
+
+Q:  Pourquoi les sols africains (à la différence des sols en France) reflètent mal la nature des roches sous-jacentes ? 
+	G: Parce que les sols africains sont des sols beaucoup plus vieux (car ils se sont façonnés sur des régions tectoniquement stables depuis des millions d'année).
+	G: Parce que l'intensité de l'altération sous climat tropical oblitère en grande partie la nature des roches initiales.
+	B: Parce que la pédogénèse a été très intense lors des glaciations, qui se sont aussi exercées en Afrique.
+
+Q:  Au vu de cette photo de la steppe à chernozem (Google Earth), quel est le principal problème de ces sols ? 
+	I: images/e104.png &&
+	G: Ce sont des terrains très sensible à l'érosion par ruissellement.
+	B: Ce sont des terrains très durs et cohérents, qui sont difficilement labourables.
+	
+Q:  &Agrave; la fin du XIX<sup>e</sup> siècle, les tenants de l'agro-géologie professaient que la nature géologique du sous-sol suffisait à déterminer le sol développé au-dessus. Ci-dessous sont donnés les extraits d'un article publié en 1894 par M. Hitier, ingénieur agronome à l'Institut National Agronomique, l'un des avocats de cette théorie. Quel est la réaction de M. Hitier face aux désaccords de cette théorie avec les observations de Dokuchaev sur les sols russes ? 
+	I: images/e107.png &&
+	I: images/e105.png &&
+	I: images/e106.png &&
+	G: Il dit que les Russes n'ont pas fait une carte géologique assez détaillée.
+	G: Il dit qu'il suffirait d'avoir des cartes suffisamment détaillées pour retrouver un bon accord avec la théorie.
+	G: Il dit que les Russes n'ont pas cartographié les bonnes formations géologiques (à savoir les formations glaciaires) sur la carte géologique.
+	B: Il reconnaît que la nature du sous-sol ne permet pas d'expliquer à elle seule la différenciation des sols.
+
+Q:  Dire ce qui est vrai ... 
+	G: Des roches différentes peuvent donner des sols semblables.
+	G: Des roches semblables peuvent donner des sols différents.
+	B: Des roches différentes ne peuvent donner que des roches différentes.
+	B: Des roches semblables ne peuvent donner que des roches semblables.
+
+Q:  Dans la théorie de Dokuchaev, qu'est-ce qu'on appelle des <em>sols zonaux</em> ? 
+	I: images/e108.jpg &&
+	I: images/e109.gif &&
+	G: Des sols s'inscrivant typiquement dans les différentes grandes zones climatiques à l'échelle mondiale.
+	B: Des sols s'inscrivant typiquement dans les différentes grandes zones géologiques à l'échelle mondiale.
+	B: Des sols s'inscrivant typiquement dans les différentes grandes zones nationales à l'échelle mondiale.
+	B: Des sols s'inscrivant typiquement dans les différentes grandes zones géographiques à l'échelle mondiale.
+
+Q:  Dans la théorie de Dokuchaev, qu'est-ce qu'on appelle des <em>sols azonaux</em> ? 
+	G: Des sols, dont les caractéristiques sont guidées en premier lieu par la nature de la roche du sous-sol.
+	B: Des sols, dont les caractéristiques sont guidées en premier lieu par la latitude.
+	B: Des sols, dont les caractéristiques sont	guidées en premier lieu par la topographie (altitude, exposition, ...).
+	B: Des sols, dont les caractéristiques sont guidées en premier lieu par le climat.
+
+Q:  Dans la théorie de Dokuchaev, qu'est-ce qu'on appelle des <em>sols intrazonaux</em> ? 
+	B: Des sols zonaux, mais dont les caractéristiques sont très influencées par la nature de la roche du sous-sol.
+	B: Des sols zonaux, mais dont les caractéristiques sont très influencées par la latitude.
+	G: Des sols zonaux, mais dont les caractéristiques sont	très influencées par la topographie (altitude, exposition, ...).
+	B: Des sols zonaux, dont les caractéristiques sont très influencées lieu par le climat.
+
+Q:  Pourquoi le concept de zonalité climatique développée par Dokuchaev s'applique mal en Europe occidentale, et en France en particulier ? 
+	I: images/e110.jpg &&
+	G: Parce que les sols d'Europe Occidentale sont encore des sols jeunes, dont les traits sont encore fortement influencés par la nature du sous-sol.
+	G: Parce les sols d'Europe Occidentale sont dans des régions fortement tectonisés avec développement de reliefs montagneux créant des microclimats.
+	B: Parce que les sols d'Europe Occidentale ont été fortement modifiés par l'homme depuis le Néolithique.
+	B: Parce que les sols d'Europe Occidentale sont de très vieux sols.	
+		
+Q:  Pourquoi le concept de zonalité climatique conçue par Dokuchaev en Russie s'applique mal en Amérique du Nord, où les climats semblent s'organiser autrement que latitudinalement ? 
+	I: images/e111.jpg &&
+	I: images/e112.jpg &&
+	G: Parce ce que l'Amérique du Nord est un continent	traversé par trois chaînes de montagne (les Rocheuses, la Chaîne des Cascades, les Appalaches), tandis	que la zone prospectée par Dokuchaev en Russie est un pays plat (la chaîne du Caucase, mis à part). 
+	G: Parce que l'Amérique du Nord est soumis à de fortes influences océaniques dans ses parties occidentale et orientale.
+	B: Parce que les sols américains ont été fortement modifiés par l'homme.
+
+Q:  Pourquoi les chernozems non cultivés sont de véritables puits à carbone atmosphérique ? 
+	G: Ce sont des sols avec une bonne humification, mais une minéralisation ralentie.
+	B: C'est une affirmation fausse: les chernozems n'accumulent pas plus de carbone que les autres sols.
+	G: Ce sont des sols où le carbone minéralisé est stocké sous forme d'encroûtements carbonatés en profondeur.
+	B: Ce sont des sols où la méthanogénèse est forte.
+	G: Ce sont des sols, où une grande partie de biomasse produite par les graminées est fabriquée dans le sol, et non à la surface.
+
+Q:  Quels sont les facteurs qui ralentissent la minéralisation de l'humus dans les chernozems ? 
+	G: Les ions Ca<sup>2+</sup> présents dans ces sols stabilisent l'humus.
+	G: Lors des périodes glaciaires, le loess apporté et déposé par le blizzard a enrichi les chernozems en smectites, qui ont pour effet de stabiliser l'humus et de ralentir sa minéralisation.
+	G: L'activité microbienne est très ralentie en hiver (à cause de ses températures très  basses) et en été (à cause de sa sécheresse), ce qui empêche la minéralisation de l'humus pendant ces périodes.
+	B: Parce que ces sols sont biologiquement peu actifs toute l'année.
+
+Q:  Pourquoi les chernozems sont des sols très fertiles (sous réserve que les conditions météorologiques le permettent) ? 
+	G: Ce sont des sols humifères avec un bon stock de carbone organique accumulé.
+	G: Ce sont des sols riches en smectites et possédant donc une bonne CEC.
+	G: Ce sont des sols avec de bonnes capacités nutritives pour les plantes.
+	B: Ce sont des sols sableux, leur conférant une bonne aération et un bon drainage.
+
+Q:  La carte ci-dessous montre les quantités de carbone organique accumulés dans les sols. Dans quels types de sols trouve-t'on les plus gros stocks en France ? 
+	I: images/16-sol2014-carte4a.pdf &&
+	G: Les andosols des massifs volcaniques (Cantal, Monts Dore, Aubrac, ...).
+	B: Les cambisols.
+	B: Les luvisols.
+
+Q:  La figure ci-dessous montre la quantité de carbone organique stocké dans les sols et la biomasse par rapport à la quantité de carbone minéral dans l'atmosphère. Quel est le plus grand réservoir de carbone parmi les trois qui sont listés ?
+	I: images/e113.jpg &&
+	G: Les sols.
+	B: L'atmosphère.
+	B: La biomasse.	
+
+Q:  Dans le but de limiter l'augmentation de CO<sub>2</sub> dans l'atmosphère et lutter contre le réchauffement climatique, sur quel levier est-il éventuellement possible d'agir.
+	I: images/e113.jpg &&
+	G: Favoriser les écosystèmes à haute capacité de stockage de carbone pour augmenter la quantité de carbone organique accumulée dans la biomasse.
+	G: Favoriser les écosystèmes permettant d'augmenter la quantité de carbone stockée dans les sols.
+	B: Favoriser les écosystèmes relâchant beaucoup de CO<sub>2</sub> au dépens du carbone organique stockée dans les sols.
+
+Q:  Un chernozem est capable de stocker 500 tonnes de C par hectare. Quelle quantité cela représente-t'il par m<sup>2</sup> ? 
+	G: 50 kg par m<sup>2</sup>	
+	B: 500 kg par m<sup>2</sup>	
+	B: 5 kg par m<sup>2</sup>	
+	B: 0.5 kg par m<sup>2</sup>	
+
+Q:  Au regard de la carte de la quantité de carbone accumulée dans les sols de France, que peut-on dire des chernozems sachant qu'ils peuvent contenir jusqu'à 50 kg de C par m<sup>2</sup> ? 
+	I: images/16-sol2014-carte4a.pdf &&
+	G: Ce sont des sols avec de très bonnes capacités de stockage de carbone organique.
+	B: Ce sont des sols avec des capacités moyennes de stockage de carbone organique.
+	B: Ce sont des sols avec de faibles capacités de stockage de carbone organique.
+
+Q:  Quels sont les deux principaux facteurs de fragilité des chernozems ? 
+	I: images/e114.png &&
+	G: Ce sont des sols sensibles au ruissellement concentré.
+	G: Ce sont des sols sensibles à la sécheresse.
+	B: Ce sont des sols sensibles au froid.	
+	B: Ce sont des sols sensibles à des remontées capillaires de solutions salées.
+	C: Les fortes pluies ravinent ces sols. Lorsqu'ils s'assèchent, ils deviennent poussiéreux et ils sont alors sensibles à l'érosion éolienne (formation de nuages de poussières). La sécheresse est aussi à l'origine d'incendies. 
+
+Q:  Pour la mise en culture des steppes à chernozems, les russes ont développé des systèmes d'irrigation pour compenser la pluviométrie relativement faible du climat continental (de l'ordre de 500 mm d'eau par an). Quels effets secondaires, positifs ou négatifs, cela a-t'il entraîné ? 
+	G: Cela booste l'activité des micro-organismes, notamment en été.
+	G: La minéralisation de l'humus est accélérée, libérant des sels minéraux (potassium, phosphates, ...)
+	G: Le stock de carbone organique diminue.
+	B: Les sols s'enrichissent en nutriments.	
+	G: Les récoltes sont belles.
+
+Q:  Les terres de Russie et d'Ukraine sont l'objets de luttes séculaires entre les Russes sédentaires et les tribus nomades turco-mongoles. Quelle a été la principale conséquence de la victoire d'Ivan le Terrible sur les Tatars au milieu du XVI<sup>e</sup> siècle ? 
+	I: images/e115.jpg		&& Ivan le Terrible
+	I: images/e116.jpg		&& La steppe
+	G: La mise en culture des steppes à chernozems.
+	B: La fin de la culture du blé en Ukraine.		
+
+Q:  Selon la WRB, il existe une catégorie de sols, voisins des chernozems, et qui sont appelés <em>phaeozems</em>. Quels sont les caractéristiques de ces sols ? 
+	I: images/e117.png && Coupe de phaeozem
+	I: images/e118.png && la pampa en Argentine
+	G: Ce sont des sols qui se trouvent des régions steppiques plus humides que le chernozem.
+	G: Comme le chernozem, le phaeozem se développe bien sur des substrats loessiques (donc dépôts riches et non consolidés).
+	G: Le lessivage est plus important, le sol se lave en surface, et l'horizon de surface devient gris sombre à brun sombre.
+	G: Ce sont des sols avec une bonne activité biologique.		
+	G: Ce sont des sols avec une bonne structure, bien aérée.
+	B: Ce sont des sols peu épais.
+
+Q:  Le Texas est un gros producteur de coton grâce à ses terres riches constituées par des phaeozems. Cependant, quelle menace pèse sur cette production ? 
+	I: images/e119.gif &&
+	I: images/e120.jpg &&
+	I: images/e121.jpg &&
+	G: L'eau d'irrigation provient d'aquifères fossiles qui finiront par s'épuiser.
+	B: Les sols finissent par s'appauvrir.
+	B: Les sols ont tendance à se saliniser en surface.
+	B: Les sols deviennent trop durs à travailler.
+	C: https://today.agrilife.org/2012/03/23/researchers-timing-critical-when-watering-high-plains-cotton/
+
+Q:  Quelle est la différence entre la pampa et les Pampas ? 
+	I: images/e124.jpg && la pampa
+	I: images/e123.png && les Pampas
+	G: la pampa est un biome regroupant la steppe caractéristique développé en Argentine.
+	G: les Pampas désigne une région administrative d'Argentine, caractérisée par ses pampas.
+	B: les Pampas ne désigne que le pluriel de pampa (improprement écrit avec une majuscule, d'ailleurs).
+
+Q:  Les Pampas constituent une des régions les plus fertiles dans le monde. A quoi est due cette fertilité ? 
+	I: images/e122.jpg &&
+	G: C'est une région bien arrosée sans excès avec une pluviométrie est de l'ordre de 1200 mm d'eau par an.	
+	G: Les sols sont des phaeozems.
+	B: Les sols sont des chernozems.
+	C: Il pleut trop pour que puisse se former des chernozems.
+
+Q:  Quel est ce sol selon la WRB ? <br>Pour indication, ce type de sol se forme dans les steppes eurasiennes sous climat continental, mais avec une pluviométrie assez faible. Par ailleurs, on observe des nodules carbonatés néoformés en profondeur. 
+	I: images/e125.jpg &&
+	G: C'est un kastanozem.
+	B: C'est un chernozem.
+	B: C'est un phaeozem.
+	B: C'est un sol brun.
+
+Q:  Quelles sont les caractéristiques des kastanozems ? 
+	I: images/e126.png
+	G: Ce sont des sols fertiles (mais sous réserve qu'ils soient irrigués).
+	G: En profondeur se forment des encroûtements carbonatés d'origine secondaire.
+	G: Ce sont des sols qui se développent sous climat continental sec.
+	B: Ce sont des sols sableux.
+
+Q:  Sous quelle latitude se trouvent les meilleurs sols du point de vue agricole ? 
+	G: Sous les latitudes moyennes.
+	B: Sous les latitudes intertropicales.
+	B: Sous les latitudes boréales.
+
+Q:  Classer ces sols selon leur humidité croissante. 	
+	G: Solonchaks, kastanozems, chernozems et phaeozems.
+	B: Solonchaks, phaeozems, kastanozems et chernozems.
+	B: Solonchaks, chernozems, kastanozems et phaeozems.
+	B: Chernozems, kastanozems, solonchaks et phaeozems.
+
+Q:  Quel terme technique utilisent les pédologues pour désigner un volume de sol échantillonné pour caractériser un sol ? 
+	G: Un solum.
+	B: Un pédon.
+	B: Un profil.
+	B: Un terron.
+	B: Un solon.
+	C: Le pédon désigne le trou qui est fait pour étudier le solum sur la tranche.
+
+Q:  La <em> terre à foulon </em> est une terre composée généralement de smectites ou d'autres argiles comme la sépiolite ou l'attapulgite. Un gisement se trouve se à Mormoiron, près d'Avignon. Quelle est la propriété de cette terre ?
+	I: images/e128.png
+	I: images/e127.png
+	I: images/e129.png
+	G: C'est une terre aux propriétés dégraissantes ou détachantes.
+	G: C'est une terre qui peut être utilisée pour les produits cosmétiques.
+	B: C'est une terre qui peut être utilisée comme granulats.
+
+Q:  La <em>terre à foulon</em> (ou ses variétés) est connue sous d'autres termes. Lesquels ? 
+	G: Fuller's earth.
+	G: Terre de Sommières.
+	B: Terre de Sienne.
+	C: La terre de Sienne est un pigment minéral, riche en Fe<sub>2</sub>O<sub>3</sub>.
+

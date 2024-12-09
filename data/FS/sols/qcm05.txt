@@ -1,0 +1,436 @@
+TITLE0: QCM : QCM Sols
+TITLE1: QCM : Les sols - Auto-évaluation
+TITLE2: À l'interface entre lithosphère, atmosphère, hydrosphère et biosphère ?
+
+UP:	../fiche03.html
+PREV: qcm04.html
+NEXT: qcm06.html
+
+NOSHUFFLE
+
+
+Q: Un sol est un milieu complexe formé par plusieurs processus: <ul> <li>l'altération des roches,</li> <li>l'action des êtres vivants</li> <li>et des transferts de matière.</li></ul>  A la longue, ces phénomènes font apparaître des couches différenciées sur une tranche verticale d'un sol. Comment appelle-t'on ces couches ? 
+	B: des lits
+	B: des strates
+	B: des dépôts
+	G: des horizons
+	
+Q: Le Nil, le 2<sup>e</sup> plus grand fleuve dans le monde après l'Amazone, est alimenté par ses deux grands affluents dénommés le Nil Blanc et le Nil Bleu. Le Nil Blanc doit son nom aux argiles en suspension produite par l'altération des roches en Afrique Equatoriale. Le Nil Bleu provient des massifs volcaniques de l'Ethiopie.	L'Egypte doit sa fertilité à la richesse en nutriments des limons transportés par le Nil. Quel affluent contribue le plus à la fertilité du Nil ?
+	I: images/a1.png &&
+	I: images/a1-1.jpg && Le Nil Bleu
+	I: images/a1-2.jpg && Le Nil Blanc 
+	B: Nil Blanc
+	G: Nil Bleu
+	C: C'est le Nil Bleu qui contribue le plus à la fertilité, car il transporte des argiles et limons issus de roches volcaniques basiques (basaltes) riches en sels minéraux (calcium). Le Nil Blanc transporte surtout des argiles TO (comme la kaolinite), à faible CEC.
+
+
+#-------------------------------------------------------------------------------
+
+Q:  Quelles sont les conséquences d'un sol trop acide ? 
+	G: L'ion Al<sup>3+</sup>, toxique pour de nombreuses plantes, devient soluble pour des pH en-dessous de 4.
+	B: Cela booste la productivité microbienne et végétale.
+	G: Cela augmente l'hydrolyse des minéraux alumino-silicatés, comme les feldspaths et les argiles, ainsi la libération d'alcalins ou alcalino-terreux dans les eaux du sol.
+
+Q:  Pourquoi les sols sur substrat alumino-silicaté tendent à s'acidifier ? 
+	G: &Agrave; cause de la libération d'ions H<sup>+</sup> par les plantes.
+	G: &Agrave; cause du CO<sub>2</sub> atmosphérique, qui donne un acide faible HCO<sub>3</sub><sup>-</sup> dans les sols.
+	B: &Agrave; cause de l'hydrolyse des roches alumino-silicatées.
+
+Q:  L'activité microbienne ... 
+	B: est plus importante dans les sols neutres et basiques.
+	B: est plus	forte dans les sols acides (pH ~ 4)
+	G: ne dépend pas significativement du pH.
+
+Q:  Quelles sont les différentes classifications des sols actuellement disponibles ? 
+	G: La Soil Taxonomy.
+	G: La World Reference Base.
+	G: Le Référentiel Pédologique.
+	G: La Classification des Sols de la CPCS.
+	B: La Nouvelle Nomenclature Morpho-Fonctionnelle des Sols.
+
+Q:  Ce sol présente: <ul> <li> un horizon A, organo-minéral, sombre à structure finement grumeleuse. </li> <li> Un horizon C à structure lithologique (basalte). </li> </ul>  Quel est ce sol ?
+	I: images/e29.jpg &&	
+	G: Un andosol
+	B: Un sol brun
+	B: Un sol lessivé
+	B: Un ranker
+
+Q:  On considère la réaction d'hydrolyse d'un feldspath, l'anorthite CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> en Ca<sup>2+</sup>, Si(OH)<sub>4</sub> et Al<sub>2</sub>O<sub>3</sub>. Quelle réaction ci-dessous est bien équilibrée ?
+	G: 	CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> + 2 H<sup>+</sup> + 3 H<sub>2</sub>O -> Ca<sup>2+</sup> + 2 Si(OH)<sub>4</sub> + Al<sub>2</sub>O<sub>3</sub>
+	B: 	CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> +  H<sup>+</sup> + 3 H<sub>2</sub>O -> Ca<sup>2+</sup> + 2 Si(OH)<sub>4</sub> + Al<sub>2</sub>O<sub>3</sub>
+	B: 	CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> + 2 H<sup>+</sup> + 2 H<sub>2</sub>O -> Ca<sup>2+</sup> + 2 Si(OH)<sub>4</sub> + Al<sub>2</sub>O<sub>3</sub>
+	B: 	CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> + 2 H<sup>+</sup> + 3 H<sub>2</sub>O -> Ca<sup>2+</sup> +  Si(OH)<sub>4</sub> + Al<sub>2</sub>O<sub>3</sub>
+
+Q:  Pourquoi l'hydrolyse des minéraux alumino-silicatés riches en alcalins et alcalino-terreux diminue l'acidité des sols ? 
+	G: Parce que l'hydrolyse de ces minéraux consomme des H<sup>+</sup>.
+	B: Parce  que l'hydrolyse de ces minéraux produit des H<sup>+</sup>.	
+	B: Parce que les cations alcalins et alcalino-terreux libérés se lient à des H<sup>+</sup> ?
+	B: Parce que les cations alcalins et alcalino-terreux libérés se lient à des OH<sup>-</sup> ?
+
+Q:  Qu'est-ce qu'un allophane ? 
+	G: C'est un silicate d'alumminium hydraté, généralement mal cristallisé, voire amorphe.
+	B: C'est un oxyde d'aluminium.
+	B: C'est une variété de feldspath.
+	B: C'est une amphibole sodique.
+
+Q:  Qu'est-ce que l'imogolite ? 
+	G: C'est un aluminosilicate hydraté.
+	B: C'est une altérite.
+	B: C'est une latérite.
+	B: C'est une variété d'albite.
+
+Q:  Comment se présente la structure de l'imogolite ? 
+	I: images/e30.png &&
+	G: L'imogolite a une structure tubulaire.
+	B: L'imogolite forme des sphères.
+	B: L'imogolite a une structure planaire.
+	B: L'imogolite forme des feuillets comme les argiles.
+
+Q:  Quelle est la structure d'un allophane ? 
+	I: images/e31.png &&
+	G: L'allophane a une structure tubulaire.
+	B: L'allophane forme des nano-sphères.
+	B: L'allophane a une structure planaire.
+	B: L'allophane forme des feuillets comme les argiles.
+
+Q:  Quelle est la composition chimique type de l'imogolite ? 
+	I: images/e32.png &&
+	G: Al<sub>2</sub>O<sub>3</sub>, Si(OH)<sub>4</sub>
+	B: Al(OH)<sub>3</sub>, Si(OH)<sub>4</sub>
+	B: Al(OH)<sub>2</sub>, Si(OH)<sub>4</sub>
+	B: Al<sub>2</sub>O<sub>3</sub>, SiO<sub>2</sub>
+
+Q:  Dans quel contexte va-t'on trouver des imogolites et allophanes
+	dans les sols ? 
+	G: Lors de l'hydrolyse de roches volcaniques, contenant un verre alumino-silicaté sous climat humide.
+	B: Lors de l'hydrolyse de roches carbonatés.
+	B: Lors de l'hydrolyse de feldspaths.
+	B: Lors de l'hydrolyse de gneiss.
+
+Q:  Que signifie le mot <em>imogo</em> en japonais ? 
+	G: "sol volcanique".
+	B: "minéral volcanique".
+	B: "volcan".
+	B: "sol".		
+
+Q:  Qu'est-ce qu'un andosol ? 
+	I: images/e29.jpg &&	
+	G: C'est un sol de couleur foncée, fertile, développé sur des roches volcaniques sous climat humide.
+	B: C'est un sol caractéristique de la Cordillère des Andes.
+	B: C'est un sol qui se développe sur le dos des collines.
+	B: C'est un sol de région granitique.
+
+Q:  Ce sol présente <ul><li> un horizon A, organon-minéral, finement structuré. </li><li> un horizon C d'altération (basalte altéré). </li></ul> Quel est ce sol dans le RP ? 
+	I: images/e33.jpg &&	
+	G: Un andosol
+	B: Une rendzine
+	B: Un ranker
+	B: Un sol brun
+
+Q:  A quel composé est dû la couleur orangée vive des composés précipités sur les branches mortes flottant à la surface d'un bassin alimenté par les eaux acides d'une mine abandonnée ?
+	I: images/e34.jpg &&	
+	G: De la ferrihydrite.
+	B: De l'hématite.
+	B: De la magnétite.
+	B: De la pérovskite.
+
+Q:  La ferrihydrite est un oxyhydroxyde commun de Fe<sup>3+</sup>. Cependant sa structure cristalline fait encore l'objet de recherches. Pour quelle raison ?
+	G: Car c'est un composé formant des nanocristaux.
+	G: Car c'est un composé contenant souvent des défauts cristallins.
+	B: Car c'est un composé rare.
+	B: Car c'est un minéral instable à la surface de la terre.
+
+Q:  L'eau s'écoulant de ce tuyau laisse des précipités de couleur orange vif. Qu'est-ce que cela peut indiquer sur cette eau ?
+	I: images/e35.jpg &&
+	G: Cela peut être une eau issue d'une zone minière.
+	G: Cela peut être une eau thermo-minérale.
+	G: C'est une eau laissant des précipités de ferri-hydrites.
+	B: C'est une eau très peu minéralisée.
+
+Q:  L'hydrolyse des roches volcaniques sous climat humide produit des nanocristaux comme les allophanes, les imogolites ou les ferrihydrites. Quelles propriétés confèrent ces minéraux à ces sols (andosols) ?
+	B: Une faible teneur en carbone organique.
+	G: Une forte adsorption de l'humus à ces minéraux colloïdaux.
+	G: Une faible densité apparente.
+	G: Une forte capacité de rétention d'eau.
+	G: Une forte rétention du phosphore.
+
+Q:  Que signifie <em>horizon vitrique</em> dans le cas d'un andosol ? 
+	G: Un horizon d'un andosol encore peu évolué et gardant une bonne proportion de verres volcaniques et autres minéraux primaires.
+	B: Un horizon d'un andosol, de couleur moins foncée.
+	B: Un horizon d'un sol anthropique, contenant des éclats de verre.
+	B: Un horizon de sol, dur et fragile comme du verre.
+
+Q:  Dans le RP, que signifie la lettre <em>S</em> pour un horizon ? 
+	G: L'horizon structural.
+	B: L'horizon sec.
+	B: L'horizon sodique.
+	B: L'horizon saturé.
+
+Q:  Dans le RP, que signifie la lettre <em>G</em> pour un horizon ? 
+	G: L'horizon réductique.
+	B: L'horizon gelé.
+	B: L'horizon gélifracté.
+	B: L'horizon argileux.
+
+Q:  Qu'est-ce que l'horizon réductique dans le RP ? 
+	G: C'est l'horizon, engorgé d'eau et qui constitue un milieu réducteur.
+	B: C'est l'horizon très appauvri en alcalins, alcalino-terreux et silice.
+	B: C'est l'horizon décarbonaté.
+	B: C'est l'horizon débarassé de ses argiles.
+
+Q:  Qu'est-ce qui différencie l'horizon réductique de l'horizon rédoxique dans le RP ? 
+	G: L'horizon réductique est un milieu réducteur en permanence, tandis que l'horizon rédoxique connaît des périodes temporaires oxydantes.
+	B: L'horizon réductique connaît des périodes temporaires oxydantes, tandis que l'horizon rédoxique est un milieu réducteur	permanent.
+	B: Aucune, ce sont deux synonymes.
+	B: L'horizon rédoxique est un milieu plus réducteur que l'horizon réductique.
+
+Q:  Que signifie la lettre <em>g</em> pour un horizon dans le RP ? 
+	G: C'est l'horizon rédoxique.
+	B: C'est l'horizon réductique.
+	B: C'est l'horizon argileux.
+	B: C'est l'horizon gelé en permanence.
+
+Q:  Qu'est-ce que l'horizon <em>BP</em> dans le RP ? 
+	G: C'est l'horizon B d'accumulation dans les podzols, avec accumulation massive d'oxydes de fer et d'aluminium, ainsi que d'humus.
+	B: C'est l'horizon B d'accumulation de pierres.
+	B: C'est l'horizon B d'accumulation de pélites.
+	B: C'est l'horizon B d'accumulation de pelotes fécales.
+
+Q:  Qu'est-ce que l'horizon <em>BT</em> dans le RP ? 
+	G: C'est l'horizon B d'accumulation d'argiles.
+	B: C'est l'horizon B d'accumulation d'oxydes de Fe et d'Al.
+	B: C'est l'horizon B d'accumulation de sesquioxydes.
+	B: C'est l'horizon B d'accumulation d'humus.
+
+Q:  Que signifie l'horizon <em>H</em> dans le RP ?
+	G: C'est l'horizon histique.
+	B: C'est l'horizon humifère.
+	B: C'est l'horizon holomélanocrate.
+	B: C'est l'horizon haplique.
+
+Q:  Qu'est-ce qu'un horizon histique ? 
+	G: C'est un horizon constitué de matières organiques, issues de végétaux aquatiques, baignant dans l'eau.
+	B: C'est un horizon structuré en nid d'abeilles.
+	B: C'est un horizon structuré par les racines et le mycélium des champignons.
+	B: C'est un horizon formé essentiellement de tissus ligneux.
+
+Q:  Quelle est la différence entre un horizon calcaire <em>Aca</em> et un horizon calcique <em>Aci</em> dans le RP ? 
+	G: <em>Aca</em> est carbonaté (effervescence à HCl)	tandis que <em>Aci</em> est décarbonaté (mais il contient encore du Ca<sup>2+</sup>).
+	B: Aucune, ce sont des synonymes.
+	B: <em>Aca</em> est un horizon avec néoformation de modules/encroûtements carbonatés, <em>Aci</em> n'en contient pas.
+	B: <em>Aca</em> se caractérise par des figures de dissolution sur les clastes calcaires, tandis que <em>Aci</em> en est exempt.
+
+Q:  Que signifie <em>Aa</em> dans le RP ? 
+	G: C'est l'horizon allophanique.
+	B: C'est l'horizon <em>A</em> d'accumulation.
+	B: C'est l'horizon superficiel des sols marécageux.
+	B: C'est l'horizon superficiel riche en composés azotés.
+
+Q:  Que signifie <em>FE</em> dans le RP ? 
+	G: C'est l'horizon ferrique.
+	B: C'est l'horizon d'éluviation du fer.
+	B: C'est l'horizon fibreux et éluvié.
+	B: C'est l'horizon fersiallitisé.
+
+Q:  Que signifie <em>K</em> dans le RP ? 
+	G: C'est l'horizon calcarique.
+	B: C'est l'horizon riche en potassium.
+	B: C'est l'horizon potassique.
+	B: C'est l'horizon alcalin.
+
+Q:  Qu'est-ce qu'un horizon calcarique ? 
+	G: C'est un horizon avec des encroûtements calcaires.
+	B: C'est un horizon avec des cailloux et/ou des pierres calcaires.
+	B: C'est un horizon d'altération issu d'une roche-mère calcaire.
+	B: C'est un horizon avec des complexes argilo-humiques saturés en Ca<sup>2+</sup>.
+
+Q:  Qu'est-ce que l'horizon <em>V</em> dans le RP ?
+	G: C'est l'horizon vertique.
+	B: C'est l'horizon vitrique.
+	B: C'est l'horizon zéolitisé.
+	B: C'est l'horizon issus de dépôts éoliens.
+
+Q:  Qu'est-ce qu'un horizon vertique ? 
+	G: C'est un horizon contenant beaucoup d'argiles gonflantes.
+	B: C'est un horizon contenant des argiles TO.
+	B: C'est un horizon pierreux.
+	B: C'est un horizon incliné, car développé sur une pente raide.
+
+Q:  Qu'est-ce que la fersiallitisation ? 
+	G: C'est une forme de bisiallitisation, se développant en climat méditerranéen ou tropical, marquée par l'association des ions Fe<sup>3+</sup> avec les argiles et l'humus.
+	B: C'est de l'allitisation avec développement marqué d'encroûtements ferrugineux.
+	B: C'est une forme de bisiallitisation accompagnée d'un lessivage total du fer.
+	B: C'est une forme de bisiallitisation se faisant en milieu réducteur.
+
+Q:  Que signifie l'horizon <em>FS</em> dans le RP ? 
+	G: C'est l'horizon fersiallitique.
+	B: C'est l'horizon constitué de sulfates de fer.
+	B: C'est l'horizon constitué de sulfures de fer.
+	B: C'est l'horizon constitué de ferrosillites.
+
+Q:  Où trouve-t'on en France métropolitaine des sols sur substrat volcanique ? 
+	G: Dans le Massif Central
+	G: Dans les Vosges
+	G: Dans le Massif Armoricain
+	G: Dans le Morvan
+	B: En Picardie
+	B: Dans la Sologne
+
+
+#-------------------------------------------------------------------------------
+
+Q:  Que signifie étymologiquement le mot <em>andosol</em> ? 
+	G: <em>An</em> veut dire "noir" et <em>Do</em> veut dire "sol".
+	B: <em>An</em> veut dire "sol" et <em>Do</em> veut dire "noir".
+	B: <em>An</em> veut dire "épais" et <em>Do</em> veut dire "noir".
+	B: <em>An</em> veut dire "collant" et <em>Do</em> veut dire "sol".
+
+Q:  Qu'est-ce qu'une espèce végétale <em>héliophile</em> ? 
+	G: C'est une espèce végétale qui a besoin de beaucoup de lumière pour se développer.
+	B: C'est une espèce végétale qui a la propriété d'orienter ses feuilles vers le soleil.
+	B: C'est une espèce végétale qui produit des fleurs jaunes comme le soleil.
+	B: C'est une espèce végétale qui craint les endroits trop lumineux.
+
+Q:  L'antonyme de <em>héliophile</em> est ... 
+	G: sciaphile.
+	B: ombrophile.
+	B: mélanophile.
+	B: sélénophobe.
+
+Q:  Quelle est l'espèce arborescente qui colonise, en premier, les sols volcaniques de la Chaîne des Puys sur cendres trachytiques ? 
+	I: images/e36.jpg &&	
+	G: Le bouleau verruqueux
+	B: Le chêne
+	B: Le hêtre
+	B: L'aulne
+
+Q:  Quel est l'espèce arborescente qui colonise, dans les premiers stades, les sols volcaniques de la Chaîne des Purs sur cendres basaltiques ? 
+	I: images/e37.jpg &&
+	G: Le Pin sylvestre
+	B: Le chêne
+	B: Le méléze
+	B: Le sapin
+
+Q:  Quelle est une des principales différences entre silandosol et aluandosol ? 
+	G: Les aluandosols sont plus acides (pH < 5) que les silandosols (pH >= 4.5).
+	B: Les silandosols sont plus acides (pH < 5) que les aluandosols (pH >= 4.5).
+
+Q:  Qu'est l'eau <em> hygroscopique </em> ? 
+	G: C'est l'eau fortement liée.
+	G: C'est l'eau contenue dans les micropores.
+	B: C'est l'eau contenue dans les mésopores.
+	G: C'est une eau normalement non accessibles aux plantes.
+	G: C'est une eau avec une pression de succion supérieure à 15 bars.
+
+Q:  Qu'est-ce que l'eau <em>capillaire</em> ? 
+	G: C'est une eau accessible aux plantes.
+	G: C'est une eau avec une pression de succion comprise entre 0.3 bar et 15 bars.
+	B: C'est une eau contenue dans les micropores.
+	G: C'est une eau contenue dans les mésopores.
+	B: C'est une eau faiblement retenue.
+
+Q:  Qu'est-ce qu'on appelle l'eau <em> gravitationnelle </em> ou <em> gravifique </em> ? 
+	G: C'est une eau contenue dans les macropores.
+	B: C'est une eau contenue dans les micropores.
+	G: C'est une eau avec une pression de succion inférieure à 0.3 bar.
+	B: C'est une eau très fortement retenue.
+
+Q:  Qu'est-ce que le <em>RUM</em> ? 
+	G: Le Réservoir Utilisable Maximal, 
+	B: Le Réseau Unifié du Mycélium,
+	B: La Réserve Unifiée de Macro-Nutriments,
+	B: Le Roulement Universel des Microbes.
+
+Q:  Quelle est la définition du Réservoir Utilisable Maximal (RUM) ? 
+	G: C'est la différence entre la capacité au champs et la quantité retenue au point de flétrissement.
+	B: C'est la quantité d'eau retenue  au point de flétrissement.
+	B: C'est la capacité au champs
+	B: C'est la somme de la capacité au champs et de la quantité retenue au point de flétrissement.
+
+Q:  Qu'est-ce qu'on appelle le <em> point de flétrissement </em> ? 
+	G: C'est l'état hydrique limite du sol, à partir duquel les plantes standard ne sont plus capables de capter l'eau résiduelle si l'humidité du sol baisse encore.
+	B: C'est l'état hydrique limite du sol, à partir duquel les plantes standard flétrissent si l'engorgement en eau du sol augmente encore.
+	B: C'est l'état hydrique limite du sol, à partir duquel la terre ne retient plus l'eau par capillarité si l'humidité du sol augmente encore.
+	B: C'est l'état hydrique limite du sol, à partir duquel la terre montre des signes d'assèchement (comme l'apparition de fentes de dessication).
+
+Q:  Qu'est-ce qu'on appelle la <em> capacité au champs </em> ? 
+	G: C'est un état hydrique limite du sol, pour lequel la pression de succion est de 0.3 bar.
+	B: C'est un état hydrique limite du sol, pour lequel la pression de succion est de 3 bar.		
+	B: C'est un état hydrique limite du sol, pour lequel la pression de succion est de 14.2 bar.		
+	B: C'est un état hydrique limite du sol, pour lequel la pression de succion est de 20 bar.		
+
+Q:  A quoi sert la capacité au champ ? 
+	G: Ce paramètre caractérise la teneur limite en eau du sol entre le domaine de l'eau capillaire et celui de l'eau gravifique.	
+	B: Ce paramètre caractérise la teneur limite en eau du sol entre le domaine de l'eau capillaire et celui de l'eau hygroscopique.	
+	B: Ce paramètre caractérise la teneur limite en eau du sol entre le domaine de l'eau hygroscopique et celui de l'eau gravifique.	
+
+Q:  Quels sont les sols qui présentent les meilleurs RUM ? 
+	G: Les sols limoneux.
+	B: Les sols sableux.
+	B: Les sols argileux.
+	B: Les sols graveleux.
+	B: Les sols pierreux.
+
+Q:  Donner un ordre de grandeur de la RUM d'un sol limoneux ? 
+	G: Environ 20-25 cm/m de sol.
+	B: Environ 30-35 cm/m de sol.
+	B: Environ 10-15 cm/m de sol.
+	B: Environ 5-10 cm/m de sol.
+
+Q:  Donner un ordre de grandeur de la RUM d'un sol sableux ? 
+	B: Environ 20-25 cm/m de sol.
+	B: Environ 30-35 cm/m de sol.
+	B: Environ 10-15 cm/m de sol.
+	G: Environ 5-10 cm/m de sol.
+
+Q:  Quel type de sols va-t'on trouver sur des scories volcaniques dans une carrière abandonnée depuis une vingtaine d'années ? 
+	G: Un régosol.
+	B: Un andosol.
+	B: Un sol brun.
+	B: Un vertisol.
+
+Q:  Quelles sont les particularités des andosols au toucher ? 
+	G: Ils ont une structure grumeleuse très fine.
+	G: &Agrave; l'état sec, les mottes sont pulvérulents, sans  cohésion entre elles.
+	G: &Agrave; l'état humide, les mottes éclatent sous la pression des doigts.
+	B: Ils forment des grosses mottes de terre.
+
+Q:  Qu'est-ce que la <em> thixotropie </em> ? 
+	G: C'est la propriété d'un matériau qui voit sa viscosité chuter quand on lui applique une certaine pression.
+	B: C'est la propriété d'un matériau qui se solidifie quand on lui applique une certaine pression.
+	B: C'est la propriété d'un matériau qui se dilate quand on lui applique une certaine pression.
+	B: C'est la propriété d'un matériau qui bout quand on lui applique une certaine pression.
+
+Q:  Quel pourcentage de surface	des terres émergées occcupent les andosols dans le monde ? 
+	G: Environ 1%.
+	B: Environ 5%.
+	B: Environ 10%.
+	B: Environ 15%.
+
+Q:  Est-ce que les andosols sont généralement des sols fertiles ? 
+	G: Oui.
+	B: Non.
+
+Q:  Quel est le stock de matières organiques en moyenne dans un andosol ? 
+	G: Environ 25 kg par m<sup>2</sup>.
+	B: Environ 10 kg par m<sup>2</sup>.
+	B: Environ 5 kg par m<sup>2</sup>.
+	B: Environ 1 kg par m<sup>2</sup>.
+
+Q:  Quel est ce sol selon le RP ?  Le solum comporte :  <ul> <li> un horizon rouge ferrallitique (1), </li> <li> et un horizon d'altération sur gneiss (2). </li> </ul>  La coupe fait 2 mètres d'épaisseur. 	
+	I: images/e38.jpg &&
+	G: Un ferrallitisol.
+	B: Un oxydisol.
+	B: Un fersialsol.
+	B: Un ferruginosol.
+
+Q:  Quelle est la différence entre un ferrallitisol et un oxydisol ? 
+	G: Les ferrallitisols ne comportent pas de niveaux durcis (cuirasses, carapaces) comme les oxydisols.
+	B: Les oxydisols ne comportent pas de niveaux durcis (cuirasses, carapaces) comme les ferrallitisols.
+
+Q:  Dans la terminologie utilisée par le RP, que désigne l'horizon <em>OX</em> ? 
+	G: C'est un horizon riche en oxydes et hydroxydes de fer et d'aluminium.
+	B: C'est un horizon riche en oxydes et hydroxydes de Fe<sup>2+</sup> et d'aluminium.
+	B: C'est un horizon riche en sulfates de fer.
+	B: C'est un horizon riche en carbonates de fer.
+

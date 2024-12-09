@@ -1,0 +1,44 @@
+TITLE0: QCM : QCM Sols
+TITLE1: QCM : Les sols - Auto-évaluation
+TITLE2: À l'interface entre lithosphère, atmosphère, hydrosphère et biosphère ?
+
+UP:	../fiche03.html
+PREV: qcm06.html
+NEXT: 
+
+NOSHUFFLE
+
+Q:  Qu'est-ce que la chorologie ? 
+	G: C'est l'étude de la répartition géographiques des espèces vivantes et de ses causes.
+	B: C'est une discipline scientifique développée par le Professeur Choron.
+	B: C'est l'étude des danses nuptiales des animaux.
+	B: C'est l'étude de la géographie du monde, région par région.
+
+Q:  La figure ci-dessous présente une représentation simplifiée des facteurs de la pédogénèse pour les sols du Référentiel Pédologique. Quels sont les sols qui peuvent se former sous n'importe quel climat et qui sont caractérisés par une humidité forte ?
+	I: images/e130.png
+	G: Les réductisols et les rédoxysols.
+	B: Les calcisols, les calcosols, les salisols, les lithosols et sodisols.
+	B: Les cryosols.
+	B: Les brunisols et luvisols.
+	B: Les ferrallitisols.
+	B: Les podzosols et chernosols.
+
+Q:  Dans quel sol du Référentiel pédologique trouve-t'on les teneurs les plus importantes en carbonates ? 
+	G: Les calcosols.
+	B: Les calcisols.
+	B: Les vertisols.
+	B: Les chernosols.
+	B: Les luvisols.
+
+Q:  Dans quel sol du Référentiel pédologique trouve-t'on les teneurs les plus importantes en sodium ? 
+	G: Les sodisols.
+	B: Les calcisols.
+	B: Les vertisols.
+	B: Les chernosols.
+	B: Les calcosols.
+
+Q:  Qu'est-ce qui différencie les sols des pays chauds de ceux des pays froids du point de vue de l'altération chimique ? 
+	G: Dans les pays chauds, l'altération chimique appauvrit les sols en silice, alcalins et alcalino-terreux.
+	G: Dans les pays froids, l'altération chimique appauvrit la partie supérieure des sols en aluminium et Fe<sup>3+</sup>.
+	G: Dans les pays chauds, l'altération chimique enrichit la partie supérieure des sols en aluminium et Fe<sup>3+</sup>.
+	B: Dans les pays chauds, l'altération chimique enrichit les sols en silice, alcalins et alcalino-terreux.
