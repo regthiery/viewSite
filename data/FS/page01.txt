@@ -1,0 +1,66 @@
+TITLE0: Formations Superficielles
+TITLE1: À la surface des Continents :<br> <span>les Formations Superficielles !</span>
+TITLE2: Un cours essentiel pour comprendre les processus géologiques de surface
+
+UP: ../index.html
+
+PREV: ../GEOR/page01.html
+NEXT: ../TDU/page01.html
+
+PARAGRAPH: La surface des continents est le lieu d’interactions complexes impliquant des processus géologiques, climatiques, biologiques et hydrologiques entre la lithosphère, l'hydrosphère, la biosphère et l'atmosphère. Comprendre ces phénomènes est essentiel, car ils façonnent notre environnement et donnent naissance à une grande diversité de dépôts en surface, souvent transitoires mais d’une importance capitale. Ce cours aborde en détail les mécanismes d’altération des roches, intégrant de nombreuses transformations chimiques et biologiques, ainsi qu'une multitude de processus dynamiques d'érosion, de transport et de dépôt.
+
+PARAGRAPH: Nous explorerons les principaux types de formations superficielles, allant des altérites aux formations éoliennes, en passant par les sols, les formations glaciaires et périglaciaires, ainsi que les formations fluviatiles et karstiques. Ces dépôts modèlent nos paysages et sont indissociables de nos activités humaines, qu’il s’agisse d’agriculture ou d’aménagement du territoire. De plus, ces formations témoignent des changements climatiques récents et elles jouent un rôle crucial dans les risques naturels, tels que les crues, les éboulements, le retrait-gonflement des argiles, etc
+
+PARAGRAPH: Rejoignez-nous dans ce parcours pour étudier ces processus qui façonnent la surface de la Terre et comprendre leur rôle fondamental pour l’environnement et les sociétés humaines.
+
+CARD:
+	TITLE1: Les formations superficielles: une introduction
+	TITLE2: Que révèlent-elles sur notre environnement ?
+	LINK: fiche01.html
+	DESCRIPTION: Introduire le concept de formations superficielles, présenter leur importance en géologie et les principaux processus impliqués dans leur formation.
+
+CARD:
+	TITLE1: Les altérites : les produits des transformations de la surface
+	TITLE2: Les roches ne sont pas immuables. Elles se transforment !
+	LINK: alterites/page01.html
+	DESCRIPTION: Expliquer les processus d'altération des formations géologiques du substrat sous l'effet de l'eau, de l'oxygène et des conditions atmosphériques, et leur transformation sous forme de dépôts, appelées altérites.
+
+CARD:
+	TITLE1: Les sols: des interfaces vivantes entre lithosphère et biosphère
+	TITLE2: Bien plus que de simples supports pour la végétation, les sols sont des systèmes dynamiques indispensables au bon fonctionnement des écosystèmes
+	LINK: fiche03.html
+	DESCRIPTION: Décrire les sols, leurs constituants, leurs horizons et savoir expliquer leurs processus de formation et d'évolution.
+
+CARD:
+	TITLE1: Les formations de versant
+	TITLE2: Sur les pentes, la gravité agit en silence, modelant le relief par des déplacements lents ou soudains
+	LINK: fiche04.html
+	DESCRIPTION: Présenter les différents types de formations de versant (éboulis, colluvions), ainsi que les risques naturels associés (glissements de terrain, éboulements, effondrements)
+
+	
+CARD:
+	TITLE1: Formations glaciaires et périglaciaires : vestiges des climats passés
+	TITLE2: Les glaciations ont laissé des empreintes profondes dans les paysages
+	LINK: fiche05.html
+	DESCRIPTION: Aborder les dépôts glaciaires (moraines, drumlins), les processus périglaciaires (gélifraction, gélifluxion, etc) et leur impact sur les paysages actuels et passés.
+
+CARD:
+	TITLE1: Le karst
+	TITLE2: Les mystères des paysages calcaires
+	LINK: fiche06.html
+	DESCRIPTION: Expliquer les processus de dissolution, les formations typiques (grottes, avens, dolines) et l'importance de ces milieux pour les ressources en eau souterraine.
+
+CARD:
+	TITLE1: Les formations fluviatiles
+	TITLE2: Les rivières ne se contentent pas de couler ; elles transportent, déposent, sculptent les paysages et modèlent le relief sur leur passage.
+	LINK: fiche07.html
+	DESCRIPTION: Décrire les alluvions et leur organisation (terrasses alluviales). Expliquer la morphologie des différents types de cours d'eau et leur dynamisme.
+
+
+CARD:
+	TITLE1: Les formations éoliennes
+	TITLE2: Le vent est invisible, mais il laisse sa marque !
+	LINK: fiche08.html
+	DESCRIPTION: Présenter les processus d’érosion et de transport éolien, les formations typiques (dunes, loess) et leur rôle dans les paysages désertiques.
+
+

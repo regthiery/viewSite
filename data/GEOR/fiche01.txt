@@ -1,0 +1,21 @@
+TITLE0: Géoressources
+TITLE1: La Géothermie
+TITLE2: De l'énergie venue des profondeurs de la Terre
+
+UP: page01.html
+PREV:
+NEXT: fiche02.html
+
+I:	geothermie/images/01.jpg
+
+SUMMARY:    Comprendre les principes fondamentaux de la géothermie, son potentiel énergétique et les mécanismes de transfert dans la croûte. Explorer les applications de la géothermie dans le chauffage, la production d'électricité et l'industrie.
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+QCM:
+	TITLE: Testez vos connaissances sur la géothermie à l'aide de questions interactives.
+	LINK: geothermie/qcm01.html	
+
+

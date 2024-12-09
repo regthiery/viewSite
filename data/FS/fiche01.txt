@@ -1,0 +1,26 @@
+TITLE0: Formations superficielles
+TITLE1: Les formations superficielles
+TITLE2: Les formations géologiques de notre environnement !
+
+UP: page01.html
+PREV:
+NEXT: fiche02.html
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Introduire le concept de formations superficielles, présenter leur importance en géologie et les principaux processus impliqués dans leur formation.
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+PDF: 
+	TITLE: Introduction
+	LINK: https://drive.google.com/file/d/15NuQUqNa9VsApc50oQmX_MnM4702YSWb/view?usp=sharing
+
+
+QCM:
+	TITLE: Testez vos connaissances sur les formations superficielles à l'aide de questions interactives.
+	LINK: qcm01.html	
+
+

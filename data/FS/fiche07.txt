@@ -1,0 +1,26 @@
+TITLE0: Formations fluviatiles
+TITLE1: Les formations fluviatiles
+TITLE2: Où comment les rivières modèlent le relief sur leur passage !
+
+UP: page01.html
+PREV: fiche06.html
+NEXT: fiche08.html
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Décrire les alluvions et leur organisation (terrasses alluviales). Expliquer la morphologie des différents types de cours d'eau et leur dynamisme.
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+PDF:
+	TITLE: Les formations fluviatiles
+	LINK: https://drive.google.com/file/d/15ZkzfPPe6GuiSfIkAH9N4sTpwAzon635/view?usp=sharing
+
+
+QCM:
+	TITLE: Testez vos connaissances sur les cours d'eau et les formations fluviatiles à l'aide de questions interactives.
+	LINK: fluviatiles/qcm07.html	
+
+

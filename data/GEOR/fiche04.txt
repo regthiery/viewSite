@@ -1,0 +1,22 @@
+TITLE0: Géoressources
+TITLE1: Hydrocarbures
+TITLE2: 
+
+UP: page01.html
+PREV: fiche03.html
+NEXT: fiche05.html
+
+I: hydrocarbures/images/e0.jpg
+
+
+SUMMARY:  Les hydrocarbures (pétrole, gaz naturel et charbon) constituent encore la ressource d'énergie et de matériaux dans nos économies actuelles. Ce cours aborde la géologie et les utilisations de ces matières premières.
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+QCM:
+	TITLE: Testez vos connaissances sur la géologie des hydrocarbures à l'aide de questions interactives.
+	LINK: hydrocarbures/qcm01.html	
+
+

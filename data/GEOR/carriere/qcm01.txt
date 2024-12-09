@@ -1,0 +1,168 @@
+TITLE0: QCM : QCM Matériaux de Carrière
+TITLE1: QCM : Matériaux de Carrière - Auto-évaluation
+TITLE2: Les granulats (1)
+
+UP: ../fiche01.html
+PREV:
+NEXT: qcm02.html
+
+NOSHUFFLE
+
+
+
+Q: Quelles ressources terrestres naturelles constituent les principales sources de matériaux de construction en France actuelle ?
+	B: Les argiles et la biomasse (bois, paille, chanvre, etc)
+	B: Le fer, le bois, la pierre taillée et les hydrocarbures
+	G: Les granulats, les calcaires et le gypse
+	B: La silice, le gypse et les pierres de construction
+	C: Les granulats, les calcaires cimentiers et le gypse sont les principales ressources terrestres naturelles utilisées dans les travaux publics, le génie civil et la construction en France.
+
+Q: Quelle est la taille des granulats utilisés dans la construction ?
+	B: Entre 125 mm et 1 m
+	G: Entre 0 et 125 mm
+	B: Entre 1 mm et 50 mm
+	B: Plus de 125 mm
+	C: Les granulats sont des fragments de roche dont la taille varie entre 0 et 125 mm, comprenant des particules fines (sables) et grossières (graviers).
+
+Q: Quelle est la quantité de granulats extraits chaque année en France ?
+	B: Environ 1060 millions de tonnes
+	B: Environ 160 millions de tonnes
+	G: Environ 360 millions de tonnes
+	B: Environ 60 millions de tonnes
+	C: En France, environ 360 millions de tonnes de granulats sont extraites chaque année pour répondre aux besoins de la construction et des infrastructures, soit environ un million de tonnes par jour (c'est l'équivalent d'une carrière de taille moyenne qui serait entièrement exploitée en une journée !).
+
+Q: Quelle est la consommation moyenne de granulats par habitant et par an ?
+	B: 5 tonnes
+	G: 7 tonnes
+	B: 10 tonnes
+	B: 20 tonnes
+	C: La consommation moyenne de granulats par habitant en France est d'environ 7 tonnes par an. Cela représente une quantité significative, car les granulats sont utilisés dans de nombreuses applications de construction telles que le béton, les routes et les infrastructures publiques. Les autres réponses sont trop faibles ou trop élevées par rapport à la moyenne annuelle constatée.
+
+Q: Combien de granulats consommons-nous environ par jour ?
+	B: 5 kg
+	G: 20 kg
+	B: 50 kg
+	B: 100 kg
+	C: Cela correspond à environ 20 kg de granulats consommés chaque jour par habitant, directement ou indirectement dans les infrastructures.
+
+
+Q: Quelle est la définition d’un granulat ?
+	B: Un matériau gravillonnaire utilisé dans la construction
+	B: Une roche massive utilisée pour les fondations
+	G: Un matériau granulaire composé de fragments de roche avec une certaine granulométrie pour les besoins de la construction
+	B: Une poudre fine utilisée pour produire du ciment
+	C: Un granulat est défini comme un matériau granulaire, constitué de fragments de roche ou de minéraux, de taille comprise entre 0 et 125 mm, et utilisé largement dans la construction, notamment pour le béton ou les enrobés. Les gravillons ont une taille comprise entre 5 et 25 mm. Ils ne constituent donc qu'une fraction des granulats.
+
+Q: Comment sont classés les granulats en fonction de leur taille ?
+	B: En poussières et éclats
+	G: En sables et graviers
+	B: En pierres et cailloux
+	B: En gros blocs et petits blocs
+	C: Les granulats sont classés en fonction de leur taille : les particules de moins de 4 mm sont appelées sables, tandis que celles comprises entre 4 et 125 mm sont des graviers.
+	
+Q: Quelles sont les origines possibles des granulats ?
+	B: Naturelle uniquement
+	G: Naturelle, artificielle ou recyclée
+	B: Artificielle uniquement
+	B: Recyclée uniquement
+	C: Les granulats peuvent avoir trois origines principales : naturelle (par érosion ou concassage), artificielle (produits par des procédés industriels) ou recyclée (issus de la réutilisation de matériaux).	
+
+Q: Quelle est l'utilisation principale des granulats ?
+	B: La fabrication de briques
+	G: La construction, notamment dans les bétons et les enrobés
+	B: La production de céramiques
+	B: La création de pigments pour peinture
+	C: La construction est l’utilisation principale des granulats, où ils sont indispensables dans la fabrication des bétons pour le bâtiment et des enrobés pour les routes.
+
+Q: Quelle est la principale source d’approvisionnement en granulats en France ?
+	B: Les granulats marins
+	G: Les granulats naturels
+	B: Les granulats artificiels
+	B: Les granulats importés
+	C: Les granulats naturels, provenant des carrières de roches massives ou des dépôts de roches meubles, représentent la principale source d’approvisionnement en France.	
+
+Q: Quelles sont les différentes sources de granulats de roches meubles ?
+	B: Basalte, granite et calcaire
+	G: Sables et graviers alluvionnaires
+	G: Alluvions fluvio-glaciaires ou glacio-lacustres
+	G: Sables, graviers et galets du littoral
+	B: Quartzite, gneiss et schiste
+	B: Bétons recyclés 
+	B: Laitiers de haut-fourneau
+	C: Les granulats meubles se trouvent dans des dépôts naturels tels que les alluvions d'origine glaciaire ou les alluvions fluviatiles ou littorales, souvent facilement accessibles.
+
+Q: Quelles roches sont exploitées comme granulats de roches massives ?
+	B: Sables alluvionnaires et graviers fluviatiles
+	B: Bétons recyclés et sables marins
+	G: Roches volcaniques, plutoniques, métamorphiques et sédimentaires
+	B: Roches uniquement sédimentaires
+	C: Les granulats massifs peuvent provenir d’une large gamme de roches : volcaniques (basalte), plutoniques (granite), métamorphiques (quartzite) et sédimentaires (calcaire).
+
+Q: Que contient la catégorie des granulats de recyclage ?
+	G: Bétons et enrobés issus de chantiers de démolition
+	G: Laitiers de haut-fourneau
+	B: Sables et graviers du littoral
+	B: Roches massives comme le granite
+	B: Alluvions glaciaires
+	C: Les granulats de recyclage incluent des matériaux réutilisés comme les bétons et enrobés provenant de chantiers de démolition, ainsi que les laitiers de haut-fourneau, qui sont des sous-produits industriels valorisés. Les autres options (sables, graviers ou roches massives) relèvent de sources naturelles.
+
+Q: Où est interdite l’extraction des sables et graviers fluviatiles en France ?
+	B: En bordure des littoraux
+	B: En lit majeur des rivières
+	G: En lit mineur des rivières
+	B: Dans les alluvions glaciaires
+	C: L'extraction des sables et graviers est interdite en lit mineur des rivières, car cette zone est directement en contact avec le cours d'eau et joue un rôle essentiel dans la dynamique fluviale et la préservation des écosystèmes aquatiques. En revanche, l'extraction est permise en lit majeur (les zones adjacentes aux rivières, souvent inondées).
+
+
+Q: Quelle est l’origine des granulats de roches meubles ?
+	G: Des roches désagrégées naturellement par l’altération et le transport
+	B: Des roches extraites directement en carrière et concassées
+	B: Des matériaux synthétiques fabriqués industriellement
+	B: Des déchets de construction recyclés
+	C: Les granulats de roches meubles proviennent de processus naturels comme l'altération et l’érosion, contrairement aux granulats massifs, qui nécessitent un concassage en carrière.
+
+Q: Quels sont des exemples typiques de granulats de roches massives ?
+	B: Sables et graviers alluvionnaires
+	G: Basalte, granite, calcaire
+	B: Sables du littoral
+	B: Alluvions glaciaires
+	C: Les granulats massifs sont issus de roches dures comme le basalte ou le granite, alors que les granulats meubles incluent les sables et graviers alluvionnaires.
+	
+
+Q: Comment sont extraits les granulats de roches massives ?
+	B: Par dragage dans les lits majeurs des rivières
+	B: Par lavage des sables littoraux
+	G: Par concassage de roches dures prélevées en carrière
+	B: Par collecte dans des dépôts naturels
+	C: Les granulats massifs sont produits en concassant des blocs de roche solides extraits en carrière, un processus bien plus mécanisé que pour les granulats meubles.
+
+
+Q: Qu'est-ce que le laitier de haut-fourneau ?
+	B: Un type de sable utilisé dans la construction
+	B: Un matériau dérivé de la fusion de métaux
+	G: Un sous-produit de la production de fer dans les hauts-fourneaux
+	B: Une roche volcanique utilisée pour les fondations
+	C: Les laitiers de haut-fourneau proviennent directement des hauts-fourneaux, où ils sont produits lors de la transformation du minerai de fer. C'est un sous-produit de la production de fer dans les hauts-fourneaux, utilisé dans la construction, notamment comme granulat pour les bétons et enrobés. Les autres réponses sont incorrectes car elles ne décrivent pas précisément ce matériau.
+
+Q: Quelle est l'utilisation principale des laitiers de haut-fourneau ?
+	G: La fabrication de ciment et de béton
+	B: La production de verre
+	B: L'extraction de métaux précieux
+	G: L'utilisation comme granulat dans la construction et les enrobés
+	C: Le laitier de haut-fourneau est principalement utilisé comme granulat dans les bétons, enrobés et autres matériaux de construction. Il peut aussi être utilisé dans la fabrication de ciment, mais son rôle principal est celui de granulat dans les bétons.
+
+Q: Pourquoi les laitiers de haut-fourneau sont-ils utilisés dans la construction ?
+	B: Parce qu'ils sont légers et facilement transportables
+	G: Parce qu'ils possèdent des propriétés similaires à celles des granulats naturels, avec une bonne résistance mécanique
+	B: Parce qu'ils sont peu coûteux à produire
+	B: Parce qu'ils sont inflammables et résistants à la chaleur
+	C: Les laitiers de haut-fourneau sont utilisés dans la construction en raison de leurs bonnes propriétés mécaniques, qui les rendent adaptés comme granulats. Ce n'est pas pour leur légèreté, leur coût ou leur résistance à la chaleur. Is peuvent être aussi utilisés comme matière première dans la fabrication du ciment
+
+Q: Quel est un avantage environnemental des laitiers de haut-fourneau ?
+	B: Ils sont biodégradables et ne polluent pas l'environnement
+	G: Ils permettent de recycler un sous-produit industriel
+	B: Ils sont produits à partir de ressources renouvelables
+	B: Ils sont entièrement compostables et ne laissent aucun résidu
+	C: L'avantage environnemental majeur des laitiers de haut-fourneau est leur recyclage en tant que sous-produit industriel. Cela contribue ainsi à la réduction des déchets et à la diminution de la demande pour l'extraction de granulats naturels. Les autres options sont incorrectes car elles ne décrivent pas un aspect réel du laitier.
+
+

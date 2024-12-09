@@ -1,0 +1,137 @@
+TITLE0: QCM : QCM Géoressources
+TITLE1: QCM : Le Droit Minier - Auto-évaluation
+TITLE2: Que dit le Code Minier ?
+
+UP: ../fiche05.html
+PREV:qcm01.html
+NEXT:
+
+NOSHUFFLE
+	
+Q: Que signifie l'acronyme ICPE ?  
+	I: images/p001.jpg && 
+	B: Installations Contrôlées pour la Protection de l'Environnement  
+	G: Installations Classées pour la Protection de l'Eau  
+	B: Implantations des Carrières et Petites  Exploitations  
+	B: Inspections des Carrières pour la Préservation de l'Environnement
+	C: La bonne réponse est "Installations Classées pour la Protection de l'Environnement". Ces installations sont soumises à des réglementations strictes pour limiter leur impact sur l'environnement.
+
+Q: Les mines sont-elles soumises au régime des ICPE ?  
+	B: Oui, les mines sont exclusivement régies par les ICPE  
+	G: Non, les mines relèvent principalement du Code Minier  
+	B: Oui, uniquement si elles exploitent des substances énergétiques  
+	B: Non, les mines ne sont soumises à aucune réglementation spécifique  
+	C: La bonne réponse est "Non, les mines relèvent principalement du Code Minier". Cependant, certaines installations annexes à une mine peuvent relever des ICPE.
+	
+Q: Les carrières sont-elles considérées comme des ICPE ?  
+	B: Non, elles sont uniquement régies par le Code Minier  
+	G: Oui, elles sont souvent classées comme ICPE
+	B: Non, elles ne sont soumises à aucune réglementation spécifique  
+	B: Oui, mais uniquement si elles produisent des métaux précieux  
+	C: La bonne réponse est "Oui, elles sont souvent classées comme ICPE" en raison de leur impact environnemental. Elles relèvent de la rubrique 2510 de la nomenclature des ICPE.
+	
+Q: Quel est l’objectif principal de la loi n°2017-1839 ?  
+	I: images/p000.png &&
+	B: Autoriser l’exploitation des hydrocarbures non conventionnels  
+	B: Encourager la recherche sur les hydrocarbures en France  
+	G: Mettre fin à la recherche et à l’exploitation des hydrocarbures  
+	B: Réformer uniquement le secteur de l’électricité  
+	C: La bonne réponse est "Mettre fin à la recherche et à l’exploitation des hydrocarbures". La loi vise à interdire progressivement ces activités pour répondre aux enjeux climatiques.
+	
+Q: Qu'est-ce qu'une concession dans le Code Minier ?  
+	B: Une autorisation permettant à une personne d'exploiter des ressources en eau  
+	B: Une licence de construction pour des installations de traitement de minerais
+	G: Une autorisation permettant à une personne d'exploiter des substances minérales ou fossiles dans un périmètre défini  
+	B: Un contrat pour la gestion des déchets miniers
+	C: La bonne réponse est "Une autorisation permettant à une personne d'exploiter des substances minérales ou fossiles dans un périmètre défini". La concession donne un droit exclusif d'exploitation des ressources minérales sur un terrain.
+	
+Q: Une concession minière peut-elle être accordée pour une durée indéfinie ?  
+	B: Oui, elle est automatiquement renouvelée sur demande de l'exploitant 
+	B: Oui, si l'exploitation est réalisée dans un cadre écologique strict  
+	G: Non, elle est accordée pour une durée déterminée, mais peut être renouvelée sous certaines conditions  
+	B: Non, les concessions sont toujours limitées à 10 ans  
+C: La bonne réponse est "Non, elle est accordée pour une durée déterminée, mais peut être renouvelée sous certaines conditions". La durée de la concession est limitée, mais elle peut être prolongée sous conditions.
+
+Q: Quelle est l'une des obligations liées à une concession minière ?  
+	B: Obligation de créer un réseau d'évacuation des déchets  
+	G: Obligation de payer des redevances à l'État  
+	B: Obligation d'embaucher uniquement des travailleurs locaux  
+	B: Obligation de remettre les terrains dans leur état initial après l'exploitation  
+	C: La bonne réponse est "Obligation de payer des redevances à l'État". Le titulaire d'une concession doit également respecter des conditions environnementales.
+
+Q: Quelles installations sont soumises au régime légal des mines ?  
+	B: Les installations produisant de l'énergie nucléaire  
+	G: les gîtes géothermiques et les stockages souterrains d'énergie calorifique
+	B: Les installations de géothermie utilisant des capteurs solaires  
+	B: Les installations de géothermie utilisant des pompes à chaleur  
+	C: La bonne réponse est "Les stockages souterrains d'énergie calorifique et les gîtes géothermiques". Ces installations relèvent du régime légal des mines en vertu de leur capacité à extraire ou échanger de l'énergie thermique.
+
+Q: Quelles sont les conditions d'obtention d'une concession ?  
+	B: Elle est accordée automatiquement sans enquête publique  
+	G: Elle est accordée après enquête publique et respect des conditions générales et spécifiques  
+	B: Elle est accordée uniquement si le demandeur respecte des conditions économiques et sociales  
+	B: Elle est accordée uniquement à l'issue d'une étude d'impact économique et social sans enquête publique  
+	C: La bonne réponse est "Elle est accordée après enquête publique et respect des conditions générales et spécifiques". La concession nécessite une enquête publique et un engagement sur des conditions spécifiques.
+	
+Q: À partir de quelle date l'exploration et l’exploitation des hydrocarbures prendra fin en France ?
+	B: 1er janvier 2030.
+	G:  1er janvier 2040.
+	B: 1er janvier 2035.
+	B: 1er janvier 2025.
+	C: La bonne réponse est "1er janvier 2040".	
+	
+Q:  Dans quel cas un propriétaire en France est-il également propriétaire du sous-sol de son terrain ?
+	G: Lorsqu’il s’agit de substances relevant du régime des carrières.
+	B: Lorsqu’il s’agit de toutes les ressources minérales ou fossiles présentes sous son terrain.
+	B: Lorsqu’il détient une autorisation administrative spéciale.
+	B: Lorsqu’il s’agit de gisements géothermiques profonds.
+	C: La bonne réponse est "Lorsqu’il s’agit de substances relevant du régime des carrières".	
+
+Q: Quelles substances sont laissées à la libre disposition du propriétaire du terrain en France ?
+	G: Les substances de carrières comme le sable et le gravier.
+	B: Les hydrocarbures présents dans le sous-sol.
+	B: Les ressources géothermiques profondes.
+	B: Les minerais stratégiques comme l’uranium.
+	C: La bonne réponse est "Les substances de carrières comme le sable et le gravier".
+	
+Q:  Quelle est la durée initiale d’un permis exclusif de recherches de mines en France ?
+	G: Maximum 5 ans.
+	B: Maximum 10 ans.
+	B: Maximum 3 ans.
+	B: Maximum 15 ans.
+	C: La durée initiale d’un permis exclusif de recherches est de maximum 5 ans, selon le Code minier.
+
+Q:  Est-il possible de prolonger la durée d’un permis exclusif de recherches de mines ?
+	B: Non, une fois expiré, le permis ne peut pas être renouvelé.
+	B: Oui, mais uniquement pour 1 année supplémentaire.
+	G: Oui, avec une ou plusieurs prolongations, sous certaines conditions.
+	B: Non, sauf dans le cadre d’une concession immédiate.
+	C: La bonne réponse est "Oui, avec une ou plusieurs prolongations, sous certaines conditions".
+
+Q:  Quelle est la durée maximale totale qu’un permis exclusif de recherches peut atteindre avec des prolongations en France ?
+	B: 10 ans.
+	G: 15 ans.
+	B: 20 ans.
+	B: 25 ans.
+	C: La durée totale d’un permis exclusif de recherches, incluant les prolongations, ne peut dépasser 15 ans.
+
+QUESTION 4 : Que doit prouver le titulaire pour demander une prolongation de son permis exclusif de recherches ?
+	B: Qu’il a découvert un gisement exploitable.
+	B: Qu’il a payé toutes les taxes liées au permis.
+	G: Qu’il a réalisé les travaux prévus dans le cadre du permis initial.
+	B: Qu’il a obtenu une autorisation environnementale préalable.
+	C: La bonne réponse est "Qu’il a réalisé les travaux prévus dans le cadre du permis initial".
+
+Q:  Que se passe-t-il si le titulaire ne respecte pas les conditions du permis exclusif de recherches ?
+	B: Le permis est suspendu temporairement.
+	B: Le titulaire reçoit une amende administrative.
+	G: Le permis peut être retiré par l’autorité compétente.
+	B: Le permis est automatiquement prolongé pour permettre la régularisation.
+	C: En cas de non-respect des conditions, le permis peut être retiré par l’autorité compétente.
+
+
+
+
+
+	
+

@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QCM : QCM Matériaux de Carrière</title>
+    <link rel="stylesheet" href="../../../css/styleqcm1.css">
+</head>
+<body>
+
+<div class="nav-buttons">
+    <a href="../fiche01.html"   class="nav-button"  >Retour</a>
+    <a href="qcm01.html" class="nav-button"  >Page précédente</a>
+    <a href="qcm03.html" class="nav-button"  >Page suivante</a>
+</div>
+
+<div class="container">
+    <h1>QCM : Matériaux de Carrière - Auto-évaluation</h1>
+    <h2>Les granulats (2)</h2>
+    <form id="qcm-form">
+        <div class="question-box" id="q1-box">
+            <div class="question">1. Quelle est l'origine principale des granulats marins ?</div>
+			<div class="image-container">
+				<img class="question-image" src="images/e1.png" alt="Image pour la question 1" onclick="openModal(this);">
+				<p class="image-caption">Carte des exploitations sous-marines de granulats actives en 2018</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q1" value="A"> A) D'anciens dépôts sédimentaires d'origine continentale. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q1" value="B"> B) Des dépôts sous-marins de retombées volcaniques </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q1" value="C"> C) Des débris de coquilles calcaires. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q1" value="D"> D) D'anciennes barrières récifales désagrégées </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les granulats marins proviennent principalement d'anciens dépôts fluviatiles et glaciaires recouverts par la mer. Une seconde partie est issue de restes calcaires d'anciens organismes vivants, qui ont été déplacés par les courants et déposés dans des zones d'énergie plus calme. Cela donnera des accumulations sous forme de dunes sous-marines.</p>
+		</div>
+        <div class="question-box" id="q2-box">
+            <div class="question">2. Où sont principalement localisées les ressources en granulats marins ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="C"> A) A proximité des dorsales océaniques </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="D"> B) Au pied du talus continenal </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="B"> C) Dans les fosses sous-marines </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="A"> D) Dans l'axe d'anciennes vallées fluviatiles </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La majeure partie des granulats marins exploités en France proviennent d'anciennes vallées fluviatiles sur la partie du plateau continental qui était alors émergé lors des époques glaciaires, mais qui sont maintenant sous l'eau.</p>
+		</div>
+        <div class="question-box" id="q3-box">
+            <div class="question">3. Une partie des granulats marins provient de dunes hydrauliques, mais que sont les dunes hydrauliques ?</div>
+			<div class="image-container">
+				<img class="question-image" src="images/e4.jpg" alt="Image pour la question 3" onclick="openModal(this);">
+				<p class="image-caption">Schéma de dunes hydrauliques</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="C"> A) Des dunes artificielles </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="B"> B) D'anciennes dunes éoliennes englouties par les eaux lors de la remontée de la mer </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="A"> C) Des dunes formées par la houle et les courants de marée. </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="D"> D) Des dunes littorales </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les dunes hydrauliques sont des dunes sous-marines formées par la redistribution et le remaniement des sédiments marins sous l'effet de la houle et des courants de marée. Elles peuvent prendre des formes variées et sont influencées par l’hydrodynamisme local.</p>
+		</div>
+        <div class="question-box" id="q4-box">
+            <div class="question">4. Qu'est-ce que l'on appelle le maërl ?</div>
+			<div class="image-container">
+				<img class="question-image" src="images/e2.jpg" alt="Image pour la question 4" onclick="openModal(this);">
+				<p class="image-caption">Tas de maërl</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="B"> A) Des dépôts sous-marins sableux formés de débris de squelettes calcaires d'algues mélangés avec des fragments de coquilles de Mollusques </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="C"> B) Des amas détritiques qui gênent l'exploitation des granulats sous-marins </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="D"> C) Des dépôts sous-marins sableux et siliceux </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="A"> D) Un type de dépôts volcaniques granulaires sous-marins, constituant une source recherchée de granulats marin </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le maërl est une accumulation formée de fragments de squelettes calcaires d'Algues mélangée avec des sables coquilliers.</p>
+		</div>
+        <div class="question-box" id="q5-box">
+            <div class="question">5. Qu'est-ce qui constitue le constituant de base du maërl ?	</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="C"> A) Des cristaux de silice. </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="B"> B) Des oolithes calcaires </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="A"> C) Des coquilles de mollusques marins. </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="D"> D) Des fragments d'algues rouges calcaires. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le maërl est un écosystème formé par des algues rouges qui édifient des structures calcaires complexes. L'accumulation de ces fragments calcaire forme des dépôts sous-marins, également désignés sous le terme de "maërl". Cet écosystème et ces dépôts jouent un rôle crucial dans la biodiversité marine en fournissant des habitats pour de nombreuses espèces.</p>
+		</div>
+        <div class="question-box" id="q6-box">
+            <div class="question">6. Pourquoi le maërl est une ressource si recherchée ?</div>
+			<div class="image-container">
+				<img class="question-image" src="images/e5.png" alt="Image pour la question 6" onclick="openModal(this);">
+				<p class="image-caption">Carte des gisements de maërl et de sables calcaires en Bretagne dans les années 80</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="C"> A) Parce qu'il est un excellent amendement pour les sols, en raison de sa forte teneur en calcium. </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="B"> B) Parce qu'il est riche en minéraux nécessaires à la production de ciment. </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="D"> C) Parce qu'il contient des terres rares utilisées dans l'industrie électronique. </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="A"> D) Parce qu'il est utilisé dans la fabrication de verre. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le maërl est un sable coquillier calcaire, riche en magnésium, fer et autres oligo-éléments, et à ce titre, il constitue un très bon amendement pour la croissance des plantes.</p>
+		</div>
+        <div class="question-box" id="q7-box">
+            <div class="question">7. Est-ce que l'extraction de maërl est en plein essor actuellement en France ?	</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="D"> A) Oui, mais les alternatives au maërl sont maintenant préférées. </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="C"> B) Non, car son extraction est interdite en France </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="B"> C) Oui, car il est largement utilisé dans l'industrie de la construction. </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="A"> D) Oui, en raison de la forte demande pour les sols agricoles. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le maërl n'est plus exploité en France depuis 2013 en raison de ses impacts environnementaux sur la biodiversité.</p>
+		</div>
+        <div class="question-box" id="q8-box">
+            <div class="question">8. Pourquoi l'exploitation du maërl est si nuisible à l'environnemennt ?</div>
+			<div class="image-container">
+				<img class="question-image" src="images/e6.jpg" alt="Image pour la question 8" onclick="openModal(this);">
+				<p class="image-caption">Les algues rouges calcaires du maërl</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="D"> A) Parce que son exploitation détruit un écosystème sous-marin et nuit à la biodiversité </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="B"> B) Parce que son extraction détruit les habitats marins et perturbe les écosystèmes sous-marins. </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="C"> C) Parce son exploitation augmente les émissions de gaz à effet de serre dans l'atmosphère. </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="A"> D) Parce que le maërl pollue les sols et les nappes phréatiques. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le maërl forme un écosystème unique composé d'algues rouges qui construisent des arbuscules à paroi calcaire. Ces structures constituent des habitats propices au développement de diverses espèces marines. Cependant, l'extraction du maërl entraîne la destruction de ces fonds marins, fragilisant ainsi la biodiversité locale.</p>
+		</div>
+        <div class="question-box" id="q9-box">
+            <div class="question">9. Comment le secteur de l'agriculture biologique s'est-il adapté à la nouvelle situation réglementaire sur l'extraction du maërl ?</div>
+			<div class="image-container">
+				<img class="question-image" src="images/e3.png" alt="Image pour la question 9" onclick="openModal(this);">
+				<p class="image-caption">Maërl vendu en agriculture biologique</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="D"> A) En important du maërl étranger provenant de zones sous-marines non protégées </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="C"> B) En adoptant des pratiques agricoles favorisant la conservation du maërl existant et en se tournant vers des amendements organiques alternatifs. </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="A"> C) En augmentant l'utilisation d'engrais chimiques pour compenser la pénurie de maërl. </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="B"> D) En recherchant des substituts au maërl </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> L'agriculture biologique est très friande de maërl pour la fertilisation des sols. Mais en raison des dégâts environnementaux causées par l'extraction du maërl, il serait normal d'interdire son utilisation en agriculture biologique.</p>
+		</div>
+        <div class="question-box" id="q10-box">
+            <div class="question">10. À quelle époque l'exploitation des granulats marins a-t-elle connu un essor notable ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="C"> A) Durant les années 1980. </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="A"> B) À la fin du XIXe siècle. </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="B"> C) Dans les années 2000. </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="D"> D) Durant les années 1960. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Bien que l'exploitation ait commencé au XIXe siècle, elle s'est développée dans les années 2000 grâce à l'impulsion de l'État.</p>
+		</div>
+        <div class="question-box" id="q11-box">
+            <div class="question">11. Quelle est la quantité annuelle approximative de granulats marins extraits en France ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="C"> A) 4 millions de mètres cubes. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="D"> B) 20 millions de mètres cubes. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="A"> C) 2 millions de mètres cubes. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="B"> D) 10 millions de mètres cubes. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> L'extraction reste modérée en France, avec environ 4 millions de mètres cubes par an (chiffres de 2002).</p>
+		</div>
+        <div class="question-box" id="q12-box">
+            <div class="question">12. Pourquoi les granulats riches en silice réactive posent-ils problème dans le béton ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="D"> A) Ils augmentent la perméabilité du béton dès le début. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="B"> B) Ils peuvent réagir avec les alcalis du ciment pour former un gel expansif. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="A"> C) Ils provoquent la corrosion des armatures métalliques. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="C"> D) Ils diminuent la résistance initiale du béton. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La réaction alcali-silice (RAS) provoque la formation d’un gel expansif qui engendre des fissures dans le béton, diminuant sa durabilité.</p>
+		</div>
+        <div class="question-box" id="q13-box">
+            <div class="question">13. Qu'est-ce que l'on appelle la "silice réactive" dans le cas des granulats</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="C"> A) De la silice contenue dans le quartz </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="B"> B) De la silice contenue dans les feldspaths </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="D"> C) De la silice métastable contenue dans des polymorphes du quartz (cristobalite, tridymite, etc) </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="A"> D) De la silice amorphe ou mal cristallisée </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La "silice réactive" est de la silice amorphe ou mal cristallisée, chimiquement instable, et que l'on retrouve dans des minéraux comme l'opale ou la calcédoine, ou des roches comme les cherts, les silex, etc</p>
+		</div>
+        <div class="question-box" id="q14-box">
+            <div class="question">14. Pourquoi la silice réactive, éventuellement présente dans les granulats, va poser problème pour la confection de bétons ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="A"> A) Elle diminue la résistance mécanique initiale du béton. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="B"> B) Elle réagit avec les alcalis du ciment pour former un gel expansif, provoquant des fissures. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="C"> C) Elle empêche l’hydratation correcte du ciment. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="D"> D) Elle accélère la prise du béton, rendant son application difficile. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La silice réactive réagit avec les alcalis du ciment en présence d'humidité pour produire un gel qui gonfle avec le temps. Ce phénomène, appelé réaction alcali-silice (RAS), cause des fissures dans le béton et réduit sa durabilité. Cette réaction va diminuer la résistance mécanique du béton seulement sur le long terme.</p>
+		</div>
+        <div class="question-box" id="q15-box">
+            <div class="question">15. Qu'est-ce que l'on appelle les alcalis ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="B"> A) Des groupements hydroxyls -OH que l'on retrouve aussi dans les alcools. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="C"> B) Des oxydes ou hydroxydes de calcium et de baryum présents dans le ciment. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="D"> C) Des carbonates alcalino-terreux contenus dans les granulats. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="A"> D) Des oxydes ou hydroxydes de sodium et de potassium présents dans le ciment. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les alcalis sont principalement des oxydes (Na₂O et K₂O) présents dans le ciment. En milieu aqueux, ils libèrent des ions hydroxydes qui augmentent le pH, favorisant la réaction alcali-silice en présence de granulats siliceux réactifs.	</p>
+		</div>
+        <div class="question-box" id="q16-box">
+            <div class="question">16. Qu'est-ce qu'un gel en physique-chimie ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="D"> A) Un système liquide contenant des inclusions solides non connectées entre elles. </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="C"> B) Un mélange liquide où les molécules solides flottent librement sans structure définie.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="B"> C) Une substance homogène purement solide formée uniquement de molécules mal cristallisées et mal agencées.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="A"> D) Une matière hétérogène formée d'un milieu solide imbriquée avec du liquide </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> En physique-chimie, un gel est un système complexe et stable où un réseau tridimensionnel solide piège un liquide (solvant), lui donnant une structure unique. Ce type de matériau combine des propriétés à la fois solides et liquides, permettant de multiples applications industrielles et scientifiques.</p>
+		</div>
+        <div class="question-box" id="q17-box">
+            <div class="question">17. Est-ce que la formation d'un gel interstitiel dans le béton est une bonne chose ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="B"> A) Non, car l'expansion du gel interstitiel peut provoquer des tensions internes et réduire la durabilité du béton.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="C"> B) Oui, car cela permet d'améliorer la résistance du béton en comblant les espaces vides.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="D"> C) Oui, car cela imperméabilise le béton et empêche sa dégradation par infiltration des eaux extérieures </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="A"> D) Oui, car cela remplit et comble les fissures qui peuvent apparaître après la prise du ciment </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La formation d'un gel interstitiel dans le béton, notamment via la réaction alcali-silice, est problématique. Ce gel peut se dilater et exercer des contraintes internes sur le béton, ce qui peut provoquer des fissures et détériorer la structure, affectant ainsi la performance et la durabilité du matériau.	</p>
+		</div>
+        <div class="question-box" id="q18-box">
+            <div class="question">18. Qu'est-ce que la réaction alcali-silice (RAS) qui peut parfois se développer dans les bétons ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q18" value="A"> A) La RAS est une réaction chimique entre les alcalis présents dans le ciment et les minéraux siliceux réactifs dans les granulats, entraînant la formation d'un gel qui peut se dilater et fissurer le béton. </label>
+                <label><input type="radio" class="checkbox-margin" name="q18" value="B"> B) La RAS est une réaction chimique qui provoque l'hydratation des silicates contenus dans le béton, rendant la structure plus résistante. </label>
+                <label><input type="radio" class="checkbox-margin" name="q18" value="D"> C) La RAS est une réaction entre les sels présents dans l'eau et les agrégats 	utilisés dans le béton, créant une réaction bénéfique pour la durabilité du béton. </label>
+                <label><input type="radio" class="checkbox-margin" name="q18" value="C"> D) La RAS est un phénomène où les ions calcium réagissent avec les silicates des granulats, provoquant une augmentation de la résistance du béton. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La réaction alcali-silice (RAS) survient lorsque les alcalis (sodium et potassium) présents dans le ciment réagissent avec certains minéraux siliceux présents dans les granulats, principalement les silices amorphes ou microcristallines. Cette réaction produit un gel qui, en se dilatant, peut provoquer des fissures et altérer la durabilité du béton, réduisant ainsi sa résistance mécanique et sa pérennité.</p>
+		</div>
+        <div class="question-box" id="q19-box">
+            <div class="question">19. Quelle est la principale conséquence de la réaction alcali-silice (RAS) sur le béton ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="B"> A) Augmentation de la résistance au gel/dégel. </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="D"> B) Augmentation de la résistance mécanique. </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="A"> C) Apparition de fissures et perte de durabilité. </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="C"> D) Protection contre la corrosion directe des granulats. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La RAS est caractérisée par une expansion différée, qui provoque des fissures et altère les propriétés mécaniques du béton.</p>
+		</div>
+        <div class="question-box" id="q20-box">
+            <div class="question">20. Quels types de granulats peuvent causer des problèmes en raison de leur composition chimique ?</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q20" value="C"> A) Roches sédimentaires contenant de la silice mal cristallisée (ex. : cherts). </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q20" value="D"> B) Roches riches en quartz cristallisé. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q20" value="A"> C) Roches volcaniques riches en silice amorphe (ex. : obsidienne). </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q20" value="B"> D) Roches carbonatées magnésiennes. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+		</div>
+        <div class="question-box" id="q21-box">
+            <div class="question">21. Quels sont les facteurs nécessaires pour que la réaction alcali-silice se produise ?</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q21" value="B"> A) Présence de granulats contenant de la silice réactive. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q21" value="D"> B) Une température ambiante inférieure à 0 °C. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q21" value="C"> C) Humidité suffisante. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q21" value="A"> D) Présence d'alcalis dans le ciment. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La RAS nécessite des alcalis, une source de silice réactive et de l'humidité pour se développer.</p>
+		</div>
+        <div class="question-box" id="q22-box">
+            <div class="question">22. Pourquoi les granulats contenant des substances carbonatées magnésiennes posent-ils problème ?</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q22" value="C"> A) Ils accélèrent la prise du béton. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q22" value="D"> B) Ils réduisent la résistance finale du béton sans autre effet. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q22" value="B"> C) Ils peuvent provoquer une désintégration interne due à des réactions chimiques lentes. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q22" value="A"> D) Ils peuvent interagir avec les alcalis pour former des produits expansifs. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Ces granulats peuvent entraîner des réactions lentes avec les alcalis, provoquant des expansions différées ou des altérations chimiques.</p>
+		</div>
+        <div class="question-box" id="q23-box">
+            <div class="question">23. Quelles sont les solutions pour prévenir la réaction alcali-silice dans le béton ?</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q23" value="A"> A) Utiliser des granulats non réactifs. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q23" value="D"> B) Incorporer des matériaux pouzzolaniques comme les cendres volantes ou les fumées de silice. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q23" value="C"> C) Ajouter plus d’eau au mélange pour diluer les alcalis. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q23" value="B"> D) Réduire la teneur en alcalis dans le ciment. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les matériaux pouzzolaniques réagissent avec les alcalis, réduisant leur disponibilité pour la RAS. Utiliser des granulats non réactifs est aussi une approche directe et efficace.</p>
+		</div>
+
+        <div class="buttons">
+            <button type="button" onclick="evaluateQCM()">Corriger</button>
+            <button type="button" onclick="resetTest()">Recommencer</button>
+        </div>
+
+    </form>
+    <p id="result"></p>
+</div>
+
+<footer>
+    RocksandWalk - @ <script> document.write(new Date().getFullYear())</script> - Régis THIÉRY
+</footer>
+
+<script>
+    function evaluateQCM() {
+        const correctAnswers = {
+            "q1": ["A", "C"],
+            "q2": ["A"],
+            "q3": ["A"],
+            "q4": ["B"],
+            "q5": ["D"],
+            "q6": ["C"],
+            "q7": ["C"],
+            "q8": ["D"],
+            "q9": ["D"],
+            "q10": ["B"],
+            "q11": ["C"],
+            "q12": ["B"],
+            "q13": ["A"],
+            "q14": ["B"],
+            "q15": ["A"],
+            "q16": ["A"],
+            "q17": ["B"],
+            "q18": ["A"],
+            "q19": ["A"],
+            "q20": ["C", "A", "B"],
+            "q21": ["B", "C", "A"],
+            "q22": ["B", "A"],
+            "q23": ["A", "D", "B"],
+        };
+        
+
+        let score = 0;
+
+        function generateFeedbackText(goodAnswers, goodCount, questionBox) {
+            // Fonction utilitaire pour récupérer les 3 premières lettres d'une réponse
+    
+            function getAnswerLabel(value) {
+                const label = questionBox.querySelector(`input[value="${value}"]`).parentNode;
+                return label.textContent.trim().slice(0, 3); // Extrait les 3 premières lettres (ex: "A)")
+            }
+
+            if (goodAnswers.length === 0) {
+                return "Pas de bonne réponse !";
+            }
+
+            const formattedAnswers = goodAnswers.map(answer => getAnswerLabel(answer));
+
+            if (goodAnswers.length === 1) {
+                return `${formattedAnswers[0]} est ${goodCount === 1 ? "la" : "une"} bonne réponse.`;
+            }
+
+            if (goodAnswers.length > 1) {
+                return `${formattedAnswers.slice(0, -1).join(", ")} et ${formattedAnswers[formattedAnswers.length - 1]} sont de bonnes réponses.`;
+            }
+
+            return "";
+            }
+
+
+        for (let question in correctAnswers) {
+            const selected = Array.from(document.querySelectorAll(`input[name="${question}"]:checked`)).map(e => e.value);
+            const questionBox = document.getElementById(`${question}-box`);
+            const correctOptions = correctAnswers[question];
+            
+            const goodAnswers = selected.filter(val => correctOptions.includes(val));
+            let feedback = generateFeedbackText(goodAnswers, correctOptions.length, questionBox);
+
+            let isCorrect = selected.length === correctOptions.length && correctOptions.every(option => selected.includes(option));
+            questionBox.classList.toggle("correct", isCorrect);
+            questionBox.classList.toggle("incorrect", !isCorrect);
+
+            selected.forEach(val => {
+                const optionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (correctOptions.includes(val)) {
+                    optionLabel.style.fontWeight = "bold";
+                } else {
+                    optionLabel.classList.add("strikethrough");
+                }
+            });
+
+            correctOptions.forEach(val => {
+                const correctOptionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (!selected.includes(val)) {
+                    correctOptionLabel.style.fontWeight = "bold";
+                }
+            });
+
+            const correctAnswerLabel = questionBox.querySelector('.correct-answer');
+            const feedbackLabel = questionBox.querySelector('.feedback');
+            const commentBox = questionBox.querySelector('.comment');
+            if (feedbackLabel) {
+                feedbackLabel.style.display = 'block';
+                feedbackLabel.innerHTML = feedback;
+            }
+            if (commentBox) {
+                commentBox.style.display = 'block';
+            }
+           
+            // Mappage des bonnes réponses avec les lettres (A, B, C, D)
+            const correctAnswerLabels = correctOptions.map(val => {
+                const label = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                const text = label.textContent.trim();
+                return `${text}`;
+                });
+
+
+            let correctAnswerText = correctOptions.length === 1 
+                ? `Bonne réponse : ${correctAnswerLabels.join("; ")}`
+                : `Bonnes réponses : ${correctAnswerLabels.join("; ")}`;
+            
+            correctAnswerLabel.innerHTML = correctAnswerText;
+            correctAnswerLabel.style.display = 'block';
+
+            if (isCorrect) score+=goodAnswers.length;
+        }
+
+        const totalValues = Object.values(correctAnswers).reduce((acc, curr) => acc + curr.length, 0);
+        const result = document.getElementById("result");
+
+        if (score === 0) {
+            result.textContent = `Vous n'avez obtenu aucune bonne réponse sur ${totalValues}.`;
+        } else if (score === 1) {
+            result.textContent = `Vous avez obtenu 1 bonne réponse sur ${totalValues}.`;
+        } else {
+            result.textContent = `Vous avez obtenu ${score} bonnes réponses sur ${totalValues}.`;
+        }
+    }
+
+    function resetTest() {
+        window.location.reload();
+    }
+
+    function openModal(imgElement) {
+        var modal = document.getElementById("imageModal");
+        var modalImg = document.getElementById("modalImage");
+        modal.style.display = "block";
+        modalImg.src = imgElement.src;  // Utiliser l'image cliquée
+    }
+
+    function closeModal() {
+        var modal = document.getElementById("imageModal");
+        modal.style.display = "none";
+    }
+
+</script>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RocksandWalk</title>
+    <link rel="stylesheet" href="./././css/styles.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Cours de Géologie<br>Sciences de la Terre et de l'Univers</h1>
+    <h2>Régis THIÉRY</h2>
+
+    <!-- Grille des cards -->
+    <div class="card-grid">
+        <div class="card">
+            <a href="TDU/page01.html">Cours Géologie<br>
+                <span class="subtitle">(Licence 1ère année)</span>
+            </a>
+        </div>
+        <div class="card">
+            <a href="GEOR/page01.html">Géoressources : énergie et matières premières<br>
+                <span class="subtitle">(Licence 2e année)</span>
+            </a>
+        </div>
+        <div class="card">
+            <a href="FS/page01.html">Géologie des Formations Superficielles<br>
+                <span class="subtitle">(Licence 3e année)</span>
+            </a>
+        </div>
+	</div> <!-- Fermeture de la grille de cartes -->
+</div>
+
+<footer class="footer">
+    <p><strong>RocksandWalk</strong> &copy; <span id="current-year"></span> | Régis THIÉRY</p>
+</footer>
+
+<script>
+    // Script pour afficher automatiquement l'année en cours
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>

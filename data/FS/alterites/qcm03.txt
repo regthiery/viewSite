@@ -1,0 +1,267 @@
+TITLE0: QCM : QCM Altération mécanique
+TITLE1: QCM : Altération mécanique - Auto-évaluation
+TITLE2: Altération, géodynamique et climat
+
+UP: fiche01.html
+PREV: qcm02.html
+NEXT: qcm04.html
+
+
+
+
+Q: Quelle est la nature de la liaison Si-O des tétraèdres SiO4 des silicates ?
+	G: C'est une liaison covalente
+	B: C'est une liaison ionique
+	B: C'est une liaison métallique
+	B: C'est une liaison H
+	C: C'est une liaison covalente qui résiste bien dans les solutions aqueuses.
+
+Q: Quelle est la nature des liaisons Na-O, K-O ou Ca-O dans les silicates ?
+	G: Ce sont des liaisons covalentes
+	B: Ce sont des liaisons ioniques
+	B: Ce sont des liaisons métalliques
+	B: Ce sont des liaisons H
+	C: Les alcalins et les alcalino-terreux sont des éléments électropositifs. Ils ne font pas de liaisons covalentes.
+	
+
+Q: Quel est le rapport atomique Si/Al moyen de la croûte d'une planète tellurique comme la Terre, Vénus, Mars, ... ?
+	G: 3
+	B: 1
+	B: 2
+	B: 4
+	C: La rapport atomique moyen Si/Al est de l'ordre de 3 dans les feldspaths, qui sont les minéraux les plus communs de la croûte terrestre et des autres planètes telluriques.
+
+Q: Quel est le comportement géochimique de l'ion Si<sup>4+</sup> lors de l'hydrolyse de silicates par des eaux de pH moyen ?
+	G: L'ion Si<sup>4+</sup> forme un complexe Si(OH)<sub>4</sub> modérément soluble dans l'eau
+	B: L'ion Si<sup>4+</sup> se dissout facilement dans l'eau
+	B: L'ion Si<sup>4+</sup> reste fermement lié à la structure cristalline et ne se dissout pas
+	B: L'ion Si<sup>4+</sup> est oxydée sous forme de silice amorphe.
+	C: L'ion Si<sup>4+</sup> forme un complexe Si(OH)<sub>4</sub> modérément soluble dans l'eau. Il est donc exporté.
+
+
+Q: Quel est le comportement géochimique de l'ion Al<sup>3+</sup> lors de l'hydrolyse de silicates par des eaux de pH moyen ?
+	G: L'ion Al<sup>3+</sup> forme un complexe Al(OH)<sub>3</sub> très peu soluble dans l'eau
+	B: L'ion Al<sup>3+</sup> passe directement en solution dans l'eau
+	B: L'ion Al<sup>3+</sup> reste fermement lié à la structure cristalline et ne se dissout pas
+	B: L'ion Al<sup>3+</sup> est oxydée sous forme d'alumine amorphe 
+	C: L'ion Al<sup>3+</sup> peut être considéré comme un ion immobile dans les processus d'hydrolyse.
+
+
+Q: Qu'est-ce que l'on appelle les alcalins ?
+	G: Les éléments de la première colonne du tableau périodique
+	B: Les éléments de la deuxième colonne du tableau périodique
+	B: Les éléments métallique dans la partie centrale du tableau périodique
+	B: Les éléments non métalliques comme le fluor et le chlore.
+	C: Les éléments de la 1ere colonne du tableau périodique comme Na<sup>+</sup> ou K<sup>+</sup>.
+
+Q: Qu'est-ce que l'on appelle les alcalino-terreux ?
+	B: Les éléments de la première colonne du tableau périodique
+	G: Les éléments de la deuxième colonne du tableau périodique
+	B: Les éléments métallique dans la partie centrale du tableau périodique
+	B: Les éléments non métalliques comme le fluor et le chlore.
+	C: Les éléments de la 2e colonne du tableau périodique comme le Ca<sup>2+</sup>.
+
+
+Q: Comment se comportent les alcalins et les alcalino-terreux lors de l'hydrolyse de roches silicatées ?
+	G: Ces cations migrent dans la solution aqueuse
+	B: Ces cations restent fermement liés à la structure cristalline des silicates.
+	B: Ces cations sont oxydés
+	B: Ces cations sont réduits
+	C: Ils sont dissous dans les solutions aqueuses
+
+Q: Que signifie le terme "bisiallitisation" ?
+	G: C'est une hydrolyse laissant un minéral résiduel ayant un rapport atomique moyen  Si/Al de 2.
+	B: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen  Si/Al de 3.
+	B: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen  Si/Al de 1.
+	B: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen  Si/Al de 0.
+	C: C'est une hydrolyse laissant des argiles TOT ayant un rapport Si/Al = 2
+
+
+Q: Que signifie le terme "monosiallitisation" ?
+	B: C'est une hydrolyse laissant un minéral résiduel ayant un rapport atomique moyen Si/Al  de 2.
+	B: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen Si/Al  de 3.
+	G: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen Si/Al  de 1.
+	B: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen Si/Al  de 0.
+	C: C'est une hydrolyse laissant des argiles TO ayant un rapport Si/Al = 1
+
+Q: Que signifie le terme "allitisation" ?
+	B: C'est une hydrolyse laissant un minéral résiduel ayant un rapport atomique moyen Si/Al de 2.
+	B: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen Si/Al  de 3.
+	B: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen Si/Al  de 1.
+	G: C'est une hydrolyse laissant un minéral résiduel  ayant un rapport atomique moyen Si/Al  de 0.
+	C: C'est une hydrolyse laissant un solide sans silicium, donc un rapport Si/Al = 0
+
+
+
+Q: L'hydrolyse des silicates est-elle une dissolution
+	G: incongruente ?
+	B: congruente ?
+	B: métacongruente ?
+	B: dyscongruente ?
+	C: C'est une réaction incongruente, car la dissolution n'est pas complète et laisse un solide résiduel ayant une composition différente du solide de départ.
+
+Q: Quel type de minéral résiduel produit la bisiallitisation ?
+	G: Des argiles TOT
+	B: Des argiles TO
+	B: Des oxydes et hydroxydes
+	B: Des carbonates
+	C: Des argiles TOT
+
+Q: Quel type de minéral résiduel produit la monosiallitisation ?
+	B: Des argiles TOT
+	G: Des argiles TO
+	B: Des oxydes et hydroxydes
+	B: Des carbonates
+	C: Des argiles TO
+
+Q: Quel type de minéral résiduel produit l'allitisation ?
+	B: Des argiles TOT
+	B: Des argiles TO
+	G: Des oxydes et hydroxydes
+	B: Des carbonates
+	C: Des oxydes et des hydroxyes, l'essentiel de la silice ayant été exporté.
+
+Q: Quel ion a un comportement géochimique très similaire au cation Al<sup>3+</sup> ?
+	G: L'ion ferrique Fe<sup>3+</sup>
+	B: L'ion ferreux Fe<sup>2+</sup>
+	B: L'ion Mg<sup>2+</sup>
+	B: L'ion Si<sup>4+</sup>
+	C: C'est l'ion ferrique Fe<sup>3+</sup> en raison d'une charge identique et d'une taille similaire
+
+Q: Comment équilibrer une réaction de bisiallitisation, monosiallitisation ou d'allitisation ?
+	G: On doit s'assurer qu'il y ait autant d'aluminium dans le minéral de départ que dans le le minéral résiduel.
+	B: On doit s'assurer qu'il y ait autant de silicium dans le minéral de départ que dans le le minéral résiduel.
+	B: On doit s'assurer que le rapport Si/Al reste identique dans le minéral de départ et le minéral résiduel.
+	B: On doit s'assurer qu'il y ait autant d'oxygène dans le minéral de départ que dans le le minéral résiduel.
+	C: L'aluminium est un ion insoluble dans les conditions de pH des eaux naturelles. Pour équilibrer une réaction d'hydrolyse, on s'assure d'avoir autant d'atomes d'aluminium dans la roche de départ que dans la roche d'arrivée.
+
+Q: Qu'est-ce que la bisiallitisation ?
+	G: Un processus de transformation des feldspaths en smectites.  
+	B: Un processus de transformation des feldspaths en kaolinite.
+	B: Un processus de transformation des feldspaths en gibbsite.  
+	C: La bisiallitisation est un processus de transformation chimique des feldspaths en smectites.
+
+Q: Qu'est-ce que la monosiallitisation ?
+	G: Un processus de transformation des feldspaths en smectites.  
+	B: Un processus de transformation des feldspaths en kaolinite.
+	B: Un processus de transformation des feldspaths en gibbsite.  
+	C: La monosiallitisation est un processus de transformation chimique des feldspaths en kaolinite.
+
+Q: Qu'est-ce que l'allitisation ?
+	B: Un processus de transformation des feldspaths en smectites.  
+	B: Un processus de transformation des feldspaths en kaolinite.
+	G: Un processus de transformation des feldspaths en gibbsite.  
+	C: L'allitisation est un processus de transformation chimique des feldspaths en gibbsite.
+
+
+
+
+Q: Qu'est-ce que la lixiviation ?
+	G: La migration des ions solubles par percolation d'eau dans la roche
+	B: La migration de particules fines par percolation d'eau dans la roche
+	B: L'apport d'ions solubles par percolation d'eau minérale dans la roche
+	B: La migration de particules fines par percolation d'eau minérale dans la roche
+	C: La lixiviation est un transport de matière sous forme ionique en solution dans l'eau
+
+Q: Qu'est-ce que le lessivage ?
+	B: La migration des ions solubles par percolation d'eau dans la roche
+	G: La migration de particules fines par percolation d'eau dans la roche
+	B: L'apport d'ions solubles par percolation d'eau minérale dans la roche
+	B: La migration de particules fines par percolation d'eau minérale dans la roche
+	C: Le lessivage est une migration de particules solides fines.
+
+Q: Est-ce que les processus de bisiallitisation, de monosiallitisation et d'allitisation sont ... ?
+	G: des processus de lixiviation
+	B: des processus de lessivage
+	B: des processus de lixiviation et de lessivage
+	B: ni l'une, ni l'autre
+	C: Des processus de lixiviation, car les éléments chimiques exportés (alcalins, alcalino-terreux et silice) sont entrainés sous forme ionique.
+
+Q: dans quel type de climat la monosiallitisation et l'allitisation se produit-elle généralement ?
+	G: Dans les climats chauds et humides
+	B: Dans les climats froids et secs.
+	B: Dans les climats arides
+	B: Dans les climats tempérés
+	C: Dans les climats chauds et humides, parce que ces processus d'hydrolyse demandent du temps et de l'eau.
+
+Q: dans quel type de climat la bisiallitisation se produit-elle généralement ?
+	B: Dans les climats chauds et humides
+	B: Dans les climats froids et secs.
+	B: Dans les climats arides
+	G: Dans les climats tempérés
+	C: Dans les climats tempérés, parce que les sols y sont jeunes et parce que l'hydrolyse n'a pas eu le temps d'aller jusqu'à la monosiallitisation
+
+Q: Dans quel contexte peut-on observer de la bisiallitisation en climat tropical humide ?
+	B: Quand les eaux minérales de surface sont acides.
+	B: Quand les altérites sont riches en matière organique.
+	B: Quand la bisiallitisation se développe sur des sols évaporitiques.
+	G: Quand le ruissellement des eaux de surface convergent vers des dépressions endoréiques
+	C: La bisiallitisation est un processus de formation de minéraux argileux, typique des climats tropicaux humides où l'altération chimique est intense. Elle se produit souvent lorsque le ruissellement de surface favorise la rétention d'eau dans des dépressions endoréiques, permettant la transformation d'argiles TO en argiles TOT secondaires par apport d'alcalins ou alcalino-terreux.
+
+Q: Dans quel autre contexte peut-on observer de la bisiallitisation en climat tropical humide ?
+	B: L'hydrolyse de roches évaporitiques
+	B: L'hydrolyse de roches phosphatées
+	B: L'hydrolyse de roches carbonatées
+	G: L'hydrolyse de cendres volcaniques récentes
+	C: La bisiallitisation peut également se produire dans des environnements où l'altération de matériaux riches en silice et en éléments basiques est favorisée. L'hydrolyse de cendres volcaniques récentes fournit les conditions idéales, car ces cendres contiennent des minéraux facilement altérables qui libèrent des ions nécessaires à la formation d'argiles TOT.
+
+
+Q: Quels exemples célèbres de métropoles urbaines sont construites sur des formations bisiallitisées en climat tropical ?
+	G: La métropole de Mexico
+	B:	La métropole de Rio de Janeiro
+	G: La métropole de Djakarta en Indonésie
+	G: La métropole de Bangkok en Thaïlande
+	C: Djakarta, Bangkok et Mexico sont construites sur des sols riches en smectites.
+
+Q: Quel est le taux de lixiviation moyen de la silice en cas de bisiallitisation ?
+	G: 60%
+	B: 90%
+	B: 100%
+	B: 0%
+	C: En cas de bisiallitisation, environ 60% de la silice présente est lixiviée, correspondant à un processus modéré d'hydrolyse par l'eau de pluie. Un taux de lixiviation plus élevé, tel que 90% ou 100%, indiquerait une altération plus intense, comme celle observée dans des climats tropicaux humides favorisant l'allitisation.
+
+
+Q: Quel est le taux de lixiviation moyen des alcalins et alcalino-terreux en cas de bisiallitisation ?
+	G: 90%
+	B: 50%
+	B: 100%
+	B: 0%
+	C: En bisiallitisation, les alcalins et alcalino-terreux sont très largement lixiviés, avec un taux d'environ 90%. Ces éléments, solubles dans l'eau, sont rapidement éliminés dans un contexte de bisiallitisation, alors que des taux plus faibles, comme 50%, indiqueraient une lixiviation incomplète.
+
+Q: Quel est le taux de lixiviation moyen des alcalins et alcalino-terreux en cas de monosiallitisation ?
+	B: 90%
+	B: 50%
+	G: 100%
+	B: 0%
+	C: Dans la monosiallitisation, les alcalins et alcalino-terreux sont intégralement lixiviés (100%), ce qui traduit une altération plus avancée que dans la bisiallitisation. Un taux inférieur, tel que 50% ou 90%, indiquerait une altération partielle plus compatible avec des processus d’altération plus légers.
+
+Q: Quels sont les paramètres qui contrôlent le degré d'hydrolyse des roches silicatées ?
+	B: La pression partielle d'oxygène
+	B: Le gaz carbonique
+	G: Les apports d'eau de pluie
+	G: La durée du processus
+	C: Le degré d'hydrolyse des roches silicatées dépend principalement de l’apport en eau de pluie, qui dissout les minéraux, et de la durée de l’altération, permettant aux réactions de se poursuivre. La pression partielle d'oxygène joue peu sur l’hydrolyse, tandis que le gaz carbonique influence surtout la dissolution carbonatée.
+
+
+Q: Quelles sont les conséquences principales des processus de bisiallitisation, monosiallitisation et allitisation ?
+	G: Les formations superficielles résiduelles évoluent vers des compositions de plus en plus alumineuses
+	G: Les formations superficielles résiduelles évoluent vers des compositions de plus en plus ferriques
+	B: Les formations superficielles résiduelles évoluent vers des compositions de plus en plus ferreuses
+	B: Les formations superficielles résiduelles évoluent vers des compositions de plus en plus siliceuses
+	B: Les formations superficielles résiduelles évoluent vers des compositions de plus en plus alcalines
+	C: Ces processus de bisiallitisation, monosiallitisation et allitisation entraînent une concentration progressive des ions Al<sup>3+</sup> et Fe<sup>3+</sup>  dans les formations résiduelles. À mesure que les ions mobiles (notamment les alcalins et la silice) sont lixiviés, la proportion relative de ces ions augmente, conduisant à des compositions plus alumineuses et ferriques. 
+
+Q: Quel nom donne-t-on aux oxydes formés avec cations, de charge 3+, comme les ions Al<sup>3+</sup> et Fe<sup>3+</sup> ?
+	G: des sesquioxydes
+	B: des trioxydes
+	B: des teroxydes
+	B: des pentoxydes
+	C: Les oxydes contenant des cations de charge 3+, tels que Al<sup>3+</sup> et Fe<sup>3+</sup>, sont appelés sesquioxydes, car leur formule générale est souvent de type M₂O₃, indiquant un rapport de 2:3 entre les ions métal et oxygène. Les termes « trioxydes » et « teroxydes » ne sont pas adaptés ici, et « pentoxydes » correspondrait à des composés avec une proportion de 5 atomes d’oxygène, comme dans certains oxydes de phosphore. La racine latine sesqui- signifie "un et demi" (1,5). Elle est souvent utilisée en chimie pour décrire un rapport de trois atomes d'oxygène pour deux atomes de métal, comme dans les sesquioxydes (M₂O₃). Le terme "sesqui" souligne l'idée d'un rapport intermédiaire, ici exprimé par 1,5 (ou 3:2), entre deux types d'atomes ou éléments dans un composé.
+
+Q: Dans quelle situation, les ions Fe<sup>3+</sup> et Al<sup>3+</sup> deviennent solubles et mobiles dans les solutions aqueuses ?
+	G: Dans les eaux acides
+	B: Dans les eaux de pH neutre
+	B: Dans les eaux basiques
+	B: Dans les eaux turbides
+	C: Les ions Fe<sup>3+</sup> et Al<sup>3+</sup> deviennent solubles et mobiles dans des conditions acides, où le pH bas favorise leur dissolution. En conditions neutres ou basiques, ces ions forment des oxydes et hydroxydes insolubles, rendant leur mobilité beaucoup plus faible. Quant aux eaux turbides, elles contiennent des particules en suspension, mais cela n’affecte pas directement la solubilité de ces ions.
+

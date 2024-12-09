@@ -1,0 +1,29 @@
+TITLE0: Altération
+TITLE1: Les argiles
+TITLE2: Les argiles
+
+UP: page01.html
+PREV: fiche01.html
+NEXT: fiche03.html
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Expliquer les processus d'altération des formations géologiques du substrat sous l'effet de l'eau, de l'oxygène et des conditions atmosphériques, et leur transformation sous forme de dépôts, appelées altérites.
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+PDF: 
+	TITLE: Les argiles
+	LINK: https://drive.google.com/file/d/15hs6D3FESztcewjXR5Zke67B5NlKiZO6/view?usp=sharing
+
+V:  
+	TITLE: Les minéraux argileux
+	LINK: https://youtu.be/JDuTlU_QgXU?si=TktKDvZZH0l5WJ1T
+
+QCM:
+	TITLE: Testez vos connaissances sur l'altération, les altérites et les argiles à l'aide de questions interactives.
+	LINK: qcm01.html	
+
+

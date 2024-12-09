@@ -1,0 +1,17 @@
+TITLE0: QCM : QCM Géothermie
+TITLE1: QCM : Géothermie - Auto-évaluation
+TITLE2: De l'énergie sortie des profondeurs
+
+UP: ../fiche01.html
+PREV: qcm01.html
+NEXT:
+
+NOSHUFFLE
+
+Q: Avu de la carte ci-dessous, les régions les plus riches en ressources géothermiques sont ...
+	I: images/02.png && Carte des ressources géothermiques de France métropolitaine
+	G: les régions où la croûte a été étirée
+	B: les régions où la croûte est surépaissie par les orogénèses, vieilles ou anciennes
+	B: les régions où la croûte est recouverte par une épaisse couverture sédimentaire
+	B: les régions de montagnes
+	C: Les zones riches en ressources géothermiques sont les régions qui ont subi un étirement crustal.

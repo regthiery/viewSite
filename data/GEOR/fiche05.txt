@@ -1,0 +1,24 @@
+TITLE0: Géoressources
+TITLE1: Le Code Minier
+TITLE2: 
+
+UP: page01.html
+PREV: fiche04.html
+NEXT: 
+
+I: carriere/images/e0.jpg
+
+
+SUMMARY:   Le Code Minier constitue l'ensemble des règles juridiques régissant l'exploration, l'exploitation et la gestion des ressources minérales en France. Il encadre les diverses étapes des activités minières, depuis la recherche des substances jusqu'à la concession et la protection de l'environnement. Ce cours vise à présenter les principes fondamentaux du Code Minier, ainsi que ses implications pour la gestion des ressources naturelles et la réglementation des mines, des carrières et des activités liées.
+
+
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+QCM:
+	TITLE: Testez vos connaissances sur le Code Minier à l'aide de questions interactives.
+	LINK: codeMinier/qcm01.html	
+
+

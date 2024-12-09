@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QCM : QCM Formations de Versant</title>
+    <link rel="stylesheet" href="../../../css/styleqcm1.css">
+</head>
+<body>
+
+<div class="nav-buttons">
+    <a href="../fiche04.html"   class="nav-button"  >Retour</a>
+    <a href="qcm03.html" class="nav-button"  >Page précédente</a>
+    <a href="" class="nav-button"  disabled>Page suivante</a>
+</div>
+
+<div class="container">
+    <h1>QCM : Les formations de versant - Auto-évaluation</h1>
+    <h2>Les Ruines de Séchilienne</h2>
+
+	<div class="video-container">
+		<video class="question-video"  controls>
+			<source src="videos/d8.mp4" type="video/mp4">
+			Votre navigateur ne supporte pas la lecture de cette vidéo.
+		</video>
+	</div>
+	    <form id="qcm-form">
+        <div class="question-box" id="q1-box">
+            <div class="question">1. Où se trouvent les Ruines de Séchilienne, connu pour être un versant instable ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/d1.svg" alt="Image pour la question 1" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="C"> A) Dans la vallée de la Tarentaise, où s'écoule l'Isère.		 </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="B"> B) Dans la vallée de la Maurienne, où s'écoule l'Arc. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="D"> C) Dans la vallée de l'Arve </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="A"> D) Dans la vallée de la Romanche, à une vingtaine de kilomètres en amont de Grenoble </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Dans la vallée de la Romanche</p>
+		</div>
+        <div class="question-box" id="q2-box">
+            <div class="question">2. Les Ruines de Séchilienne se présent sous la forme d'... </div>
+			<div class="image-container">
+				<img class="question-image" src="images/d11.jpg" alt="Image pour la question 2" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="E"> A) une terrasse alluviale. </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="B"> B) un cône de déjection. </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="A"> C) un cône d'éboulis. </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="D"> D) une loupe de solifluxion. </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="C"> E) une loupe de glissement de terrain. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> C'est un cône d'éboulis alimenté par les blocs qui se détachent du haut du versant rocheux</p>
+		</div>
+        <div class="question-box" id="q3-box">
+            <div class="question">3. Quels sont les aléas présentés par ce versant instable des Ruines de Séchilienne ? </div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q3" value="A"> A) Des chutes de pierre </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q3" value="F"> B) Des coulées de boues. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q3" value="B"> C) Des éboulements </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q3" value="D"> D) La formation d'un lac de barrage lors d'une crue de la Romanche, suivie de sa rupture, et la survenue d'une onde de crue jusqu'à Grenoble. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q3" value="E"> E) Des glissements de terrain. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q3" value="C"> F) La formation d'un barrage obstruant la vallée en contre-bas suite à un grand éboulement. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Chutes de pierres, éboulements avec toutes les conséquences envisageables selon la masse de blocs effondrés: obstruction de la vallée, formation de lac de barrage et sa vidange en cas de grosse crue de la Romanche avec submersion des zones à fort enjeu de l'agglomération grenobloise	</p>
+		</div>
+        <div class="question-box" id="q4-box">
+            <div class="question">4. Quels sont les zones vulnérables aux instabilités des Ruines de Séchilienne ? </div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q4" value="C"> A) La ville de Briançon. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q4" value="A"> B) La route qui passe en contrebas, et qui relie Grenoble à Briançon. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q4" value="B"> C) L'agglomération de Grenoble. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Toutes les zones en contrebas et en aval sont vulnérables</p>
+		</div>
+        <div class="question-box" id="q5-box">
+            <div class="question">5. L'instabilité du versant des Ruines de Séchilienne est ...</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="B"> A) un phénomène très récent apparu au XVIIIe siècle </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="A"> B) un processus de long terme qui a commencé depuis la dern!ère déglaciation </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Cette instabilité de versant fait suite à la déglaciation de cette vallée alpine. La disparition du glacier de la Romanche a entraîné une décompression des terrains.</p>
+		</div>
+        <div class="question-box" id="q6-box">
+            <div class="question">6. Est-il possible d'arrêter le mouvement de ce versant instable ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="A"> A) Non </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="B"> B) Oui </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="C"> C) Non, mais on peut le freiner </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Ce versant s'effondrera un jour. On ne peut pas l'empêcher, ni même le ralentir.</p>
+		</div>
+        <div class="question-box" id="q7-box">
+            <div class="question">7. Est-ce que l'on peut espérer que l'effondrement de ce versant stabilisera la vallée ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="B"> A) Oui </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="A"> B) Non </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="C"> C) Peut-être </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Seule une partie du versant tombera. Le reste du versant dans sa nouvelle configuration sera dans une situation plus ou moins stable, car la masse effondrée constituait en fait une butée qui le stabilisait.</p>
+		</div>
+        <div class="question-box" id="q8-box">
+            <div class="question">8. Est-ce que les scénarios les plus pessimistes envisagés dans les années 90 se sont réalisés ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="B"> A) Non </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="A"> B) Oui </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les scénarios les plus pessimistes dans les années 90 envisageaient la chute d'un volume de 30 à 50 Mm<sup>3</sup> de roches à une échéance de 10 ans. En 2025, 35 ans après, le versant est toujours là.</p>
+		</div>
+        <div class="question-box" id="q9-box">
+            <div class="question">9. Quelle est l'ampleur de la vitesse de déplacement de la zone frontale dans les années 2010 ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="D"> A) Environ 2 millimètres par an	 </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="A"> B) Environ 2 mètres par an </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="C"> C) Environ 2 décimètres par an	 </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="B"> D) Environ 2 centimètres par an	 </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Dans les années 2010, la zone frontale se déplaçait à une vitesse d'environ 2 mètres par an, ce qui alertait les pouvoirs publics.</p>
+		</div>
+        <div class="question-box" id="q10-box">
+            <div class="question">10. Quelle loi a permis d'enclencher l'expropriation et l'indemnisation dans la zone à risques ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="C"> A) La loi Balladur </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="D"> B) La loi Hulot </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="A"> C) La loi Barnier </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="B"> D) La loi Duflot </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> C'est la loi Barnier, du 2 février 1995, qui prévoit des dispositions sur la « sauvegarde des populations menacées par certains risques naturels majeurs »</p>
+		</div>
+        <div class="question-box" id="q11-box">
+            <div class="question">11. Que s'est-il passé en 1219 à Grenoble ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="A"> A) Une inondation de grande ampleur suite à la rupture d'un lac de barrage formé par un éboulement de versant dans la vallée de la Romanche.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="D"> B) Des destructions majeures causées par une lave torrentielle descendue de la vallée de la Romanche.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="B"> C) Un éboulement massif d'un versant comparable à celui des Ruines de Séchilienne, qui a ravagé la ville.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="C"> D) Un séisme majeur qui a détruit la ville.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> En 1219, Grenoble a été inondée par une masse d'eau déversée à la suite de la rupture d'un barrage naturel, formé dans la vallée de la Romanche après un éboulement survenu en 1191.</p>
+		</div>
+        <div class="question-box" id="q12-box">
+            <div class="question">12. Quelles sont les premières mesures de prévention prises après l'éboulement de 1985 ? </div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q12" value="D"> A) Mise en place d'un système d'alertes 24h sur 24, et 7 jours sur 7 </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q12" value="A"> B) Déplacement de la route sur le versant opposé de la vallée. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q12" value="E"> C) Pose d'un grillage </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q12" value="B"> D) Construction d'une digue et d'un merlon en contrebas. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q12" value="C"> E) Implantation d'un système de mesures in-situ </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Ces mesures visent à protéger les habitants et les infrastructures en réduisant les risques d'éboulements et en permettant une surveillance continue.</p>
+		</div>
+        <div class="question-box" id="q13-box">
+            <div class="question">13. Cette photo montre un flanc de montagne, dans la région italienne de la Valteline, qui a été sujet à un grand éboulement le 28 juillet 1987.  </div>
+			<div class="image-container">
+				<img class="question-image" src="images/d12.jpg" alt="Image pour la question 13" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q13" value="A"> A) La catastrophe est due à des pluies intenses, combinées à une arrivée en grande quantité d'eaux de fonte des glaciers.   </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q13" value="B"> B) La rivière Val Pola, en érodant la base du versant de la montagne, a déstabilisé le flanc et provoqué l'éboulement.   </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q13" value="D"> C) Un troupeau de chèvres particulièrement ambitieux a décidé de se lancer dans une course effrénée sur le versant.   </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q13" value="C"> D) C'était la faute des alpinistes qui, après avoir monté un camp de base un peu trop près du bord, ont décidé de faire la fête trop fort.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Cet éboulement a causé des destructions majeures et a mis en évidence l'impact combiné des facteurs naturels sur la stabilité des versants montagneux.</p>
+		</div>
+        <div class="question-box" id="q14-box">
+            <div class="question">14. Cette vidéo montre un phénomène qui s'est produit aux Etats-Unis. Que peut-on dire là-dessus ? 	</div>
+	    		<div class="video-container">
+    	        	<video class="question-video"  controls>
+        	        	<source src="videos/d10.mp4	" type="video/mp4">
+	                	Votre navigateur ne supporte pas la lecture de cette vidéo.
+		            </video>
+			    </div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q14" value="B"> A) C'est une crue. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q14" value="A"> B) C'est une lave torrentielle. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q14" value="D"> C) L'écoulement est homogène. On ne distingue pas d'évolution entre la partie frontale et la suite. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q14" value="C"> D) La partie frontale de l'écoulement est très chargée en débris rocheux et divers (troncs d'arbres), et est suivie par un écoulement plus aqueux. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> C'est de nouveau une lave torrentielle qui se se déverse dans la vallée. Malgré l'absence de pente, la lave a conservé son pouvoir destructeur en raison de la forte densité de son écoulement boueux.</p>
+		</div>
+
+        <div class="buttons">
+            <button type="button" onclick="evaluateQCM()">Corriger</button>
+            <button type="button" onclick="resetTest()">Recommencer</button>
+        </div>
+
+    </form>
+    <p id="result"></p>
+</div>
+
+<footer>
+    RocksandWalk - @ <script> document.write(new Date().getFullYear())</script> - Régis THIÉRY
+</footer>
+
+<script>
+    function evaluateQCM() {
+        const correctAnswers = {
+            "q1": ["A"],
+            "q2": ["A"],
+            "q3": ["A", "B", "D", "C"],
+            "q4": ["A", "B"],
+            "q5": ["A"],
+            "q6": ["A"],
+            "q7": ["A"],
+            "q8": ["B"],
+            "q9": ["A"],
+            "q10": ["A"],
+            "q11": ["A"],
+            "q12": ["D", "A", "B", "C"],
+            "q13": ["A", "B"],
+            "q14": ["A", "C"],
+        };
+        
+
+        let score = 0;
+
+        function generateFeedbackText(goodAnswers, goodCount, questionBox) {
+            // Fonction utilitaire pour récupérer les 3 premières lettres d'une réponse
+    
+            function getAnswerLabel(value) {
+                const label = questionBox.querySelector(`input[value="${value}"]`).parentNode;
+                return label.textContent.trim().slice(0, 3); // Extrait les 3 premières lettres (ex: "A)")
+            }
+
+            if (goodAnswers.length === 0) {
+                return "Pas de bonne réponse !";
+            }
+
+            const formattedAnswers = goodAnswers.map(answer => getAnswerLabel(answer));
+
+            if (goodAnswers.length === 1) {
+                return `${formattedAnswers[0]} est ${goodCount === 1 ? "la" : "une"} bonne réponse.`;
+            }
+
+            if (goodAnswers.length > 1) {
+                return `${formattedAnswers.slice(0, -1).join(", ")} et ${formattedAnswers[formattedAnswers.length - 1]} sont de bonnes réponses.`;
+            }
+
+            return "";
+            }
+
+
+        for (let question in correctAnswers) {
+            const selected = Array.from(document.querySelectorAll(`input[name="${question}"]:checked`)).map(e => e.value);
+            const questionBox = document.getElementById(`${question}-box`);
+            const correctOptions = correctAnswers[question];
+            
+            const goodAnswers = selected.filter(val => correctOptions.includes(val));
+            let feedback = generateFeedbackText(goodAnswers, correctOptions.length, questionBox);
+
+            let isCorrect = selected.length === correctOptions.length && correctOptions.every(option => selected.includes(option));
+            questionBox.classList.toggle("correct", isCorrect);
+            questionBox.classList.toggle("incorrect", !isCorrect);
+
+            selected.forEach(val => {
+                const optionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (correctOptions.includes(val)) {
+                    optionLabel.style.fontWeight = "bold";
+                } else {
+                    optionLabel.classList.add("strikethrough");
+                }
+            });
+
+            correctOptions.forEach(val => {
+                const correctOptionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (!selected.includes(val)) {
+                    correctOptionLabel.style.fontWeight = "bold";
+                }
+            });
+
+            const correctAnswerLabel = questionBox.querySelector('.correct-answer');
+            const feedbackLabel = questionBox.querySelector('.feedback');
+            const commentBox = questionBox.querySelector('.comment');
+            if (feedbackLabel) {
+                feedbackLabel.style.display = 'block';
+                feedbackLabel.innerHTML = feedback;
+            }
+            if (commentBox) {
+                commentBox.style.display = 'block';
+            }
+           
+            // Mappage des bonnes réponses avec les lettres (A, B, C, D)
+            const correctAnswerLabels = correctOptions.map(val => {
+                const label = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                const text = label.textContent.trim();
+                return `${text}`;
+                });
+
+
+            let correctAnswerText = correctOptions.length === 1 
+                ? `Bonne réponse : ${correctAnswerLabels.join("; ")}`
+                : `Bonnes réponses : ${correctAnswerLabels.join("; ")}`;
+            
+            correctAnswerLabel.innerHTML = correctAnswerText;
+            correctAnswerLabel.style.display = 'block';
+
+            if (isCorrect) score+=goodAnswers.length;
+        }
+
+        const totalValues = Object.values(correctAnswers).reduce((acc, curr) => acc + curr.length, 0);
+        const result = document.getElementById("result");
+
+        if (score === 0) {
+            result.textContent = `Vous n'avez obtenu aucune bonne réponse sur ${totalValues}.`;
+        } else if (score === 1) {
+            result.textContent = `Vous avez obtenu 1 bonne réponse sur ${totalValues}.`;
+        } else {
+            result.textContent = `Vous avez obtenu ${score} bonnes réponses sur ${totalValues}.`;
+        }
+    }
+
+    function resetTest() {
+        window.location.reload();
+    }
+
+    function openModal(imgElement) {
+        var modal = document.getElementById("imageModal");
+        var modalImg = document.getElementById("modalImage");
+        modal.style.display = "block";
+        modalImg.src = imgElement.src;  // Utiliser l'image cliquée
+    }
+
+    function closeModal() {
+        var modal = document.getElementById("imageModal");
+        modal.style.display = "none";
+    }
+
+</script>
+
+
+
+
+</body>
+</html>

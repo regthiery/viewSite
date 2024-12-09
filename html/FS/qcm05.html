@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QCM : QCM Formations Glaciaires et Périglaciaires</title>
+    <link rel="stylesheet" href="../../css/styleqcm1.css">
+</head>
+<body>
+
+<div class="nav-buttons">
+    <a href="fiche05.html"   class="nav-button"  >Retour</a>
+    <a href="" class="nav-button"  disabled>Page précédente</a>
+    <a href="qcm05a.html" class="nav-button"  >Page suivante</a>
+</div>
+
+<div class="container">
+    <h1>QCM : Les Formations Glaciaires et Périglaciaires - Auto-évaluation</h1>
+    <h2>Des empreintes profondes dans le paysage !</h2>
+    <form id="qcm-form">
+        <div class="question-box" id="q1-box">
+            <div class="question">1. Lors de la fonte des glaçons dans un pastis, que se passe-t'il ? <br><img src="glaciers/images/c1.jpg" width="50%"></div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="E"> A) Cela dépend du degré d'alcool du pastis </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="B"> B) Le niveau de liquide monte dans le verre. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="D"> C) Cela dépend du degré d'alcool du buveur </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="C"> D) Le niveau de liquide descend dans le verre. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="A"> E) Le niveau de liquide dans le verre ne bouge pas. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> rho1 Vi = rho1 v1 + rho2 v2  (conservation de la masse)<br>Vf = v1 + vd1    (volume final)<br>rho1 vd1 = rho2 v2   (poussée d'Archimède)<br>deltaV = Vf - Vi = v1 + vd1 - Vi<br>deltaV = v1 + vd1 - v1 - rho2/rho1 v2<br>deltaV = v1 - v1 = 0<br> <img src="glaciers/images/c0.jpg"></p>
+		</div>
+        <div class="question-box" id="q2-box">
+            <div class="question">2. Comment appelle-t'on ces fragments de glace flottante, souvent de forme polygonale et qui peuvent s'enchevêtrer ou s'empiler ?</div>
+			<div class="image-container">
+				<img class="question-image" src="glaciers/images/c3.jpg" alt="Image pour la question 2" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class="image-container">
+				<img class="question-image" src="glaciers/images/c2.jpg" alt="Image pour la question 2" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="B"> A) Des toes </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="E"> B) Des joes </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="D"> C) Des hoes </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="A"> D) Des floes </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="C"> E) Des woes </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les floes sont des plaques de glace flottante à la surface de l'eau, souvent polygonales, qui se forment dans les régions froides. Elles peuvent s'enchevêtrer, s'empiler, ou dériver selon les courants et les vents.</p>
+		</div>
+        <div class="question-box" id="q3-box">
+            <div class="question">3. Qu'est-ce que le frasil ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="B"> A) Un type de vent glacial soufflant des montagnes à l'origine de plaques de glace sur les parois   </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="A"> B) De petits cristaux de glace se formant dans des eaux turbulentes et glacées </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="C"> C) Une couche de neige glacée compacte se collant sur les parois rocheuses </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="D"> D) Des accumulations de blocs se formant en bas de versants enneigés surmontés par des escarpements rocheux </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le frasil est constitué de petits cristaux de glace formés dans l'eau douce ou salée en surfusion et agités par par des mouvements turbulents. Le frasil est souvent observé dans les rivières ou les océans froids par temps clair et quand l'air est très froid (moins de 6°C). Ces cristaux peuvent s'agglomérer pour former une masse de glace plus dense. Le frasil est souvent la 1ère étape dans la formation de glace de mer. <img class="question-image" src="glaciers/images/g01.webp"></p>
+		</div>
+        <div class="question-box" id="q4-box">
+            <div class="question">4. Pourquoi le frasil pose problème ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="C"> A) Il augmente la salinité de l'eau en se formant.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="D"> B) Il bloque la formation de glace solide à la surface.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="A"> C) Il peut obstruer les prises d'eau et les systèmes hydrauliques.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="B"> D) Il provoque des avalanches sur les versants enneigés.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le frasil peut s'accumuler et adhérer aux grilles des prises d'eau, réduisant le débit d'eau ou bloquant complètement l'entrée, ce qui représente un danger pour les infrastructures municipales, industrielles et nucléaires. Il constitue également une menace pour la sécurité humaine, notamment pour les navires naviguant dans les voies couvertes de glace.</p>
+		</div>
+        <div class="question-box" id="q5-box">
+            <div class="question">5. Dans quelles circonstances se forme le frasil ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="B"> A) Lorsqu'une neige compacte se transforme en glace.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="C"> B) Lorsque la température de l'air est supérieure à 0 °C.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="A"> C) Lorsqu'une eau agitée est en surfusion </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="D"> D) Lorsque des vagues brisent une couche de glace existante.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le frasil se forme lorsque l'eau atteint une température en dessous de son point de congélation sans geler immédiatement, une condition appelée surfusion. Ce phénomène est fréquent dans les rivières et les lacs où les turbulences maintiennent l'eau en mouvement, favorisant la formation de petits cristaux de glace.	</p>
+		</div>
+        <div class="question-box" id="q6-box">
+            <div class="question">6. Qu'est-ce que la banquise ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="D"> A) Des plaques de glace douce formées sur les rivières.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="C"> B) Une accumulation de glace flottante provenant d'icebergs.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="B"> C) Une épaisse couche de neige recouvrant un glacier.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="A"> D) Une étendue de glace de mer flottante formée par la solidification de l'eau de mer.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La banquise est une étendue de glace flottante qui se forme à la surface des océans dans les régions polaires, lorsque l'eau de mer gèle. Contrairement aux glaciers, elle se compose de glace salée et non d'eau douce solidifiée.</p>
+		</div>
+        <div class="question-box" id="q7-box">
+            <div class="question">7. Est-ce que la banquise peut être salée ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="D"> A) Oui, car la glace peut piéger des gouttelettes d'eau salée, constituant des poches de saumures emprisonnées dans la glace </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="A"> B) Non, car le sel est expulsé lors de la formation de la glace.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="C"> C) Non, car elle est constituée de neige compactée.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="B"> D) Oui, car la glace se forme directement à partir de l'eau de mer salée.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La banquise n'est pas salée, car le sel contenu dans l'eau de mer est expulsé pendant la formation de la glace. Cependant, elle peut contenir des poches de saumure résiduelle, particulièrement au début de sa formation.	</p>
+		</div>
+        <div class="question-box" id="q8-box">
+            <div class="question">8. Quelle est l'augmentation annuelle actuelle du niveau de la mer ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="D"> A) Environ 0,1 millimètre par an.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="B"> B) Environ 10 centimètres par an.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="A"> C) Environ 3 à 4 millimètres par an.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="C"> D) Environ 1 mètre par an.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le niveau de la mer augmente actuellement d'environ 3 à 4 millimètres par an, principalement en raison de la fonte des glaciers et des calottes polaires, ainsi que de l'expansion thermique de l'eau liée au réchauffement climatique. <img src="glaciers/images/g00.png" class="question-image"></p>
+		</div>
+        <div class="question-box" id="q9-box">
+            <div class="question">9. Quelle est la part de la fonte de la banquise dans l'augmentation actuelle du niveau de la mer ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="A"> A) Aucune </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="D"> B) Environ 10 % </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="C"> C) Environ 25 % </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="B"> D) Environ 50 % </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La fonte de la banquise ne contribue pas à l'augmentation du niveau de la mer, car elle flotte déjà sur l'eau, et son volume déplacé est équivalent à celui qu'elle libère en fondant, selon le principe d'Archimède. En revanche, la fonte des glaciers et des calottes polaires, qui se trouvent sur la terre ferme, a un impact direct sur l'élévation du niveau de la mer.	</p>
+		</div>
+        <div class="question-box" id="q10-box">
+            <div class="question">10. Quelle est la part de la fonte des glaciers continentaux (hors calottes polaires) dans l'augmentation actuelle du niveau de la mer ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="C"> A) Environ 50 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="B"> B) Environ 5 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="A"> C) Environ 30 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="D"> D) Environ 75 %.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La fonte des glaciers continentaux contribue à environ 30 % de l'augmentation actuelle du niveau de la mer. Cette contribution provient principalement des glaciers de montagne situés en dehors des calottes polaires, comme ceux de l’Himalaya, des Andes, ou des Rocheuses. Les autres contributions majeures proviennent de la fonte des calottes polaires et de l'expansion thermique des océans due au réchauffement climatique.</p>
+		</div>
+        <div class="question-box" id="q11-box">
+            <div class="question">11. Quelle est la part de la fonte des inlandsis dans l'augmentation actuelle du niveau de la mer ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="C"> A) Environ 70 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="B"> B) Environ 10 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="A"> C) Environ 50 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="D"> D) Environ 30 %.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La fonte des inlandsis, notamment ceux du Groenland et de l'Antarctique, contribue à environ 30 % de l'augmentation actuelle du niveau de la mer. L'inlandsis du Groenland fond rapidement en raison du réchauffement global, tandis que l'inlandsis de l'Antarctique perd de la masse principalement par la désintégration des plateformes de glace et l'accélération des glaciers côtiers.			</p>
+		</div>
+        <div class="question-box" id="q12-box">
+            <div class="question">12. Quelle est la part du réchauffement des eaux océaniques dans l'augmentation actuelle du niveau de la mer ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="B"> A) Environ 10 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="A"> B) Environ 30 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="D"> C) Environ 20 %.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="C"> D) Environ 70 %.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le réchauffement des eaux océaniques contribue à environ 30 % de l'augmentation actuelle du niveau de la mer. Ce phénomène, connu sous le nom d'expansion thermique, se produit parce que l'eau se dilate lorsqu'elle se réchauffe, augmentant ainsi le volume des océans même sans ajout d'eau provenant des glaciers ou des inlandsis.	</p>
+		</div>
+        <div class="question-box" id="q13-box">
+            <div class="question">13. La carte suivante montre la migration de la ligne d'échouage (<em>grounding line</em> en anglais) d'une partie de la calotte glaciaire de l'Antarctique. Mais qu'est-ce que la ligne d'échouage ?	</div>
+			<div class="image-container">
+				<img class="question-image" src="glaciers/images/g02.png" alt="Image pour la question 13" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="C"> A) La zone où la glace terrestre commence à se transformer en eau.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="D"> B) La région où la glace atteint son épaisseur maximale.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="B"> C) La frontière entre la glace et la mer libre de glace.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="A"> D) La limite où la glace posée sur le fond marin commence à flotter.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La ligne d'échouage est la limite où la calotte glaciaire, auparavant soutenue par le fond marin rocheux, commence à flotter sur l'eau. Elle joue un rôle crucial dans la stabilité des calottes, car sa migration en amont peut déstabiliser la calotte glaciaire, entraîner une augmentation du flux de glace vers l'océan et donc contribuer à l'élévation du niveau de la mer.</p>
+		</div>
+        <div class="question-box" id="q14-box">
+            <div class="question">14. Qu'est-ce qu'un inlandsis ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="A"> A) Une immense calotte glaciaire couvrant une grande partie d'un continent.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="C"> B) Une zone où la neige s'accumule régulièrement mais ne se transforme pas en glace.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="B"> C) Un petit glacier situé en altitude dans les montagnes.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="D"> D) Un type de banquise qui flotte sur l'océan.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Un inlandsis est une vaste calotte glaciaire qui couvre une grande partie d'un continent ou d'une île, comme les calottes glaciaires du Groenland et de l'Antarctique. Contrairement aux glaciers de montagne ou aux calottes glaciaires plus petites, les inlandsis sont d'énormes masses de glace continentale.	</p>
+		</div>
+        <div class="question-box" id="q15-box">
+            <div class="question">15. Parmi ces termes, lesquels sont des synonymes d'inlandsis ?  </div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q15" value="E"> A) Glaciers actifs </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q15" value="A"> B) Calotte glaciaire continentale.   </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q15" value="D"> C) Glaciers passifs </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q15" value="B"> D) Glaciers de haute latitude </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q15" value="C"> E) Glaciers de haute altitude </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q15" value="G"> F) Banquise flottante.   </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q15" value="F"> G) Glacier de vallée.   </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q15" value="H"> H) Champ de neige permanent.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Un inlandsis, également appelé calotte glaciaire continentale, désigne une immense masse de glace qui recouvre une large partie d’un continent. Ce terme ne s’applique pas aux glaciers plus petits, aux champs de neige ou à la banquise, qui est de la glace flottante formée à la surface de l’eau. On peut les considérer aussi comme des glaciers passifs, étant donné que les flux entrants et sortants de glace sont négligeables par rapport à leur masse.</p>
+		</div>
+        <div class="question-box" id="q16-box">
+            <div class="question">16. Quelle est l'épaisseur moyenne de glace des inlandsis terrestres ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="A"> A) Environ 2 000 mètres.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="C"> B) Environ 5 000 mètres.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="D"> C) Environ 500 mètres.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="B"> D) Environ 200 mètres.   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les inlandsis terrestres, comme ceux du Groenland et de l'Antarctique, ont une épaisseur moyenne d'environ 2 000 mètres, avec des zones atteignant plus de 3 000 mètres. Cette immense masse de glace joue un rôle crucial dans le système climatique et dans l'élévation du niveau de la mer lorsqu'elle fond.	<img src="glaciers/images/g03.webp" class="question-image"></p>
+		</div>
+        <div class="question-box" id="q17-box">
+            <div class="question">17. À quelle température congèle l'eau de mer en moyenne ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="D"> A) Environ -10 °C.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="A"> B) Environ -1,8 °C.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="C"> C) Environ -4,5 °C.   </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="B"> D) À 0 °C </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> L'eau de mer gèle en moyenne à -1,8 °C, en raison de la présence de sel qui abaisse son point de congélation par rapport à l'eau douce. Ce phénomène dépend de la salinité : plus l'eau est salée, plus la température de congélation est basse.</p>
+		</div>
+        <div class="question-box" id="q18-box">
+            <div class="question">18. Quelle est la densité de la glace naturelle en moyenne ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q18" value="D"> A) Environ 1.04 </label>
+                <label><input type="radio" class="checkbox-margin" name="q18" value="C"> B) Environ 0.97 </label>
+                <label><input type="radio" class="checkbox-margin" name="q18" value="A"> C) Environ 0.91 </label>
+                <label><input type="radio" class="checkbox-margin" name="q18" value="B"> D) Environ 0.8 </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La glace naturelle a une densité moyenne d’environ 0.91. Cette densité est inférieure à celle de l’eau liquide (densité de 1), ce qui explique pourquoi la glace flotte. La densité peut varier légèrement en fonction des inclusions d'air ou d'impuretés.</p>
+		</div>
+        <div class="question-box" id="q19-box">
+            <div class="question">19. Quelle est la structure cristalline de la glace naturelle en moyenne ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="E"> A) Glace IX </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="D"> B) Glace III </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="C"> C) Glace II </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="F"> D) Glace X </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="A"> E) Glace Ih </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="G"> F) Glace XII </label>
+                <label><input type="radio" class="checkbox-margin" name="q19" value="B"> G) Glace Ic </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La glace naturelle possède une structure cristalline hexagonale, appelée glace Ih. Cette structure est la plus courante sur Terre et résulte de l'agencement des molécules d'eau en un réseau ordonné grâce aux liaisons hydrogène. D'autres formes de glace avec des structures cristallines différentes existent, mais elles se forment sous des conditions de température et de pression spécifiques. <img src="glaciers/images/g04.png" class="question-image"></p>
+		</div>
+        <div class="question-box" id="q20-box">
+            <div class="question">20. Quand un glacier débouche sur la mer, des pans de glace peuvent se fissurer, se détacher et s'écrouler en donnant des blocs dérivant à la surface de l'eau. Quel est le terme précis pour désigner ce phénomène ?  </div>
+			<div class="image-container">
+				<img class="question-image" src="glaciers/images/c6.jpg" alt="Image pour la question 20" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class="image-container">
+				<img class="question-image" src="glaciers/images/c7.jpg" alt="Image pour la question 20" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+	    		<div class="video-container">
+    	        	<video class="question-video"  controls>
+        	        	<source src="glaciers/images/c1.mp4" type="video/mp4">
+	                	Votre navigateur ne supporte pas la lecture de cette vidéo.
+		            </video>
+			    </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q20" value="C"> A) L'ablation glacio-littorale   </label>
+                <label><input type="radio" class="checkbox-margin" name="q20" value="A"> B) Le vêlage   </label>
+                <label><input type="radio" class="checkbox-margin" name="q20" value="B"> C) L'érosion glaciaire </label>
+                <label><input type="radio" class="checkbox-margin" name="q20" value="D"> D) L'étalement   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le vêlage est le terme précis pour désigner le détachement de blocs de glace d'un glacier ou d'une plateforme glaciaire lorsqu'ils atteignent la mer. Ces blocs deviennent des icebergs, qui dérivent ensuite à la surface de l'eau. Ce phénomène est courant dans les régions polaires.</p>
+		</div>
+
+        <div class="buttons">
+            <button type="button" onclick="evaluateQCM()">Corriger</button>
+            <button type="button" onclick="resetTest()">Recommencer</button>
+        </div>
+
+    </form>
+    <p id="result"></p>
+</div>
+
+<footer>
+    RocksandWalk - @ <script> document.write(new Date().getFullYear())</script> - Régis THIÉRY
+</footer>
+
+<script>
+    function evaluateQCM() {
+        const correctAnswers = {
+            "q1": ["A"],
+            "q2": ["A"],
+            "q3": ["A"],
+            "q4": ["A"],
+            "q5": ["A"],
+            "q6": ["A"],
+            "q7": ["D"],
+            "q8": ["A"],
+            "q9": ["A"],
+            "q10": ["A"],
+            "q11": ["D"],
+            "q12": ["A"],
+            "q13": ["A"],
+            "q14": ["A"],
+            "q15": ["A", "D", "B"],
+            "q16": ["A"],
+            "q17": ["A"],
+            "q18": ["A"],
+            "q19": ["A"],
+            "q20": ["A"],
+        };
+        
+
+        let score = 0;
+
+        function generateFeedbackText(goodAnswers, goodCount, questionBox) {
+            // Fonction utilitaire pour récupérer les 3 premières lettres d'une réponse
+    
+            function getAnswerLabel(value) {
+                const label = questionBox.querySelector(`input[value="${value}"]`).parentNode;
+                return label.textContent.trim().slice(0, 3); // Extrait les 3 premières lettres (ex: "A)")
+            }
+
+            if (goodAnswers.length === 0) {
+                return "Pas de bonne réponse !";
+            }
+
+            const formattedAnswers = goodAnswers.map(answer => getAnswerLabel(answer));
+
+            if (goodAnswers.length === 1) {
+                return `${formattedAnswers[0]} est ${goodCount === 1 ? "la" : "une"} bonne réponse.`;
+            }
+
+            if (goodAnswers.length > 1) {
+                return `${formattedAnswers.slice(0, -1).join(", ")} et ${formattedAnswers[formattedAnswers.length - 1]} sont de bonnes réponses.`;
+            }
+
+            return "";
+            }
+
+
+        for (let question in correctAnswers) {
+            const selected = Array.from(document.querySelectorAll(`input[name="${question}"]:checked`)).map(e => e.value);
+            const questionBox = document.getElementById(`${question}-box`);
+            const correctOptions = correctAnswers[question];
+            
+            const goodAnswers = selected.filter(val => correctOptions.includes(val));
+            let feedback = generateFeedbackText(goodAnswers, correctOptions.length, questionBox);
+
+            let isCorrect = selected.length === correctOptions.length && correctOptions.every(option => selected.includes(option));
+            questionBox.classList.toggle("correct", isCorrect);
+            questionBox.classList.toggle("incorrect", !isCorrect);
+
+            selected.forEach(val => {
+                const optionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (correctOptions.includes(val)) {
+                    optionLabel.style.fontWeight = "bold";
+                } else {
+                    optionLabel.classList.add("strikethrough");
+                }
+            });
+
+            correctOptions.forEach(val => {
+                const correctOptionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (!selected.includes(val)) {
+                    correctOptionLabel.style.fontWeight = "bold";
+                }
+            });
+
+            const correctAnswerLabel = questionBox.querySelector('.correct-answer');
+            const feedbackLabel = questionBox.querySelector('.feedback');
+            const commentBox = questionBox.querySelector('.comment');
+            feedbackLabel.style.display = 'block';
+            commentBox.style.display = 'block';
+            feedbackLabel.innerHTML = feedback;
+
+            
+            // Mappage des bonnes réponses avec les lettres (A, B, C, D)
+            const correctAnswerLabels = correctOptions.map(val => {
+                const label = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                const text = label.textContent.trim();
+                return `${text}`;
+                });
+
+
+            let correctAnswerText = correctOptions.length === 1 
+                ? `Bonne réponse : ${correctAnswerLabels.join("; ")}`
+                : `Bonnes réponses : ${correctAnswerLabels.join("; ")}`;
+            
+            correctAnswerLabel.innerHTML = correctAnswerText;
+            correctAnswerLabel.style.display = 'block';
+
+            if (isCorrect) score+=goodAnswers.length;
+        }
+
+        const totalValues = Object.values(correctAnswers).reduce((acc, curr) => acc + curr.length, 0);
+        const result = document.getElementById("result");
+
+        if (score === 0) {
+            result.textContent = `Vous n'avez obtenu aucune bonne réponse sur ${totalValues}.`;
+        } else if (score === 1) {
+            result.textContent = `Vous avez obtenu 1 bonne réponse sur ${totalValues}.`;
+        } else {
+            result.textContent = `Vous avez obtenu ${score} bonnes réponses sur ${totalValues}.`;
+        }
+    }
+
+    function resetTest() {
+        window.location.reload();
+    }
+
+    function openModal(imgElement) {
+        var modal = document.getElementById("imageModal");
+        var modalImg = document.getElementById("modalImage");
+        modal.style.display = "block";
+        modalImg.src = imgElement.src;  // Utiliser l'image cliquée
+    }
+
+    function closeModal() {
+        var modal = document.getElementById("imageModal");
+        modal.style.display = "none";
+    }
+
+</script>
+
+
+
+
+</body>
+</html>

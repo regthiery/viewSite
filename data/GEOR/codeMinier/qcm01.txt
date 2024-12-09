@@ -1,0 +1,192 @@
+TITLE0: QCM : QCM Géoressources
+TITLE1: QCM : Le Droit Minier - Auto-évaluation
+TITLE2: Que dit le Code Minier ?
+
+UP: ../fiche05.html
+PREV:
+NEXT: qcm02.html
+
+NOSHUFFLE
+
+Q: Comment s'appelle un emplacement naturel contenant des substances minérales ou fossiles ?
+	B: Un gisement
+	G: Un gîte
+	B: Une carrière
+	B: Un gisant
+	C: La bonne réponse est "Un gîte". Un gîte est un emplacement naturel où l'on trouve des substances minérales ou fossiles exploitables.
+
+
+Q: Le Code Minier distingue deux types d'assujettissement des substances minérales et fossiles. Lesquels ?  
+	B: Le régime continental et le régime océanique
+	G: Le régime des mines et le régime des carrières  
+	B: Le régime des gîtes et le régime des carrières  
+	B: Le régime des gisements et le régime des gîtes  
+	C: La bonne réponse est "Le régime des mines et le régime des carrières". Le Code Minier classe les gîtes contenant des substances minérales ou fossiles en fonction de la nature des substances qu'ils contiennent, sous réserve de dispositions spécifiques.
+
+Q: Quels sont les critères qui permettent de déterminer le régime applicable à l'exploitation d'une substance minérale ?
+	B: La localisation géographique de la substance minérale
+	G: La nature de la substance minérale
+	B: La taille du gisement  
+	B: La technique utilisée pour l'extraction  
+	C: La bonne réponse est "La nature de la substance minérale". Le Code Minier détermine le régime applicable (mines ou carrières) en fonction de la nature des substances exploitées, indépendamment de leur localisation ou des méthodes d'extraction.
+
+Q: Quelle est la principale différence entre une mine et une carrière ?  
+	B: La profondeur des gisements  
+	G: La nature des substances extraites  
+	B: Le type de techniques d'extraction  
+	B: Le mode d'exploitation en souterrain ou en aérien
+	C: La bonne réponse est "La nature des substances extraites". Les mines concernent des substances stratégiques, onéreuses ou rares, tandis que les carrières exploitent des matériaux courants.
+	
+Q:  : Une substance minérale peut-elle être autre chose qu'un solide ?  
+	B: Non, toutes les substances minérales sont solides.  
+	G: Oui, elles peuvent être solides, liquides ou gazeuses.  
+	B: Oui, mais uniquement sous forme liquide comme le pétrole.  
+	B: Non, seules les substances solides et gazeuses sont considérées comme minérales.  
+	C: La bonne réponse est "Oui, elles peuvent être solides, liquides ou gazeuses", car certaines ressources comme le pétrole (liquide) et le gaz naturel (gazeux) sont également des substances minérales.	
+
+Q: Quelle autorité gère principalement l'exploitation des mines en France ?  
+	G: L'État  
+	B: Les collectivités territoriales  
+	B: Les propriétaires fonciers  
+	B: Les chambres de commerce  
+	C: La bonne réponse est "L'État". Les mines relèvent du domaine régalien de l'État (sous réserve de compétences éventuellement dévolues aux collectivités).
+	
+Q: Quel régime légal s’applique aux matériaux utilisés pour les travaux publics (sables, graviers, etc) ?  
+	B: Le régime des mines  
+	G: Le régime des carrières  
+	B: Le régime des sablières et des gravières
+	B: Le régime des travaux publics 
+	C: La bonne réponse est "Le régime des carrières". Ces matériaux courants sont classés sous ce régime.
+
+Q: Quel document est obligatoire avant d’exploiter une mine ?  
+	B: Un certificat de propriété  
+	B: Un permis local  
+	B: Une étude géologique simplifiée  
+	G: Une étude d’impact approfondie  
+	C: La bonne réponse est "Une étude d’impact approfondie". Les projets miniers doivent respecter des normes environnementales strictes.
+
+Q: À qui sont versées les redevances pour l'exploitation des carrières ?  
+	G: Aux collectivités locales ou propriétaires fonciers  
+	B: À l'État  
+	B: Aux entreprises privées  
+	B: À la Commission européenne  
+	C: La bonne réponse est "Aux collectivités locales ou propriétaires fonciers". Les carrières sont souvent gérées au niveau local.
+
+Q: Où se situent principalement les impacts environnementaux les plus importants ?  
+	G: Dans les exploitations minières  
+	B: Dans les carrières  
+	B: Dans les petites exploitations locales  
+	B: Dans les exploitations à ciel ouvert  
+	C: La bonne réponse est "Dans les exploitations minières". Les mines impliquent souvent des infrastructures lourdes et des impacts plus significatifs.
+	
+Q: Dans cette liste, quelles substances sont associées au régime des mines ?  
+	G: l'or
+	G: Le pétrole
+	B: Les graviers
+	B: Les roches de décoration  
+	C: Les bonnes réponses sont "L'or" et "Le pétrole". 
+	
+
+Q: Que doit faire un chercheur pour entreprendre des travaux de recherche sur un terrain pour découvrir des gisements miniers ?  
+	B: Obtenir une autorisation de la mairie sans autre formalité  
+	B: Commencer les travaux sans déclaration préalable  
+	G: Obtenir le consentement du propriétaire ou une autorisation administrative  
+	B: Informer les voisins du terrain  
+	C: La bonne réponse est "Obtenir le consentement du propriétaire ou une autorisation administrative". En cas de désaccord du propriétaire, une autorisation administrative est requise après examen des observations.
+	
+Q: Quelle est la première étape pour entreprendre des travaux de recherche sur un terrain ?  
+	B: Obtenir une autorisation du préfet après les travaux  
+	B: Installer un chantier immédiatement  
+	G: Déclarer les travaux à l'autorité administrative et obtenir le consentement du propriétaire  
+	B: Signer un contrat avec un opérateur minier  
+	C: La bonne réponse est "Déclarer les travaux à l'autorité administrative et obtenir le consentement du propriétaire".
+	
+Q: Que se passe-t-il si le propriétaire d'un terrain refuse des travaux de recherche ?  
+	B: Les travaux sont annulés automatiquement  
+	G: Une autorisation administrative est nécessaire pour poursuivre les travaux  
+	B: Une action en justice doit être intentée contre le propriétaire  
+	B: Les travaux peuvent continuer sans le consentement du propriétaire  
+	C: La bonne réponse est "Une autorisation administrative est nécessaire pour poursuivre les travaux". L'autorité administrative peut accorder cette autorisation après avoir examiné les observations du propriétaire.
+
+
+Q: Quel document est nécessaire pour mener des recherches approfondies sur un gisement ?  
+	B: Un permis de construire  
+	G: Un permis exclusif de recherches  
+	B: Un acte notarié signé par le propriétaire  
+	B: Une autorisation de la collectivité locale  
+	C: La bonne réponse est "Un permis exclusif de recherches". Ce document donne un droit exclusif pour des travaux de recherche dans un périmètre défini.
+	
+Q: Qu'accorde un permis exclusif de recherches à son titulaire ?  
+	B: La propriété des gisements trouvés  
+	G: Le droit exclusif de mener des travaux de recherche dans une zone définie  
+	B: Le droit d'extraire des substances minières  
+	B: Une priorité sur l'achat du terrain  
+	C: La bonne réponse est "Le droit exclusif de mener des travaux de recherche dans une zone définie".
+	
+Q: Quelle autorité est responsable de l’octroi d’un permis exclusif de recherches ?  
+	B: Le propriétaire du terrain  
+	G: L’autorité administrative compétente  
+	B: La mairie locale  
+	B: Une entreprise minière spécialisée  
+	C: La bonne réponse est "L’autorité administrative compétente".
+
+Q: Pendant combien de temps un permis exclusif de recherches est-il généralement valable ?  
+	B: Illimité tant que les travaux continuent  
+	B: Six mois maximum  
+	G: Une durée définie spécifiée dans le permis  
+	B: Aussi longtemps que le propriétaire du terrain le souhaite  
+	C: La bonne réponse est "Une durée définie spécifiée dans le permis".
+
+Q: Que doit faire un titulaire de permis exclusif de recherches lorsqu’un gisement est découvert ?  
+	B: Continuer les travaux sans autre formalité  
+	G: Informer l’autorité administrative et demander une concession pour exploiter le gisement  
+	B: Vendre immédiatement les droits de recherche  
+	B: Abandonner les recherches et céder le terrain  
+	C: La bonne réponse est "Informer l’autorité administrative et demander une concession pour exploiter le gisement".
+	
+Q: Quel est le périmètre couvert par un permis exclusif de recherches ?  
+	G: Une zone définie spécifiquement dans le permis  
+	B: Tout le territoire français  
+	B: Une zone choisie librement par le titulaire  
+	B: Les terrains adjacents au lieu de recherche initial  
+	C: La bonne réponse est "Une zone définie spécifiquement dans le permis".
+	
+Q: Qu'est-ce qui distingue un permis exclusif de recherches d'une simple déclaration de travaux ?  
+	B: Le permis exclusif donne un droit d’extraction immédiat  
+	G: Le permis exclusif offre un droit exclusif dans un périmètre défini  
+	B: La déclaration permet des travaux plus approfondis  
+	B: La déclaration est obligatoire, mais pas le permis exclusif  
+	C: La bonne réponse est "Le permis exclusif offre un droit exclusif dans un périmètre défini".
+	
+Q: Quelles sont les obligations du titulaire d’un permis exclusif de recherches ?  
+	B: Réaliser les travaux sans respecter les contraintes légales  
+	B: Demander une autorisation pour chaque phase des travaux  
+	G: Respecter les conditions fixées par le permis et les règles environnementales  
+	B: Partager les résultats des recherches avec le propriétaire  
+C: La bonne réponse est "Respecter les conditions fixées par le permis et les règles environnementales".
+	
+Q: À qui appartiennent les substances minérales ou fossiles soumises au régime légal des mines ?  
+	B: Au propriétaire du sol  
+	G: À l'État  
+	B: Aux collectivités locales  
+	B: À l'entreprise qui exploite le gisement  
+	C: La bonne réponse est "À l'État". Les substances minérales ou fossiles sous le régime des mines sont administrées par l'État, sauf dispositions spécifiques pour les collectivités.
+	
+Q: Quelle institution est chargée d'organiser et de contrôler la prospection et l'exploitation des gisements d'uranium sur le territoire français ?
+	B: La Direction  Générale des Mines  
+	B: Le Bureau de Recherches Géologiques et Minières
+	G: Le Commissariat à l'énergie atomique et aux énergies alternatives  
+	B: Le ministère de l'Écologie  
+	C: La bonne réponse est "Le Commissariat à l'énergie atomique et aux énergies alternatives".
+	
+Q: Les substances relevant du régime légal des mines appartiennent-elles au propriétaire du terrain ?
+	B: Oui, elles lui appartiennent intégralement.
+	B: Oui, mais uniquement pour une exploitation artisanale.
+	G: Non, elles appartiennent à l’État.
+	B: Non, elles appartiennent aux collectivités territoriales.
+	C: La bonne réponse est "Non, elles appartiennent à l’État".
+	
+	
+	
+	
+	

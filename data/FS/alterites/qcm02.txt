@@ -1,0 +1,181 @@
+TITLE0: QCM : QCM Altération mécanique
+TITLE1: QCM : Altération mécanique - Auto-évaluation
+TITLE2: Comment les roches se désagrègent ?
+
+UP: fiche01.html
+PREV: qcm01.html
+NEXT: qcm03.html
+
+
+
+
+Q: Quand une roche se contracte (réduction de volume isotrope) sous l'effet d'un changement physique interne, on dit qu'elle subit
+	B: une rétractation
+	G: une rétraction
+	G: un retrait
+	B: une compaction
+	B: un tassement
+	C: Lorsqu'une roche subit une contraction due à des changements physiques internes, cela est désigné par des termes comme rétraction ou retrait, indiquant une diminution de son volume. Le terme "rétractation" est un terme juridique pour désigner la rupture d'un contrat par l'une des parties contractantes. Les termes "compaction" ou "tassement" ne sont appropriés, car ce sont des contractions de volume dans une direction préférentielle sous l'effet d'une force externe.
+
+Q: Quels sont les principaux mécanismes physiques de rétraction d'une roche
+	B: L'osmose
+	G: Une perte d'eau par séchage
+	G: Un refroidissement
+	B: Une pression élevée
+	C: Les mécanismes physiques de rétraction incluent la perte d'eau par séchage et le refroidissement, qui entraînent une réduction du volume de la roche.
+
+Q: Érosion et altération sont deux synonymes
+	B: Oui
+	G: Non
+	B: Cela dépend du contexte
+	B: Oui quand il est question de roches affleurantes
+	C: L'érosion et l'altération ne sont pas des synonymes, bien que souvent liés. L'érosion implique le déplacement de matériaux à l'échelle d'un paysage, tandis que l'altération désigne la dégradation chimique et physique des roches observable à l'échelle locale (c'est-à-dire à l'échelle du minéral, de l'échantillon ou de l'affleurement).
+
+Q: Dans une coulée de lave en cours de refroidissement, les fentes de retrait thermique
+	B: se développent de la périphérie vers le coeur de la coulée
+	G: se développent perpendiculairement aux isothermes de refroidissement
+	B: se développent uniquement à la surface
+	B: se forment à des températures très élevées
+	C: Les fentes de retrait thermique dans une coulée de lave se forment généralement à partir de la périphérie où la lave refroidit plus rapidement, créant des fissures perpendiculaires aux isothermes de refroidissement.
+
+Q: Une roche en cours de retrait développe un réseau de fissures à section
+	B: circulaire
+	G: polygonale
+	B: triangulaire
+	B: de forme quelconque
+	C: Lorsqu'une roche subit un retrait, elle développe souvent un réseau de fissures à section polygonale, caractéristiques des processus de contraction ou de séchage.
+
+
+Q: À l'échelle régionale, quels sont les endroits propices au développement de l'altération et de l'érosion ?
+	G: Les rebords de plateaux
+	G: Les zones faillées
+	B: Les plaines
+	B: Les forêts
+	C: Les rebords de plateaux et les zones faillées sont particulièrement propices à l'altération et à l'érosion en raison de la présence de failles et de changements topographiques qui facilitent la pénétration de l'eau et accélèrent ces processus. Les plaines et les forêts, en revanche, sont généralement moins exposées à ces phénomènes à grande échelle.
+
+Q: Quels types de clastes produit l'altération et l'érosion d'une coulée de lave ?
+	B: Des sables noirs
+	G: Des blocs décimétriques anguleux
+	B: Des limons argileux de couleur foncée
+	B: Rien, car une coulée de lave ne produit pas de clastes
+	C: L'altération des coulées de lave, quand elles sont prismées, se développent le long des fissures de retrait thermiques, qui sont des zones exploitées par l'eau pour s'y infiltrer (hydrolyse et gélifraction).
+
+Q: Le mot "diaclase" tire son origine des racines "dia" et "clase". Quelles sont leurs significations ?
+	B: "Dia": "je passe". "Clase": "je cimente".
+	G: "Dia": "je traverse"." "Clase": "je casse".
+	B: "Dia": "je m'arrête". "Clase": "je bloque".
+	B: "Dia": "je suis là". "Clase": "j'attends".
+	C: "Diaclase" vient du grec "dia" signifiant "à travers" et "clase" signifiant "cassure". Ce terme désigne des fissures dans les roches, souvent observées dans les zones où l'état des contraintes dépasse le seuil de rupture de la roche.
+
+Q: Quel est le terme communément utilisé pour qualifier le degré de résistance à la désagrégation d'une roche quand on la manipule sous les doigts ?
+	B: La cohérence
+	G: La consistance
+	B: L'adhérence
+	B: La résilience
+	C: Le terme correct pour décrire la résistance d'une roche à la désagrégation est "consistance". La consistance d'une roche décrit le comportement d'une roche sous les doigts. Cette consistance peut décrire tous les états intermédiaires entre une roche friable à une roche cohérente (dure et indéformable).
+
+Q: Quel est le principal facteur de fragilité mécanique des roches comme les granites ou les roches détritiques massives ?
+	B: Les dislocations intra-cristallines
+	G: Les joints de grains
+	B: Les plans de mâcle
+	B: les défauts cristallins
+	C:  La fragilité des roches comme les granites ou les roches détritiques massives est souvent liée aux joints de grains et à la présence de fractures à l'échelle macroscopique, qui facilitent la rupture sous contrainte.
+
+Q: Le tuffeau est une pierre de construction utilisée dans les pays de la vallée de la Loire (Touraine, Anjou, Poitou) en raison de son aspect esthétique et sa facilité de travail. À quoi est due son altérabilité ?
+	B: Il est finement litée.
+	G: Il a une grande capacité d'absorption d'eau.
+	B: Il contient trop d'argiles.
+	B: Son ciment, reliant les grains, n'est pas suffisamment solide.
+	C: L'altérabilité du tuffeau est principalement due à sa grande capacité d'absorption d'eau, ce qui le rend vulnérable à l'érosion et à l'altération chimique.
+
+
+
+Q:  À l'échelle microscopique, quel est le principal facteur d'altérabilité intra-minérale ?
+	B: Les plans de mâcle
+	G: Les plans de clivage
+	G: Les craquelures
+	B: Les inclusions fluides
+	B: Les zones de recristallisation
+	C: L'altérabilité intra-minérale est principalement contrôlée par la présence de plans de clivage et les craquelures, qui constituent des zones de faiblesse dans la structure minérale, facilitant la pénétration des solutions aqueuses.
+
+
+Q: À l'échelle atomique, quels sont les endroits les plus facilement altérables des cristaux ?
+	B: Les faces cristallines
+	G: Les sommets
+	G: Les arêtes
+	G: Les défauts cristallins
+	C: À l'échelle atomique, les défauts cristallins sont les zones les plus altérables. Ces défauts perturbent la structure régulière du cristal, ce qui permet à l'eau et aux autres agents altérants d'attaquer plus facilement le minéral. Les sommets et les arêtes sont aussi des zones particulièrement exposées.
+
+Q: Quel est le principe empirique établi par le géologue américain, M. Goldich, en 1938 sur le degré d'altérabilité des minéraux ?
+	B: que les minéraux riches en fer et en magnésium sont plus stables que ceux riches en silicium.
+	G: que les minéraux formés à haute température et haute pression sont généralement plus instables à la surface de la Terre que ceux formés à des températures et des pressions plus basses.
+	B: que tous les minéraux ont la même résistance à l'altération.
+	B: que les minéraux s’altèrent uniquement en fonction de la présence d'eau dans leur environnement.
+	C: Le principe de Goldich repose sur une séquence d'altérabilité, indiquant que les minéraux formés dans des conditions de haute température et pression s'altèrent plus rapidement en surface.
+
+Q: La série de stabilité de Goldich classe les minéraux dans l'ordre de stabilité décroissante. Quel est le bon ordre, du plus altérable au plus résistant .
+	B: Quartz, Feldspaths, Amphibole, Pyroxène, Olivine
+	G: Olivine. Pyroxène. Amphibole. Biotite. Feldspaths. Quartz
+	B: Feldspaths, Quartz, Biotite, Amphibole, Pyroxène, Olivine
+	B: Olivine, Quartz, Biotite, Amphibole, Feldspaths, Pyroxène
+	C: La série de stabilité de Goldich classe les minéraux du plus altérable (olivine) au plus résistant (quartz) en fonction de leur stabilité à la surface de la Terre.
+
+
+
+Q: En quoi la célèbre séquence établie par Norman Bowen sur les minéraux magmatiques est-elle similaire à la série de stabilité de Goldich? ?
+	B: Elle classe les minéraux en fonction de leur couleur dans le même ordre que celle de Goldich.
+	G:: Elle classe les minéraux en fonction de leur température de cristallisation décroissante dans le même ordre que celle de Goldich.
+	B: Elle classe les minéraux en fonction de leur densité dans le même ordre que celle de Goldich.
+	B: Elle classe les minéraux selon leur teneur en fer dans le même ordre que celle de Goldich.
+	C: La série de stabilité de Goldich et la séquence de Bowen sont liées, car les minéraux cristallisant en premier dans la séquence de Bowen (à haute température) sont aussi les plus sujets à l'altération en surface selon Goldich, tandis que ceux cristallisant à plus basse température sont aussi les plus résistants.
+
+Q: Pourquoi les minéraux magmatiques, qui cristallisent aux températures les plus élevées, et donc qui possèdent les liaisons chimiques les plus fortes, sont aussi ceux qui sont les plus altérables à la surface de la Terre ?
+	B: parce que ces liaisons fortes, de nature ionique, très résistantes aux hautes températures, sont plus faibles à basse température.
+	G: parce que ces liaisons fortes, de nature ionique, très résistantes aux hautes température, sont aussi les plus fragiles au contact de la molécule dipolaire d'eau.
+	B: parce que ces liaions fortes, de nature ionique, très résistantes aux hautes températures, sont affaiblies au contact de l'oxygène de l'air.
+	B: parce que ces liaions fortes, de nature ionique, très résistantes aux hautes températures, deviennent covalentes à basse température
+	C: Les minéraux cristallisés à haute température sont particulièrement sensibles à l'altération chimique. En effet, les liaisons ioniques très fortes qui les stabilisent à haute température deviennent fragiles en présence d'eau, dont la nature dipolaire favorise la dissociation de ces liaisons, rendant ainsi les minéraux plus altérables à basse température.
+
+Q: Quel est le principal facteur contrôlant l'altération chimique des roches carbonatées ?
+	B: L'eau
+	G: La teneur en dioxyde de carbone
+	B: La concentration en oxygène
+	B: La concentration en sodium
+	C: L'altération chimique des roches carbonatées, telles que le calcaire, dépend principalement de la teneur en dioxyde de carbone (CO₂) dans l'eau, car le CO₂ se dissout pour former de l'acide carbonique. Cet acide favorise la dissolution des carbonates.
+
+Q: Comment se dit "altération" en anglais ?
+	B: Alteration
+	G: Weathering
+	B: Meteorisation
+	B: Surficial degradation
+	C: En anglais, le terme correct pour "altération" dans le contexte géologique est "weathering". Ce mot désigne l'ensemble des processus qui dégradent les roches en surface, par des actions chimiques, physiques ou biologiques, alors que "alteration" fait référence à des modifications internes de la roche sans implication de l'exposition aux conditions de surface.
+
+Q: De quel mot français est le mot anglais "meteorisation" le plus proche ?
+	B: Altération
+	G: Météorisation
+	B: Désagrégation
+	B: Impact météorique
+	C: Le terme anglais "meteorisation" est le plus proche de "météorisation" en français. Il désigne les processus par lesquels les roches et les sols se dégradent sous l'action de l'atmosphère et des conditions météorologiques.
+	
+Q: Qu'est-ce qu'une roche cohérente ?
+	G: C. Une roche dure qui nécessite un marteau pour être cassée.
+	B: A. Une roche souple qui se tord facilement.
+	B: B. Une roche qui se décompose rapidement.
+	B: D. Une roche qui se pulvérise sous pression.
+	C: Les roches cohérentes, comme les grès et les calcaires durs, sont plus résistantes et ne se cassent que sous l'effet d'une force plus importante, comme un marteau.
+	
+Q: Pourquoi les roches grenues sont-elles fragiles ?
+	G: A. À cause des discontinuités entre les grains.
+	B: B. À cause de leur forte densité.
+	B: C. Parce qu'elles sont généralement peu solides.
+	B: D. À cause de leur faible perméabilité.
+	C: Les roches grenues, comme le granite, présentent des discontinuités entre les grains ou entre les grains et le ciment, ce qui facilite leur altération.
+
+Q: Quelle roche est la plus résistante à l'altération chimique ?
+	B: A. Le gneiss.
+	G: B. Le quartzite.
+	B: C. Le calcaire.
+	B: D. La lave.
+	C: Le quartzite est particulièrement résistant à l'altération chimique en raison de sa composition riche en quartz, un minéral très stable.	
+	
+

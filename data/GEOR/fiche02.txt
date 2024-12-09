@@ -1,0 +1,21 @@
+TITLE0: Géoressources
+TITLE1: L'Hydrogène
+TITLE2: 
+
+UP: page01.html
+PREV: fiche01.html
+NEXT: fiche03.html
+
+I:	hydrogene/images/01.png
+
+SUMMARY:    L'hydrogène est considéré comme un vecteur énergétique prometteur, capable de contribuer à la transition énergétique en réduisant les émissions de CO₂.  Comprendre les différentes méthodes de production, comme l'hydrogène vert, brun, noir et blanc, et évaluer leur potentiel et leurs impacts environnementaux. 
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+QCM:
+	TITLE: Testez vos connaissances sur l'hydrogène à l'aide de questions interactives.
+	LINK: hydrogene/qcm01.html	
+
+

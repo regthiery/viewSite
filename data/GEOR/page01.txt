@@ -1,0 +1,42 @@
+TITLE0: RocksandWalk
+TITLE1: Géoressources - Énergie et Matières Premières
+TITLE2: Licence 2e année
+
+UP: ../index.html
+
+PREV: ../TDU/page01.html
+NEXT: ../FS/page01.html
+
+CARD:
+	TITLE1: Géothermie
+	TITLE2: (Licence 2e année)
+	LINK: fiche01.html
+	DESCRIPTION: La géothermie explore l'utilisation de la chaleur interne de la Terre comme source d'énergie renouvelable. Ce cours examine les principes de la géothermie, ses différentes méthodes d'exploitation et ses applications dans la production d'énergie durable.
+
+
+CARD:
+	TITLE1: Hydrogène
+	TITLE2: (Licence 2e année)
+	LINK: fiche02.html
+	DESCRIPTION: Ce cours examine les différentes filières de production de l’hydrogène : l’hydrogène vert et blanc, faibles en carbone, ainsi que l’hydrogène brun et noir, issu de ressources fossiles et émetteur de CO₂. 
+
+CARD:
+	TITLE1: Produits de carrière
+	TITLE2: (Licence 2e année)
+	LINK: fiche03.html
+	DESCRIPTION: Ce cours explore les produits de carrière (pierres, granulats, sables, calcaires, argiles, etc) et un aperçu sur leur extraction, transformation en matériaux indispensables à l'économie (plâtre, chaux, ciment, béton, tuile, brique, céramique, verre).
+
+CARD:
+	TITLE1: Hydrocarbures
+	TITLE2: (Licence 2e année)
+	LINK: fiche04.html
+	DESCRIPTION: Les hydrocarbures représentent une source d'énergie majeure pour nos économies actuelles. Ce cours aborde les processus de formation et d'accumulation de ces ressources fossiles (pétrole, gaz, naturel charbon), ainsi 
+
+La géologie des hydrocarbures explore les processus de formation, d'accumulation et d'exploitation des ressources fossiles comme le pétrole, le gaz naturel et le charbon. Ces substances, issues de la transformation de la matière organique au fil des millions d'années, constituent des sources d'énergie majeures pour l'humanité. Le cours aborde les principes géologiques fondamentaux, les environnements de dépôt, les méthodes d'exploration et les enjeux économiques et environnementaux associés.
+
+CARD:
+	TITLE1: Le Code Minier
+	TITLE2: (Licence 2e année)
+	LINK: fiche05.html
+	DESCRIPTION: Le Code Minier constitue l'ensemble des règles juridiques régissant l'exploration, l'exploitation et la gestion des ressources minérales en France. Il encadre les diverses étapes des activités minières, depuis la recherche des substances jusqu'à la concession et la protection de l'environnement. Ce cours vise à présenter les principes fondamentaux du Code Minier, ainsi que ses implications pour la gestion des ressources naturelles et la réglementation des mines, des carrières et des activités liées.
+		

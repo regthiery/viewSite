@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Code Minier</title>
+    <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+
+<!-- Boutons de navigation en haut de la page -->
+<div class="nav-buttons">
+    <a href="page01.html" class="nav-button" >Retour</a>
+    <a href="fiche04.html" class="nav-button" >Page précédente</a>
+    <a href="" class="nav-button" disabled>Page suivante</a>
+</div>
+
+<div class="fiche-container">
+    <!-- Titre et illustration -->
+    <div class="header">
+        <h1>Le Code Minier</h1>
+        <img src="carriere/images/e0.jpg" alt="Illustration sur Le Code Minier" class="fiche-illustration">
+    </div>
+
+    <!-- Informations principales -->
+    <div class="info-section">
+        <p><strong>Niveau :</strong> 3e année</p>
+        <p><strong>Durée :</strong> 3 heures</p>
+    </div>
+
+    <!-- Sommaire descriptif -->
+    <div class="sommaire">
+        <h2>Sommaire</h2>
+        <p>Le Code Minier constitue l'ensemble des règles juridiques régissant l'exploration, l'exploitation et la gestion des ressources minérales en France. Il encadre les diverses étapes des activités minières, depuis la recherche des substances jusqu'à la concession et la protection de l'environnement. Ce cours vise à présenter les principes fondamentaux du Code Minier, ainsi que ses implications pour la gestion des ressources naturelles et la réglementation des mines, des carrières et des activités liées.</p>
+    </div>
+
+    <!-- Rubrique Auto-évaluation / QCM -->
+    <div class="evaluation">
+        <h2>Auto-évaluation / QCM</h2>
+        <p>Testez vos connaissances sur le Code Minier à l'aide de questions interactives.</p>
+        <a href="codeMinier/qcm01.html	" class="resource-link" target="_blank">Commencer le QCM</a>
+    </div>
+</div>
+
+<!-- Bas de page -->
+<footer class="footer">
+    <p><strong>RocksandWalk</strong> &copy; <span id="current-year"></span> | Régis THIÉRY</p>
+</footer>
+
+<script>
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>

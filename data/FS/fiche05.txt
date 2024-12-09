@@ -1,0 +1,34 @@
+TITLE0: Formations glaciaires et périglaciaires
+TITLE1: Les formations glaciaires et périglaciaires
+TITLE2: Des empreintes profondes dans les roches et les paysages !
+
+UP: page01.html
+PREV: fiche04.html
+NEXT: fiche06.html
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Aborder les dépôts glaciaires (moraines, drumlins), les processus périglaciaires (gélifraction, gélifluxion, etc) et leur impact sur les paysages actuels et passés.
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+
+PDF: 
+	TITLE: Les formations glaciaires
+	LINK: https://drive.google.com/file/d/15hk5BFeWfbto5Uzd9AbKGgXpECm5bqoO/view?usp=sharing
+
+PDF: 
+	TITLE: Les formations périglaciaires
+	LINK: https://drive.google.com/file/d/15nCmFwpN5OxtCKWg5_lpostPeQTW6wSR/view?usp=sharing
+
+PDF: 
+	TITLE: Les glaciers vosgiens (Flageollet)
+	LINK: https://drive.google.com/file/d/14x7PtBpCaJ-L8UJ_xvsmiik9H_judAKA/view?usp=sharing
+
+
+QCM:
+	TITLE: Testez vos connaissances sur les formations glaciaires et périglaciaires à l'aide de questions interactives.
+	LINK: glaciers/qcm05.html	
+
+

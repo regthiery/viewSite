@@ -1,0 +1,16 @@
+Q:  L'eau de la source de Contrexéville est une eau minéralisée, sulfato-calcique. Quelle est l'origine probable des ions Ca<sup>++</sup> et sulfates SO<sub>4</sub><sup>2-</sup> ? (les concentrations sont données en mg/litre) 
+	I: images/b10.png &&
+	I: images/b11.png &&
+	G: De la dissolution de formations à gypse et/ou anhydrite.
+	B: De la dissolution de formations dolomitiques.
+	B: De la dissolution de formations calcaires.
+	B: De la dissolution de formations basaltiques.
+	C: L'origine des ions Ca<sup>++</sup> et SO<sub>4</sub><sup>2-</sup> provient principalement de la dissolution de minéraux comme le gypse (CaSO<sub>4</sub>·2H<sub>2</sub>O) ou l'anhydrite (CaSO<sub>4</sub>). Ces formations géologiques sont riches en calcium et en sulfates, expliquant la composition chimique de l'eau de la source.
+
+Q:  Cette photo aérienne montre les usines des eaux de Contrexéville et de Vittel. Les captages de la zone de Contrexéville produisent 400 000 m<sup>3</sup> d'eau sulfato-bicarbonatée calcique par an avec une minéralisation de 2 g/litre. Quel est le volume de roches retiré du sous-sol par an ? 
+	I: images/b12.png &&
+	B: ~ 4000 m<sup>3</sup>
+	G: ~ 400 m<sup>3</sup>
+	B: ~ 40 m<sup>3</sup>
+	B: ~ 4 m<sup>3</sup>
+	C: 2 g/litre correspond à 2 kg/m<sup>3</sup>. La charge minérale représente donc 0.2 % de la masse totale. 400 000 m<sup>3</sup> d'eau minéralisée pèsent 4e5 x 1e3, soit 4e8 kg. La masse de roches dissoutes est donc 8e5 kg, soit 800 tonnes. Pour une densité de 2.3 de roches, cela fait un volume d'environ 400 m<sup>3</sup>.

@@ -1,0 +1,22 @@
+TITLE0: GPS et mouvements
+TITLE1: GPS et mouvements tectoniques
+TITLE2: Une introduction à la géodésie spatiale
+
+UP: page01.html
+PREV:
+NEXT:
+
+I:	Images/pict02.webp
+
+SUMMARY: <p>Ce cours de géodésie spatiale explore les fondements du **Système de Positionnement Global** (GPS), une technologie indispensable dans l’étude des mouvements terrestres. Basé sur des principes de trilatération, le GPS permet de déterminer avec précision la position d’un point en calculant la distance entre un récepteur au sol et plusieurs satellites. Cette mesure repose sur le temps que mettent les signaux radioélectriques à parcourir la distance entre le satellite et le récepteur. La précision du système GPS dépend donc d'une bonne compréhension des phénomènes relativistes : en effet, le temps écoulé diffère légèrement pour les satellites en orbite et les récepteurs situés à la surface de la Terre en raison des effets de la relativité restreinte et générale. Ces corrections relativistes sont cruciales pour garantir l’exactitude des mesures de distance et, par conséquent, de positionnement. </p><p>La partie pratique de ce cours propose deux études de cas concrètes pour illustrer l’utilisation du GPS dans l’analyse des déformations tectoniques et la surveillance sismique.</p><p>Dans le premier exemple, nous analysons les déplacements tectoniques en **Islande**, un territoire unique où la dorsale médio-atlantique divise la péninsule en deux plaques. À partir de mesures GPS recueillies sur deux stations situées de part et d’autre de la ride, nous calculons et comparons les vitesses de déplacement. Ces données révèlent la divergence des plaques et fournissent des informations précieuses sur le taux d’ouverture de la dorsale, illustrant ainsi la dynamique des plaques en temps réel.</p><p>Le second exemple nous mène en **Californie**, le long de la faille de San Andreas, l’une des zones tectoniques les plus actives du monde. En analysant les données GPS locales, nous identifions les mouvements relatifs des plaques Pacifique et Nord-Américaine, ce qui nous permet de comprendre la géométrie complexe de cette faille transformante. Ces mesures jouent un rôle essentiel dans l’évaluation du risque sismique en Californie, car elles offrent des indications précieuses sur la manière dont les contraintes tectoniques s’accumulent et se libèrent dans cette région à haut risque.</p><p>Ces deux applications démontrent la puissance des données GPS en géodésie spatiale pour surveiller les mouvements de la croûte terrestre, contribuant ainsi à une meilleure compréhension des mécanismes tectoniques et à la gestion des risques associés.</p>
+
+LEVEL: 1ère année
+DURATION: 10 heures
+
+PDF:
+	TITLE: GPS et mouvements tectoniques
+	LINK: https://drive.google.com/file/d/14ru7PX8HQGL4UVHknXDVGxPMklpo1GNy/view?usp=sharing
+
+
+
+

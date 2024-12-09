@@ -1,0 +1,26 @@
+TITLE0: Formations éoliennes
+TITLE1: Les formations éoliennes
+TITLE2: Le vent est invisible, mais il laisse sa marque !
+
+UP: page01.html
+PREV: fiche07.html
+NEXT:
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Présenter les processus d’érosion et de transport éolien, les formations typiques (dunes, loess) et leur rôle dans les paysages désertiques.
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+PDF: 
+	TITLE: Les formations éoliennes
+	LINK: https://drive.google.com/file/d/15RlgOrWFmq7RK66o4-R7PR_-ZR_CYZ6R/view?usp=sharing
+
+
+QCM:
+	TITLE: Testez vos connaissances sur le vent et les formations éoliennes à l'aide de questions interactives.
+	LINK: eoliens/qcm08.html	
+
+

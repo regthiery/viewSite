@@ -1,0 +1,129 @@
+TITLE0: QCM : QCM Formations de Versant
+TITLE1: QCM : Les formations de versant - Auto-évaluation
+TITLE2: Roches et Gravité: ça remue !
+
+UP: ../fiche04.html
+PREV:
+NEXT: qcm02.html
+
+NOSHUFFLE
+
+P: À partir des documents présentés, répondre aux questions.
+V: videos/d6.mp4
+I: images/d30.png && Vue cartographique IGN
+I: images/d3.png && Vue aérienne Google Maps
+I: images/d4.png && Carte géologique au 1/50 000 (Ey: éboulis; j2-4: Terres Noires)
+
+
+Q:  Que s'est-il passé au village de Villard-des-Dourbes en 2002-2003 ?
+	G: Un des plus grands glissements de France à l'époque
+	B: Des crues torrentielles 
+	B: Des effondrements massifs du sous-sol.
+	C: En 2002-2003, un glissement de terrain majeur a eu lieu près de Villard-des-Dourbes, causant des perturbations importantes. Cet événement a été l'un des plus grands glissements de terrain en France à l'époque, avec un déplacement du sol de plus de deux mètres par jour dans certaines zones.
+
+Q: Quel est le dénivelé entre le fond de la vallée et la ligne de crête, appelée "Barre des Dourbes" ?
+	G: 900 mètres
+	B: 500 mètres
+	B: 1500 mètres
+	B: 2000 mètres
+	C: La Barre des Dourbes domine le village à l'Est à une altitude de près de 1700 mètres. Le fond de la vallée à l'Ouest se trouve à des altitudes de 800 mètres. Le dénivelé est donc de 900 mètres.
+	
+Q: Quelle est la nature géographiques des sites d'implantation des villages et hameaux dans la région ?
+	G: Sur des interfluves
+	B: Sur des talwegs
+	B: Sur des fonds de vallons
+	B: Sur les barres rocheuses 	
+	C: Dans la région, les villages et hameaux sont souvent implantés sur des interfluves, qui sont des terrains relativement plats situés en hauteur entre vallons. 
+
+Q: Est-ce que les Anciens avaient bien fait de choisir ces sites ?
+	G: Oui
+	B: Non
+	C: Oui, ces sites avaient été choisis avec raison, car ils se trouvent à l'écart des zones de ruissellement et d'écoulement torrentiel
+	
+Q: Pourquoi la route départementale entre Villard et son hameau situé plus au Sud (Vaumet) est incurvée avec une convexité tournée vers l'Est sur la Carte ?
+	G: Parce que la route traverse le vallon entre Villard et Vaumet
+	B: Parce que la route traverse l'interfluve entre Villard et Vaumet
+	AMSWER: Parce que le tracé de la route tient compte des terrains privés
+	C: L'incurvation de la route est généralement liée à la géographie locale. Si la route traverse un vallon, elle suit souvent le relief pour minimiser la pente, ce qui peut entraîner une courbure. 
+	
+Q: Sur quel type de terrains est implanté le versant qui a glissé ?
+	G: Sur des terrains argileux
+	B: Sur des terrains calcaires
+	B: Sur des terrains dolomitiques	
+	B: Sur des terrains de cendres volcaniques noires.
+	C: Les glissements de terrain se produisent fréquemment sur des terrains argileux, car ces sols sont souvent peu stables et sensibles à l'humidité. Les argiles, en raison de leur capacité à retenir l'eau, peuvent se ramollir et devenir susceptibles de se déplacer sous l'effet de la gravité. Ce qui est le cas ici, car il s'agit de la formation j2-4 des Terres Noires du Jurassique.
+
+Q: Pourquoi ce versant est recouvert en surface par des éléments rocheux calcaires anguleux ?
+	G: Ces blocs calcaires sont des éboulis et proviennent du démantèlement de la barre rocheuse de la ligne de crête
+	B: Ces blocs rocheux sont des moraines résiduelles de la dernière glaciation
+	B: Ces blocs rocheux sont font partie des Terres Noires du Jurassique
+	C: Le versant est recouvert de blocs calcaires anguleux issus principalement des éboulis, un phénomène de dégradation des roches qui se produisent lorsque des masses rocheuses se détachent de la barre rocheuse, généralement en raison des intempéries ou de l'altération thermique. Ces éboulis résultent du démantèlement de la barre rocheuse située en crête. Les moraines résiduelles, bien que pouvant se retrouver sur d'autres terrains glaciaires, ne sont pas présentes ici. Enfin, les Terres Noires du Jurassique ne contiennent pas de blocs calcaires	
+
+Q: À quelle vitesse avance la colline ?
+	G: 2 mètres par jour
+	B: 2 cm par jour
+	B: 20 mètres par jour
+	B: 2 mm par jour
+	C: Comme indiquée dans la vidéo, la colline avance effectivement à une vitesse d'environ 2 mètres par jour. Cette vitesse est liée à des phénomènes de glissement de terrain, un processus qui déplace lentement la masse de terrain en raison de la nature des sols, de la pente, et des conditions météorologiques. 
+	
+Q: Par quels phénomènes, le glissement de terrain se manifeste-t-il dans la vidéo ?
+	G: Des basculements de poteaux
+	G: Des arbres basculés
+	G: Des routes fissurées et affaissées
+	G: Des maisons en ruine
+	B:	Des villageois et des animaux apeurés et en fuite
+	B: Des nuages de poussières
+	G: Des craquements dans la montagne
+	C: La vidéo montre principalement les effets visibles d'un glissement de terrain, tels que des basculements de poteaux, des arbres renversés, et des routes fissurées ou affaissées. Ces phénomènes résultent du déplacement massif de terre, entraînant des modifications visibles dans l'environnement immédiat. Les autres réponses proposées, telles que des animaux fuyant ou des nuages de poussière, ne sont pas des observations typiques liées à un glissement de terrain et ne figurent pas dans le cadre des effets géologiques directement causés par ce phénomène.	
+		
+Q: Donner une estimation du volume du glissement de terrain ?
+	G: 10 Mm<sup>3</sup>
+	B:  1 Mm<sup>3</sup>
+	B: 100 Mm<sup>3</sup>	
+	B: 1 Gm<sup>3</sup>	
+	C: Le glissement a une extension longitudinale d'environ 1400 mètres sur une largeur de 300 mètres en moyenne et une épaisseur moyennée de 20-40 mètres, soit un volume d'environ entre 8 et 17 Mm<sup>3</sup>. Les estimations officielles donnent un volume de 10 Mm<sup>3</sup>.
+	
+Q: D'après la vidéo, quelle est la vitesse habituelle des petits glissements de terrain pendant leur phase d'activité ?
+	G: Quelques centimètres par heure
+	B: Quelques millimètres par heure	
+	B: Quelques décimètres par heure
+	B: Quelques décimètres par heure
+	C: La vidéo indique que les petits glissements de terrain se déplacent généralement à une vitesse mesurée en centimètres par heure, selon les conditions du sol et l'intensité de l'événement. Les autres réponses proposées, telles que quelques décimètres ou mètres par heure, sont plus typiques de grands glissements de terrain ou de catastrophes géologiques majeures.	
+	
+Q: D'après la vidéo, est-ce que ces "petits" glissements font généralement des victimes ?
+	G: Non, car les gens ont le temps d'évacuer leurs maisons
+	B: Oui, car les maisons s'effondrent sans prévenir.
+	B: Oui, car les routes glissent soudainement.
+	G: Non, les petits glissements sont généralement très lents.
+	C: Les "petits" glissements de terrain, bien que moins violents, peuvent parfois causer des victimes, surtout si des maisons ou des infrastructures sont situées dans des zones vulnérables. Cependant, dans de nombreux cas, les habitants ont suffisamment de temps pour évacuer avant que des dégâts importants ne surviennent. Les autres réponses fausses exagèrent ou simplifient à l'excès la réalité des risques.
+		
+Q: D'après la vidéo, pour quelle raison principale, les grands glissements de terrain peuvent devenir meurtriers ?
+	G: Une accélération brutale du glissement
+	B: La panique
+	B: La survenue de grandes masses d'eau en-dehors du sol
+	B: Des explosions produites par la rupture des réseaux
+	B: Les incendies
+	C: Les grands glissements de terrain peuvent devenir meurtriers principalement en raison d'une accélération brutale du phénomène, qui peut provoquer un déplacement rapide de grandes quantités de terre et de roches, rendant l'évacuation difficile et augmentant les risques pour les personnes dans la zone. Les autres réponses fausses sont des généralisations ou des hypothèses qui ne sont pas systématiquement vraies.
+	
+Q: La vidéo évoque la catastrophe du plateau d'Assy, survenue le 16 avril 1970, qui est un des glissements de terrain les plus meurtriers en France avec 71 victimes, dont 56 enfants. Au vu du schéma ci-joint, identifier les facteurs aggravants.
+	I: images/e0.jpg && Vue du glissement de terrain
+	I: images/e1.png && Carte topographique IGN
+	I: images/d1.png && Schéma du glissement de terrain du plateau d'Assy (Wikipedia)
+	G: Le sanatorium installé à cheval sur le talweg
+	G: Le dénivelé important
+	G: Le contre-pendage des strates sédimentaires 
+	G: La forte épaisseur des couches marneuses
+	G: La présence de barres rocheuses en sommet de versant
+	G: L'exposition du versant vers le Sud (Adret)
+	G: La grande vitesse du glissement de terrain
+	B: La construction de maisons en bas du versant
+	B: Le mauvais entretien du talweg
+	B: L'absence de système d'alerte
+	C: Les facteurs aggravants de la catastrophe du plateau d'Assy étaient multiples. Le sanatorium situé à cheval sur le talweg, le dénivelé important, la surchage en tête de versant de la barre rocheuse, le contre-pendage des strates sédimentaires qui a facilité l'infiltration des eaux dans les marnes, l'exposition vers le Sud qui rend ces versants plus sujets aux grandes instabilités et la forte épaisseur des couches marneuses ont contribué à rendre le glissement de terrain particulièrement rapide et dévastateur. Les autres réponses sont des éléments contextuels ou des causes indirectes qui ne sont pas directement responsables de l'aggravation du phénomène. Un système d'alerte n'aurait servi à rien, les enfants morts ayant été retrouvés dans leurs lits et les survivants n'ont rien entendu.
+
+Q: À quelle altitude se trouve la niche d'arrachement du glissement de terrain du Plateau d'Assy ?
+	G: Entre 1500 et 1600 mètres
+	B: Entre 1200 et 1300 mètres
+	B: Entre 1100 et 1200 mètres
+	B: Entre 1000 et 1100 mètres
+	C: La niche d'arrachement se situe dans la zone supérieure du glissement de terrain, là où les matériaux ont été détachés de la pente.

@@ -1,0 +1,154 @@
+TITLE0: QCM : QCM Matériaux de Carrière
+TITLE1: QCM : Matériaux de Carrière - Auto-évaluation
+TITLE2: Le ciment (2)
+
+UP: ../fiche01.html
+PREV: qcm02.html
+NEXT: qcm05.html
+
+NOSHUFFLE
+
+Q: Quelle proportion des émissions mondiales de CO₂ est attribuable à l'industrie cimentière ?
+	B: Environ 15 %  
+	B: Environ 20 %  
+	G: Environ 8 %  
+	B: Moins de 1 %  
+	C: L'estimation correcte est de 6 à 8 %. Les autres réponses surestiment ou sous-estiment l'impact réel de l'industrie cimentière.
+	
+Q: Quelle est la quantité de ciment produite par an en France ?	
+	G: Environ 20 millions de tonnes
+	B:	Environ 60 millions de tonnes
+	B:	Environ 2 millions de tonnes
+	B:	Environ 10 millions de tonnes
+	C: Environ 20 millions de tonnes (chiffres de 2011), mais la production décline (16.7 Mt en 2022)
+	
+Q: Quelle est la quantité de ciment produite par an dans le monde  ?	
+	G: Environ 4 Gt
+	B:	Environ 1 Gt
+	B:	Environ 10 Gt
+	B:	Environ 15 Gt
+	C: Environ 4 Gt (chiffres de 2022)
+	
+Q: Sachant que la masse molaire du carbonate de calcium est de 100 g/mol, et celle du gaz carbonique est de 44	g/mol, quelle quantité de CO<sub>2</sub> libère la décarbonatation d'une tonne de CaCO<sub>3</sub> ?
+	G: 440 kg de CO<sub>2</sub>
+	B: 44 kg de CO<sub>2</sub>
+	B: 4400 kg de CO<sub>2</sub>
+	B: 4,4 kg de CO<sub>2</sub>
+	C: La réaction de décarbonatation s'écrit CaCO<sub>3</sub>  →  CaO + CO<sub>2</sub>. Sur 100 g de CaCO<sub>3</sub>, la réaction produit 44 g de CO<sub>2</sub> et 56 g de CaO. Donc, une tonne de CaCO<sub>3</sub> libère 440 kg de CO<sub>2</sub>
+	
+Q: Donner un ordre de grandeur du nombre de kWh nécessaire pour chauffer une tonne de roches dans un four cimentier jusqu'à 1450°C (On prendra une capacité calorifique de l'ordre de 2 J/g/°C)
+	G: 800 kWh
+	B: 8 MWh
+	B: 80 MWh
+	B: 800 MWh
+	C: Pour chauffer un gramme de roche d'environ 1400°C, il faut une énergie d'environ 1 g x 2 J/g/K x 1400 K ~ 2800 J/g ~ 3000 J/g ~ 3 kJ/g. Cela représente 3 MJ/kg, soit 0.8 kWh/kg. Pour une tonne de roches, on a donc besoin de 800 kWh.
+	
+Q: Donner un ordre de grandeur de la masse de CO<sub>2</sub> libérée par la combustion d'un kWh de gaz naturel ? <em>(On prendra une valeur de 55 kJ/g pour la combustion de CH<sub>4</sub>) </em>
+	G: 200 g CO<sub>2</sub> / kWh
+	B: 2 kg CO<sub>2</sub> / kWh
+	B: 800 kg CO<sub>2</sub> / kWh
+	B: 100 kg CO<sub>2</sub> / kWh
+	C: Dans un m<sup>3</sup> de gaz, j'ai un nombre n de moles qui est égal à PV/RT = 1e5 x 1 / (8.31x300) ~ 40 mol. Soit une masse de 40 x 16 = 640 g. Soit une énergie de combustion 640 g x 55 kJ/g ~ 35 200 kJ ~ 35.2 MJ ~ 10 kWh par m<sup>3</sup> de gaz naturel. La combustion de ce m<sup>3</sup> va relâcher environ 3 fois plus en masse de CO<sub>2</sub> que de CH<sub>4</sub>, donc environ 2 kg de CO<sub>2</sub> pour 10 kWh. La combustion du CH<sub>4</sub> relâche donc environ 200 g de CO<sub>2</sub> par kWh.
+	
+Q: En déduire un ordre de grandeur de la masse de CO<sub>2</sub> relâchée par la production de l'énergie nécessaire au chauffage d'une tonne de roches dans un four cimentier chauffé au gaz naturel.
+	G: 200 kg CO<sub>2</sub> / t
+	B: 50 kg CO<sub>2</sub> / t
+	B: 500 kg CO<sub>2</sub> / t
+	B: 10000 kg CO<sub>2</sub> / t
+	C: Il faut 800 kWh/t de roches et on relâche 200 g de CO<sub>2</sub> par kWh. Cela fait donc 800 kWh x 0.2 kg/kWh = 160 kg CO<sub>2</sub>/ tonne de roches. Arrondissons à 200 kg CO<sub>2</sub> / t.
+	
+Q: En déduire un ordre de grandeur de la quantité de CO<sub>2</sub> en kg relâchée par le traitement d'une tonne de roches pour la production	de ciment.
+	G: 600 kg de CO<sub>2</sub> / t
+	B: 400 kg de CO<sub>2</sub> / t
+	B: 1500 kg de CO<sub>2</sub> / t
+	B: 200 kg de CO<sub>2</sub> / t
+	C: Le traitement d'une tonne de roches (800 kg de CaCO<sub>3</sub> + 200 kg argiles) va relâcher 200 kg de CO<sub>2</sub> pour l'énergie de chauffage. À cela s'ajoute la masse de CO<sub>2</sub> relâchée par une tonne de CaCO<sub>3</sub>, soit 400 kg. En tout, l'ordre de grandeur est d'environ 600 kg de CO<sub>2</sub>.	
+	
+	
+Q: Quel est le constituant noble du clinker ?  
+	G: L'alite  
+	B: Le gypse  
+	B: La calcite  
+	B: L'argile  
+	C: L'alite est le constituant noble du clinker, un silicate tricalcique (Ca<sub>3</sub>SiO<sub>5</sub>) qui confère la résistance mécanique au ciment. Les autres propositions ne sont pas des phases principales du clinker.  
+
+Q: Qu'arrive-t-il au constituant C3S au contact de l'eau ?	
+	G: Il hydrate et forme des silicates de calcium hydratés et de la portlandite.  
+	B: Il se dissout sans réaction.  
+	B: Il se transforme en gypse.  
+	B: Il reste stable et ne réagit pas.  
+	C: Au contact de l'eau, le C3S (alite) hydrate pour former des silicates de calcium hydratés (CSH), responsables des propriétés mécaniques du ciment, et de la portlandite (Ca(OH)<sub>2</sub>). Les autres propositions sont incorrectes.  
+	
+Q: Qu'est-ce que l'on appelle les "cendres volantes" ?
+	G: Des résidus fins provenant de la combustion du charbon dans les centrales thermiques.  
+	B: Des particules de poussière volcanique.  
+	B: Des cendres issues de la combustion de déchets ménagers.  
+	B: Des cendres produites lors de la fabrication du ciment.  
+	C: Les cendres volantes sont des résidus fins, riches en silice et alumine, provenant de la combustion du charbon dans les centrales thermiques. Elles sont souvent utilisées comme ajout cimentaire pour améliorer les propriétés du ciment. Les autres propositions sont incorrectes.  
+
+Q: Qu'est-ce que la réaction pouzzolanique ?
+	G: Une réaction entre la portlandite et des composés alumino-siliceux réactifs ajoutés
+	B: Une réaction entre la portlandite et l'eau
+	B: Une réaction entre les composés C3S et C2S du ciment avec l'eau
+	B: Une réaction entre les composés C3S et C2S du ciment avec des matériaux alumino-siliceux ajoutés
+	C: La réaction pouzzolanique est une réaction chimique où la portlandite (Ca(OH)<sub>2</sub>), produite par l'hydratation du clinker, réagit avec les composés siliceux ou alumineux des matériaux pouzzolaniques pour former des silicates de calcium hydratés (CSH), renforçant le béton. Les autres réponses sont incorrectes.  
+	
+Q: Pourquoi l'hydratation du clinker produit de la portlandite ? 
+	I: images/e8.jpg && Cristaux de portlandite au MEB 
+	G: Parce que les silicates de calcium du clinker libèrent de l'hydroxyde de calcium lors de leur hydratation  
+	B: Parce que le clinker contient déjà de la portlandite sous forme solide
+	B: Parce que la portlandite est un sous-produit de la réaction avec les cendres volantes
+	B: Parce que la portlandite est ajoutée au ciment pendant sa fabrication
+	C: L'hydratation du clinker, en particulier des silicates tricalciques (C3S) et des silicates bicalciques (C2S), libère de l'hydroxyde de calcium (portlandite, Ca(OH)<sub>2</sub>) en plus des silicates de calcium hydratés (CSH). Les autres réponses sont incorrectes.  
+
+	
+Q: Pourquoi les cendres volantes améliorent les propriétés du ciment ?  
+	G: Elles réagissent avec la portlandite 
+	B: Elles accélèrent la prise initiale du ciment en augmentant la chaleur d'hydratation.  
+	B: Elles remplacent le clinker sans interaction chimique avec les produits d'hydratation.  
+	B: Elles augmentent simplement la masse du ciment sans modifier ses propriétés chimiques.  
+	C: Les cendres volantes réagissent avec la portlandite (Ca(OH)<sub>2</sub>) libérée lors de l'hydratation du clinker pour former des hydrates (notamment des C-S-H) par la réaction pouzzolanique. Cela améliore la résistance mécanique, réduit la perméabilité et accroît la durabilité du béton. Les autres propositions sont incorrectes.  
+	
+Q: Quel est le constituant principal responsable des propriétés mécaniques du ciment après sa prise ?  
+	G: Les silicates de calcium hydratés (CSH)  
+	B: La portlandite (Ca(OH)<sub>2</sub>)
+	B: Le gypse (CaSO<sub>4</sub>)  
+	B: Les silicates de calcium, C3S et C2S
+	C: Les silicates de calcium hydratés (CSH) sont le principal constituant responsable des propriétés mécaniques du ciment après sa prise. Ils se forment lors de l'hydratation des silicates tricalciques (C3S) et bicalciques (C2S). Les autres propositions ne sont pas responsables des propriétés mécaniques après la prise.  
+	
+Q: Est-ce que les silicates hydratés du ciment sont uniquement directement produits par l'hydratation de l'alite et de la belite ?	
+	G: Non, ils peuvent aussi être formés par la réaction pouzzolanique impliquant des matériaux supplémentaires comme les cendres volantes.  
+	B: Oui, ils sont exclusivement produits par l'hydratation de l'alite et de la belite.  
+	B: Non, les silicates hydratés sont uniquement formés par des réactions avec le gypse.  
+	B: Oui, mais uniquement dans des conditions sèches.  
+	C: Les silicates hydratés du ciment, principalement responsables des propriétés mécaniques, sont principalement formés par l'hydratation de l'alite (C3S) et de la belite (C2S), mais ils peuvent aussi résulter de réactions pouzzolaniques, comme celle entre la portlandite et des matériaux comme les cendres volantes. Les autres propositions sont incorrectes.  
+	
+Q: Qu'est-ce qui rend les cendres volantes si réactives avec la portlandite ?	
+	G: Leur forte teneur en silice et en alumine amorphes
+	B: Leur capacité à absorber de l'eau, ce qui accélère la réaction  
+	B: Leur teneur élevée en oxyde de fer, qui catalyse la réaction 
+	B: Leur composition chimique stable, qui ne permet aucune réaction
+	C: Les cendres volantes sont riches en silice et en alumine sous forme amorphe (verre), ce qui les rend réactives avec la portlandite (Ca(OH)<sub>2</sub>) libérée lors de l'hydratation du clinker. Cette réaction forme des silicates de calcium hydratés (CSH), qui améliorent les propriétés du ciment. Les autres propositions sont incorrectes.  
+	
+Q: Pourquoi les pouzzolanes, découvertes par les Romains de l'Antiquité, sont si réactives avec la portlandite ?
+	I: images/e7.png && Composition des ciments, des cendres volantes, des laitiers de haut-fourneau et des pouzzolanes	
+	G: Parce qu'elles contiennent des silicates et des aluminates amorphes
+	B: Parce qu'elles libèrent de l'acide silicique au contact de l'eau, accélérant la réaction
+	B: Parce qu'elles contiennent des oxydes métalliques qui renforcent la structure du ciment  
+	B: Parce qu'elles sont riches en calcium, ce qui réagit directement avec la portlandite.  
+	C: Les pouzzolanes, riches en silicates et aluminates amorphes, réagissent avec la portlandite (Ca(OH)<sub>2</sub>) libérée par l'hydratation du clinker pour former des silicates de calcium hydratés (CSH), améliorant la résistance et la durabilité du ciment. Les autres propositions sont incorrectes.  
+	
+Q: Qu'est-ce que l'on appelle le laitier de haut-fourneau ?
+	G: Un sous-produit de la fusion du minerai de fer
+	B: Un type de ciment utilisé pour la fabrication de béton à haute résistance.  
+	B: Un sous-produit de la combustion de charbon dans les centrales thermiques.  
+	B: Un matériau constitué principalement de carbonate de calcium, utilisé dans la fabrication de chaux.  
+	C: Le laitier de haut-fourneau est un sous-produit de la fusion de minerais de fer dans les hauts-fourneaux. Il est riche en silicates et aluminates de calcium et est utilisé comme ajout cimentaire pour améliorer les propriétés du béton grâce à la réaction pouzzolanique. Les autres propositions sont incorrectes.	
+	
+Q: Quelles sont les réactions chimiques qui décrivent la prise du ciment par hydratation ?  
+	G: C3S + 3H<sub>2</sub>O → CSH + 2Ca(OH)<sub>2</sub>  
+	G: Ca(OH)<sub>2</sub>   + SiO<sub>2</sub> → CSH
+	G: C2S + 2H<sub>2</sub>O → CSH + Ca(OH)<sub>2</sub>  
+	B: C3S + 2H<sub>2</sub>O → CSH + 2Ca(OH)<sub>2</sub>  
+	B: C3S + H<sub>2</sub>O + CO<sub>2</sub> → CSH + 2 CaCO<sub>3</sub>  
+	C: L'hydratation du ciment commence par la réaction du C3S (alite) avec l'eau, formant des silicates de calcium hydratés (CSH) et de la portlandite (Ca(OH)<sub>2</sub>). La belite (C2S) réagit également avec l'eau, mais de manière plus lente, produisant également du CSH et de la portlandite. La réaction Ca(OH)<sub>2</sub>   + SiO<sub>2</sub> → CSH est la réaction pouzzolanique.

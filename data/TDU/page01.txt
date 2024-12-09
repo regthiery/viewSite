@@ -1,0 +1,40 @@
+TITLE0: RocksandWalk
+TITLE1: Géologie - Terre dans l'Univers
+TITLE2: Licence 1ère année
+
+UP: ../index.html
+
+PREV: ../FS/page01.html
+NEXT: ../GEOR/page01.html
+
+
+CARD:
+	TITLE1: Isostasie
+	TITLE2: (Licence 1ère année)
+	LINK: fiche01.html
+	DESCRIPTION: L'isostasie est le phénomène d'équilibre des masses à la surface de la Terre, où les reliefs sont compensés par des variations de densité dans la croûte terrestre. Ce concept fondamental en géologie explique la manière dont les montagnes et les bassins se stabilisent en fonction de la densité et de la rigidité des matériaux sous-jacents.
+
+CARD:
+	TITLE1: GPS et mouvements tectoniques
+	TITLE2: (Licence 1ère année)
+	LINK: fiche02.html
+	DESCRIPTION: La géodésie spatiale utilise les satellites GPS pour mesurer avec précision les déplacements des plaques tectoniques à la surface de la Terre. Ce domaine permet de suivre en temps réel les mouvements crustaux, offrant des informations essentielles sur les zones de convergence, divergence, et cisaillement entre les plaques.
+
+CARD:
+	TITLE1: Exercices corrigés
+	TITLE2: Contrôle Continu Octobre 2004
+	LINK: https://drive.google.com/file/d/1-B9Yr_K4Yw3CY5uDxLlSZ0vyjKT_UTj-/view?usp=sharing
+	DESCRIPTION: Ce document PDF contient l'ensemble des corrections détaillées du Contrôle Continu réalisé en octobre 2004. Il présente les réponses attendues pour chaque question, ainsi que des explications approfondies permettant de mieux comprendre les concepts abordés.
+
+CARD:
+	TITLE1: Problèmes corrigés
+	TITLE2: (Licence 1ère année)
+	LINK: https://drive.google.com/file/d/164qpIN7DlcJ_ZqxfT6MeclsN-1W5asSG/view?usp=sharing
+	DESCRIPTION: Ce document PDF contient l'ensemble des corrections détaillées de problèmes types à savoir traiter en 1ère année de géologie.
+
+CARD:
+	TITLE1: Corrigé du CC du 12 novembre 2024
+	TITLE2: (Licence 1ère année)
+	LINK: https://drive.google.com/file/d/1B0Z9iQz9aS6JC6dly5mM1eTMZDIAcvRy/view?usp=sharing
+	DESCRIPTION: Ce document PDF contient la correction du Contrôle Continu de 12 novembre 2024
+

@@ -1,0 +1,24 @@
+TITLE0: Formations karstiques
+TITLE1: Les formations karstiques
+TITLE2: Les mystères des paysages calcaires !
+
+UP: page01.html
+PREV: fiche05.html
+NEXT: fiche07.html
+
+I:	Images/pict01.jpg
+
+SUMMARY:   Expliquer les processus de dissolution, les formations typiques (grottes, avens, dolines) et l'importance de ces milieux pour les ressources en eau souterraine.
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+PDF:
+	TITLE: Les formations karstiques 
+	LINK: https://drive.google.com/file/d/15BwlvN3OyMBdbSXBEsxsCH4Cdgp7mhlq/view?usp=sharing
+
+QCM:
+	TITLE: Testez vos connaissances sur le karst à l'aide de questions interactives.
+	LINK: karsts/qcm01.html	
+
+

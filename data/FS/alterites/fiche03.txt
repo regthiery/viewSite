@@ -1,0 +1,26 @@
+TITLE0: Altération
+TITLE1: Les altérites
+TITLE2: Les roches s'altèrent !
+
+UP: page01.html
+PREV: fiche02.html
+NEXT: 
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Expliquer les processus d'altération des formations géologiques du substrat sous l'effet de l'eau, de l'oxygène et des conditions atmosphériques, et leur transformation sous forme de dépôts, appelées altérites.
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+PDF: 
+	TITLE: Les altérites
+	LINK: https://drive.google.com/file/d/15xD3y7hP-LAQO8qUPLCqAs3K7QzoLqtu/view?usp=sharing
+
+
+QCM:
+	TITLE: Testez vos connaissances sur l'altération, les altérites et les argiles à l'aide de questions interactives.
+	LINK: qcm01.html	
+
+

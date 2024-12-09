@@ -1,0 +1,190 @@
+TITLE0: QCM : QCM Matériaux de Carrière
+TITLE1: QCM : Matériaux de Carrière - Auto-évaluation
+TITLE2: Les granulats (2)
+
+UP: ../fiche01.html
+PREV: qcm01.html
+NEXT: qcm03.html
+
+NOSHUFFLE
+
+Q: Quelle est l'origine principale des granulats marins ?
+	I: images/e1.png && Carte des exploitations sous-marines de granulats actives en 2018
+	G: D'anciens dépôts sédimentaires d'origine continentale.
+	B: Des dépôts sous-marins de retombées volcaniques
+	G: Des débris de coquilles calcaires.
+	B: D'anciennes barrières récifales désagrégées
+	C: Les granulats marins proviennent principalement d'anciens dépôts fluviatiles et glaciaires recouverts par la mer. Une seconde partie est issue de restes calcaires d'anciens organismes vivants, qui ont été déplacés par les courants et déposés dans des zones d'énergie plus calme. Cela donnera des accumulations sous forme de dunes sous-marines.
+
+Q: Où sont principalement localisées les ressources en granulats marins ?
+	G: Dans l'axe d'anciennes vallées fluviatiles
+	B: Dans les fosses sous-marines
+	B: A proximité des dorsales océaniques
+	B: Au pied du talus continenal
+	C: La majeure partie des granulats marins exploités en France proviennent d'anciennes vallées fluviatiles sur la partie du plateau continental qui était alors émergé lors des époques glaciaires, mais qui sont maintenant sous l'eau.
+
+Q: Une partie des granulats marins provient de dunes hydrauliques, mais que sont les dunes hydrauliques ?
+	I: images/e4.jpg && Schéma de dunes hydrauliques
+	G: Des dunes formées par la houle et les courants de marée.
+	B: D'anciennes dunes éoliennes englouties par les eaux lors de la remontée de la mer
+	B: Des dunes artificielles
+	B: Des dunes littorales
+	C: Les dunes hydrauliques sont des dunes sous-marines formées par la redistribution et le remaniement des sédiments marins sous l'effet de la houle et des courants de marée. Elles peuvent prendre des formes variées et sont influencées par l’hydrodynamisme local.
+
+
+Q: Qu'est-ce que l'on appelle le maërl ?
+	I: images/e2.jpg && Tas de maërl
+	B: Un type de dépôts volcaniques granulaires sous-marins, constituant une source recherchée de granulats marin
+	G: Des dépôts sous-marins sableux formés de débris de squelettes calcaires d'algues mélangés avec des fragments de coquilles de Mollusques
+	B: Des amas détritiques qui gênent l'exploitation des granulats sous-marins
+	B: Des dépôts sous-marins sableux et siliceux
+	C: Le maërl est une accumulation formée de fragments de squelettes calcaires d'Algues mélangée avec des sables coquilliers.
+	
+Q: Qu'est-ce qui constitue le constituant de base du maërl ?	
+	B: Des coquilles de mollusques marins.
+	B: Des oolithes calcaires
+	B: Des cristaux de silice.
+	G: Des fragments d'algues rouges calcaires.
+	C: Le maërl est un écosystème formé par des algues rouges qui édifient des structures calcaires complexes. L'accumulation de ces fragments calcaire forme des dépôts sous-marins, également désignés sous le terme de "maërl". Cet écosystème et ces dépôts jouent un rôle crucial dans la biodiversité marine en fournissant des habitats pour de nombreuses espèces.
+
+Q: Pourquoi le maërl est une ressource si recherchée ?
+	I:	images/e5.png && Carte des gisements de maërl et de sables calcaires en Bretagne dans les années 80
+	B: Parce qu'il est utilisé dans la fabrication de verre.
+	B: Parce qu'il est riche en minéraux nécessaires à la production de ciment.
+	G: Parce qu'il est un excellent amendement pour les sols, en raison de sa forte teneur en calcium.
+	B: Parce qu'il contient des terres rares utilisées dans l'industrie électronique.
+	C: Le maërl est un sable coquillier calcaire, riche en magnésium, fer et autres oligo-éléments, et à ce titre, il constitue un très bon amendement pour la croissance des plantes.
+	
+Q: Est-ce que l'extraction de maërl est en plein essor actuellement en France ?	
+	B:  Oui, en raison de la forte demande pour les sols agricoles.
+	B:  Oui, car il est largement utilisé dans l'industrie de la construction.
+	G:  Non, car son extraction est interdite en France
+	B:  Oui, mais les alternatives au maërl sont maintenant préférées.
+	C: Le maërl n'est plus exploité en France depuis 2013 en raison de ses impacts environnementaux sur la biodiversité.
+
+Q: Pourquoi l'exploitation du maërl est si nuisible à l'environnemennt ?
+	I: images/e6.jpg && Les algues rouges calcaires du maërl
+	B: Parce que le maërl pollue les sols et les nappes phréatiques.
+	B: Parce que son extraction détruit les habitats marins et perturbe les écosystèmes sous-marins.
+	B: Parce son exploitation augmente les émissions de gaz à effet de serre dans l'atmosphère.
+	G: Parce que son exploitation détruit un écosystème sous-marin et nuit à la biodiversité
+	C: Le maërl forme un écosystème unique composé d'algues rouges qui construisent des arbuscules à paroi calcaire. Ces structures constituent des habitats propices au développement de diverses espèces marines. Cependant, l'extraction du maërl entraîne la destruction de ces fonds marins, fragilisant ainsi la biodiversité locale.
+	
+Q: Comment le secteur de l'agriculture biologique s'est-il adapté à la nouvelle situation réglementaire sur l'extraction du maërl ?
+	I: images/e3.png && Maërl vendu en agriculture biologique
+	B: En augmentant l'utilisation d'engrais chimiques pour compenser la pénurie de maërl.
+	B: En recherchant des substituts au maërl
+	B: En adoptant des pratiques agricoles favorisant la conservation du maërl existant et en se tournant vers des amendements organiques alternatifs.
+	G: En important du maërl étranger provenant de zones sous-marines non protégées
+	C: L'agriculture biologique est très friande de maërl pour la fertilisation des sols. Mais en raison des dégâts environnementaux causées par l'extraction du maërl, il serait normal d'interdire son utilisation en agriculture biologique.
+	
+Q: À quelle époque l'exploitation des granulats marins a-t-elle connu un essor notable ?
+	B: À la fin du XIXe siècle.
+	G: Dans les années 2000.
+	B: Durant les années 1980.
+	B: Durant les années 1960.
+	C: Bien que l'exploitation ait commencé au XIXe siècle, elle s'est développée dans les années 2000 grâce à l'impulsion de l'État.
+
+Q: Quelle est la quantité annuelle approximative de granulats marins extraits en France ?
+	B: 2 millions de mètres cubes.
+	B: 10 millions de mètres cubes.
+	G: 4 millions de mètres cubes.
+	B: 20 millions de mètres cubes.
+	C: L'extraction reste modérée en France, avec environ 4 millions de mètres cubes par an (chiffres de 2002).
+	
+Q: Pourquoi les granulats riches en silice réactive posent-ils problème dans le béton ?
+	B: Ils provoquent la corrosion des armatures métalliques.
+	G: Ils peuvent réagir avec les alcalis du ciment pour former un gel expansif.
+	B: Ils diminuent la résistance initiale du béton.
+	B: Ils augmentent la perméabilité du béton dès le début.
+	C: La réaction alcali-silice (RAS) provoque la formation d’un gel expansif qui engendre des fissures dans le béton, diminuant sa durabilité.
+
+Q: Qu'est-ce que l'on appelle la "silice réactive" dans le cas des granulats
+	G: De la silice amorphe ou mal cristallisée
+	B: De la silice contenue dans les feldspaths
+	B: De la silice contenue dans le quartz
+	B: De la silice métastable contenue dans des polymorphes du quartz (cristobalite, tridymite, etc)
+	C: La "silice réactive" est de la silice amorphe ou mal cristallisée, chimiquement instable, et que l'on retrouve dans des minéraux comme l'opale ou la calcédoine, ou des roches comme les cherts, les silex, etc
+
+Q: Pourquoi la silice réactive, éventuellement présente dans les granulats, va poser problème pour la confection de bétons ?
+	B: Elle diminue la résistance mécanique initiale du béton.
+	G: Elle réagit avec les alcalis du ciment pour former un gel expansif, provoquant des fissures.
+	B: Elle empêche l’hydratation correcte du ciment.
+	B: Elle accélère la prise du béton, rendant son application difficile.
+	C: La silice réactive réagit avec les alcalis du ciment en présence d'humidité pour produire un gel qui gonfle avec le temps. Ce phénomène, appelé réaction alcali-silice (RAS), cause des fissures dans le béton et réduit sa durabilité. Cette réaction va diminuer la résistance mécanique du béton seulement sur le long terme.
+	
+Q: Qu'est-ce que l'on appelle les alcalis ?
+	G: Des oxydes ou hydroxydes de sodium et de potassium présents dans le ciment.
+	B: Des groupements hydroxyls -OH que l'on retrouve aussi dans les alcools.
+	B: Des oxydes ou hydroxydes de calcium et de baryum présents dans le ciment.
+	B: Des carbonates alcalino-terreux contenus dans les granulats.
+	C: Les alcalis sont principalement des oxydes (Na₂O et K₂O) présents dans le ciment. En milieu aqueux, ils libèrent des ions hydroxydes qui augmentent le pH, favorisant la réaction alcali-silice en présence de granulats siliceux réactifs.	
+
+Q: Qu'est-ce qu'un gel en physique-chimie ?
+	G: Une matière hétérogène formée d'un milieu solide imbriquée avec du liquide
+	B: Une substance homogène purement solide formée uniquement de molécules mal cristallisées et mal agencées.  
+	B: Un mélange liquide où les molécules solides flottent librement sans structure définie.  
+	B: Un système liquide contenant des inclusions solides non connectées entre elles.
+	C: En physique-chimie, un gel est un système complexe et stable où un réseau tridimensionnel solide piège un liquide (solvant), lui donnant une structure unique. Ce type de matériau combine des propriétés à la fois solides et liquides, permettant de multiples applications industrielles et scientifiques.
+	
+Q: Est-ce que la formation d'un gel interstitiel dans le béton est une bonne chose ?
+	B: Oui, car cela remplit et comble les fissures qui peuvent apparaître après la prise du ciment
+	G: Non, car l'expansion du gel interstitiel peut provoquer des tensions internes et réduire la durabilité du béton.  
+	B: Oui, car cela permet d'améliorer la résistance du béton en comblant les espaces vides.  
+	B: Oui, car cela imperméabilise le béton et empêche sa dégradation par infiltration des eaux extérieures
+	C: La formation d'un gel interstitiel dans le béton, notamment via la réaction alcali-silice, est problématique. Ce gel peut se dilater et exercer des contraintes internes sur le béton, ce qui peut provoquer des fissures et détériorer la structure, affectant ainsi la performance et la durabilité du matériau.	
+
+Q: Qu'est-ce que la réaction alcali-silice (RAS) qui peut parfois se développer dans les bétons ?
+	G: La RAS est une réaction chimique entre les alcalis présents dans le ciment et les minéraux siliceux réactifs dans les granulats, entraînant la formation d'un gel qui peut se dilater et fissurer le béton.
+	B: La RAS est une réaction chimique qui provoque l'hydratation des silicates contenus dans le béton, rendant la structure plus résistante.
+	B: La RAS est un phénomène où les ions calcium réagissent avec les silicates des granulats, provoquant une augmentation de la résistance du béton.
+	B: La RAS est une réaction entre les sels présents dans l'eau et les agrégats 	utilisés dans le béton, créant une réaction bénéfique pour la durabilité du béton.
+	C: La réaction alcali-silice (RAS) survient lorsque les alcalis (sodium et potassium) présents dans le ciment réagissent avec certains minéraux siliceux présents dans les granulats, principalement les silices amorphes ou microcristallines. Cette réaction produit un gel qui, en se dilatant, peut provoquer des fissures et altérer la durabilité du béton, réduisant ainsi sa résistance mécanique et sa pérennité.
+
+
+Q: Quelle est la principale conséquence de la réaction alcali-silice (RAS) sur le béton ?
+	G: Apparition de fissures et perte de durabilité.
+	B: Augmentation de la résistance au gel/dégel.
+	B: Protection contre la corrosion directe des granulats.
+	B: Augmentation de la résistance mécanique.
+	C: La RAS est caractérisée par une expansion différée, qui provoque des fissures et altère les propriétés mécaniques du béton.
+
+Q: Quels types de granulats peuvent causer des problèmes en raison de leur composition chimique ?
+	G: Roches volcaniques riches en silice amorphe (ex. : obsidienne).
+	G: Roches carbonatées magnésiennes.
+	G: Roches sédimentaires contenant de la silice mal cristallisée (ex. : cherts).
+	B: Roches riches en quartz cristallisé.
+C: Les granulats contenant de la silice amorphe ou mal cristallisée sont plus réactifs aux alcalis (sodium et potassium), tandis que les roches carbonatées magnésiennes peuvent provoquer des réactions chimiques indésirables.
+
+Q: Quels sont les facteurs nécessaires pour que la réaction alcali-silice se produise ?
+	G: Présence d'alcalis dans le ciment.
+	G: Présence de granulats contenant de la silice réactive.
+	G: Humidité suffisante.
+	B: Une température ambiante inférieure à 0 °C.
+	C: La RAS nécessite des alcalis, une source de silice réactive et de l'humidité pour se développer.
+
+Q: Pourquoi les granulats contenant des substances carbonatées magnésiennes posent-ils problème ?
+	G: Ils peuvent interagir avec les alcalis pour former des produits expansifs.
+	G: Ils peuvent provoquer une désintégration interne due à des réactions chimiques lentes.
+	B: Ils accélèrent la prise du béton.
+	B: Ils réduisent la résistance finale du béton sans autre effet.
+	C: Ces granulats peuvent entraîner des réactions lentes avec les alcalis, provoquant des expansions différées ou des altérations chimiques.
+
+Q: Quelles sont les solutions pour prévenir la réaction alcali-silice dans le béton ?
+	G: Utiliser des granulats non réactifs.
+	G: Réduire la teneur en alcalis dans le ciment.
+	B: Ajouter plus d’eau au mélange pour diluer les alcalis.
+	G: Incorporer des matériaux pouzzolaniques comme les cendres volantes ou les fumées de silice.
+	C: Les matériaux pouzzolaniques réagissent avec les alcalis, réduisant leur disponibilité pour la RAS. Utiliser des granulats non réactifs est aussi une approche directe et efficace.
+
+
+
+
+
+
+
+
+
+
+
+	

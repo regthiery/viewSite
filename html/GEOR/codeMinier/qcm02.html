@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QCM : QCM Géoressources</title>
+    <link rel="stylesheet" href="../../../css/styleqcm1.css">
+</head>
+<body>
+
+<div class="nav-buttons">
+    <a href="../fiche05.html"   class="nav-button"  >Retour</a>
+    <a href="qcm01.html" class="nav-button"  >Page précédente</a>
+    <a href="" class="nav-button"  disabled>Page suivante</a>
+</div>
+
+<div class="container">
+    <h1>QCM : Le Droit Minier - Auto-évaluation</h1>
+    <h2>Que dit le Code Minier ?</h2>
+    <form id="qcm-form">
+        <div class="question-box" id="q1-box">
+            <div class="question">1. Que signifie l'acronyme ICPE ?  </div>
+			<div class="image-container">
+				<img class="question-image" src="images/p001.jpg" alt="Image pour la question 1" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="C"> A) Implantations des Carrières et Petites  Exploitations   </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="D"> B) Inspections des Carrières pour la Préservation de l'Environnement </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="A"> C) Installations Contrôlées pour la Protection de l'Environnement   </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="B"> D) Installations Classées pour la Protection de l'Eau   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Installations Classées pour la Protection de l'Environnement". Ces installations sont soumises à des réglementations strictes pour limiter leur impact sur l'environnement.</p>
+		</div>
+        <div class="question-box" id="q2-box">
+            <div class="question">2. Les mines sont-elles soumises au régime des ICPE ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="A"> A) Oui, les mines sont exclusivement régies par les ICPE   </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="B"> B) Non, les mines relèvent principalement du Code Minier   </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="C"> C) Oui, uniquement si elles exploitent des substances énergétiques   </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="D"> D) Non, les mines ne sont soumises à aucune réglementation spécifique   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Non, les mines relèvent principalement du Code Minier". Cependant, certaines installations annexes à une mine peuvent relever des ICPE.</p>
+		</div>
+        <div class="question-box" id="q3-box">
+            <div class="question">3. Les carrières sont-elles considérées comme des ICPE ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="C"> A) Non, elles ne sont soumises à aucune réglementation spécifique   </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="A"> B) Non, elles sont uniquement régies par le Code Minier   </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="D"> C) Oui, mais uniquement si elles produisent des métaux précieux   </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="B"> D) Oui, elles sont souvent classées comme ICPE </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Oui, elles sont souvent classées comme ICPE" en raison de leur impact environnemental. Elles relèvent de la rubrique 2510 de la nomenclature des ICPE.</p>
+		</div>
+        <div class="question-box" id="q4-box">
+            <div class="question">4. Quel est l’objectif principal de la loi n°2017-1839 ?  </div>
+			<div class="image-container">
+				<img class="question-image" src="images/p000.png" alt="Image pour la question 4" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="C"> A) Mettre fin à la recherche et à l’exploitation des hydrocarbures   </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="A"> B) Autoriser l’exploitation des hydrocarbures non conventionnels   </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="D"> C) Réformer uniquement le secteur de l’électricité   </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="B"> D) Encourager la recherche sur les hydrocarbures en France   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Mettre fin à la recherche et à l’exploitation des hydrocarbures". La loi vise à interdire progressivement ces activités pour répondre aux enjeux climatiques.</p>
+		</div>
+        <div class="question-box" id="q5-box">
+            <div class="question">5. Qu'est-ce qu'une concession dans le Code Minier ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="B"> A) Une licence de construction pour des installations de traitement de minerais </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="C"> B) Une autorisation permettant à une personne d'exploiter des substances minérales ou fossiles dans un périmètre défini   </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="D"> C) Un contrat pour la gestion des déchets miniers </label>
+                <label><input type="radio" class="checkbox-margin" name="q5" value="A"> D) Une autorisation permettant à une personne d'exploiter des ressources en eau   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Une autorisation permettant à une personne d'exploiter des substances minérales ou fossiles dans un périmètre défini". La concession donne un droit exclusif d'exploitation des ressources minérales sur un terrain.</p>
+		</div>
+        <div class="question-box" id="q6-box">
+            <div class="question">6. Une concession minière peut-elle être accordée pour une durée indéfinie ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="C"> A) Non, elle est accordée pour une durée déterminée, mais peut être renouvelée sous certaines conditions   </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="A"> B) Oui, elle est automatiquement renouvelée sur demande de l'exploitant  </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="B"> C) Oui, si l'exploitation est réalisée dans un cadre écologique strict   </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="D"> D) Non, les concessions sont toujours limitées à 10 ans   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+		</div>
+        <div class="question-box" id="q7-box">
+            <div class="question">7. Quelle est l'une des obligations liées à une concession minière ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="D"> A) Obligation de remettre les terrains dans leur état initial après l'exploitation   </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="C"> B) Obligation d'embaucher uniquement des travailleurs locaux   </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="B"> C) Obligation de payer des redevances à l'État   </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="A"> D) Obligation de créer un réseau d'évacuation des déchets   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Obligation de payer des redevances à l'État". Le titulaire d'une concession doit également respecter des conditions environnementales.</p>
+		</div>
+        <div class="question-box" id="q8-box">
+            <div class="question">8. Quelles installations sont soumises au régime légal des mines ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="A"> A) Les installations produisant de l'énergie nucléaire   </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="C"> B) Les installations de géothermie utilisant des capteurs solaires   </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="D"> C) Les installations de géothermie utilisant des pompes à chaleur   </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="B"> D) les gîtes géothermiques et les stockages souterrains d'énergie calorifique </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Les stockages souterrains d'énergie calorifique et les gîtes géothermiques". Ces installations relèvent du régime légal des mines en vertu de leur capacité à extraire ou échanger de l'énergie thermique.</p>
+		</div>
+        <div class="question-box" id="q9-box">
+            <div class="question">9. Quelles sont les conditions d'obtention d'une concession ?  </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="C"> A) Elle est accordée uniquement si le demandeur respecte des conditions économiques et sociales   </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="A"> B) Elle est accordée automatiquement sans enquête publique   </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="B"> C) Elle est accordée après enquête publique et respect des conditions générales et spécifiques   </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="D"> D) Elle est accordée uniquement à l'issue d'une étude d'impact économique et social sans enquête publique   </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Elle est accordée après enquête publique et respect des conditions générales et spécifiques". La concession nécessite une enquête publique et un engagement sur des conditions spécifiques.</p>
+		</div>
+        <div class="question-box" id="q10-box">
+            <div class="question">10. À partir de quelle date l'exploration et l’exploitation des hydrocarbures prendra fin en France ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="B"> A) 1er janvier 2040. </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="C"> B) 1er janvier 2035. </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="D"> C) 1er janvier 2025. </label>
+                <label><input type="radio" class="checkbox-margin" name="q10" value="A"> D) 1er janvier 2030. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "1er janvier 2040".	</p>
+		</div>
+        <div class="question-box" id="q11-box">
+            <div class="question">11. Dans quel cas un propriétaire en France est-il également propriétaire du sous-sol de son terrain ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="A"> A) Lorsqu’il s’agit de substances relevant du régime des carrières. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="D"> B) Lorsqu’il s’agit de gisements géothermiques profonds. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="C"> C) Lorsqu’il détient une autorisation administrative spéciale. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="B"> D) Lorsqu’il s’agit de toutes les ressources minérales ou fossiles présentes sous son terrain. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Lorsqu’il s’agit de substances relevant du régime des carrières".	</p>
+		</div>
+        <div class="question-box" id="q12-box">
+            <div class="question">12. Quelles substances sont laissées à la libre disposition du propriétaire du terrain en France ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="B"> A) Les hydrocarbures présents dans le sous-sol. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="C"> B) Les ressources géothermiques profondes. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="D"> C) Les minerais stratégiques comme l’uranium. </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="A"> D) Les substances de carrières comme le sable et le gravier. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Les substances de carrières comme le sable et le gravier".</p>
+		</div>
+        <div class="question-box" id="q13-box">
+            <div class="question">13. Quelle est la durée initiale d’un permis exclusif de recherches de mines en France ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="B"> A) Maximum 10 ans. </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="D"> B) Maximum 15 ans. </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="C"> C) Maximum 3 ans. </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="A"> D) Maximum 5 ans. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La durée initiale d’un permis exclusif de recherches est de maximum 5 ans, selon le Code minier.</p>
+		</div>
+        <div class="question-box" id="q14-box">
+            <div class="question">14. Est-il possible de prolonger la durée d’un permis exclusif de recherches de mines ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="C"> A) Oui, avec une ou plusieurs prolongations, sous certaines conditions. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="D"> B) Non, sauf dans le cadre d’une concession immédiate. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="A"> C) Non, une fois expiré, le permis ne peut pas être renouvelé. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="B"> D) Oui, mais uniquement pour 1 année supplémentaire. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La bonne réponse est "Oui, avec une ou plusieurs prolongations, sous certaines conditions".</p>
+		</div>
+        <div class="question-box" id="q15-box">
+            <div class="question">15. Quelle est la durée maximale totale qu’un permis exclusif de recherches peut atteindre avec des prolongations en France ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="D"> A) 25 ans. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="B"> B) 15 ans. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="A"> C) 10 ans. </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="C"> D) 20 ans. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La durée totale d’un permis exclusif de recherches, incluant les prolongations, ne peut dépasser 15 ans.</p>
+		</div>
+        <div class="question-box" id="q16-box">
+            <div class="question">16. Que se passe-t-il si le titulaire ne respecte pas les conditions du permis exclusif de recherches ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="D"> A) Le permis est automatiquement prolongé pour permettre la régularisation. </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="B"> B) Le titulaire reçoit une amende administrative. </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="C"> C) Le permis peut être retiré par l’autorité compétente. </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="A"> D) Le permis est suspendu temporairement. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> En cas de non-respect des conditions, le permis peut être retiré par l’autorité compétente.</p>
+		</div>
+
+        <div class="buttons">
+            <button type="button" onclick="evaluateQCM()">Corriger</button>
+            <button type="button" onclick="resetTest()">Recommencer</button>
+        </div>
+
+    </form>
+    <p id="result"></p>
+</div>
+
+<footer>
+    RocksandWalk - @ <script> document.write(new Date().getFullYear())</script> - Régis THIÉRY
+</footer>
+
+<script>
+    function evaluateQCM() {
+        const correctAnswers = {
+            "q1": ["B"],
+            "q2": ["B"],
+            "q3": ["B"],
+            "q4": ["C"],
+            "q5": ["C"],
+            "q6": ["C"],
+            "q7": ["B"],
+            "q8": ["B"],
+            "q9": ["B"],
+            "q10": ["B"],
+            "q11": ["A"],
+            "q12": ["A"],
+            "q13": ["A"],
+            "q14": ["C"],
+            "q15": ["B"],
+            "q16": ["C"],
+        };
+        
+
+        let score = 0;
+
+        function generateFeedbackText(goodAnswers, goodCount, questionBox) {
+            // Fonction utilitaire pour récupérer les 3 premières lettres d'une réponse
+    
+            function getAnswerLabel(value) {
+                const label = questionBox.querySelector(`input[value="${value}"]`).parentNode;
+                return label.textContent.trim().slice(0, 3); // Extrait les 3 premières lettres (ex: "A)")
+            }
+
+            if (goodAnswers.length === 0) {
+                return "Pas de bonne réponse !";
+            }
+
+            const formattedAnswers = goodAnswers.map(answer => getAnswerLabel(answer));
+
+            if (goodAnswers.length === 1) {
+                return `${formattedAnswers[0]} est ${goodCount === 1 ? "la" : "une"} bonne réponse.`;
+            }
+
+            if (goodAnswers.length > 1) {
+                return `${formattedAnswers.slice(0, -1).join(", ")} et ${formattedAnswers[formattedAnswers.length - 1]} sont de bonnes réponses.`;
+            }
+
+            return "";
+            }
+
+
+        for (let question in correctAnswers) {
+            const selected = Array.from(document.querySelectorAll(`input[name="${question}"]:checked`)).map(e => e.value);
+            const questionBox = document.getElementById(`${question}-box`);
+            const correctOptions = correctAnswers[question];
+            
+            const goodAnswers = selected.filter(val => correctOptions.includes(val));
+            let feedback = generateFeedbackText(goodAnswers, correctOptions.length, questionBox);
+
+            let isCorrect = selected.length === correctOptions.length && correctOptions.every(option => selected.includes(option));
+            questionBox.classList.toggle("correct", isCorrect);
+            questionBox.classList.toggle("incorrect", !isCorrect);
+
+            selected.forEach(val => {
+                const optionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (correctOptions.includes(val)) {
+                    optionLabel.style.fontWeight = "bold";
+                } else {
+                    optionLabel.classList.add("strikethrough");
+                }
+            });
+
+            correctOptions.forEach(val => {
+                const correctOptionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (!selected.includes(val)) {
+                    correctOptionLabel.style.fontWeight = "bold";
+                }
+            });
+
+            const correctAnswerLabel = questionBox.querySelector('.correct-answer');
+            const feedbackLabel = questionBox.querySelector('.feedback');
+            const commentBox = questionBox.querySelector('.comment');
+            if (feedbackLabel) {
+                feedbackLabel.style.display = 'block';
+                feedbackLabel.innerHTML = feedback;
+            }
+            if (commentBox) {
+                commentBox.style.display = 'block';
+            }
+           
+            // Mappage des bonnes réponses avec les lettres (A, B, C, D)
+            const correctAnswerLabels = correctOptions.map(val => {
+                const label = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                const text = label.textContent.trim();
+                return `${text}`;
+                });
+
+
+            let correctAnswerText = correctOptions.length === 1 
+                ? `Bonne réponse : ${correctAnswerLabels.join("; ")}`
+                : `Bonnes réponses : ${correctAnswerLabels.join("; ")}`;
+            
+            correctAnswerLabel.innerHTML = correctAnswerText;
+            correctAnswerLabel.style.display = 'block';
+
+            if (isCorrect) score+=goodAnswers.length;
+        }
+
+        const totalValues = Object.values(correctAnswers).reduce((acc, curr) => acc + curr.length, 0);
+        const result = document.getElementById("result");
+
+        if (score === 0) {
+            result.textContent = `Vous n'avez obtenu aucune bonne réponse sur ${totalValues}.`;
+        } else if (score === 1) {
+            result.textContent = `Vous avez obtenu 1 bonne réponse sur ${totalValues}.`;
+        } else {
+            result.textContent = `Vous avez obtenu ${score} bonnes réponses sur ${totalValues}.`;
+        }
+    }
+
+    function resetTest() {
+        window.location.reload();
+    }
+
+    function openModal(imgElement) {
+        var modal = document.getElementById("imageModal");
+        var modalImg = document.getElementById("modalImage");
+        modal.style.display = "block";
+        modalImg.src = imgElement.src;  // Utiliser l'image cliquée
+    }
+
+    function closeModal() {
+        var modal = document.getElementById("imageModal");
+        modal.style.display = "none";
+    }
+
+</script>
+
+
+
+
+</body>
+</html>

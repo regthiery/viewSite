@@ -1,0 +1,141 @@
+TITLE0: QCM : QCM Matériaux de Carrière
+TITLE1: QCM : Matériaux de Carrière - Auto-évaluation
+TITLE2: Le ciment (1)
+
+UP: ../fiche01.html
+PREV: qcm02.html
+NEXT: qcm04.html
+
+NOSHUFFLE
+
+Q: Qu'est-ce qu'un liant hydraulique ?
+	B: Un matériau liant qui durcit uniquement en présence d’air.
+	B: Un matériau liant qui réagit au contact d’un autre liant.
+	G: Un matériau liant qui durcit en présence d’eau.
+	B: Un matériau liant qui se mélange bien avec l'eau.
+	C: Un liant hydraulique, comme le ciment, réagit avec l’eau pour durcir, sans dépendre de la présence d’air. Cette propriété le distingue des liants aériens.
+	
+Q: Quel est le principe chimique qui permet au ciment de durcir ?
+	B: L’évaporation de l’eau présente dans le mélange
+	B: La silicification
+	G: L'hydratation
+	B: La carbonatation
+	C: Le durcissement du ciment repose sur l’hydratation, un processus chimique où des ions dissous précipitent pour former des phases solides stables comme les silicates de calcium hydratés.	
+	
+Q: Quelle est la composition chimique de la portlandite ?
+	G: Ca(OH)<sub>2</sub>
+	B: CaCO<sub>3</sub>
+	B: CaSO<sub>4</sub>
+	B: CaSiO<sub>3</sub>
+	C: La formule de la portlandite est Ca(OH)<sub>2</sub>. La portlandite est un des produits secondaires de le l'hydratation du ciment.
+	
+Q: Dans le système de notation abrégé de Le Chatelier, que désigne la lettre 'C' ?
+	G: L'oxyde de calcium (CaO).  
+	B: L'oxyde de carbone (CO₂).  
+	B: Le carbonate de calcium (CaCO₃).  
+	B: Le calcium élémentaire (Ca).  
+	C: Dans la notation de Le Chatelier, utilisée pour décrire les phases minérales du clinker, la lettre **C** représente l'oxyde de calcium, un composant fondamental des silicates et aluminates présents dans le ciment.		
+
+Q: Dans le système de notation abrégé de Le Chatelier, que désigne la lettre 'S' ?  
+	B: Le soufre (S))
+	B: Le sulfate (SO<sub>4</sub><sup>2-</sup>)
+	G: La silice (SiO<sub>2</sub>)
+	B: Le silicium (Si).
+	C: Dans la notation de Le Chatelier, la lettre **S** représente la silice  SiO<sub>2</sub>, un composant clé des silicates de calcium.
+	
+Q: Dans le système de notation abrégé de Le Chatelier, que désigne la lettre 'A' ?  
+	B: L'argon (Ar)
+	B: L'acide acétique (C<sub>2</sub>H<sub>5</sub>OH)
+	G: L'alumine (Al<sub>2</sub>O<sub>3</sub>)
+	B: L'aluminium (Al).  
+	C: Dans la notation de Le Chatelier, la lettre **A** désigne l'alumine (Al<sub>2</sub>O<sub>3</sub>), qui entre dans la composition des phases aluminates (comme le tricalcium aluminate, C<sub>3</sub>A, jouant un rôle important dans les propriétés du ciment, notamment dans sa prise rapide et sa réaction avec les sulfates.	
+
+Q: Dans le système de notation abrégé de Le Chatelier, que désigne la lettre 'H' ?  
+	B: L'hydrogène H<sub>2</sub>
+	B: L'hydroxyde OH<sup>-</sup>
+	B: L'humidité.  
+	G: L'eau H<sub>2</sub>O
+	C: Dans la notation de Le Chatelier, la lettre **H** représente l'eau H<sub>2</sub>, qui joue un rôle crucial dans l’hydratation du ciment. Ce processus chimique conduit à la formation de produits hydratés comme les silicates de calcium hydratés (CSH) et la portlandite (Ca(OH)<sub>2</sub>).
+	
+Q: Quels produits précipités confèrent la résistance mécanique au ciment ?
+	B: La portlandite et les carbonates de calcium.
+	G: Les silicates de calcium hydratés (CSH).
+	B: Les sulfates de calcium hydratés (gypse).
+	C: Les silicates de calcium hydratés (CSH) sont les principaux contributeurs à la résistance mécanique du ciment, tandis que la portlandite joue un rôle secondaire.
+
+Q: Qui a proposé le principe de dissolution-sursaturation-précipitation pour expliquer l’hydratation du ciment ?
+	G: Henri Le Chatelier.
+	B: Louis Vicat.
+	B: Joseph Aspdin.
+	C: Henri Le Chatelier a décrit ce principe en 1883, tandis que Louis Vicat a développé des ciments naturels, et Joseph Aspdin est le créateur du ciment Portland.
+	
+Q: Qu'est-ce que l’hydratation du ciment permet de former ?
+	B: Une pâte purement chimique sans phase solide.
+	G: Une structure dense constituée de produits précipités qui soudent les particules.
+	B: Une structure cristalline uniforme identique à celle des roches calcaires.
+	C: L’hydratation du ciment conduit à une structure complexe, formée de produits précipités comme le CSH, qui remplit les pores et lie les particules entre elles, garantissant la solidité du matériau durci.	
+	
+Q: Qu'est ce que l'on appelle le clinker dans le cas du ciment ?	
+	B: Un liant hydraulique prêt à l’emploi.  
+	B: Un mélange de sable et de gravier utilisé pour le béton.  
+	G:: Un matériau intermédiaire obtenu par calcination de matières premières comme le calcaire et l’argile.  
+	B: Une poudre fine contenant directement les produits d’hydratation.  
+	C: Le clinker est le produit obtenu après la cuisson à haute température d'un mélange de calcaire et d’argile. C’est une étape clé dans la fabrication du ciment, car le clinker contient les phases minérales (alite, bélite, etc.) responsables des propriétés hydrauliques du ciment une fois broyé et mélangé à du gypse.
+
+Q: Quels sont les matériaux de base pour fabriquer du ciment ?
+	G: Du calcaire et de l’argile.  
+	B: Du sable et du gravier.  
+	B: Du sable et du calcaire.  
+	B: Du gypse et du calcaire.  
+	C: Les matériaux de base pour fabriquer du ciment sont le calcaire (CaCO<sub>3</sub>) et l’argile, qui sont mélangés et chauffés à haute température pour produire du clinker. Le clinker est ensuite broyé et mélangé avec du gypse pour obtenir le ciment.
+	
+Q: Quelles sont les proportions approximatives de ces matériaux pour faire du ciment ?
+	G: Environ 80 % de calcaire et 20 % d’argile.  
+	B: Environ 50 % de calcaire et 50 % d’argile.  
+	B: Environ 30 % de calcaire et 70 % d’argile.  
+	B: Environ 90 % de calcaire et 10 % d’argile.  
+	C: La fabrication du clinker nécessite une proportion d’environ 80 % de calcaire (CaCO<sub>3</sub>) et 20 % d’argile, bien que ces ratios puissent varier légèrement en fonction des spécifications du ciment et des propriétés des matières premières utilisées.
+	
+Q: Qu'est ce que l'on appelle le cru dans le cas du ciment ?	
+	G: Un mélange finement broyé de calcaire et d’argile avant cuisson.  
+	B: Un ciment qui n’a pas encore durci.  
+	B: Une poudre de clinker mélangée à du gypse.  
+	B: Un béton préparé sans ajout d’eau.  
+	C: Le cru désigne le mélange homogène et finement broyé de calcaire (CaCO<sub>3</sub>) et d’argile qui est alimenté dans le four pour subir la cuisson. Cette étape est essentielle pour produire le clinker, le matériau intermédiaire du ciment.
+	
+Q: À quelle température fonctionne le four pour fabriquer du clinker ?	
+	B: Environ 900 °C.  
+	B: Environ 1500 °C.  
+	G: Environ 1450 °C.  
+	B: Environ 1800 °C.  
+	C: Le four pour fabriquer du clinker fonctionne à une température d’environ 1450 °C. Cette chaleur intense permet la fusion partielle du mélange de calcaire (CaCO3) et d’argile, favorisant la formation des phases minérales comme l’alite et la bélite, essentielles aux propriétés du ciment.
+
+Q: Comment passe-t-on du clinker au ciment ?
+	G: En broyant le clinker 
+	G: En mélangeant le clinker avec du gypse.  
+	B: En chauffant à nouveau le clinker à plus de 2000 °C  
+	B: En ajoutant de l’eau au clinker pour amorcer l’hydratation
+	B: En mélangeant le clinker avec du sable et du gravier  
+	C: Pour obtenir le ciment, le clinker est broyé finement et mélangé à une petite quantité de gypse (environ 5 %). Le gypse régule la prise du ciment en retardant sa réaction d’hydratation, ce qui facilite son utilisation
+
+Q: Que se passe-t-il dans le four au niveau chimique ?
+	G: Le calcaire (CaCO3) se décompose en oxyde de calcium (CaO) et en dioxyde de carbone (CO2)
+	G: Les oxydes de calcium réagissent avec les argiles pour former les silicates et des aluminates de calcium.  
+	B: Le calcaire fond entièrement pour donner un gel réactif
+	B: Les argiles donnent une poudre siliceuse réactive
+	C: Dans le four, à environ 1450 °C, le calcaire (CaCO3) se décompose en oxyde de calcium (CaO) et en dioxyde de carbone (CO2) dans une réaction appelée décarbonatation. Cet oxyde de calcium réagit ensuite avec les oxydes présents dans l’argile (silice SiO<sub>2</sub>, alumine Al<sub>2</sub>O<sub>3</sub>) pour former les silicates et aluminates de calcium, les phases minérales qui confèrent au clinker ses propriétés hydrauliques.
+	
+Q: Qu'est-ce que l'on appelle l'alite ?  
+	G: Un silicate tricalcique
+	B: Un aluminate de calcium pur utilisé comme matière première 
+	B: Un additif de chlorure de sodium ajouté au ciment pour ralentir sa prise  
+	B: Une structure cristalline formée après hydratation du ciment.  
+	C: L’alite, ou silicate tricalcique (C3S), est une phase minérale majeure du clinker. Elle réagit rapidement avec l’eau lors de l’hydratation, ce qui libère de grandes quantités de chaleur et confère au ciment une résistance mécanique élevée dans les premiers jours de durcissement.
+	
+Q: Qu'est-ce que l'on appelle la bélite ?  
+	G: Un silicate bicalcique
+	B: Un carbonate de calcium pur utilisé comme matière première 
+	B: Un polymorphe de la portlandite
+	B: Un carbonate magnésien
+	C: La bélite est un silicate bicalcique se formant lors du processus de clinkerisation dans les fours à ciment.
+	

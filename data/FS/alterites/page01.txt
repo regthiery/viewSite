@@ -1,0 +1,28 @@
+TITLE0: Altérites
+TITLE1: Les altérites
+TITLE2: La transformation des roches en surface
+UP: ../page01.html
+PREV:
+NEXT: 
+
+PARAGRAPH: L'altération est un processus géologique par lequel les roches exposées à la surface de la Terre se dégradent sous l'action de facteurs physiques, chimiques et biologiques. Elle se divise en deux types principaux : l'altération physique, où les roches se fragmentent sous l'effet des changements de température, du gel, etc,  ainsi que de l'altération chimique, où les minéraux se transforment chimiquement par dissolution, oxydation ou hydratation. Ce processus produit des matériaux appelés **altérites**, constitués de débris et de produits d'altération. L'altération des roches, par ces processus physiques et chimiques, produit des minéraux argileux et des particules fines. Ces argiles s'accumulent dans les formations superficielles et jouent un rôle crucial dans les terres végétales
+
+
+CARD:
+	TITLE1: L'altération
+	TITLE2: Un processus clé 
+	LINK: fiche01.html
+	DESCRIPTION: Expliquer les différentes modalités de l'altération physique et chimique
+
+CARD:
+	TITLE1: Les argiles
+	TITLE2: Ces minéraux essentiels des formations superficielles
+	LINK: fiche02.html
+	DESCRIPTION: Les argiles sont issus de l'altération des silicates de la croûte terrestre en présence d'eau. Ce sont les les minéraux fondamentaux des formations superficielles
+
+CARD:
+	TITLE1: Les altérites
+	TITLE2: De la ruine minérale à la reconstruction
+	LINK: fiche03.html
+	DESCRIPTION: Décrire les sols, leurs constituants, leurs horizons et savoir expliquer leurs processus de formation et d'évolution.
+

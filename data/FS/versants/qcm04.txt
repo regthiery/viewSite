@@ -1,0 +1,119 @@
+TITLE0: QCM : QCM Formations de Versant
+TITLE1: QCM : Les formations de versant - Auto-évaluation
+TITLE2: Les Ruines de Séchilienne
+
+UP: ../fiche04.html
+PREV: qcm03.html
+NEXT: 
+
+NOSHUFFLE
+
+V: videos/d8.mp4
+
+Q:  Où se trouvent les Ruines de Séchilienne, connu pour être un versant instable ? 
+	I: images/d1.svg &&
+	G: Dans la vallée de la Romanche, à une vingtaine de kilomètres en amont de Grenoble
+	B: Dans la vallée de la Maurienne, où s'écoule l'Arc.
+	B: Dans la vallée de la Tarentaise, où s'écoule l'Isère.		
+	B: Dans la vallée de l'Arve
+	C: Dans la vallée de la Romanche
+
+
+Q:  Les Ruines de Séchilienne se présent sous la forme d'... 
+	I: images/d11.jpg &&
+	G: un cône d'éboulis.
+	B: un cône de déjection.
+	B: une loupe de glissement de terrain.
+	B: une loupe de solifluxion.
+	B: une terrasse alluviale.
+	C: C'est un cône d'éboulis alimenté par les blocs qui se détachent du haut du versant rocheux
+
+
+Q:  Quels sont les aléas présentés par ce versant instable des Ruines de Séchilienne ? 
+	G: Des chutes de pierre
+	G: Des éboulements
+	G: La formation d'un barrage obstruant la vallée en contre-bas suite à un grand éboulement.
+	G: La formation d'un lac de barrage lors d'une crue de la Romanche, suivie de sa rupture, et la survenue d'une onde de crue jusqu'à Grenoble.
+	B: Des glissements de terrain.
+	B: Des coulées de boues.
+	C: Chutes de pierres, éboulements avec toutes les conséquences envisageables selon la masse de blocs effondrés: obstruction de la vallée, formation de lac de barrage et sa vidange en cas de grosse crue de la Romanche avec submersion des zones à fort enjeu de l'agglomération grenobloise	
+	
+
+Q:  Quels sont les zones vulnérables aux instabilités des Ruines de Séchilienne ? 
+	G: La route qui passe en contrebas, et qui relie Grenoble à Briançon.
+	G: L'agglomération de Grenoble.
+	B: La ville de Briançon.
+	C: Toutes les zones en contrebas et en aval sont vulnérables
+
+Q: L'instabilité du versant des Ruines de Séchilienne est ...
+	G: un processus de long terme qui a commencé depuis la dern!ère déglaciation
+	B: un phénomène très récent apparu au XVIIIe siècle
+	C: Cette instabilité de versant fait suite à la déglaciation de cette vallée alpine. La disparition du glacier de la Romanche a entraîné une décompression des terrains.
+	
+Q: Est-il possible d'arrêter le mouvement de ce versant instable ?
+	G: Non
+	B: Oui
+	B: Non, mais on peut le freiner
+	C: Ce versant s'effondrera un jour. On ne peut pas l'empêcher, ni même le ralentir.
+
+Q: Est-ce que l'on peut espérer que l'effondrement de ce versant stabilisera la vallée ?
+	G: Non
+	B: Oui
+	B: Peut-être
+	C: Seule une partie du versant tombera. Le reste du versant dans sa nouvelle configuration sera dans une situation plus ou moins stable, car la masse effondrée constituait en fait une butée qui le stabilisait.
+	
+Q: Est-ce que les scénarios les plus pessimistes envisagés dans les années 90 se sont réalisés ?
+	B: Oui
+	G: Non
+	C: Les scénarios les plus pessimistes dans les années 90 envisageaient la chute d'un volume de 30 à 50 Mm<sup>3</sup> de roches à une échéance de 10 ans. En 2025, 35 ans après, le versant est toujours là.
+	
+Q: Quelle est l'ampleur de la vitesse de déplacement de la zone frontale dans les années 2010 ?
+	G: Environ 2 mètres par an
+	B: Environ 2 centimètres par an	
+	B: Environ 2 décimètres par an	
+	B: Environ 2 millimètres par an	
+	C: Dans les années 2010, la zone frontale se déplaçait à une vitesse d'environ 2 mètres par an, ce qui alertait les pouvoirs publics.
+	
+Q: Quelle loi a permis d'enclencher l'expropriation et l'indemnisation dans la zone à risques ?
+	G: La loi Barnier
+	B: La loi Duflot
+	B: La loi Balladur
+	B: La loi Hulot
+	C: C'est la loi Barnier, du 2 février 1995, qui prévoit des dispositions sur la « sauvegarde des populations menacées par certains risques naturels majeurs »
+	
+Q: Que s'est-il passé en 1219 à Grenoble ?  
+	G: Une inondation de grande ampleur suite à la rupture d'un lac de barrage formé par un éboulement de versant dans la vallée de la Romanche.  
+	B: Un éboulement massif d'un versant comparable à celui des Ruines de Séchilienne, qui a ravagé la ville.  
+	B: Un séisme majeur qui a détruit la ville.  
+	B: Des destructions majeures causées par une lave torrentielle descendue de la vallée de la Romanche.  
+	C: En 1219, Grenoble a été inondée par une masse d'eau déversée à la suite de la rupture d'un barrage naturel, formé dans la vallée de la Romanche après un éboulement survenu en 1191.
+
+
+Q:  Quelles sont les premières mesures de prévention prises après l'éboulement de 1985 ? 
+	G: Déplacement de la route sur le versant opposé de la vallée.
+	G: Construction d'une digue et d'un merlon en contrebas.
+	G: Implantation d'un système de mesures in-situ
+	G: Mise en place d'un système d'alertes 24h sur 24, et 7 jours sur 7
+	B: Pose d'un grillage
+	C: Ces mesures visent à protéger les habitants et les infrastructures en réduisant les risques d'éboulements et en permettant une surveillance continue.
+
+
+Q: Cette photo montre un flanc de montagne, dans la région italienne de la Valteline, qui a été sujet à un grand éboulement le 28 juillet 1987.  
+	I: images/d12.jpg  &&
+	G: La catastrophe est due à des pluies intenses, combinées à une arrivée en grande quantité d'eaux de fonte des glaciers.  
+	G: La rivière Val Pola, en érodant la base du versant de la montagne, a déstabilisé le flanc et provoqué l'éboulement.  
+	B: C'était la faute des alpinistes qui, après avoir monté un camp de base un peu trop près du bord, ont décidé de faire la fête trop fort.  
+	B: Un troupeau de chèvres particulièrement ambitieux a décidé de se lancer dans une course effrénée sur le versant.  
+	C: Cet éboulement a causé des destructions majeures et a mis en évidence l'impact combiné des facteurs naturels sur la stabilité des versants montagneux.
+
+Q:  Cette vidéo montre un phénomène qui s'est produit aux Etats-Unis. Que peut-on dire là-dessus ? 	
+	V: videos/d10.mp4	
+	G: C'est une lave torrentielle.
+	B: C'est une crue.
+	G: La partie frontale de l'écoulement est très chargée en débris rocheux et divers (troncs d'arbres), et est suivie par un écoulement plus aqueux.
+	B: L'écoulement est homogène. On ne distingue pas d'évolution entre la partie frontale et la suite.
+	C: C'est de nouveau une lave torrentielle qui se se déverse dans la vallée. Malgré l'absence de pente, la lave a conservé son pouvoir destructeur en raison de la forte densité de son écoulement boueux.
+
+
+
+

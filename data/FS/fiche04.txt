@@ -1,0 +1,25 @@
+TITLE0: Formations de Versant
+TITLE1: Les formations de versant
+TITLE2: Ou comment la gravité déplace les roches !
+
+UP: page01.html
+PREV: fiche03.html
+NEXT: fiche05.html
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Présenter les différents types de formations de versant (éboulis, colluvions), ainsi que les risques naturels associés (glissements de terrain, éboulements, effondrements).
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+PDF:
+	TITLE: Les formations de versant 
+	LINK: https://drive.google.com/file/d/15j_VqKu6QbqvnX-spY9hJn8Q6v2efbpc/view?usp=sharing
+
+
+QCM:
+	TITLE: Testez vos connaissances sur les formations de versant à l'aide de questions interactives.
+	LINK: versants/qcm01.html	
+
+

@@ -1,0 +1,25 @@
+TITLE0: Sols
+TITLE1: Les sols
+TITLE2: Des interfaces vivantes entre lithosphère et biosphère !
+
+UP: page01.html
+PREV: fiche02.html
+NEXT: fiche04.html
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Décrire les sols, leurs constituants, leurs horizons et savoir expliquer leurs processus de formation et d'évolution.
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+PDF: 
+	TITLE: Les sols
+	LINK: https://drive.google.com/file/d/15x5Ht-OwPJOx7eJQ-B_dP80DRoFzzmT0/view?usp=sharing
+
+QCM:
+	TITLE: Testez vos connaissances sur les sols à l'aide de questions interactives.
+	LINK: sols/qcm01.html	
+
+

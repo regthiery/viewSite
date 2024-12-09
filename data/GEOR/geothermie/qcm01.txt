@@ -1,0 +1,188 @@
+TITLE0: QCM : QCM Géothermie
+TITLE1: QCM : Géothermie - Auto-évaluation
+TITLE2: De l'énergie sortie des profondeurs
+
+UP: ../fiche01.html
+PREV:
+NEXT: qcm02.html
+
+NOSHUFFLE
+
+Q: Quel est le flux géothermique moyen de la Terre ?
+	G: 80 mW/m2
+	B: 200 mW/m2
+	B: 1 W/m2
+	B: 1 mW/m2
+	C: Le flux géothermique moyen de la Terre est d'environ 80 mW/m², ce qui correspond à la quantité de chaleur s'échappant de l'intérieur de la Terre par unité de surface. 
+	
+Q: Au total, cela représente une puissance thermique de combien à l'échelle de la Terre ?
+	G: 40 TW
+	B: 40 GW
+	B: 40 MW
+	B: 40 PW
+	C: La puissance thermique totale générée par le flux géothermique à l'échelle de la Terre est d'environ 40 TW (terawatts), ce qui correspond à l'énergie libérée par la chaleur interne de la planète à travers sa surface. Cette énergie est bien plus importante que celle utilisée par les activités humaines à l'échelle mondiale.
+
+
+Q: Quelle est la valeur moyenne du gradient géothermique dans la croûte terrestre ?  
+	G: 25-35°C/km  
+	B: 100°C/km  
+	B: 1°C/km  
+	B: 50°C/km  
+	C: Le gradient géothermique moyen est d'environ 25-35°C par kilomètre de profondeur, ce qui représente l'augmentation de la température avec la profondeur dans la croûte terrestre. Cette valeur est assez variable (10 à 50°C/km) en fonction des conditions géologiques
+
+Q: Quelle est la valeur moyenne du gradient géothermique dans l'asthénosphère ?
+	G: 0.3°C / km
+	B: 3°C/km
+	B: 30°C/km
+	B: 60°C/km
+	C: Le gradient géothermique dans l'asthénosphère est généralement faible, autour de 0.3°C/km.
+	
+Q: Qu'indique la valeur du gradient géothermique dans l'asthénophère sur le mode de transfert thermique qui s'y exerce ?
+	G: Une mode de transfert thermique par convection
+	B: Un mode de transfert thermique par conduction
+	B: Un mode de transfert thermique par radiation
+	B: Un mode de transfert thermique par advection
+	C: La faible valeur du gradient géothermique dans l'asthénosphère indique un mode de transfert thermique par convection, où la chaleur est transportée par le mouvement des roches mantelliques
+	
+Q: Sur le flux géothermique terrestre mesuré en moyenne à la surface, quelles sont les proportions relatives de la croûte et du manteau ?
+	G: 50 % croûte - 50 % manteau
+	B: 10 % croûte - 90 % manteau
+	B: 90 % croûte - 10 % manteau
+	B: 75 % croûte - 25 % manteau
+	C: En moyenne, le flux géothermique mesuré à la surface terrestre provient pour environ 50 % de la croûte et pour 50 % du manteau. La croûte contribue au flux par la désintégration des éléments radioactifs qu'elle contient, tandis que le manteau participe via la dissipation de chaleur résiduelle ou produite les couches profondes de la Terre.	
+
+Q: En quelle unité se mesure la conductivité thermique d'une roche ?
+	G: W/m/K
+	B: J/m/K
+	B: W/m<sup>2</sup>/K
+	B: W . m / K
+	C: La conductivité thermique d'une roche se mesure en watts par mètre par kelvin (W/m/K). Cette unité exprime la capacité d'un matériau à conduire la chaleur, indiquant la quantité de chaleur transférée par unité de longueur et de différence de température.
+	
+Q: Quelle est la relation qui relie le flux géothermique d'une part, et la conductivité thermique et le gradient géothermique d'autre part ?
+	G: Le flux géothermique est le produit de la conductivité par le gradient géothermique.
+	B: Le flux géothermique est la somme de la conductivité par le gradient géothermique.
+	B: Le flux géothermique est le rapport de la conductivité par le gradient géothermique.
+	B: Le flux géothermique est le rapport du gradient géothermique par la conductivité thermique.
+	C: Le flux géothermique est calculé comme le produit de la conductivité thermique et du gradient géothermique. Cette relation, exprimée par la formule <em>q = k × ∇T</em>, où <em>q</em> représente le flux géothermique, <em>k</em> la conductivité thermique, et <em>∇T</em> le gradient géothermique.	
+
+Q: En déduire une conductivité thermique moyenne des roches dans la croûte terrestre ?
+	G: 3 W/m/K
+	B: 10 W/m/K 
+	B: 0.1 W/m/K
+	B: 0.3 W/m/K
+	C: La conductivité thermique moyenne des roches dans la croûte terrestre est d'environ 3 W/m/K. Cette valeur reflète la capacité de la croûte terrestre à conduire la chaleur, bien que cette conductivité puisse varier en fonction de la composition minéralogique des roches.
+	
+Q: Quelle est la source de chaleur principale dans la croûte terrestre ?  
+	G: La désintégration des éléments radioactifs  
+	B: Le rayonnement solaire  
+	B: La chaleur résiduelle de la formation de la Terre  
+	B: Les réactions chimiques entre minéraux  
+	C: La principale source de chaleur dans la croûte terrestre est la désintégration des éléments radioactifs, tels que l'uranium, le thorium et le potassium. Cette désintégration libère de l'énergie sous forme de chaleur, contribuant au flux géothermique observé à la surface.
+	
+Q: À partir de la question précédente, peut-on déterminer la puissance thermique d'un kg de granite ?
+	G: 0.6 nW
+	B: 6 µW
+	B: 6 mW
+	B: 6 nW
+	C: Sur un m<sup>2</sup> de surface qui produit 100 mW, la moitié provient de la désintégration de noyaux radioactifs, soit 50 mW. Cette chaleur a été produite par un volume de 30 000 m<sup>3</sup>. La roche a une masse volumique de 2700 kg/m<sup>3</sup>. En divisant la puissance thermique par la masse de roche par m<sup>2</sup>, cela nous donne 0.6 nW/kg de roche. Dans ces calculs, on suppose que la colonne de roches est en régime permanent stable et bien sûr, que la chaleur s'évacue vers le haut.
+	
+Q: En déduire la puissance thermique d'un pluton de 1 km<sup>3</sup> de roches. 
+	G: 1600 W
+	B: 1.6 W
+	B: 1.6 MW
+	B: 1.6 GW
+	C: 	On obtient une valeur de 1600 W par ce calcul 0.6e-9*2700*1e9 = 1600, c'est-à-dire W/kg x kg/m3 x m3
+
+Q: Estimer la quantité d'eau qui s'infiltre par m2 et par an et qui peut être réchauffé de 0 à 50°C avant de sortir par une source chaude. On suppose que cette eau percole jusqu'à une profondeur de 1 km. On prendra une valeur de 1 nW/kg pour le granite.
+	G: 0.5 l/m<sup>2</sup>/an
+	B: 5 l/m<sup>2</sup>/an
+	B: 50 l/m<sup>2</sup>/an
+	B: 0.05 l/m<sup>2</sup>/an
+	C: Une colonne de granite de 1 m<sup>2</sup>	de surface et de 1000 m d'épaisseur a une puissance chauffante de 1*1000*2700*1e-9 ~ 0.003 W/kg. Pour chauffer un litre d'eau de 0 à 50°C, il faut une énergie de 1*4200*50 = 2.1e5 J Une année compte 365*24*3600 seconde. Donc le volume d'eau que je peux faire chauffer par le granite est 0.003*24*365*3600 / 2.1e5 ~ 0.45 l
+	
+Q: Au regard de calcul et compte tenu des besoins en eau chaude sanitaire et chauffage, est-ce que la géothermie peut être qualifiée d'énergie renouvelable ?
+	G: Non
+	B: Oui
+	C: Sous réserve que cela soit possible, 100 m2 de terrain	fournirait seulement une quantité de 50 litre d'eau chaude par an, ce qui est notoirement insuffisant pour assurer les besoins en eau chaude d'un français moyen.
+	
+Q: En ordre, la capacité calorique massique d'une roche comme le granite est :
+	G: 5 fois plus faible que celle de l'eau liquide
+	B: 5 fois plus forte que celle de l'eau liquide
+	B: similaire à celle de l'eau liquide
+	B: 2 fois plus faible que celle de l'eau liquide
+	C:  La capacité calorifique massique d'une roche comme le granite est environ 5 fois plus faible que celle de l'eau liquide. En effet, la capacité thermique de l'eau est exceptionnellement élevée par rapport à celle des roches, ce qui permet à l'eau d'absorber et de stocker plus de chaleur pour une même quantité de masse.
+	
+Q: Quelle est la valeur de la capacité calorifique massique de l'eau ?
+	G: 4.185 J/g/K
+	B: 4185 J/g/K
+	B: 41.85 J/g/K
+	B: 418.5 J/g/K
+	C: La capacité calorifique massique de l'eau est de 4.185 J/g/K. Elle est élevée par rapport à celle de la plupart des solides, ce qui signifie que l'eau peut absorber ou libérer une grande quantité de chaleur avec un faible changement de température.
+	
+Q: En considérant une capacité calorifique massique de 1 J/g/K pour le granite, quelle est la quantité de chaleur récupérable en kWh d'un m<sup>3</sup> de granite quand sa température baisse de 10°C ?
+	G: Environ 40 kWh
+	B: Environ 4 kWh 
+	B: Environ 400 kWh
+	B:  Environ 0.4 kWh
+	C: Cette quantité de chaleur se calcule par la formule m x c<sub>p</sub> x delta T, soit 2700 * 1000 * 50 = 1.35e8 J, c'est-à-dire 37 kWh.	
+	
+Q: Selon l'ADEME, quel est le volume d'Eau Chaude Sanitaire (ECS) consommé par jour par un français moyen ?
+	G: 50 litres par jour
+	B: 10 litres par jour 
+	B: 100 litres par jour
+	B: 200 litres par jour
+	C: D'après l'ADEME, un Français consomme en moyenne 50 litres d'eau chaude sanitaire par jour, principalement pour les usages domestiques tels que la douche, la vaisselle et le lavage des mains.
+
+Q: Combien de kWh sont nécessaires pour chauffer un litre d'eau de 10°C à 50°C ?
+	G: Environ 0.05 kWh
+	B: Environ 0.5 kWh
+	B: Environ 5 kWh
+	B: Environ 1 kWh
+	C: Pour chauffer un litre d'eau de 10°C à 50°C, environ 0.05 kWh sont nécessaires, en tenant compte de la capacité calorifique massique de l'eau (4.185 J/g/K) et du changement de température (40°C).
+
+Q: Quels sont les besoins énergétiques moyens et journaliers de l'ECS par personne ?
+	G: Environ 2.5 kWh
+	B: Environ 1 kWh
+	B: Environ 5 kWh
+	B: Environ 0.5 kWh
+	C:  En moyenne, les besoins en énergie pour l'eau chaude sanitaire (ECS) s'élèvent à environ 2.5 kWh par jour et par personne ( = 0.05 kWh / litre x 50 litres), selon les données de consommation standard et en fonction de la température de chauffe requise.
+	
+Q: En ordre de grandeur, quel est le prix TTC du kWh de gaz, hors abonnement ?
+	G: Entre 0.11 et 0.14 €
+	B: Entre 0.22 et 0.24 €
+	B: Entre 0.30 et 0.35 €
+	B: Entre 0.06 et 0.10 €
+	C: Le prix TTC du kWh de gaz (hors abonnement) pour les particuliers en France varie généralement entre 0.11 et 0.14 €, en fonction des fournisseurs et des zones géographiques.	
+	
+Q: Quelle est la facture énergétique moyenne annuelle d'un résident en ECS ?
+	G: Environ 100 € / an
+	B: Environ 200 € / an
+	B: Environ 50 € / an
+	B: Environ 500 € / an
+	C: 	 La facture moyenne annuelle pour l'eau chaude sanitaire (ECS) en France est d'environ 100 € ( = 0.12 €/kWh x 2.5 kWh/j x 365 j/an ), en fonction des besoins individuels et des sources d'énergie utilisées pour chauffer l'eau.
+
+Q: Combien de m<sup>3</sup> de granites sont nécessaires pour assurer les besoins énergétiques en ECS d'un français moyen par an ?
+	G: 
+	B: 
+	B: 
+	B: 
+	C: Les besoins énergétiques annuels se montent à environ 1000 kWh/an/personne en ECS. Un m<sup>3</sup> de granite fournit 4 kWh par °C, soit 40 kWh pour une baisse de 10°C de la température du granite. Il faut donc exploiter les ressources géothermiques d'environ 25 m<sup>3</sup> de granite par personne et par an.
+	
+Q: Au vu des questions précédentes, utiliser la géothermie, c'est
+	G: exploiter un gisement de calories dans le sous-sol
+	B: exploiter une ressource d'énergie renouvelable
+	B: exploiter une ressource d'énergie facilement mobilisable
+	B: exploiter une ressource d'énergie propre
+	C: La géothermie revient à exploiter un gisement de calories stockées dans le sous-sol. Comme le taux d'exploitation est supérieur au taux de renouvellement de la ressource calorifique, la géothermie n'est pas une énergie renouvelable. Par ailleurs, elle n'est ni propre, ni facile à exploiter.
+	
+
+
+
+
+
+
+
+
+
+			 
+	

@@ -1,0 +1,103 @@
+# Variables
+QCMGEN   = ./tools/qcmGen.pl
+INDEXGEN = ./tools/indexGen.pl
+PAGEGEN  = ./tools/pageGen.pl
+FICHEGEN = ./tools/ficheGen.pl
+
+BROWSER  = 'Google Chrome.app'
+LOCAL0   = html/
+LOCAL1   = http://localhost:8080/rocksandwalk/gertrude/netlify/html
+DIST     = https://rocksandwalk.netlify.app/html
+
+DATA_DIR = ./data
+HTML_DIR = ./html
+CSS_DIR  = css
+TEST_DIR = ~/sites/rocksandwalk/gertrude/netlify
+TEST_CSS_DIR = $(TEST_DIR)/css
+TEST_HTML_DIR = $(TEST_DIR)/html
+
+
+# Dépendances pour les fichiers individuels
+$(HTML_DIR)/qcm%.html: $(DATA_DIR)/qcm%.txt
+	@echo "Génération de $@"
+	perl $(QCMGEN) $< styleqcm1
+
+$(HTML_DIR)/index%.html: $(DATA_DIR)/index%.txt
+	@echo "Génération de $@"
+	perl $(INDEXGEN) $< styles
+
+$(HTML_DIR)/page%.html: $(DATA_DIR)/page%.txt
+	@echo "Génération de $@"
+	perl $(PAGEGEN) $< styles
+
+$(HTML_DIR)/fiche%.html: $(DATA_DIR)/fiche%.txt
+	@echo "Génération de $@"
+	perl $(FICHEGEN) $< styles
+
+
+# Fichiers sources détectés dynamiquement
+INDEX_FILES = $(shell find $(DATA_DIR) -type f -name 'index*.txt')
+PAGE_FILES  = $(shell find $(DATA_DIR) -type f -name 'page*.txt')
+FICHE_FILES = $(shell find $(DATA_DIR) -type f -name 'fiche*.txt')
+QCM_FILES   = $(shell find $(DATA_DIR) -type f -name 'qcm*.txt')
+
+
+$(info INDEX_FILES $(INDEX_FILES))
+
+
+HTML_INDEX_FILES = $(INDEX_FILES:$(DATA_DIR)/%.txt=$(HTML_DIR)/%.html)
+HTML_PAGE_FILES  = $(PAGE_FILES:$(DATA_DIR)/%.txt=$(HTML_DIR)/%.html)
+HTML_FICHE_FILES = $(FICHE_FILES:$(DATA_DIR)/%.txt=$(HTML_DIR)/%.html)
+HTML_QCM_FILES   = $(QCM_FILES:$(DATA_DIR)/%.txt=$(HTML_DIR)/%.html)
+
+# Cibles
+.PHONY: all clean copy view0 view1 view2 ensure_dirs syncVideos
+
+all: ensure_dirs $(HTML_INDEX_FILES) $(HTML_PAGE_FILES) $(HTML_FICHE_FILES) $(HTML_QCM_FILES)
+
+# Création des dossiers nécessaires
+ensure_dirs:
+	@mkdir -p $(HTML_DIR)
+	@mkdir -p $(TEST_DIR)
+	@mkdir -p $(TEST_CSS_DIR)  
+	@mkdir -p $(TEST_HTML_DIR)  
+	@mkdir -p $(TEST_HTML_DIR)/Images  
+	@mkdir -p $(TEST_HTML_DIR)/FS
+	@mkdir -p $(TEST_HTML_DIR)/GEOR
+	@mkdir -p $(TEST_HTML_DIR)/TDU
+	@mkdir -p $(TEST_HTML_DIR)/FS/Images  
+	@mkdir -p $(TEST_HTML_DIR)/GEOR/Images  
+	@mkdir -p $(TEST_HTML_DIR)/TDU/Images  
+
+# Synchronisation des vidéos et images
+syncVideos:
+	rsync -av --include='*/' --include='*.mp4' --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.jpg' --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.png' --exclude='*' data/ html/
+
+# Copier les fichiers CSS et HTML générés dans Netlify
+copy:
+	rsync -av  $(CSS_DIR)/              $(TEST_CSS_DIR)/
+	rsync -av  $(HTML_DIR)/             $(TEST_HTML_DIR)
+	rsync -av  $(HTML_DIR)/Images/      $(TEST_HTML_DIR)/Images
+	rsync -av  $(HTML_DIR)/FS/Images/   $(TEST_HTML_DIR)/FS/Images
+	rsync -av  $(HTML_DIR)/GEOR/Images/ $(TEST_HTML_DIR)/GEOR/Images
+	rsync -av  $(HTML_DIR)/TDU/Images/  $(TEST_HTML_DIR)/TDU/Images
+
+
+
+
+# Nettoyage des fichiers HTML générés
+clean:
+	rm -rf $(HTML_DIR)/*
+	rm -rf $(TEST_HTML_DIR)/*
+
+# Visualisation dans un navigateur
+view0:
+	open -a $(BROWSER) $(LOCAL0)/index.html
+
+view1:
+	open -a $(BROWSER) $(LOCAL1)/index.html
+
+view2:
+	open -a $(BROWSER) $(DIST)/index.html

@@ -1,0 +1,1609 @@
+TITLE0: QCM : QCM Sols
+TITLE1: QCM : Les sols - Auto-évaluation
+TITLE2: À l'interface entre lithosphère, atmosphère, hydrosphère et biosphère ?
+
+UP:	../fiche03.html
+PREV:
+NEXT:
+
+NOSHUFFLE
+
+Q:  La civilisation Maya, une des plus importantes civilisations précolombiennes, connaît de forts bouleversements sur la période 750-1050 ap. JC (abandon des cités, dépeuplement, effondrement de la royauté sacrée, arrêt des constructions monumentales). Parmi les causes avancées ci-dessous, laquelle, entre autres, est retenue par les spécialistes ? 
+	I: images/e0.jpg &&
+	G: Surexploitation et déforestation massive par les Mayas eux-mêmes, provoquant un appauvrissement et une érosion accélérée des sols.
+	B: Introduction de mauvaises techniques culturales des sols aux indigènes par les Espagnols, causant un appauvrissement des sols.
+	B: Appauvrissement des sols par les retombées de cendres suite à l'impact d'une grosse météorite à Chicxulub dans la péninsule du Yucatan.
+	B: Asphyxie des sols recouverts par d'épaisses couches de cendres volcaniques relâchées par les éruptions successives du strato-volcan du Pacaya au Guatemala.
+
+Q:  Comment appelle-t-on les spécialistes scientifiques qui cherchent à mettre au point des techniques pour améliorer la qualité des sols 
+	à des fins agricoles ? 
+	G: Des agronomes.
+	B: Des pédologues.
+	B: Des édaphologues.
+	B: Des éthologues.
+
+Q:  Un hectare de sols équivaut à une surface de ... 
+	I: images/e2.svg &&
+	I: images/e3.jpg &&
+	G: 10 000 m<sup>2</sup>.
+	B: 1 km<sup>2</sup>.
+	B: 100 000 m<sup>2</sup>.
+	B: 1 000 m<sup>2</sup>.
+
+Q:  L'extension urbaine et le développement routier est à l'origine d'une imperméabilisation accrue des sols. Au rythme actuel, quelle est la surface approximative de terres agricoles et naturelles qui se perd en France toutes les décennies ? 
+	I: images/e1.gif  &&	 
+	G: Une surface équivalente à un département (~ 5 500 km<sup>2</sup>).
+	B: Une surface équivalente à l'agglomération clermontoise  (~ 300 km<sup>2</sup>).
+	B: Une surface équivalente à la région Auvergne (~ 26 000 km<sup>2</sup>).
+	B: Une surface équivalente à la ville de Vichy (~ 6 km<sup>2</sup>).
+
+Q:  Voici une carte de la CEC des sols d'Europe. En rose, les sols à CEC faible (< 15 cmol/kg). En jaune, les sols à CEC modérée (entre 15 et 40 cmol/kg). (Source: <em> http://eduterre.ens-lyon.fr/thematiques/sol/sols-deurope/les-sols-deurope </em>). <br>Parmi ces affirmations, lesquelles sont vraies ? 
+	I: images/e4.png  &&
+	G: Les régions à substrat granito-métamorphique donnent des sols à CEC faible.
+	B: Les fossés d'effondrement donnent des sols à CEC faible.
+	G: Les sols sableux du Bassin Parisien ou du Bassin Aquitain donnent des sols à CEC faible.
+	B: Les massifs volcaniques (Chaîne des Puys, Monts Dore, Cantal) donnent des sols à CEC faible.
+
+Q:  Que voit-on sur cette photo de sols ? 
+	I: images/e5.png  &&
+	G: De la cryoturbation.
+	B: De la pédoturbation.
+	B: De la bioturbation.
+	B: De la conurbation.
+
+Q:  Comment peut-on appeler ces convolutes dans ces sols ? 
+	I: images/e5.png &&
+	G: Des plicatures.
+	B: Des flexures.
+	B: Des mixtures.
+	B: Des maculatures.
+
+Q:  &Agrave; quoi peuvent être dues ces déformations ? 
+	I: images/e5.png &&
+	G: &Agrave; des alternances de gel et dégel, engendrant des mouvements de matériaux fins dans les niveaux gorgés d'eau.
+	G: &Agrave; de la liquéfaction de niveaux  saturés en eau suite à un tremblement de terre.
+	B: &Agrave; des déplacements d'organismes fouisseurs.
+	B: &Agrave; des mouvements de la nappe phréatique.
+
+Q:  Cette photo prise en Croatie montre un champ cultivé dans une dépression circulaire et fertile au beau milieu d'un plateau calcaire. Comment s'appelle cette zone ? 	
+	I: images/e6.png &&
+	G: Une doline
+	B: Un déclinatoire
+	B: Une dégouline
+	B: Une dicline	
+
+Q:  Quel est ce sol ? 
+	I: images/e7.png &&
+	G: Un sol lessivé
+	B: Un sol brun
+	B: Un podzol
+	B: Un chernozem
+
+Q:  Que signifie la lettre <b>E</b> dans le profil pédologique de ce sol ? 
+	I: images/e7.png &&
+	G: E comme <em> éluviation</em>.
+	B: E comme <em> élution</em>.
+	B: E comme <em> émulsion</em>.
+	B: E comme <em> extravasation</em>.
+
+Q:  A quoi est due la couleur blanche de l'horizon <b>E</b> ?
+	I: images/e7.png &&
+	G: Au lessivage des argiles vers l'horizon B.
+	B: &Agrave; la reprécipitation de carbonates.
+	B: &Agrave; la remontée de solutions salées.
+	B: &Agrave; la présence de cendres volcaniques siliceuses.
+
+Q:  Quel est ce sol ? 
+	I: images/e8.png &&
+	G: Un sol lessivé.
+	B: Une rendzine.
+	B: Un ranker.
+	B: Un sol ferrallitique.
+
+Q:  Quel est ce sol ? 
+	I: images/e9.png &&
+	G: Un podzol.
+	B: Un sol brun
+	B: Un ranker.
+	B: Un chernozem.
+
+Q:  Ce sol est particulier, car il est difficile à classer. Quels sont les processus pédogénétiques qui sont ou ont été à l'oeuvre dans ce sol ?
+	I: images/e10.png &&
+	G: La podzolisation.
+	G: L'éluviation des argiles.
+	G: L'illuviation des argiles.
+	B: La ferrallitisation.
+
+Q:  Quel est ce sol ? 
+	I: images/e11.png &&
+	G: Un gley
+	B: Un vertisol
+	B: Un podzol
+	B: Un ranker
+
+Q:  Dans quelles conditions se forment les gleys ? 
+	I: images/e12.jpg &&
+	G: Uniquement dans des terrains gorgés d'eau.
+	B: Uniquement dans les sols soumis à un climat froid.
+	B: Uniquement dans les sols sous climat tropical.
+	B: Uniquement dans les sols d'altitude.
+
+Q:  Qu'est-ce qu'on appelle un sol hydromorphe ? 
+	G: Un sol gorgé d'eau, ce qui génère un manque d'oxygène pour les microbes du sol.
+	B: Un sol bien drainé, ce qui génère un sol bien oxygéné pour les microbes du sol.
+	B: Un sol structuré par la percolation de l'eau.
+	B: Un sol marqué par une hydrolyse intense des minéraux de la fraction détritique.
+
+Q:  Comment appelle-t'on la zone de couleur grise tachetée de rouille se formant dans un sol occupé temporairement par une nappe d'eau superficielle ? 
+	I: images/e11.png	 &&
+	G: Un pseudogley.
+	B: Un gley.
+	B: L'alios.
+	B: La carapace.
+
+Q:  Les sols hydromorphes sont-ils de bons sols pour l'agriculture ? 
+	G: Non
+	B: Oui
+
+Q:  Que peut'on faire pour lutter contre l'hydromorphie de sols générée par une nappe d'eau perchée ? 
+	G: Installer un système de drainage superficiel du sol.
+	B: Chauler le sol.
+	B: Irriguer le sol.
+	B: Labourer le sol.	
+
+Q:  Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? 
+	I: images/e13.png &&
+	G: Un sol lessivé (ou luvisol).
+	B: Un sol brun (ou brunisol).
+	B: Un podzol (ou podzosol).
+	B: Un ranker (ou rankosol).
+
+Q:  Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? 
+	I: images/e14.png &&
+	B: Un sol lessivé (ou luvisol).
+	B: Un sol brun (ou brunisol).
+	B: Un podzol (ou podzosol).
+	B: Un ranker (ou rankosol).
+	G: C'est plus compliqué que cela. On a la superposition de deux sols: un podzol au-dessus d'un sol lessivé.
+
+Q:  Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? 
+	I: images/e15.png &&
+	B: Un sol lessivé (ou luvisol).
+	G: Un sol brun (ou brunisol).
+	B: Un podzol (ou podzosol).
+	B: Un ranker (ou rankosol).
+
+Q:  Voici le profil pédologique schématique d'un sol. A quel type de sol, cela correspond-t-il ? (les petites croix représentent du calcaire) 
+	I: images/e16.png &&
+	G: Une rendzine
+	B: Un sol brun (ou brunisol).
+	B: Un podzol (ou podzosol).
+	B: Un ranker (ou rankosol).
+
+Q:  Dans les podzols, à quoi est due la formation du liseré noir juste en-desssous de l'horizon blanchi ? 
+	I: images/e17.png &&
+	G: &Agrave; l'accumulation de matières organiques.
+	B: &Agrave; la formation de matières charbonneuses.
+	B: &Agrave; des remontées de bitume.
+	B: &Agrave; des reprécipitations d'oxydes du fer.
+
+Q:  Quel type d'humus trouve-t'on dans l'horizon de surface d'un podzol ? 
+	I: images/e17.png &&
+	G: Le mor
+	B: Le moder
+	B: Le mull
+
+Q:  L'agriculture intensive des céréales nécessite des apports importants d'engrais azotés à l'origine d'émissions non négligeables de protoxyde d'azote N<sub>2</sub>O, un puissant gaz à effet de serre. Comment est créé principalement ce protoxyde d'azote ? 
+	I: images/e18.png &&
+	I: images/e19.png &&
+	B: La production de N<sub>2</sub>O est issue principalement de l'oxydation des nitrates en cas d'aération imparfaite du sol.
+	G: La production de N<sub>2</sub>O est issue principalement de la réduction des nitrates en cas d'aération imparfaite du sol.
+	G: La production de N<sub>2</sub>O est accentuée dans les sols argileux qui ont tendance à présenter des excès d'eau.
+	G: La production de N<sub>2</sub>O est accentuée quand de trop grandes quantités de nitrates sont déversées.	
+
+Q:  La carte ci-dessous montre la quantité de carbone organique dans l'horizon superficiel des sols. Dans quels environnements, celle-ci est-elle la plus importante ? 
+	I: images/e20.png &&
+	G: Dans les sols de montagne.
+	B: Dans les régions viticoles.
+	B: Dans les régions de céréaliculture intensive.
+
+Q:  Pour quelle raison, les sols de montagne sont caractérisés par un  stock plus important de carbone organique (plus de 13 kg de C/m<sup>2</sup>) ? 
+	I: images/e20.png &&
+	G: &Agrave; cause de la rudesse du climat en montagne, qui ralentit l'activité microbienne, et donc la décomposition et la minéralisation de la matière organique.
+	B: Parce que ces sols sont caractérisés par une importante activité microbienne favorisant l'accumulation de matières organiques.
+
+Q:  Qu'est-ce que la réserve utile (RU) dans un sol ?  
+	I: images/e21.png &&
+	G: La réserve utile	est la quantité d'eau, mesurée en millimètres, utilisable par les plantes pour leurs besoins.
+	B: La réserve utile est la quantité d'eau, mesurée en millimètres, utilisable pour les apports en eau potable.
+	B: La réserve utile est la quantité d'eau, mesurée en millimètres, stockée dans un sol. 
+
+Q:  Pourquoi la réserve utile (RU) est-elle mesurée en millimètres ? 
+	G: Car c'est un volume d'eau rapportée à une surface de terrain donnée.
+	B: Car c'est mesurée par un pluviomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres.
+	B: Car c'est mesurée par un piézomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres.
+	B: Car c'est mesurée par un potomètre et cet instrument mesure une hauteur d'eau exprimée en millimètres.
+
+Q:  Dans quel type de sol, la réserve utile (RU), est-elle la plus forte ? 
+	I: images/e21.png &&
+	B: La RU est la plus forte dans les sols sableux.  
+	G: La RU est la plus forte dans les sols limoneux.  
+	B: La RU est la plus forte dans les sols argileux.  
+	B: La RU est la plus forte dans les sols cohérents fissurés.
+
+Q:  Qu'est-ce qu'on appelle la texture de l'horizon d'un sol ? 
+	G: La proportion massique des argiles (au sens granulométrique), des limons et des sables dans la fraction détritique d'un sol.
+	B: La forme et la taille des agrégats qui se forment dans un sol.
+	B: La répartition spatiale, homogène ou hétérogène, des particules dans le sol.
+	B: La disposition et l'orientation des grains du sol.
+
+Q:  Qu'appelle-t'on les minéraux primaires dans un sol ? 
+	G: Les minéraux issus de la désagrégation mécanique des roches.
+	B: Les minéraux issus de la désagrégation mécanique de roches du socle.
+	B: Les minéraux issus de la désagrégation mécanique de roches magmatiques.
+	B: Les minéraux issus de l'altération des roches.
+
+Q:  Sous quel autre terme, peut-on désigner les minéraux primaires d'un horizon ? 
+	I: images/e22.jpg && Grains de quartz &&
+	G: Les minéraux hérités
+	B: Les minéraux magmatiques
+	B: Les minéraux du Paléozoïque
+	B: Les minéraux du Primaire
+
+Q:  Qu'est-ce qu'on appelle les minéraux secondaires ? 
+	G: Les minéraux issus de la trasformation de minéraux primaires.
+	B: Les minéraux néoformés.
+	B: Les minéraux datant du Mésozoïque.
+	B: Les minéraux issus de roches sédimentaires
+
+Q:  Parmi ces minéraux, lesquels constituent le plus souvent des minéraux secondaires ? 
+	G: Les argiles.
+	G: Les oxydes et hydroxydes de fer.
+	G: Les oxydes et hydroxydes d'aluminium.
+	B: Les quartz.
+	B: Les feldspaths.
+
+Q:  &Agrave; quoi est due la couleur rouille, orange, jaune, marron ou rouge des sols ? 
+	I: images/e23.jpg &&
+	G: Aux oxydes et hydroxydes de fer, principalement sous forme ferrique (Fe<sup>3+</sup>).
+	B: Aux oxydes et hydroxydes de fer, principalement à l'état ferreux (Fe<sup>2+</sup>).
+	B: &Agrave; des ferrites.
+	B: &Agrave; de la magnétite.
+
+Q:  Dans la majorité des cas, quel est le devenir final d'un sol ? 
+	G: D'être repris par l'érosion, avec libération de ses éléments constitutifs qui sont recyclés pour la formation de nouvelles roches sédimentaires dans les lacs ou les océans, ou pour le développement d'organismes vivants.
+	B: D'être recouvert par d'autres dépôts et enfoui pour donner un paléosol.
+	B: De se durcir et s'épaissir de plus en plus.
+
+
+#-------------------------------------------------------------------------------
+
+Q:  Qu'est-ce que l'humus ? 
+	G: De la matière organique issue de la décomposition de débris végétaux ou animaux par les microbes du sol et autres organismes.
+	B: Les débris végétaux (feuilles mortes, branches, ...) et restes animaux (cadavres, déjections fécales, ...) accumulés à la surface du sol.
+	B: La terre végétale, de couleur généralement foncée (brune ou noire), dans un sol.
+	B: Le réseau de filaments produits par les champignons.
+
+Q:  L'humus présente une affinité particulière avec certains minéraux en
+	se liant avec eux. Lesquels ? 
+	G: Les argiles.
+	G: Les oxydes et hydroxydes de fer.	
+	B: Les quartz.
+	B: Les carbonates.
+
+Q:  Comment appelle-t'on les différentes zones, généralement horizontales,
+	qu'on peut distinguer sur la coupe d'un sol ? 
+	G: Les horizons
+	B: Les pédons
+	B: Les solons
+	B: Les penons.
+
+Q:  Où trouve-t'on les sols actifs les plus anciens ? 
+	G: A la surface des grands boucliers africains et sud-africains.
+	B: Dans l'Himalaya.
+	B: Dans le Massif Central.
+	B: Dans les îles volcaniques.
+
+Q:  Le beryllium 10 (<sup>10</sup>Be) est un isotope du beryllium qui permet de dater la formation et l'érosion des sols. A quelle particularité doit-il cette utilisation ? 
+	I: images/e24.jpg &&	
+	G: Car c'est élément radioactif, absent à l'intérieur de la Terre, mais qui est formé dans l'atmosphère ou à la surface des sols par l'action de rayons cosmiques venus de l'espace.
+	B: Car c'est un élément radioactif, initialement présent dans les roches crustales à des teneurs connues, mais qui est dégradé à la surface par les rayons cosmiques venus de l'espace. La mesure de sa quantité résiduelle permet donc de donner un âge aux sols.
+
+Q:  Combien de temps faut-il en moyenne à la nature pour former un sol sur une roche nue ? 
+	G: Environ 10 000 ans.
+	B: Environ un siècle.
+	B: Environ 100 000 ans.
+	B: Environ une année.
+	
+Q: Les chernozems font partie des sols les plus riches en matières organiques. Pour un chernozem comptant 4% en poids de matières organiques, quel est le pourcentage en volume de sa fraction organique ? On prend d1 = 0.2 pour la densité de la fraction organique, et d2 = 2 pour la densité de la fraction minérale.
+	B: 2%
+	B: 10%
+	B: 20%
+	G: 30%
+	C: On écrit pour un kg de sol. <br> 1 kg = m1 + m2 <br> 1/rho V = V1 / rho1 + V2 / rho2 <br> 1/rho V = V1 / rho1 + V2 / rho2
+
+Q:  Dans un sol, selon la norme NF X 31-003, on désigne par <em>graviers</em> comme étant tous les éléments détritiques de taille comprise ...
+	G: Entre 2 mm et 2 cm.
+	B: Entre 2 mm et 5 cm.
+	B: Entre 50 µm et 2 mm.
+	B: Entre 3 cm et 5 cm.
+
+Q: Dans un sol, selon la norme NF X 31-003, on appelle les <em> cailloux </em> tous les éléments détritiques ayant une taille comprise ... 
+	G: Entre 2 cm et 7,5 cm.		
+	B: Entre 2 cm et 5 cm.
+	B: Entre 1 cm et 5 cm.
+	B: Entre 1 cm et 10 cm.
+
+Q: Dans un sol, selon la norme NF X 31-003, les éléments détritiques ayant une taille comprise entre 7,5 cm et 25 cm, sont appelés ...
+	G: Des pierres.
+	B: Des cailloux.
+	B: Des blocs.
+	B: Des graviers.
+
+Q: Dans un sol, selon la norme NF X 31-003, tous les éléments détritiques ayant une taille supérieure à 25 cm, sont appelés ...
+	B: Des pierres.
+	B: Des cailloux.
+	G: Des blocs.
+	B: Des graviers.
+
+Q:  Pourquoi les cailloux reviennent-ils toujours quand on épierre un terrain ? 
+	G: Parce que le ruissellement entraîne les particules fines et finit par faire affleurer en surface les cailloux qui étaient sous terre.
+	G: Parce les particules fines ont tendance à être entraînées dans les profondeurs du sol.
+	B: Parce les taupes et les vers de terre font remonter les cailloux en surface.
+	G: Parce que les alternances de gel et de dégel finissent par faire remonter les cailloux en surface.
+
+Q:  Que peut-on dire sur les sols sableux ? 
+	G: Ce sont des sols faciles à travailler.
+	B: Ce sont des sols avec de bonnes capacités nutritives.
+	B: Ce sont des sols avec de bonne capacité de rétention en eau.
+	G: Ce sont des sols bien drainés.
+	G: Ce sont des sols bien aérés.
+
+Q:  Quels sont les points négatifs des sols argileux ? 
+	G: Ce sont des sols difficiles à travailler.
+	B: Ce sont des sols qui retiennent mal les nutriments pour les plantes.
+	B: Ce sont des sols avec de faibles capacités de rétention d'eau pour les plantes.
+	G: Ce sont des sols mal aérés.
+	G: Ce sont des sols mal drainés.
+
+Q:  Pourquoi les sols argileux sont-ils difficiles à travailler ? 
+	G: Ce sont des terres lourdes et collantes quand ces sols sont humides.
+	B: Ce sont des sols qui abrasent les outils quand ces sols sont gorgés d'eau.
+	G: Ce sont des sols durs en période de sécheresse.
+
+Q:  Le test de consistance d'un échantillon de sol entre les doigts est un moyen rapide d'apprécier sa texture. Quelles affirmations ci-dessous sont justes ? 
+	G: Les sols sableux ont un toucher rugueux.
+	B: Les sols argileux humides peuvent se laisser modeler sous forme de boudins, mais ceux-ci ne sont pas très stables.
+	G: Les sols limoneux ont un toucher soyeux.
+
+Q:  Quels sont les points négatifs des sols limoneux ? 		
+	G: Ce sont des sols battants.
+	G: Ce sont des sols assez sensibles au tassement.
+	B: Ce sont des terres lourdes.
+	B: Ce sont des terres qui usent les outils.
+
+Q:  Dans certaines régions du Bassin Parisien (comme la Picardie, par exemple), les sols peuvent contenir une quantité non négligeable de silex.  Quel est le principal problème posé par ces silex pour l'agriculture ? 
+	I: images/e25.png &&
+	G: Ces silex entraînent une usure prématurée des outils de travail du sol.
+	B: Ces silex gênent le drainage du sol.
+	B: Ces silex empêchent l'aération du sol.
+	B: Ces silex imperméabilisent la surface du sol.
+
+Q:  Qu'est-ce qu'on appelle la <em>battance</em> ? 
+	G: La battance est un phénomène affectant certains sols, qui ont tendance à former une croûte imperméable en surface, lorsqu'ils sont frappés par de fortes pluies.
+	B: La battance est le phénomène de mouvement, tantôt vers le haut, tantôt vers le bas,
+	de la limite supérieure de la nappe phréatique superficielle dans un sol.	
+	B: La battance désigne le retournement du sol par le labourage.
+	B: La battance désigne l'aptitude d'un sol à supporter le poids et le roulement des engins agricoles.
+
+Q:  Cette photo montre un champ de tournesol avec deux sols différents. La partie à gauche montre une bonne structure favorable à l'aération et au drainage, mais quel est le problème sur la partie à droite ? 
+	I: images/e25.jpg &&
+	G: La partie à droite montre une croûte de battance.
+	B: La partie à droite montre une croûte de battement.
+	B: La partie à droite montre une croûte de tassement.
+	B: La partie à droite montre une croûte de dessèchement.
+
+Q:  Quels sont les sols les plus concernés par la battance ? 
+	G: Les sols limoneux.
+	B: Les sols argileux.
+	B: Les sols pierreux.
+	B: Les sols sableux.
+
+Q:  Quels sont les problèmes posés par la battance ? 
+	G: Cela imperméabilise la surface du sol.
+	G: Cela augmente le quantité d'eau ruisselant à la surface du sol.
+	G: Cela empêche les racines de respirer.
+	B: Cela engorge les sols en eau.
+
+Q:  Quel effet ont les racines, en général, sur l'acidité du sols ? 
+	G: Les racines tendent à acidifier le sol, car elles libèrent des H<sup>+</sup>.
+	B: Les racines n'ont qu'une influence négligeable sur l'acidité du sol.
+	B: Les racines tendent à augmenter le pH des sols, car elles libèrent des bases.
+
+Q:  Sous quel type de climat trouve-t'on des sols acides ? 
+	G: Sous climat subarctique.
+	B: Sous climat méditerranéen.
+	B: Sous climat tempéré.
+	B: Sous climat continental.
+
+Q:  Pourquoi les sols sont-ils acides dans des pays comme l'Alaska, la Sibérie, le Canada ou la Scandinavie ? 
+	G: La décomposition de la litière fournit des acides, que les microbes n'ont pas
+	le temps de traiter en raison de l'activité microbienne réduite.	
+	B: L'ensoleillement réduit dans ces pays accroit l'acidité des sols.
+	B: L'humidité importante des sols dans ces pays rend ces sols acides.
+	B: Les retombées atmosphériques des polluants produits par les zones industrielles
+
+Q:  Quel(s) effet(s) a l'acidité sur ces sols des pays froids (Scandinavie, Sibérie, Alaska, ...) ?
+	G: Cela génère une hydrolyse intense des minéraux alumino-silicatés.
+	G: Cela solubilise les ions Al<sup>3+</sup> et Fe<sup>3+</sup> qui migrent en profondeur.
+	G: Cela hydrolyse les argiles.
+	B: Cela réduit les Fe<sup>3+</sup> en Fe<sup>2+</sup>.
+
+Q:  Dans les podzols, que contient l'horizon "gris cendreux", noté <em>E</em> ou <em>A2</em> ? 
+	G: Des particules de quartz.
+	B: Des particules d'argiles.
+	B: Des particules de feldspaths.
+	B: Des cendres issues de la combustion du bois.
+
+Q:  Quelles sont les activités humaines qui contribuent à acidifier les sols ? 
+	G: La combustion du charbon et des hydrocarbures issus du pétrole ou du gaz naturel.
+	G: L'épandage d'engrais à base de sulfates ou nitrates.
+	B: Les centrales nucléaires.
+	B: Le chaulage du sol.
+
+Q:  Parmi ces éléments chimiques, lesquels sont prélevés par les plantes dans le sol ? 
+	B: Le carbone.
+	G: L'azote.
+	G: Le phosphore.
+	G: Le potassium.
+	G: Le magnésium.
+	G: Le soufre.
+	G: Le calcium.
+	
+Q:  Dans quel contexte trouve-t'on des sols pauvres ? 
+	G: Sur les vieux sols allitisés sous climat tropical.
+	G: Sur les sols reposant sur des substrats siliceux (grès, sables, quartzites, ...).
+	B: Sur les sols volcaniques.
+	B: Sur les sols alluvionnaires.
+
+Q:  Comment s'appellent les forêts marécageuse littorales, à eau salée et installées sur les côtes basses des régions ou dans les estuaires, sous climat tropical ou équatorial ? 
+	I: images/e26.jpg &&	
+	G: La mangrove.
+	B: La jungle.
+	B: La ripisylve.
+	B: Le bayou
+
+Q:  Qu'est-ce qui différencie la mangrove du bayou ? 
+	I: images/e27.jpg &&  Le bayou
+	G: La mangrove baigne dans de l'eau salée, tandis que le bayou baigne dans de l'eau douce.
+	B: La mangrove est sous climat tropical, tandis que le bayou se développe sous climat tempéré.
+	B: Aucune différence, le bayou n'est qu'un nom local donné à la mangrove en Louisiane.
+	B: Le bayou se caractérise par des eaux plus salées que dans la mangrove.
+
+Q:  Quel arbre constitue la principale espèce arborescente dans les mangroves ? 
+	I: images/e28.jpg &&
+	G: Le palétuvier.
+	B: Le papayer.
+	B: Le manguier.
+	B: Le palmier.
+
+Q:  L'eau marécageuse salée des mangroves est très pauvre en dioxygène. Quelles adaptations ont développé différentes espèces de palétuviers face à cette situation ? 
+	G: Des racines aériennes permettant de prélever l'oxygène de l'atmosphère.
+	G: 	Un tissu ligneux spécial, appelé <em>aérenchyme</em>  pour l'achemeniment du dioxygène aux racines.
+	B: Captage du dioxygène au niveau des feuilles.
+	B: Des branchies au niveau de ses racines sous l'eau.
+
+Q:  Les sols des mangroves sont très anoxiques. Quelles réactions chimiques se produisent dans ces conditions ? 	
+	G: Les sulfates apportées par l'eau de mer sont réduits en sulfures.
+	G: Le Fe<sup>3+</sup> des oxyhydroxydes ferriques sont réduits en ions Fe<sup>2+</sup>.
+	G: La matière organique est oxydée.
+	B: Les sulfures sont oxydées en sulfates.
+
+Q:  Que se passe-t'il quand on assèche des sols de mangroves pour les mettre en culture ? 
+	G: Les sulfures sont oxydées en sulfates.	
+	G: Les ions Fe<sup>2+</sup> sont oxydés en ions Fe<sup>3+</sup> pour donner des oxyhydroxydes ferriques.
+	G: Les sulfates acidifient le sol.
+	B: Les alcalins (Na<sup>+</sup>, K<sup>+</sup>) sont oxydés.
+	
+Q: Que veut dire la racine "cherno" dans le mot "chernozem" ?
+	B: gris foncé
+	G: noir
+	B: gris clair
+	B: brun
+
+Q:  Les ségalas sont des régions naturelles dans le sud du Massif Central (Aveyron, Lozère, ...), qui doivent leur nom à la culture du seigle, une céréale réputée peu exigeante capable de pousser sur des sols pauvres. Quelle roche peut constituer le substrat de ces sols ?
+	I: images/a0.png &&
+	B: Des alluvions sablo-limoneuses
+	B: Des limons éoliens (loess)
+	G: Des roches acides (granites, gneiss)
+	B: Des marnes et des marno-calcaires
+	
+Q: Un sol est un milieu complexe formé par plusieurs processus: <ul> <li>l'altération des roches,</li> <li>l'action des êtres vivants</li> <li>et des transferts de matière.</li></ul>  A la longue, ces phénomènes font apparaître des couches différenciées sur une tranche verticale d'un sol. Comment appelle-t'on ces couches ? 
+	B: des lits
+	B: des strates
+	B: des dépôts
+	G: des horizons
+	
+Q: Le Nil, le 2<sup>e</sup> plus grand fleuve dans le monde après l'Amazone, est alimenté par ses deux grands affluents dénommés le Nil Blanc et le Nil Bleu. Le Nil Blanc doit son nom aux argiles en suspension produite par l'altération des roches en Afrique Equatoriale. Le Nil Bleu provient des massifs volcaniques de l'Ethiopie.	L'Egypte doit sa fertilité à la richesse en nutriments des limons transportés par le Nil. Quel affluent contribue le plus à la fertilité du Nil ?
+	I: images/a1.png &&
+	I: images/a1-1.jpg && Le Nil Bleu
+	I: images/a1-2.jpg && Le Nil Blanc 
+	B: Nil Blanc
+	G: Nil Bleu
+	C: C'est le Nil Bleu qui contribue le plus à la fertilité, car il transporte des argiles et limons issus de roches volcaniques basiques (basaltes) riches en sels minéraux (calcium). Le Nil Blanc transporte surtout des argiles TO (comme la kaolinite), à faible CEC.
+
+
+#-------------------------------------------------------------------------------
+
+Q:  Quelles sont les conséquences d'un sol trop acide ? 
+	G: L'ion Al<sup>3+</sup>, toxique pour de nombreuses plantes, devient soluble pour des pH en-dessous de 4.
+	B: Cela booste la productivité microbienne et végétale.
+	G: Cela augmente l'hydrolyse des minéraux alumino-silicatés, comme les feldspaths et les argiles, ainsi la libération d'alcalins ou alcalino-terreux dans les eaux du sol.
+
+Q:  Pourquoi les sols sur substrat alumino-silicaté tendent à s'acidifier ? 
+	G: &Agrave; cause de la libération d'ions H<sup>+</sup> par les plantes.
+	G: &Agrave; cause du CO<sub>2</sub> atmosphérique, qui donne un acide faible HCO<sub>3</sub><sup>-</sup> dans les sols.
+	B: &Agrave; cause de l'hydrolyse des roches alumino-silicatées.
+
+Q:  L'activité microbienne ... 
+	B: est plus importante dans les sols neutres et basiques.
+	B: est plus	forte dans les sols acides (pH ~ 4)
+	G: ne dépend pas significativement du pH.
+
+Q:  Quelles sont les différentes classifications des sols actuellement disponibles ? 
+	G: La Soil Taxonomy.
+	G: La World Reference Base.
+	G: Le Référentiel Pédologique.
+	G: La Classification des Sols de la CPCS.
+	B: La Nouvelle Nomenclature Morpho-Fonctionnelle des Sols.
+
+Q:  Ce sol présente: <ul> <li> un horizon A, organo-minéral, sombre à structure finement grumeleuse. </li> <li> Un horizon C à structure lithologique (basalte). </li> </ul>  Quel est ce sol ?
+	I: images/e29.jpg &&	
+	G: Un andosol
+	B: Un sol brun
+	B: Un sol lessivé
+	B: Un ranker
+
+Q:  On considère la réaction d'hydrolyse d'un feldspath, l'anorthite CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> en Ca<sup>2+</sup>, Si(OH)<sub>4</sub> et Al<sub>2</sub>O<sub>3</sub>. Quelle réaction ci-dessous est bien équilibrée ?
+	G: 	CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> + 2 H<sup>+</sup> + 3 H<sub>2</sub>O -> Ca<sup>2+</sup> + 2 Si(OH)<sub>4</sub> + Al<sub>2</sub>O<sub>3</sub>
+	B: 	CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> +  H<sup>+</sup> + 3 H<sub>2</sub>O -> Ca<sup>2+</sup> + 2 Si(OH)<sub>4</sub> + Al<sub>2</sub>O<sub>3</sub>
+	B: 	CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> + 2 H<sup>+</sup> + 2 H<sub>2</sub>O -> Ca<sup>2+</sup> + 2 Si(OH)<sub>4</sub> + Al<sub>2</sub>O<sub>3</sub>
+	B: 	CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub> + 2 H<sup>+</sup> + 3 H<sub>2</sub>O -> Ca<sup>2+</sup> +  Si(OH)<sub>4</sub> + Al<sub>2</sub>O<sub>3</sub>
+
+Q:  Pourquoi l'hydrolyse des minéraux alumino-silicatés riches en alcalins et alcalino-terreux diminue l'acidité des sols ? 
+	G: Parce que l'hydrolyse de ces minéraux consomme des H<sup>+</sup>.
+	B: Parce  que l'hydrolyse de ces minéraux produit des H<sup>+</sup>.	
+	B: Parce que les cations alcalins et alcalino-terreux libérés se lient à des H<sup>+</sup> ?
+	B: Parce que les cations alcalins et alcalino-terreux libérés se lient à des OH<sup>-</sup> ?
+
+Q:  Qu'est-ce qu'un allophane ? 
+	G: C'est un silicate d'alumminium hydraté, généralement mal cristallisé, voire amorphe.
+	B: C'est un oxyde d'aluminium.
+	B: C'est une variété de feldspath.
+	B: C'est une amphibole sodique.
+
+Q:  Qu'est-ce que l'imogolite ? 
+	G: C'est un aluminosilicate hydraté.
+	B: C'est une altérite.
+	B: C'est une latérite.
+	B: C'est une variété d'albite.
+
+Q:  Comment se présente la structure de l'imogolite ? 
+	I: images/e30.png &&
+	G: L'imogolite a une structure tubulaire.
+	B: L'imogolite forme des sphères.
+	B: L'imogolite a une structure planaire.
+	B: L'imogolite forme des feuillets comme les argiles.
+
+Q:  Quelle est la structure d'un allophane ? 
+	I: images/e31.png &&
+	G: L'allophane a une structure tubulaire.
+	B: L'allophane forme des nano-sphères.
+	B: L'allophane a une structure planaire.
+	B: L'allophane forme des feuillets comme les argiles.
+
+Q:  Quelle est la composition chimique type de l'imogolite ? 
+	I: images/e32.png &&
+	G: Al<sub>2</sub>O<sub>3</sub>, Si(OH)<sub>4</sub>
+	B: Al(OH)<sub>3</sub>, Si(OH)<sub>4</sub>
+	B: Al(OH)<sub>2</sub>, Si(OH)<sub>4</sub>
+	B: Al<sub>2</sub>O<sub>3</sub>, SiO<sub>2</sub>
+
+Q:  Dans quel contexte va-t'on trouver des imogolites et allophanes
+	dans les sols ? 
+	G: Lors de l'hydrolyse de roches volcaniques, contenant un verre alumino-silicaté sous climat humide.
+	B: Lors de l'hydrolyse de roches carbonatés.
+	B: Lors de l'hydrolyse de feldspaths.
+	B: Lors de l'hydrolyse de gneiss.
+
+Q:  Que signifie le mot <em>imogo</em> en japonais ? 
+	G: "sol volcanique".
+	B: "minéral volcanique".
+	B: "volcan".
+	B: "sol".		
+
+Q:  Qu'est-ce qu'un andosol ? 
+	I: images/e29.jpg &&	
+	G: C'est un sol de couleur foncée, fertile, développé sur des roches volcaniques sous climat humide.
+	B: C'est un sol caractéristique de la Cordillère des Andes.
+	B: C'est un sol qui se développe sur le dos des collines.
+	B: C'est un sol de région granitique.
+
+Q:  Ce sol présente <ul><li> un horizon A, organon-minéral, finement structuré. </li><li> un horizon C d'altération (basalte altéré). </li></ul> Quel est ce sol dans le RP ? 
+	I: images/e33.jpg &&	
+	G: Un andosol
+	B: Une rendzine
+	B: Un ranker
+	B: Un sol brun
+
+Q:  A quel composé est dû la couleur orangée vive des composés précipités sur les branches mortes flottant à la surface d'un bassin alimenté par les eaux acides d'une mine abandonnée ?
+	I: images/e34.jpg &&	
+	G: De la ferrihydrite.
+	B: De l'hématite.
+	B: De la magnétite.
+	B: De la pérovskite.
+
+Q:  La ferrihydrite est un oxyhydroxyde commun de Fe<sup>3+</sup>. Cependant sa structure cristalline fait encore l'objet de recherches. Pour quelle raison ?
+	G: Car c'est un composé formant des nanocristaux.
+	G: Car c'est un composé contenant souvent des défauts cristallins.
+	B: Car c'est un composé rare.
+	B: Car c'est un minéral instable à la surface de la terre.
+
+Q:  L'eau s'écoulant de ce tuyau laisse des précipités de couleur orange vif. Qu'est-ce que cela peut indiquer sur cette eau ?
+	I: images/e35.jpg &&
+	G: Cela peut être une eau issue d'une zone minière.
+	G: Cela peut être une eau thermo-minérale.
+	G: C'est une eau laissant des précipités de ferri-hydrites.
+	B: C'est une eau très peu minéralisée.
+
+Q:  L'hydrolyse des roches volcaniques sous climat humide produit des nanocristaux comme les allophanes, les imogolites ou les ferrihydrites. Quelles propriétés confèrent ces minéraux à ces sols (andosols) ?
+	B: Une faible teneur en carbone organique.
+	G: Une forte adsorption de l'humus à ces minéraux colloïdaux.
+	G: Une faible densité apparente.
+	G: Une forte capacité de rétention d'eau.
+	G: Une forte rétention du phosphore.
+
+Q:  Que signifie <em>horizon vitrique</em> dans le cas d'un andosol ? 
+	G: Un horizon d'un andosol encore peu évolué et gardant une bonne proportion de verres volcaniques et autres minéraux primaires.
+	B: Un horizon d'un andosol, de couleur moins foncée.
+	B: Un horizon d'un sol anthropique, contenant des éclats de verre.
+	B: Un horizon de sol, dur et fragile comme du verre.
+
+Q:  Dans le RP, que signifie la lettre <em>S</em> pour un horizon ? 
+	G: L'horizon structural.
+	B: L'horizon sec.
+	B: L'horizon sodique.
+	B: L'horizon saturé.
+
+Q:  Dans le RP, que signifie la lettre <em>G</em> pour un horizon ? 
+	G: L'horizon réductique.
+	B: L'horizon gelé.
+	B: L'horizon gélifracté.
+	B: L'horizon argileux.
+
+Q:  Qu'est-ce que l'horizon réductique dans le RP ? 
+	G: C'est l'horizon, engorgé d'eau et qui constitue un milieu réducteur.
+	B: C'est l'horizon très appauvri en alcalins, alcalino-terreux et silice.
+	B: C'est l'horizon décarbonaté.
+	B: C'est l'horizon débarassé de ses argiles.
+
+Q:  Qu'est-ce qui différencie l'horizon réductique de l'horizon rédoxique dans le RP ? 
+	G: L'horizon réductique est un milieu réducteur en permanence, tandis que l'horizon rédoxique connaît des périodes temporaires oxydantes.
+	B: L'horizon réductique connaît des périodes temporaires oxydantes, tandis que l'horizon rédoxique est un milieu réducteur	permanent.
+	B: Aucune, ce sont deux synonymes.
+	B: L'horizon rédoxique est un milieu plus réducteur que l'horizon réductique.
+
+Q:  Que signifie la lettre <em>g</em> pour un horizon dans le RP ? 
+	G: C'est l'horizon rédoxique.
+	B: C'est l'horizon réductique.
+	B: C'est l'horizon argileux.
+	B: C'est l'horizon gelé en permanence.
+
+Q:  Qu'est-ce que l'horizon <em>BP</em> dans le RP ? 
+	G: C'est l'horizon B d'accumulation dans les podzols, avec accumulation massive d'oxydes de fer et d'aluminium, ainsi que d'humus.
+	B: C'est l'horizon B d'accumulation de pierres.
+	B: C'est l'horizon B d'accumulation de pélites.
+	B: C'est l'horizon B d'accumulation de pelotes fécales.
+
+Q:  Qu'est-ce que l'horizon <em>BT</em> dans le RP ? 
+	G: C'est l'horizon B d'accumulation d'argiles.
+	B: C'est l'horizon B d'accumulation d'oxydes de Fe et d'Al.
+	B: C'est l'horizon B d'accumulation de sesquioxydes.
+	B: C'est l'horizon B d'accumulation d'humus.
+
+Q:  Que signifie l'horizon <em>H</em> dans le RP ?
+	G: C'est l'horizon histique.
+	B: C'est l'horizon humifère.
+	B: C'est l'horizon holomélanocrate.
+	B: C'est l'horizon haplique.
+
+Q:  Qu'est-ce qu'un horizon histique ? 
+	G: C'est un horizon constitué de matières organiques, issues de végétaux aquatiques, baignant dans l'eau.
+	B: C'est un horizon structuré en nid d'abeilles.
+	B: C'est un horizon structuré par les racines et le mycélium des champignons.
+	B: C'est un horizon formé essentiellement de tissus ligneux.
+
+Q:  Quelle est la différence entre un horizon calcaire <em>Aca</em> et un horizon calcique <em>Aci</em> dans le RP ? 
+	G: <em>Aca</em> est carbonaté (effervescence à HCl)	tandis que <em>Aci</em> est décarbonaté (mais il contient encore du Ca<sup>2+</sup>).
+	B: Aucune, ce sont des synonymes.
+	B: <em>Aca</em> est un horizon avec néoformation de modules/encroûtements carbonatés, <em>Aci</em> n'en contient pas.
+	B: <em>Aca</em> se caractérise par des figures de dissolution sur les clastes calcaires, tandis que <em>Aci</em> en est exempt.
+
+Q:  Que signifie <em>Aa</em> dans le RP ? 
+	G: C'est l'horizon allophanique.
+	B: C'est l'horizon <em>A</em> d'accumulation.
+	B: C'est l'horizon superficiel des sols marécageux.
+	B: C'est l'horizon superficiel riche en composés azotés.
+
+Q:  Que signifie <em>FE</em> dans le RP ? 
+	G: C'est l'horizon ferrique.
+	B: C'est l'horizon d'éluviation du fer.
+	B: C'est l'horizon fibreux et éluvié.
+	B: C'est l'horizon fersiallitisé.
+
+Q:  Que signifie <em>K</em> dans le RP ? 
+	G: C'est l'horizon calcarique.
+	B: C'est l'horizon riche en potassium.
+	B: C'est l'horizon potassique.
+	B: C'est l'horizon alcalin.
+
+Q:  Qu'est-ce qu'un horizon calcarique ? 
+	G: C'est un horizon avec des encroûtements calcaires.
+	B: C'est un horizon avec des cailloux et/ou des pierres calcaires.
+	B: C'est un horizon d'altération issu d'une roche-mère calcaire.
+	B: C'est un horizon avec des complexes argilo-humiques saturés en Ca<sup>2+</sup>.
+
+Q:  Qu'est-ce que l'horizon <em>V</em> dans le RP ?
+	G: C'est l'horizon vertique.
+	B: C'est l'horizon vitrique.
+	B: C'est l'horizon zéolitisé.
+	B: C'est l'horizon issus de dépôts éoliens.
+
+Q:  Qu'est-ce qu'un horizon vertique ? 
+	G: C'est un horizon contenant beaucoup d'argiles gonflantes.
+	B: C'est un horizon contenant des argiles TO.
+	B: C'est un horizon pierreux.
+	B: C'est un horizon incliné, car développé sur une pente raide.
+
+Q:  Qu'est-ce que la fersiallitisation ? 
+	G: C'est une forme de bisiallitisation, se développant en climat méditerranéen ou tropical, marquée par l'association des ions Fe<sup>3+</sup> avec les argiles et l'humus.
+	B: C'est de l'allitisation avec développement marqué d'encroûtements ferrugineux.
+	B: C'est une forme de bisiallitisation accompagnée d'un lessivage total du fer.
+	B: C'est une forme de bisiallitisation se faisant en milieu réducteur.
+
+Q:  Que signifie l'horizon <em>FS</em> dans le RP ? 
+	G: C'est l'horizon fersiallitique.
+	B: C'est l'horizon constitué de sulfates de fer.
+	B: C'est l'horizon constitué de sulfures de fer.
+	B: C'est l'horizon constitué de ferrosillites.
+
+Q:  Où trouve-t'on en France métropolitaine des sols sur substrat volcanique ? 
+	G: Dans le Massif Central
+	G: Dans les Vosges
+	G: Dans le Massif Armoricain
+	G: Dans le Morvan
+	B: En Picardie
+	B: Dans la Sologne
+
+
+#-------------------------------------------------------------------------------
+
+Q:  Que signifie étymologiquement le mot <em>andosol</em> ? 
+	G: <em>An</em> veut dire "noir" et <em>Do</em> veut dire "sol".
+	B: <em>An</em> veut dire "sol" et <em>Do</em> veut dire "noir".
+	B: <em>An</em> veut dire "épais" et <em>Do</em> veut dire "noir".
+	B: <em>An</em> veut dire "collant" et <em>Do</em> veut dire "sol".
+
+Q:  Qu'est-ce qu'une espèce végétale <em>héliophile</em> ? 
+	G: C'est une espèce végétale qui a besoin de beaucoup de lumière pour se développer.
+	B: C'est une espèce végétale qui a la propriété d'orienter ses feuilles vers le soleil.
+	B: C'est une espèce végétale qui produit des fleurs jaunes comme le soleil.
+	B: C'est une espèce végétale qui craint les endroits trop lumineux.
+
+Q:  L'antonyme de <em>héliophile</em> est ... 
+	G: sciaphile.
+	B: ombrophile.
+	B: mélanophile.
+	B: sélénophobe.
+
+Q:  Quelle est l'espèce arborescente qui colonise, en premier, les sols volcaniques de la Chaîne des Puys sur cendres trachytiques ? 
+	I: images/e36.jpg &&	
+	G: Le bouleau verruqueux
+	B: Le chêne
+	B: Le hêtre
+	B: L'aulne
+
+Q:  Quel est l'espèce arborescente qui colonise, dans les premiers stades, les sols volcaniques de la Chaîne des Purs sur cendres basaltiques ? 
+	I: images/e37.jpg &&
+	G: Le Pin sylvestre
+	B: Le chêne
+	B: Le méléze
+	B: Le sapin
+
+Q:  Quelle est une des principales différences entre silandosol et aluandosol ? 
+	G: Les aluandosols sont plus acides (pH < 5) que les silandosols (pH >= 4.5).
+	B: Les silandosols sont plus acides (pH < 5) que les aluandosols (pH >= 4.5).
+
+Q:  Qu'est l'eau <em> hygroscopique </em> ? 
+	G: C'est l'eau fortement liée.
+	G: C'est l'eau contenue dans les micropores.
+	B: C'est l'eau contenue dans les mésopores.
+	G: C'est une eau normalement non accessibles aux plantes.
+	G: C'est une eau avec une pression de succion supérieure à 15 bars.
+
+Q:  Qu'est-ce que l'eau <em>capillaire</em> ? 
+	G: C'est une eau accessible aux plantes.
+	G: C'est une eau avec une pression de succion comprise entre 0.3 bar et 15 bars.
+	B: C'est une eau contenue dans les micropores.
+	G: C'est une eau contenue dans les mésopores.
+	B: C'est une eau faiblement retenue.
+
+Q:  Qu'est-ce qu'on appelle l'eau <em> gravitationnelle </em> ou <em> gravifique </em> ? 
+	G: C'est une eau contenue dans les macropores.
+	B: C'est une eau contenue dans les micropores.
+	G: C'est une eau avec une pression de succion inférieure à 0.3 bar.
+	B: C'est une eau très fortement retenue.
+
+Q:  Qu'est-ce que le <em>RUM</em> ? 
+	G: Le Réservoir Utilisable Maximal, 
+	B: Le Réseau Unifié du Mycélium,
+	B: La Réserve Unifiée de Macro-Nutriments,
+	B: Le Roulement Universel des Microbes.
+
+Q:  Quelle est la définition du Réservoir Utilisable Maximal (RUM) ? 
+	G: C'est la différence entre la capacité au champs et la quantité retenue au point de flétrissement.
+	B: C'est la quantité d'eau retenue  au point de flétrissement.
+	B: C'est la capacité au champs
+	B: C'est la somme de la capacité au champs et de la quantité retenue au point de flétrissement.
+
+Q:  Qu'est-ce qu'on appelle le <em> point de flétrissement </em> ? 
+	G: C'est l'état hydrique limite du sol, à partir duquel les plantes standard ne sont plus capables de capter l'eau résiduelle si l'humidité du sol baisse encore.
+	B: C'est l'état hydrique limite du sol, à partir duquel les plantes standard flétrissent si l'engorgement en eau du sol augmente encore.
+	B: C'est l'état hydrique limite du sol, à partir duquel la terre ne retient plus l'eau par capillarité si l'humidité du sol augmente encore.
+	B: C'est l'état hydrique limite du sol, à partir duquel la terre montre des signes d'assèchement (comme l'apparition de fentes de dessication).
+
+Q:  Qu'est-ce qu'on appelle la <em> capacité au champs </em> ? 
+	G: C'est un état hydrique limite du sol, pour lequel la pression de succion est de 0.3 bar.
+	B: C'est un état hydrique limite du sol, pour lequel la pression de succion est de 3 bar.		
+	B: C'est un état hydrique limite du sol, pour lequel la pression de succion est de 14.2 bar.		
+	B: C'est un état hydrique limite du sol, pour lequel la pression de succion est de 20 bar.		
+
+Q:  A quoi sert la capacité au champ ? 
+	G: Ce paramètre caractérise la teneur limite en eau du sol entre le domaine de l'eau capillaire et celui de l'eau gravifique.	
+	B: Ce paramètre caractérise la teneur limite en eau du sol entre le domaine de l'eau capillaire et celui de l'eau hygroscopique.	
+	B: Ce paramètre caractérise la teneur limite en eau du sol entre le domaine de l'eau hygroscopique et celui de l'eau gravifique.	
+
+Q:  Quels sont les sols qui présentent les meilleurs RUM ? 
+	G: Les sols limoneux.
+	B: Les sols sableux.
+	B: Les sols argileux.
+	B: Les sols graveleux.
+	B: Les sols pierreux.
+
+Q:  Donner un ordre de grandeur de la RUM d'un sol limoneux ? 
+	G: Environ 20-25 cm/m de sol.
+	B: Environ 30-35 cm/m de sol.
+	B: Environ 10-15 cm/m de sol.
+	B: Environ 5-10 cm/m de sol.
+
+Q:  Donner un ordre de grandeur de la RUM d'un sol sableux ? 
+	B: Environ 20-25 cm/m de sol.
+	B: Environ 30-35 cm/m de sol.
+	B: Environ 10-15 cm/m de sol.
+	G: Environ 5-10 cm/m de sol.
+
+Q:  Quel type de sols va-t'on trouver sur des scories volcaniques dans une carrière abandonnée depuis une vingtaine d'années ? 
+	G: Un régosol.
+	B: Un andosol.
+	B: Un sol brun.
+	B: Un vertisol.
+
+Q:  Quelles sont les particularités des andosols au toucher ? 
+	G: Ils ont une structure grumeleuse très fine.
+	G: &Agrave; l'état sec, les mottes sont pulvérulents, sans  cohésion entre elles.
+	G: &Agrave; l'état humide, les mottes éclatent sous la pression des doigts.
+	B: Ils forment des grosses mottes de terre.
+
+Q:  Qu'est-ce que la <em> thixotropie </em> ? 
+	G: C'est la propriété d'un matériau qui voit sa viscosité chuter quand on lui applique une certaine pression.
+	B: C'est la propriété d'un matériau qui se solidifie quand on lui applique une certaine pression.
+	B: C'est la propriété d'un matériau qui se dilate quand on lui applique une certaine pression.
+	B: C'est la propriété d'un matériau qui bout quand on lui applique une certaine pression.
+
+Q:  Quel pourcentage de surface	des terres émergées occcupent les andosols dans le monde ? 
+	G: Environ 1%.
+	B: Environ 5%.
+	B: Environ 10%.
+	B: Environ 15%.
+
+Q:  Est-ce que les andosols sont généralement des sols fertiles ? 
+	G: Oui.
+	B: Non.
+
+Q:  Quel est le stock de matières organiques en moyenne dans un andosol ? 
+	G: Environ 25 kg par m<sup>2</sup>.
+	B: Environ 10 kg par m<sup>2</sup>.
+	B: Environ 5 kg par m<sup>2</sup>.
+	B: Environ 1 kg par m<sup>2</sup>.
+
+Q:  Quel est ce sol selon le RP ?  Le solum comporte :  <ul> <li> un horizon rouge ferrallitique (1), </li> <li> et un horizon d'altération sur gneiss (2). </li> </ul>  La coupe fait 2 mètres d'épaisseur. 	
+	I: images/e38.jpg &&
+	G: Un ferrallitisol.
+	B: Un oxydisol.
+	B: Un fersialsol.
+	B: Un ferruginosol.
+
+Q:  Quelle est la différence entre un ferrallitisol et un oxydisol ? 
+	G: Les ferrallitisols ne comportent pas de niveaux durcis (cuirasses, carapaces) comme les oxydisols.
+	B: Les oxydisols ne comportent pas de niveaux durcis (cuirasses, carapaces) comme les ferrallitisols.
+
+Q:  Dans la terminologie utilisée par le RP, que désigne l'horizon <em>OX</em> ? 
+	G: C'est un horizon riche en oxydes et hydroxydes de fer et d'aluminium.
+	B: C'est un horizon riche en oxydes et hydroxydes de Fe<sup>2+</sup> et d'aluminium.
+	B: C'est un horizon riche en sulfates de fer.
+	B: C'est un horizon riche en carbonates de fer.
+
+Q:  Dans la terminologie du RP, comment désigne-t'on l'horizon enrichi en argiles TO des ferralitisols et oxydisols ? 
+	G: L'horizon F.
+	B: L'horizon FE.
+	B: L'horizon OX.
+	B: L'horizon FS.
+
+Q:  La CEC dans les ferralitisols et oxydisols est ... 
+	G: Généralement variable
+	G: Faible
+	B: Forte
+
+Q:  L'altération chimique des minéraux alumino-silicatés dans les oxydisols et ferralitisols est ... 
+	G: Très élevée.
+	B: Modérée.
+	B: Faible.
+
+Q:  L'halloysite est un minéral qui se développe parfois dans les 1ers stades de formation des ferrallitisols et oxydisols. Qu'est-ce que l'halloysite ? 
+	I: images/e39.jpg &&
+	G: C'est une argile de formule Al<sub>2</sub> Si<sub>2</sub> O<sub>5</sub> (OH)<sub>4</sub>
+	B: C'est un oxyde de fer.
+	B: C'est un hydroxyde de fer.
+	B: C'est un composé amorphe constitué de silice et de Fe<sup>3+</sup>.	
+
+Q:  Ce sol, développé sous climat tropical semi-aride, présente <ul> <li> un horizon noir, épais et argileux, </li> <li> sur un horizon d'accumulation calcaire. </li> </ul> Quel est ce sol ? 
+	I: images/e40.jpg &&
+	G: Un vertisol.
+	B: Un chernozem.
+	B: Un andosol.
+	B: Un pélosol.
+
+Q:  Qu'est-ce qui caractérise un vertisol ? 
+	G: Ce sont des sols riches en smectites.
+	G: Ce sont des sols qui, vus en coupe, présentent des faces de glissement.
+	B: Ce sont des sols calcaires.
+	B: Ce sont des sols, riches en kaolinite.
+
+Q:  Ce sol, développé sous climat méditerranéen sub-aride, présente: <ul> <li> un horizon A, riche en argiles gonflantes, </li> <li> un horizon S à structure pédologique, </li> <li> un horizon Bca avec nodules calcaires. </li> </ul> Quel est ce sol ?
+	I: images/e41.jpg &&
+	G: Un vertisol.
+	B: Un andosol.
+	B: Un calcosol.
+	B: Un chernozem.	
+
+Q:  Ce sol, développé sous climat méditerranéen sub-aride, présente: <ul> <li> un horizon A, riche en argiles gonflantes, </li> <li> un horizon S à structure pédologique, </li> <li> un horizon Bca avec nodules calcaires. </li> </ul> Quel est ce sol ?
+	I: images/e42.png &&
+	G: Un vertisol.
+	B: Un andosol.
+	B: Un calcosol.
+	B: Un chernozem.	
+
+Q:  Selon la WRB, qu'est-ce qu'un phaeozem ? 
+	I: images/e42.png &&
+	G: C'est un sol de steppe humide.
+	G: C'est un sol avec un horizon de surface, noir, humifère.
+	G: C'est un sol lessivé, notamment pendant les saisons humides.
+	B: C'est un sol développé sous climat tropical.
+
+Q:  Selon WRB, quel est ce sol ? On précise que:  <ul> <li> ce sol est fortement salé, </li> <li> ce sol se trouve dans un endroit à forte évapo-transpiration et à précipitation faible, </li> <li> des cristaux de sel sont visibles en surface.</ul>
+	I: images/e43.png &&
+	I: images/e44.png &&
+	G: Un solonchak.
+	B: Un solonetz.
+	B: Un podzol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ? On précise que: <ul><li> ce sol est salé, </li><li> l'horizon de subsurface est riche en argiles à structure columnaire, </li><li> des cristaux de sel sont visibles en surface,</li><li> le sol est riche en sodium et magnésium adsorbé, </li><li> ce sol se trouve dans des zones à été chaud et sec. </li> </ul>
+	I: images/e45.png &&
+	I: images/e46.png &&
+	B: Un solonchak.
+	G: Un solonetz.
+	B: Un podzol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ?  On précise que:  <ul> <li> ce sol est riche en argiles gonflantes, </li> <li> ce sol se rétracte et gonfle selon , </li> <li> des cristaux de sel sont visibles en surface,</li> <li> le sol est riche en sodium et magnésium adsorbé, </li>	 <li> ce sol se trouve dans des zones à été chaud et sec. </li> </ul>
+	I: images/e47.png &&
+	I: images/e48.png &&
+	B: Un solonchak.
+	G: Un solonetz.
+	B: Un podzol.
+	B: Un vertisol.
+
+Q:  Quel est l'étymologie du mot <em>podzol</em> ? 
+	G: <em>pod</em> signifie "dessous".
+	G: <em>zol</em> signifie "cendres".
+	B: <em>pod</em> signifie "noir".
+	B: <em>zol</em> signifie "sol".
+
+Q: Quel est ce sol selon la WRB ? 
+	I: images/e49.png &&
+	I: images/e50.png &&
+	G: Un podzol.
+	B: Un vertisol.
+	B: Un chernozem.
+	B: Un cambisol.
+
+Q: Quel est ce sol selon la WRB ? 
+	I: images/e51.png &&
+	I: images/e52.png &&
+	G: Un luvisol.
+	B: Un vertisol.
+	B: Un chernozem.
+	B: Un cambisol.
+
+Q:  Qu'est-ce qui caractérise un luvisol ? 
+	I: images/e53.jpg &&
+	G: Ce sont des sols marqué par un lessivage des argiles.
+	G: Ce sont des sols avec une bonne activité biologique en général.
+	G: Un horizon de subsurface, appauvri en argile, est au-dessus d'un horizon d'accumulation d'argiles.
+	B: Ce sont des sols sableux marqué par de la pédoturbation.
+
+Q:  Quel est ce sol selon la WRB ? 
+	I: images/e54.png &&
+	I: images/e55.png &&
+	G: Un leptosol.
+	B: Un chernozem.
+	B: Un cambisol.
+	B: Un luvisol.
+
+Q:  Qu'est-ce qui caractérise un leptosol selon la WRB ? </b>
+	G: Ce sont des sols peu épais.
+	G: Ce sont des sols graveleux, caillouteux ou pierreux.
+	G: Ce sont des sols dans zones de montagnes ou des zones d'érosion importante.
+	B: Ce sont des sols épais.
+
+Q:  Que signifie la racine grecque <em>lepto</em> retrouvé dans
+	de certains mots en sciences de la terre, comme "leptosols", "leptynites", ... ? 
+	G: Mince, peu épais.
+	B: Important
+	B: En position élevée, en altitude.
+	B: En provenance des pays nordiques.
+
+Q:  Un leptosol développé sur un substrat rocheux calcaire constitue ... 
+	I: images/e56.jpg &&
+	G: Une rendzine
+	B: Un ranker.
+	B: Un cambisol.
+	B: Un luvisol.
+
+Q:  Un leptosol développé sur un substrat rocheux siliceux (une roche acide comme un granite ou un gneiss) constitue ... 
+	I: images/e57.jpg &&
+	G: Un ranker.
+	B: Une rendzine.
+	B: Un pélosol.
+	B: Un podzol.
+
+Q: Selon la WRB, quel est ce sol, très riche en débris végétaux mal décomposés ? 
+	I: images/e58.png &&
+	I: images/e59.png &&
+	G: Un histosol.
+	B: Un chernozem.
+	B: Un vertisol.
+	B: Un leptosol.
+
+Q:  Qu'est-ce qui caractérise un histosol ? 
+	I: images/e60.jpg &&
+	G: Ce sont des sols se formant en climat froid et humide.
+	G: Ce sont des sols où la décomposition des débris végétaux est très ralentie.
+	B: Ce sont des sols peu épais.
+	B: Ce sont des sols argileux.
+
+Q:  Selon la WRB, quel est ce sol, que l'on trouve dans les plaines d'inondation ? 
+	I: images/e61.png &&
+	I: images/e62.png &&
+	G: Un fluvisol.
+	B: Un leptosol.
+	B: Un luvisol.
+	B: Un cambisol.
+
+Q:  Qu'est-ce qui caractérise un fluvisol ? 
+	G: Ce sont des sols composés de matériaux alluvionnaires.
+	G: Ce sont des sols qui se développent le long des cours d'eau, dans les plaines d'inondation.
+	B: Ce sont des sols secs.
+	B: Ce sont des sols de couleur rougeâtre.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e63.png &&
+	I: images/e64.png &&
+	G: Un cryosol.
+	B: Un leptsol.
+	B: Un vertisol.
+	B: Un podzol.
+
+Q:  Qu'est-ce qui caractérise un cryosol ? 
+	G: Ce sont des sols se développant dans les régions arctiques ou d'altitude.
+	G: Ce sont des sols marqués par de nombreux phénomènes périglaciaires (gélifraction, cryoturbation, cryoexpulsion, ...).
+	B: Ce sont des sols salés.
+	B: Ce sont des sols riches en matières organiques.
+
+Q: Selon la WRB, quel est ce sol, qui est développé sur un substrat de cendres volcaniques ? 
+	I: images/e65.png &&
+	I: images/e66.png &&
+	G: Un andosol.
+	B: Un leptosol.
+	B: Un cambisol.
+	B: Un luvisol.
+
+Q:  Qu'est-ce qui caractérise un andosol ? 
+	G: L'altération chimique d'un substrat riche en nutriments		
+	G: La richesse en matières organiques de l'horizon superficiel.
+	G: L'horizon superficiel est de couleur foncée.
+	B: Ce sont des sols secs et sableux.
+	
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e67.png &&
+	I: images/e68.png &&
+	G: Un arénosol.
+	B: Un ranker.
+	B: Un leptosol.
+	B: Un cryosol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e69.png &&
+	I: images/e70.png &&
+	G: Un calcisol.
+	B: Un ranker.
+	B: Un leptosol.
+	B: Un cryosol.
+
+Q:  Qu'est-ce qui caractérise un calcisol selon la WRB ? 
+	G: Ce sont des sols avec des reprécipitations secondaires de carbonates sous forme de filaments, nodules ou croûtes.
+	G: Ce sont des sols marqués par les déplacements de la nappe phréatique superficielle.
+	B: Ce sont des sols décarbonatés.
+	B: Ce sont des sols sableux.
+	
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e71.png &&
+	I: images/e72.png &&
+	G: Un cambisol.
+	B: Un luvisol.
+	B: Un chernozem.
+	B: Un arénosol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e73.png &&
+	I: images/e74.png &&
+	G: Un chernozem.
+	B: Un luvisol.
+	B: Un cambisol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e75.png &&
+	I: images/e76.png &&
+	G: Un gleysol.
+	B: Un chernozem.
+	B: Un cambisol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e77.png &&
+	I: images/e78.png &&
+	G: Un kastanozem.
+	B: Un chernozem.
+	B: Un cambisol.
+	B: Un vertisol.
+
+Q:  Selon la WRB, quel est ce sol ? 
+	I: images/e79.png &&
+	I: images/e80.png &&
+	G: Un régosol.
+	B: Un leptosol.
+	B: Un fluvisol.
+	B: Un arénosol.
+
+Q:  Cette carte montre la nature des roches substrat, sur lesquels se sont les développés les sols en France et ses proches voisins ? Que peut-on en déduire ? 
+	I: images/e81.png &&
+	I: images/e82.png &&
+	G: Les dépôts éoliens (loess) constituent une bonne partie du substrat des sols en Belgique, dans le Nord de la France et dans la région des Landes.
+	B: Dans le Massif Central, les roches parentales sont de nature sédimentaire.
+	G: Les glaciers ont laissé d'importants dépôts dans le Nord de l'Europe, en Suisse et en Italie.
+	G: La vallée de la Somme est à substrat organique.
+	G: La Sologne est sur un substrat constitué de dépôts détritiques non consolidés.	
+
+
+Q:  Cette carte montre la nature des roches substrat, sur lesquels se sont développés les sols d'Europe ?  Que peut-on en déduire ? 
+	I: images/e81.png &&
+	I: images/e83.png &&
+	G: Le loess (dépôts éoliens) constitue le principal substrat des sols du sud de l'Europe Centrale  (Ukraine, Sud de la Russie, ...) et du nord de l'Europe Occidentale (Belgique, nord de la France, ...).
+	G: Les dépôts glaciaires constituent la majeure partie du substrat des sols  en Scandinavie et au nord de la Russie.
+	G: Les dépôts de nature organique (tourbes) forment le substrat de nombreux sols en Europe du Nord et Sibérie.	
+	B: La Grande-Bretagne possèdent des sols à substrat essentiellement  granito-métamorphique.
+
+Q:  Quel type de ruissellement voit-on à la surface de ce champ cultivé sur un chernozem ? 
+	I: images/e84.png &&
+	G: Du ruissellement aréolaire.
+	G: Du ruissellement laminaire.
+	G: Du ruissellement en nappe.
+	B: Du ruissellement concentré.
+	B: Du ruissellement diffus.
+
+Q:  Cette carte montre une modélisation de l'érosion par ruissellement en Europe ? Que représente une perte de matière d'une tonne par ha et par an (en adoptant une densité de 1 pour la tranche de sol érodé) ?
+	I: images/e85.png &&
+	I: images/e86.png &&
+	G: Un dizième de millimètre.
+	B: Un millimètre.
+	B: Un centimètre.
+	B: 10 µm.
+
+Q:  Comment s'appelle le petit livret posé sur le sol et qui a pour objet de caractériser la couleur des carottes de sol ? 
+	I: images/e87.png &&
+	G: La charte de couleurs Munsell.
+	B: La charte de couleurs Pantone.
+	B: La charte de couleurs Adobe.
+	B: La charte de couleur Kodak.	
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e88.png &&
+	G: Les podzols.
+	B: Les chernozems.
+	B: Les cambisols.
+	B: Les vertisols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e89.png &&
+	G: Les régosols.
+	B: Les luvisols.
+	B: Les podzols.
+	B: Les andosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e90.png &&
+	G: Les luvisols.
+	B: Les cambisols.
+	B: Les podzols.
+	B: Les andosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e91.png &&
+	G: Les histosols.
+	B: Les cryosols.
+	B: Les podzols.
+	B: Les régosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e92.png &&
+	G: Les fluvisols.
+	B: Les cryosols.
+	B: Les podzols.
+	B: Les régosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e93.png &&
+	G: Les cryosols.
+	B: Les histosols.
+	B: Les podzols.
+	B: Les regosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e94.png &&
+	G: Les cambisols.
+	B: Les luvisols.
+	B: Les calcisols.
+	B: Les podzols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e95.png &&
+	G: Les chernozems.
+	B: Les cambisols.
+	B: Les calcisols.
+	B: Les podzols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e96.png &&
+	G: Les calcisols.
+	B: Les cambisols.
+	B: Les luvisols.
+	B: Les régosols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e97.png &&
+	G: Les gleysols.
+	B: Les chernozems.
+	B: Les luvisols.
+	B: Les podzols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e98.png &&
+	G: Les vertisols.
+	B: Les chernozems.
+	B: Les luvisols.
+	B: Les calcisols.
+
+Q:  Cette carte montre les limites d'extension d'un certain type de sol en Europe. Lequel ? 
+	I: images/e99.png &&
+	G: Les umbrisols.
+	B: Les vertisols.
+	B: Les luvisols.
+	B: Les calcisols.
+
+#-------------------------------------------------------------------------------
+
+Q:  A la fin du XVIII<sup>e</sup> siècle et au XIX<sup>e</sup> siècle, quel est le principal courant de pensée scientifique dans l'étude des sols ? 
+	G: C'est le règne de la chimie agricole. Les sols sont étudiés par des chimistes, qui étudient la composition chimique des sols et leurs interactions avec des composés chimiques (notamment apportés sous forme d'engrais), dans le but d'améliorer la productivité agricole.
+	B: &Agrave; cette époque, il n'y a pas encore de science s'intéressant au sol.		
+	I: images/e100.png &&
+	I: images/e101.png &&
+
+Q: Pour les scientifiques français du XIX<sup>e</sup> siècle, quel est le principal facteur déterminant la nature d'un sol en un endroit donné ? 
+	I: images/e102.jpg && 1<sup>ere</sup> carte géologique de France (publiée par Dufrénoy et Elie de Beaumont en 1841)
+	G: La nature lithologique de la roche sous-jacente. Il suffit de savoir quelle roche se trouve en-dessous du sol pour connaître le sol au-dessus.
+	B: Le climat. Il suffit de de savoir le climat du site pour savoir quel type de sol va se former.
+	B: La végétation. Ce sont les végétaux qui prédéterminent la nature du sol. Il suffit de connaître la couverture végétale pour savoir quel type de sol est en-dessous.
+
+Q:  Dans le contexte des connaissances de l'époque, quel a été l'un des principaux apports du savant russe Vasily Dokuchaev sur la formation des sols après avoir étudié les sols russes sur des milliers de kilomètres ? 
+	I: images/e103.jpg &&
+	I: images/e104.jpg && 1<sup>er</sup> essai de cartographie mondiale des sols de Dokuchaev
+	G: D'avoir montré que la pédogénèse dépendait aussi du climat (entre autres facteurs).
+	B: D'avoir montré que la pédogénèse dépendait aussi de la nature des roches sous-jacentes (entre autres facteurs).	
+	B: D'avoir montré que la pédogénèse dépendait aussi de l'agriculture pratiquée par l'homme (entre autres facteurs).
+
+Q:  Pour Dokuchaev, quels sont les facteurs de différenciation des sols (ou facteurs de la pédogénèse) ? 
+	G: Le climat.
+	G: La végétation et autres agents biologiques
+	G: La roche parentale.
+	G: La topographie.
+	G: L'âge du sol.
+	B: La Lune.
+
+Q:  Pourquoi les sols africains (à la différence des sols en France) reflètent mal la nature des roches sous-jacentes ? 
+	G: Parce que les sols africains sont des sols beaucoup plus vieux (car ils se sont façonnés sur des régions tectoniquement stables depuis des millions d'année).
+	G: Parce que l'intensité de l'altération sous climat tropical oblitère en grande partie la nature des roches initiales.
+	B: Parce que la pédogénèse a été très intense lors des glaciations, qui se sont aussi exercées en Afrique.
+
+Q:  Au vu de cette photo de la steppe à chernozem (Google Earth), quel est le principal problème de ces sols ? 
+	I: images/e104.png &&
+	G: Ce sont des terrains très sensible à l'érosion par ruissellement.
+	B: Ce sont des terrains très durs et cohérents, qui sont difficilement labourables.
+	
+Q:  &Agrave; la fin du XIX<sup>e</sup> siècle, les tenants de l'agro-géologie professaient que la nature géologique du sous-sol suffisait à déterminer le sol développé au-dessus. Ci-dessous sont donnés les extraits d'un article publié en 1894 par M. Hitier, ingénieur agronome à l'Institut National Agronomique, l'un des avocats de cette théorie. Quel est la réaction de M. Hitier face aux désaccords de cette théorie avec les observations de Dokuchaev sur les sols russes ? 
+	I: images/e107.png &&
+	I: images/e105.png &&
+	I: images/e106.png &&
+	G: Il dit que les Russes n'ont pas fait une carte géologique assez détaillée.
+	G: Il dit qu'il suffirait d'avoir des cartes suffisamment détaillées pour retrouver un bon accord avec la théorie.
+	G: Il dit que les Russes n'ont pas cartographié les bonnes formations géologiques (à savoir les formations glaciaires) sur la carte géologique.
+	B: Il reconnaît que la nature du sous-sol ne permet pas d'expliquer à elle seule la différenciation des sols.
+
+Q:  Dire ce qui est vrai ... 
+	G: Des roches différentes peuvent donner des sols semblables.
+	G: Des roches semblables peuvent donner des sols différents.
+	B: Des roches différentes ne peuvent donner que des roches différentes.
+	B: Des roches semblables ne peuvent donner que des roches semblables.
+
+Q:  Dans la théorie de Dokuchaev, qu'est-ce qu'on appelle des <em>sols zonaux</em> ? 
+	I: images/e108.jpg &&
+	I: images/e109.gif &&
+	G: Des sols s'inscrivant typiquement dans les différentes grandes zones climatiques à l'échelle mondiale.
+	B: Des sols s'inscrivant typiquement dans les différentes grandes zones géologiques à l'échelle mondiale.
+	B: Des sols s'inscrivant typiquement dans les différentes grandes zones nationales à l'échelle mondiale.
+	B: Des sols s'inscrivant typiquement dans les différentes grandes zones géographiques à l'échelle mondiale.
+
+Q:  Dans la théorie de Dokuchaev, qu'est-ce qu'on appelle des <em>sols azonaux</em> ? 
+	G: Des sols, dont les caractéristiques sont guidées en premier lieu par la nature de la roche du sous-sol.
+	B: Des sols, dont les caractéristiques sont guidées en premier lieu par la latitude.
+	B: Des sols, dont les caractéristiques sont	guidées en premier lieu par la topographie (altitude, exposition, ...).
+	B: Des sols, dont les caractéristiques sont guidées en premier lieu par le climat.
+
+Q:  Dans la théorie de Dokuchaev, qu'est-ce qu'on appelle des <em>sols intrazonaux</em> ? 
+	B: Des sols zonaux, mais dont les caractéristiques sont très influencées par la nature de la roche du sous-sol.
+	B: Des sols zonaux, mais dont les caractéristiques sont très influencées par la latitude.
+	G: Des sols zonaux, mais dont les caractéristiques sont	très influencées par la topographie (altitude, exposition, ...).
+	B: Des sols zonaux, dont les caractéristiques sont très influencées lieu par le climat.
+
+Q:  Pourquoi le concept de zonalité climatique développée par Dokuchaev s'applique mal en Europe occidentale, et en France en particulier ? 
+	I: images/e110.jpg &&
+	G: Parce que les sols d'Europe Occidentale sont encore des sols jeunes, dont les traits sont encore fortement influencés par la nature du sous-sol.
+	G: Parce les sols d'Europe Occidentale sont dans des régions fortement tectonisés avec développement de reliefs montagneux créant des microclimats.
+	B: Parce que les sols d'Europe Occidentale ont été fortement modifiés par l'homme depuis le Néolithique.
+	B: Parce que les sols d'Europe Occidentale sont de très vieux sols.	
+		
+Q:  Pourquoi le concept de zonalité climatique conçue par Dokuchaev en Russie s'applique mal en Amérique du Nord, où les climats semblent s'organiser autrement que latitudinalement ? 
+	I: images/e111.jpg &&
+	I: images/e112.jpg &&
+	G: Parce ce que l'Amérique du Nord est un continent	traversé par trois chaînes de montagne (les Rocheuses, la Chaîne des Cascades, les Appalaches), tandis	que la zone prospectée par Dokuchaev en Russie est un pays plat (la chaîne du Caucase, mis à part). 
+	G: Parce que l'Amérique du Nord est soumis à de fortes influences océaniques dans ses parties occidentale et orientale.
+	B: Parce que les sols américains ont été fortement modifiés par l'homme.
+
+Q:  Pourquoi les chernozems non cultivés sont de véritables puits à carbone atmosphérique ? 
+	G: Ce sont des sols avec une bonne humification, mais une minéralisation ralentie.
+	B: C'est une affirmation fausse: les chernozems n'accumulent pas plus de carbone que les autres sols.
+	G: Ce sont des sols où le carbone minéralisé est stocké sous forme d'encroûtements carbonatés en profondeur.
+	B: Ce sont des sols où la méthanogénèse est forte.
+	G: Ce sont des sols, où une grande partie de biomasse produite par les graminées est fabriquée dans le sol, et non à la surface.
+
+Q:  Quels sont les facteurs qui ralentissent la minéralisation de l'humus dans les chernozems ? 
+	G: Les ions Ca<sup>2+</sup> présents dans ces sols stabilisent l'humus.
+	G: Lors des périodes glaciaires, le loess apporté et déposé par le blizzard a enrichi les chernozems en smectites, qui ont pour effet de stabiliser l'humus et de ralentir sa minéralisation.
+	G: L'activité microbienne est très ralentie en hiver (à cause de ses températures très  basses) et en été (à cause de sa sécheresse), ce qui empêche la minéralisation de l'humus pendant ces périodes.
+	B: Parce que ces sols sont biologiquement peu actifs toute l'année.
+
+Q:  Pourquoi les chernozems sont des sols très fertiles (sous réserve que les conditions météorologiques le permettent) ? 
+	G: Ce sont des sols humifères avec un bon stock de carbone organique accumulé.
+	G: Ce sont des sols riches en smectites et possédant donc une bonne CEC.
+	G: Ce sont des sols avec de bonnes capacités nutritives pour les plantes.
+	B: Ce sont des sols sableux, leur conférant une bonne aération et un bon drainage.
+
+Q:  La carte ci-dessous montre les quantités de carbone organique accumulés dans les sols. Dans quels types de sols trouve-t'on les plus gros stocks en France ? 
+	I: images/16-sol2014-carte4a.pdf &&
+	G: Les andosols des massifs volcaniques (Cantal, Monts Dore, Aubrac, ...).
+	B: Les cambisols.
+	B: Les luvisols.
+
+Q:  La figure ci-dessous montre la quantité de carbone organique stocké dans les sols et la biomasse par rapport à la quantité de carbone minéral dans l'atmosphère. Quel est le plus grand réservoir de carbone parmi les trois qui sont listés ?
+	I: images/e113.jpg &&
+	G: Les sols.
+	B: L'atmosphère.
+	B: La biomasse.	
+
+Q:  Dans le but de limiter l'augmentation de CO<sub>2</sub> dans l'atmosphère et lutter contre le réchauffement climatique, sur quel levier est-il éventuellement possible d'agir.
+	I: images/e113.jpg &&
+	G: Favoriser les écosystèmes à haute capacité de stockage de carbone pour augmenter la quantité de carbone organique accumulée dans la biomasse.
+	G: Favoriser les écosystèmes permettant d'augmenter la quantité de carbone stockée dans les sols.
+	B: Favoriser les écosystèmes relâchant beaucoup de CO<sub>2</sub> au dépens du carbone organique stockée dans les sols.
+
+Q:  Un chernozem est capable de stocker 500 tonnes de C par hectare. Quelle quantité cela représente-t'il par m<sup>2</sup> ? 
+	G: 50 kg par m<sup>2</sup>	
+	B: 500 kg par m<sup>2</sup>	
+	B: 5 kg par m<sup>2</sup>	
+	B: 0.5 kg par m<sup>2</sup>	
+
+Q:  Au regard de la carte de la quantité de carbone accumulée dans les sols de France, que peut-on dire des chernozems sachant qu'ils peuvent contenir jusqu'à 50 kg de C par m<sup>2</sup> ? 
+	I: images/16-sol2014-carte4a.pdf &&
+	G: Ce sont des sols avec de très bonnes capacités de stockage de carbone organique.
+	B: Ce sont des sols avec des capacités moyennes de stockage de carbone organique.
+	B: Ce sont des sols avec de faibles capacités de stockage de carbone organique.
+
+Q:  Quels sont les deux principaux facteurs de fragilité des chernozems ? 
+	I: images/e114.png &&
+	G: Ce sont des sols sensibles au ruissellement concentré.
+	G: Ce sont des sols sensibles à la sécheresse.
+	B: Ce sont des sols sensibles au froid.	
+	B: Ce sont des sols sensibles à des remontées capillaires de solutions salées.
+	C: Les fortes pluies ravinent ces sols. Lorsqu'ils s'assèchent, ils deviennent poussiéreux et ils sont alors sensibles à l'érosion éolienne (formation de nuages de poussières). La sécheresse est aussi à l'origine d'incendies. 
+
+Q:  Pour la mise en culture des steppes à chernozems, les russes ont développé des systèmes d'irrigation pour compenser la pluviométrie relativement faible du climat continental (de l'ordre de 500 mm d'eau par an). Quels effets secondaires, positifs ou négatifs, cela a-t'il entraîné ? 
+	G: Cela booste l'activité des micro-organismes, notamment en été.
+	G: La minéralisation de l'humus est accélérée, libérant des sels minéraux (potassium, phosphates, ...)
+	G: Le stock de carbone organique diminue.
+	B: Les sols s'enrichissent en nutriments.	
+	G: Les récoltes sont belles.
+
+Q:  Les terres de Russie et d'Ukraine sont l'objets de luttes séculaires entre les Russes sédentaires et les tribus nomades turco-mongoles. Quelle a été la principale conséquence de la victoire d'Ivan le Terrible sur les Tatars au milieu du XVI<sup>e</sup> siècle ? 
+	I: images/e115.jpg		&& Ivan le Terrible
+	I: images/e116.jpg		&& La steppe
+	G: La mise en culture des steppes à chernozems.
+	B: La fin de la culture du blé en Ukraine.		
+
+Q:  Selon la WRB, il existe une catégorie de sols, voisins des chernozems, et qui sont appelés <em>phaeozems</em>. Quels sont les caractéristiques de ces sols ? 
+	I: images/e117.png && Coupe de phaeozem
+	I: images/e118.png && la pampa en Argentine
+	G: Ce sont des sols qui se trouvent des régions steppiques plus humides que le chernozem.
+	G: Comme le chernozem, le phaeozem se développe bien sur des substrats loessiques (donc dépôts riches et non consolidés).
+	G: Le lessivage est plus important, le sol se lave en surface, et l'horizon de surface devient gris sombre à brun sombre.
+	G: Ce sont des sols avec une bonne activité biologique.		
+	G: Ce sont des sols avec une bonne structure, bien aérée.
+	B: Ce sont des sols peu épais.
+
+Q:  Le Texas est un gros producteur de coton grâce à ses terres riches constituées par des phaeozems. Cependant, quelle menace pèse sur cette production ? 
+	I: images/e119.gif &&
+	I: images/e120.jpg &&
+	I: images/e121.jpg &&
+	G: L'eau d'irrigation provient d'aquifères fossiles qui finiront par s'épuiser.
+	B: Les sols finissent par s'appauvrir.
+	B: Les sols ont tendance à se saliniser en surface.
+	B: Les sols deviennent trop durs à travailler.
+	C: https://today.agrilife.org/2012/03/23/researchers-timing-critical-when-watering-high-plains-cotton/
+
+Q:  Quelle est la différence entre la pampa et les Pampas ? 
+	I: images/e124.jpg && la pampa
+	I: images/e123.png && les Pampas
+	G: la pampa est un biome regroupant la steppe caractéristique développé en Argentine.
+	G: les Pampas désigne une région administrative d'Argentine, caractérisée par ses pampas.
+	B: les Pampas ne désigne que le pluriel de pampa (improprement écrit avec une majuscule, d'ailleurs).
+
+Q:  Les Pampas constituent une des régions les plus fertiles dans le monde. A quoi est due cette fertilité ? 
+	I: images/e122.jpg &&
+	G: C'est une région bien arrosée sans excès avec une pluviométrie est de l'ordre de 1200 mm d'eau par an.	
+	G: Les sols sont des phaeozems.
+	B: Les sols sont des chernozems.
+	C: Il pleut trop pour que puisse se former des chernozems.
+
+Q:  Quel est ce sol selon la WRB ? <br>Pour indication, ce type de sol se forme dans les steppes eurasiennes sous climat continental, mais avec une pluviométrie assez faible. Par ailleurs, on observe des nodules carbonatés néoformés en profondeur. 
+	I: images/e125.jpg &&
+	G: C'est un kastanozem.
+	B: C'est un chernozem.
+	B: C'est un phaeozem.
+	B: C'est un sol brun.
+
+Q:  Quelles sont les caractéristiques des kastanozems ? 
+	I: images/e126.png
+	G: Ce sont des sols fertiles (mais sous réserve qu'ils soient irrigués).
+	G: En profondeur se forment des encroûtements carbonatés d'origine secondaire.
+	G: Ce sont des sols qui se développent sous climat continental sec.
+	B: Ce sont des sols sableux.
+
+Q:  Sous quelle latitude se trouvent les meilleurs sols du point de vue agricole ? 
+	G: Sous les latitudes moyennes.
+	B: Sous les latitudes intertropicales.
+	B: Sous les latitudes boréales.
+
+Q:  Classer ces sols selon leur humidité croissante. 	
+	G: Solonchaks, kastanozems, chernozems et phaeozems.
+	B: Solonchaks, phaeozems, kastanozems et chernozems.
+	B: Solonchaks, chernozems, kastanozems et phaeozems.
+	B: Chernozems, kastanozems, solonchaks et phaeozems.
+
+Q:  Quel terme technique utilisent les pédologues pour désigner un volume de sol échantillonné pour caractériser un sol ? 
+	G: Un solum.
+	B: Un pédon.
+	B: Un profil.
+	B: Un terron.
+	B: Un solon.
+	C: Le pédon désigne le trou qui est fait pour étudier le solum sur la tranche.
+
+Q:  La <em> terre à foulon </em> est une terre composée généralement de smectites ou d'autres argiles comme la sépiolite ou l'attapulgite. Un gisement se trouve se à Mormoiron, près d'Avignon. Quelle est la propriété de cette terre ?
+	I: images/e128.png
+	I: images/e127.png
+	I: images/e129.png
+	G: C'est une terre aux propriétés dégraissantes ou détachantes.
+	G: C'est une terre qui peut être utilisée pour les produits cosmétiques.
+	B: C'est une terre qui peut être utilisée comme granulats.
+
+Q:  La <em>terre à foulon</em> (ou ses variétés) est connue sous d'autres termes. Lesquels ? 
+	G: Fuller's earth.
+	G: Terre de Sommières.
+	B: Terre de Sienne.
+	C: La terre de Sienne est un pigment minéral, riche en Fe<sub>2</sub>O<sub>3</sub>.
+
+Q:  Qu'est-ce que la chorologie ? 
+	G: C'est l'étude de la répartition géographiques des espèces vivantes et de ses causes.
+	B: C'est une discipline scientifique développée par le Professeur Choron.
+	B: C'est l'étude des danses nuptiales des animaux.
+	B: C'est l'étude de la géographie du monde, région par région.
+
+Q:  La figure ci-dessous présente une représentation simplifiée des facteurs de la pédogénèse pour les sols du Référentiel Pédologique. Quels sont les sols qui peuvent se former sous n'importe quel climat et qui sont caractérisés par une humidité forte ?
+	I: images/e130.png
+	G: Les réductisols et les rédoxysols.
+	B: Les calcisols, les calcosols, les salisols, les lithosols et sodisols.
+	B: Les cryosols.
+	B: Les brunisols et luvisols.
+	B: Les ferrallitisols.
+	B: Les podzosols et chernosols.
+
+Q:  Dans quel sol du Référentiel pédologique trouve-t'on les teneurs les plus importantes en carbonates ? 
+	G: Les calcosols.
+	B: Les calcisols.
+	B: Les vertisols.
+	B: Les chernosols.
+	B: Les luvisols.
+
+Q:  Dans quel sol du Référentiel pédologique trouve-t'on les teneurs les plus importantes en sodium ? 
+	G: Les sodisols.
+	B: Les calcisols.
+	B: Les vertisols.
+	B: Les chernosols.
+	B: Les calcosols.
+
+Q:  Qu'est-ce qui différencie les sols des pays chauds de ceux des pays froids du point de vue de l'altération chimique ? 
+	G: Dans les pays chauds, l'altération chimique appauvrit les sols en silice, alcalins et alcalino-terreux.
+	G: Dans les pays froids, l'altération chimique appauvrit la partie supérieure des sols en aluminium et Fe<sup>3+</sup>.
+	G: Dans les pays chauds, l'altération chimique enrichit la partie supérieure des sols en aluminium et Fe<sup>3+</sup>.
+	B: Dans les pays chauds, l'altération chimique enrichit les sols en silice, alcalins et alcalino-terreux.
+
+

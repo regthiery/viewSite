@@ -1,0 +1,28 @@
+TITLE0: Isostasie
+TITLE1: Isostasie
+TITLE2: 
+
+UP: page01.html
+PREV:
+NEXT:
+
+I:	Images/pict01.jpg
+
+SUMMARY:    Le concept d'isostasie explique l'équilibre de la croûte terrestre flottant sur le manteau sous-jacent. Cette fiche explore les fondements de l'isostasie, ses implications pour les chaînes de montagnes, les dépressions crustales, et la répartition des masses terrestres. En examinant différents modèles comme les hypothèses de Pratt et d'Airy, vous découvrirez comment les variations de densité et d'épaisseur de la croûte influencent les phénomènes d'enfoncement et de rebond isostatiques. Le concept de  compensation  gravitaire est également abordé, avec des exemples pour mieux comprendre son rôle dans les processus géologiques.
+
+LEVEL: 1ère année
+DURATION: 10 heures
+
+PDF:
+	TITLE: L'isostasie 
+	LINK: https://drive.google.com/file/d/14eZOYINjxoBc-3RWpjrGuIxNCjpvNS9M/view?usp=drive_link
+
+V: 
+	TITLE: Video 1
+	LINK: https://youtu.be/hE521sXgVr4?si=nmnzasEruQPuTFlr
+
+QCM:
+	TITLE: Testez vos connaissances sur l'isostasie à l'aide de questions interactives.
+	LINK: qcm01.html	
+
+

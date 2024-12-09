@@ -1,0 +1,172 @@
+TITLE0: QCM : QCM Matériaux de Carrière
+TITLE1: QCM : Matériaux de Carrière - Auto-évaluation
+TITLE2: La chaux
+
+UP: ../fiche01.html
+PREV: qcm05.html
+NEXT: qcm07.html
+
+NOSHUFFLE
+
+Q: Quelle est la matière première principale de la chaux ?
+	G: Le calcaire  
+	B: La kaolinite  
+	B: La dolomie  
+	B: La silice  
+	C: La chaux est produite à partir du calcaire (CaCO<sub>3</sub>), qui est chauffé à haute température pour obtenir de la chaux vive (CaO) par décarbonatation, libérant du dioxyde de carbone (CO<sub>2</sub>).
+	
+Q: Quelle est la formule chimique de la chaux vive ?
+	G: CaO  
+	B: CaCO<sub>3</sub>  
+	B: Ca(OH)<sub>2</sub>  
+	B: MgO  
+	C: La chaux vive a pour formule chimique CaO, ou oxyde de calcium. Elle est obtenue par décarbonatation du calcaire (CaCO<sub>3</sub>) chauffé à environ 900-1000 °C.	
+	
+Q: Quelle est la formule chimique de la chaux éteinte ?
+	G: Ca(OH)<sub>2</sub>  
+	B: CaCO<sub>3</sub>  
+	B: CaO  
+	B: Mg(OH)<sub>2</sub>  
+	C: La chaux éteinte, ou hydroxyde de calcium, a pour formule chimique Ca(OH)<sub>2</sub>. Elle est obtenue en hydratant la chaux vive (CaO) avec de l'eau dans une réaction exothermique.	
+
+Q: Comment s'appelle le minéral de la chaux éteinte ?  
+	G: La portlandite  
+	B: La calcite  
+	B: L'aragonite  
+	B: La magnésite  
+	C: Le minéral de la chaux éteinte (Ca(OH)<sub>2</sub>) est appelé portlandite. Il se forme par hydratation de la chaux vive (CaO).
+
+Q: Comment s'appelle la réaction chimique qui aboutit à la formation de chaux vive ?
+	G: La calcination  
+	B: La combustion  
+	B: L'hydratation  
+	B: La carbonatation  
+	C: La calcination est la réaction chimique de décarbonatation par laquelle le calcaire (CaCO<sub>3</sub>) est chauffé pour produire de la chaux vive (CaO) et du dioxyde de carbone (CO<sub>2</sub>). Cette réaction se produit à des températures de 900 à 1000 °C.	
+	
+Q: À quelle température se fait la décarbonatation dans un four à chaux ?  
+	G: Entre 900 et 1000 °C  
+	B: Entre 100 et 200 °C  
+	B: Entre 500 et 600 °C  
+	B: Entre 1200 et 1400 °C  
+	C: La décarbonatation du calcaire (CaCO<sub>3</sub>) dans un four à chaux se fait à une température comprise entre 900 et 1000 °C, permettant la formation de chaux vive (CaO) et de dioxyde de carbone (CO<sub>2</sub>).
+	
+Q: Quelle est la masse de CO<sub>2</sub> relâchée pour produire de la chaux vive à partir d'un kilogramme de calcaire ?  
+	G: 440 g  
+	B: 220 g  
+	B: 1000 g  
+	B: 120 g  
+	C: Lors de la décarbonatation, environ 44 % de la masse du calcaire (CaCO<sub>3</sub>) est libérée sous forme de CO<sub>2</sub>. Pour 1 kg de calcaire, cela représente 440 g de CO<sub>2</sub>. Cela est facilement déterminé quand on sait que la masse molaire molaire du CaCO<sub>3</sub> est de 100 g/mole, tandis que la masse molaire du CO<sub>2</sub> est de 44 g/mol.
+	
+Q: Quels sont les deux grands types de chaux ?  
+	G: Chaux aérienne et chaux hydraulique  
+	B: Chaux vive et chaux éteinte  
+	B: Chaux calcaire et chaux magnésienne  
+	B: Chaux organique et chaux inorganique  
+	C: Les deux grands types de chaux sont la chaux aérienne, qui durcit au contact de l'air, et la chaux hydraulique, qui durcit au contact de l'eau. Cette distinction est liée à leur composition et à leurs modes de prise.
+	
+Q: Comment fonctionne la prise de la chaux aérienne ?  
+	G: Par absorption de CO<sub>2</sub> de l'air  
+	B: Par réaction avec l'eau uniquement  
+	B: Par réaction avec la chaleur  
+	B: Par cristallisation de minéraux  
+	C: La chaux aérienne (Ca(OH)<sub>2</sub>) durcit en absorbant le CO<sub>2</sub> de l'air, ce qui entraîne la formation de calcite (CaCO<sub>3</sub>). Ce processus est appelé carbonatation.	
+	
+Q: Comment fonctionne la prise de la chaux hydraulique ?	
+	G: Par réaction chimique avec l'eau  
+	G: Par absorption de CO<sub>2</sub> de l'air
+	B: Par exposition à la chaleur  
+	B: Par évaporation de l'eau  
+	C: La chaux hydraulique durcit grâce à une réaction chimique avec l'eau, appelée prise hydraulique. Cette réaction se produit même en milieu humide, ce qui la rend adaptée à des environnements humides ou submergés. Elle contient des silicates et aluminates, responsables de cette propriété.
+	
+Q: Avec quelles roches fabrique-t-on de la chaux hydraulique ?  
+	G: Des calcaires argileux  
+	B: Des calcaires magnésiens
+	B: Des calcaires purs  
+	B: Des calcaires et des évaporites
+	C: La chaux hydraulique est fabriquée à partir de calcaires argileux, qui contiennent une proportion significative d'argiles (silicates et aluminates). Lors de la cuisson, ces composés réagissent pour donner des propriétés hydrauliques à la chaux.	
+	
+Q: Qu'est-ce que l'on appelle l'hydraulicité de la chaux ?  
+	G: Sa capacité à durcir en présence d'eau  
+	B: Sa capacité à chauffer rapidement  
+	B: Sa résistance à l'absorption de CO<sub>2</sub>  
+	B: Sa capacité à rester liquide plus longtemps  
+	C: L'hydraulicité de la chaux désigne sa capacité à durcir en présence d'eau, grâce à la réaction chimique des silicates et aluminates contenus dans la chaux hydraulique. Ce phénomène permet son utilisation en milieu humide ou immergé.
+	
+Q: Qu'est-ce que l'on appelle le chaulage ?	
+	G: L'application de chaux pour modifier les propriétés du sol  
+	B: Le processus de cuisson du calcaire  
+	B: La réaction chimique entre la chaux et l'eau  
+	B: La production de chaux vive à partir de calcaire  
+	C: Le chaulage est l'application de chaux, généralement sous forme de chaux éteinte ou vive, pour améliorer les propriétés chimiques, physiques ou biologiques du sol, notamment en régulant son acidité et en favorisant son enrichissement en calcium.
+	
+Q: La chaux qui est achetée dans le commerce pour les besoins du bâtiment, c'est de la chaux vive ou de la chaux éteinte ?
+	I: images/e12.png &&
+	G: De la chaux éteinte  
+	B: De la chaux vive  
+	B: De la chaux hydraulique uniquement  
+	B: De la chaux magnésienne  
+	C: La chaux utilisée dans le bâtiment est généralement de la chaux éteinte (Ca(OH)<sub>2</sub>), car elle est plus sûre et facile à manipuler. La chaux vive (CaO) est plus réactive et dangereuse, et son usage nécessite des précautions spécifiques.	
+	
+Q: Comment obtient-on de la chaux éteinte à partir de la chaux vive ?  
+	G: En ajoutant de l'eau à la chaux vive  
+	B: En chauffant à haute température  
+	B: En mélangeant avec du sable  
+	B: En exposant la chaux vive à l'air libre  
+	C: La chaux éteinte (Ca(OH)<sub>2</sub>) est obtenue en ajoutant de l'eau à la chaux vive (CaO) dans une réaction exothermique appelée hydratation. Cette réaction libère beaucoup de chaleur et doit être réalisée avec précaution.	
+	
+Q: Quelles sont les précautions d'usage de la chaux vive ?  
+	G: Porter des gants
+	G: Porter des lunettes
+	G: Porter un masque  
+	B: Aucune. La chaux vive est un produit naturel
+	C: La chaux vive (CaO) est très réactive et peut causer des brûlures en cas de contact avec la peau ou les yeux. Il est essentiel de porter des gants, des lunettes de protection et un masque pour éviter les irritations et l'inhalation de poussières. Lors de son mélange avec de l'eau, il faut ajouter la chaux progressivement pour contrôler la réaction exothermique.	
+	
+Q: Quelles sont les précautions d'usage de la chaux éteinte ?  
+	G: Porter des gants
+	G: Porter des lunettes
+	G: Porter un masque  
+	B: Aucune. La chaux éteinte est un produit naturel
+	C: Bien que moins dangereuse que la chaux vive, la chaux éteinte (Ca(OH)<sub>2</sub>) peut provoquer des irritations cutanées, oculaires ou respiratoires. Il est recommandé de porter des gants, un masque et des lunettes de protection pour éviter l’exposition aux poussières, surtout lors de son mélange ou de son application.	
+	
+Q: Quelle est la bonne manière de mélanger de l'eau avec de la chaux vive ?  
+	G: Ajouter la chaux vive progressivement à l'eau tout en remuant  
+	B: Verser toute l'eau d'un coup sur la chaux vive  
+	B: Ajouter la chaux vive à l'eau sans remuer pour éviter les éclaboussures  
+	B: Mélanger rapidement avec les mains pour une meilleure répartition  
+	C: La bonne manière de mélanger de l'eau avec de la chaux vive est d'ajouter la chaux vive progressivement à l'eau tout en remuant. Cette méthode permet de contrôler la réaction exothermique, qui génère beaucoup de chaleur. Il est crucial de porter des équipements de protection pour éviter les brûlures et les projections.	
+	
+Q: Qu'est-ce que le lait de chaux ?  
+	G: Une suspension de chaux éteinte dans de l'eau  
+	B: Une solution de chaux vive dissoute dans l'eau  
+	B: Un mélange de chaux et de sable pour le bâtiment  
+	B: Une pâte obtenue en mélangeant de la chaux vive avec peu d'eau  
+	C: Le lait de chaux est une suspension de chaux éteinte (Ca(OH)<sub>2</sub>) dans de l'eau. Il est utilisé pour le badigeon, la désinfection ou le chaulage des sols. Cette préparation nécessite une agitation pour maintenir la suspension homogène.	
+	
+Q: Est-ce que la chaux éteinte se conserve indéfiniment à l'air libre ?  
+	G: Non, elle réagit avec le CO<sub>2</sub> de l'air pour former de la calcite  
+	B: Oui, elle est chimiquement stable à l'air libre  
+	B: Non, elle s’évapore progressivement  
+	B: Oui, à condition de la protéger de l'humidité  
+	C: La chaux éteinte (Ca(OH)<sub>2</sub>) ne se conserve pas indéfiniment à l'air libre. Elle réagit lentement avec le dioxyde de carbone (CO<sub>2</sub>) de l'air pour se transformer en calcite (CaCO<sub>3</sub>), ce qui la rend moins efficace pour ses usages spécifiques.	
+	
+Q: Avec quoi fait-on un mortier à la chaux ?  
+	G: Avec de la chaux, du sable et de l'eau  
+	B: Avec de la chaux, de l'argile et de l'eau  
+	B: Avec de la chaux, du gravier et de l'eau  
+	B: Avec de la chaux, du ciment et de l'eau uniquement  
+	C: Un mortier à la chaux est fabriqué en mélangeant de la chaux (éteinte ou hydraulique), du sable et de l'eau. Le sable apporte la texture et le volume, tandis que la chaux assure la liaison. Selon les besoins, on peut ajuster les proportions pour la résistance ou l’esthétique.	
+	
+Q: Pour quels usages emploie-t-on de la chaux aérienne ?  
+	G: Pour les enduits et les badigeons  
+	B: Pour les ouvrages immergés  
+	B: Pour les fondations en béton armé  
+	B: Pour les mélanges avec des ciments hydrauliques  
+	C: La chaux aérienne est principalement utilisée pour les enduits, les badigeons, et les travaux de finition en bâtiment. Elle offre une bonne perméabilité à la vapeur d'eau et une esthétique adaptée aux travaux traditionnels. Elle durcit lentement par absorption du CO<sub>2</sub> de l'air, ce qui la limite aux environnements secs ou peu humides.	
+	
+Q: Pour quels usages emploie-t-on de la chaux hydraulique ?  
+	G: Pour les ouvrages en milieu humide ou immergé  
+	G: Pour des mortiers utilisables en maçonnerie
+	B: Pour les badigeons décoratifs uniquement  
+	B: Pour les mélanges à base de terre crue  
+	B: Pour les enduits intérieurs en milieu parfaitement sec  
+C: La chaux hydraulique est utilisée pour les ouvrages en milieu humide ou immergé, comme les fondations, les enduits extérieurs, et les travaux en zones exposées à l'eau. Elle durcit grâce à des réactions chimiques entre l'eau et les composés hydrauliques qu'elle contient, ce qui la rend adaptée aux environnements où la chaux aérienne serait inefficace.	

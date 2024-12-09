@@ -1,0 +1,139 @@
+TITLE0: QCM : QCM Matériaux de Carrière
+TITLE1: QCM : Matériaux de Carrière - Auto-évaluation
+TITLE2: Le plâtre
+
+UP: ../fiche01.html
+PREV: qcm06.html
+NEXT: 
+
+NOSHUFFLE
+
+Q: Quelle est la matière première principale du plâtre ?  
+	G: Le gypse  
+	B: La calcite  
+	B: La dolomie  
+	B: L’argile  
+	C: La matière première du plâtre est le gypse (CaSO<sub>4</sub>·2H<sub>2</sub>O), une roche sédimentaire évaporitique. Le plâtre est obtenu en chauffant le gypse pour éliminer une partie de son eau de cristallisation, le transformant en sulfate de calcium hémihydraté (CaSO<sub>4</sub>·1/2H<sub>2</sub>O).
+
+Q: Comment s'appelle le minéral constituant le plâtre ?  
+	G: Le gypse  
+	B: La calcite  
+	B: La dolomie  
+	B: L'anhydrite  
+	C: Le minéral constituant le plâtre s'appelle le gypse. C'est un sulfate de calcium hydraté (CaSO<sub>4</sub>·2H<sub>2</sub>O) qui, une fois chauffé pour éliminer une partie de son eau, devient le plâtre utilisé en construction et en moulage.	
+	
+Q: Quelle est la formule chimique du minéral constitutif du plâtre ?	
+	G: CaSO<sub>4</sub>·2H<sub>2</sub>O  
+	B: CaSO<sub>4</sub>  
+	B: CaCO<sub>3</sub>  
+	B: Ca(OH)<sub>2</sub>  
+	C: Le minéral constitutif du plâtre est le gypse, dont la formule chimique est CaSO<sub>4</sub>·2H<sub>2</sub>O. Il s'agit d'un sulfate de calcium hydraté contenant deux molécules d'eau de cristallisation. Lorsque le gypse est chauffé, il perd une partie de cette eau pour former le plâtre.
+	
+	
+Q: Est-ce que l'on peut extraire de l'anhydrite pour fabriquer du plâtre ?  
+	G: Oui, en la réhydratant
+	B: Non, car l'anhydrite est chimiquement différente  
+	B: Oui, mais seulement si l'anhydrite est mélangée avec de la calcite  
+	B: Non, car l'anhydrite ne contient pas de sulfate de calcium  
+	C: L'anhydrite (CaSO<sub>4</sub>) peut être utilisée pour fabriquer du plâtre, mais elle doit d'abord être réhydratée pour redevenir du gypse (CaSO<sub>4</sub>·2H<sub>2</sub>O). Cette transformation nécessite des conditions spécifiques, car l'anhydrite est la forme anhydre du sulfate de calcium, dépourvue d'eau de cristallisation.
+	
+Q: Selon le Code Minier, dans quelle catégorie est classée une exploitation souterraine qui extrait les ressources nécessaires au plâtre ?  
+	G: Dans la catégorie des carrières  
+	B: Dans la catégorie des mines  
+	B: Dans la catégorie des gisements énergétiques  
+	B: Dans la catégorie des exploitations hydrauliques  
+	C: Selon le Code Minier, une exploitation souterraine qui extrait des ressources comme le gypse, utilisé pour fabriquer le plâtre, est classée dans la catégorie des carrières. Contrairement aux mines, les carrières concernent l'extraction de matériaux de construction ou industriels, tels que les roches et les minéraux non métalliques.
+
+Q: Quel est le taux de récupération d'un exploitation souterraine ?	
+	I: images/e15.png && Exploitation souterraine 
+	B: Environ 60 %  
+	B: Environ 90 %  
+	G: Environ 30 %  
+	B: Environ 100 %  
+	C: Le taux de récupération d'une exploitation souterraine est généralement d'environ 30 %. Ce taux correspond à la proportion de la ressource extraite par rapport à la quantité totale présente. Il est limité par des contraintes de stabilité des galeries et par la nécessité de laisser des piliers pour soutenir le plafond (Source: BRGM).
+	
+Q: En ordre de grandeur, quelle est la production annuelle française de roches nécessaires à la fabrication du plâtre ?	
+	G: Environ 4 millions de tonnes  
+	B: Environ 400 000 tonnes  
+	B: Environ 40 millions de tonnes  
+	B: Environ 400 000 tonnes  
+	C: La production annuelle française de gypse, utilisé pour la fabrication du plâtre, est en ordre de grandeur d'environ 4 millions de tonnes (Chiffre de 2018). Cette quantité reflète l'importance de cette ressource pour l'industrie de la construction et des matériaux finis.
+	
+Q: Est-ce que les réserves actuelles en France permettent d'assurer les besoins futurs en plâtre ?  
+	I: images/e14.png && Les réserves en région parisienne
+	G: Non car les réserves sont limitées par l'occupation des sols  
+	G: Non car les réserves sont limitées par des contraintes environnementales
+	B: Oui car les ressources géologiques sont importantes  grâce à l'étendue des gisements dans le Bassin Parisien
+	B: Oui car les ressources sont faciles à exploiter (gisements tabulaires)
+	B: Non, les réserves sont déjà presque totalement épuisées.  
+	C: En France, Les ressources géologiques en gypse et en anhydrite sont importantes en volume, mais les réserves exploitables sont limitées par des contraintes environnementales, l'urbanisation, et la compétition pour l'usage des sols.	
+	
+Q: Quelles sont les points positifs de l'utilisation du plâtre dans l'habitat ?  
+	G: Il régule l'humidité ambiante
+	G: Il offre une bonne isolation thermique 
+	G: Il offre une bonne isolation phonique.  
+	B: Il est totalement ininflammable et ne dégage jamais de fumées toxiques.  
+	B: Il est plus résistant aux chocs que le béton.  
+	B: Il peut être utilisé comme matériau structurel pour les fondations.  
+	C: Le plâtre est apprécié pour ses propriétés de régulation de l'humidité et son rôle dans l'isolation thermique et phonique, bien qu'il ne soit pas un matériau structurel.	
+	
+Q: Quel est le comportement du plâtre en cas d'incendie ?  
+	G: Il résiste bien
+	B: Il brûle 
+	B: Il fond 
+	B: Il explose 
+	C: Le plâtre contient de l'eau de cristallisation qui, en se libérant et s'évaporant sous l'effet de la chaleur, contribue à ralentir la propagation du feu, ce qui en fait un matériau ignifuge.	
+	
+Q: Dans quelle catégorie de roches sédimentaires va-t-on exploiter la matière première nécessaire à la fabrication du plâtre ?
+	G: Les roches évaporitiques.  
+	B: Les roches carbonatées.  
+	B: Les roches détritiques.  
+	B: Les roches pyroclastiques.  
+	C: Le gypse, utilisé pour fabriquer le plâtre, se forme par évaporation dans des lacs ou des mers fermées, ce qui le classe parmi les roches évaporitiques.
+	
+Q: Quel personnage historique a favorisé l'utilisation du plâtre comme enduit sur le bois en France et à Paris en particulier ?  
+	I: images/e16.jpg && Hôtel de Roquelaure à Paris ayant appartenu aux comtes de Champlâtreux
+	G: Louis XIV après un incendie dévastateur à Londres  
+	B: Napoléon Ier avec le Code Napoléon
+	B: Napoléon III avec les immeubles haussmanniens au XIXe siècle
+	B: François Ier avec la mise en place des premiers règlements d'urbanisme
+	C: À la suite de l’incendie dévastateur de Londres en 1666, Louis XIV ordonna l’interdiction des murs en pan de bois non enduits, rendant l’utilisation du plâtre obligatoire pour limiter les risques d’incendie dans les villes françaises, notamment à Paris (source: BNF)
+	
+Q: Quels sont les risques posés en région parisienne par l'extraction de la ressource nécessaire au plâtre ?	
+	I: images/e17.png &&
+	G: Les affaissements et effondrements de terrain dus à l'exploitation des carrières souterraines.  
+	B: La pollution de l'air causée par l'émission de poussières de gypse.  
+	B: La contamination des nappes phréatiques par infiltration des résidus de gypse.  
+	B: La destruction des zones naturelles protégées sur une grande échelle.  
+	C: En région parisienne, l'exploitation des carrières de gypse, souvent souterraines, a engendré des risques importants d'affaissements et d'effondrements, posant des problèmes de sécurité et d'urbanisme.
+	
+	
+Q: A quelle température est chauffée la matière première extraite ?  
+	G: Environ 150 °C pour éliminer une partie de l'eau de cristallisation 
+	B: Environ 300 °C pour éliminer toute l’eau de cristallisation.  
+	B: Environ 500 °C pour déclencher sa décomposition chimique.  
+	B: Environ 1000 °C pour la rendre complètement amorphe.  
+	C: Le gypse est chauffé à environ 150 °C pour éliminer une partie de son eau de cristallisation, ce qui permet d’obtenir du hémi-hydrate.	
+	
+Q: Comment s'appelle cette cuisson faite dans un four à plâtre ?  
+	I: images/e18.jpg && Un four à plâtre de chez Grelbex Technologies
+	G: La calcination.  
+	B: La vitrification.  
+	B: La carbonatation.  
+	B: La frittage.  
+	C: La cuisson du gypse à environ 150 °C dans un four à plâtre est appelée calcination. Elle permet d’éliminer partiellement l’eau de cristallisation pour obtenir du semi-hydrate.	
+
+Q: Que se passe-t-il dans un four à plâtre ?  
+	G: Le gypse est chauffé pour éliminer partiellement son eau de cristallisation, ce qui le transforme en hémi-hdyrate de sulfate de calcium.  
+	B: Le gypse est fondu pour être moulé sous forme de blocs.  
+	B: Le gypse est mélangé à d'autres minéraux pour créer un matériau composite.  
+	B: Le gypse est refroidi rapidement pour renforcer sa structure cristalline.  
+	C: Dans un four à plâtre, le gypse est chauffé à environ 150 °C pour perdre une partie de son eau de cristallisation. Ce processus, appelé calcination, produit du hémyhydrate de calcium de formule CaSO<sub>4</sub>, 0.5 H<sub>2</sub>O, prêt à être utilisé.	
+	
+Q: Comment s'utilise l'hémihydrate de sulfate de calcium ?  
+	I: images/e19.jpg && Hémi-hydrate de sulfate de calcium
+	G: Il est mélangé à de l'eau pour former une pâte qui durcit en recristallisant en gypse.  
+	B: Il est chauffé à nouveau pour produire du sulfate de calcium anhydre.  
+	B: Il est utilisé directement comme poudre sèche dans les constructions.  
+	B: Il est dissous dans des solvants chimiques pour fabriquer des adhésifs.  
+	C: L’hémihydrate de sulfate de calcium, connu sous le nom de plâtre, est mélangé à de l’eau pour former une pâte. Celle-ci durcit en recristallisant en gypse, ce qui en fait un matériau idéal pour les enduits et les moulages.	

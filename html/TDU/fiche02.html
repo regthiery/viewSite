@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPS et mouvements tectoniques</title>
+    <link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+
+<!-- Boutons de navigation en haut de la page -->
+<div class="nav-buttons">
+    <a href="page01.html" class="nav-button" >Retour</a>
+    <a href="" class="nav-button" disabled>Page précédente</a>
+    <a href="" class="nav-button" disabled>Page suivante</a>
+</div>
+
+<div class="fiche-container">
+    <!-- Titre et illustration -->
+    <div class="header">
+        <h1>GPS et mouvements tectoniques</h1>
+        <img src="Images/pict02.webp" alt="Illustration sur GPS et mouvements tectoniques" class="fiche-illustration">
+    </div>
+
+    <!-- Informations principales -->
+    <div class="info-section">
+        <p><strong>Niveau :</strong> 1ère année</p>
+        <p><strong>Durée :</strong> 10 heures</p>
+    </div>
+
+    <!-- Sommaire descriptif -->
+    <div class="sommaire">
+        <h2>Sommaire</h2>
+        <p><p>Ce cours de géodésie spatiale explore les fondements du **Système de Positionnement Global** (GPS), une technologie indispensable dans l’étude des mouvements terrestres. Basé sur des principes de trilatération, le GPS permet de déterminer avec précision la position d’un point en calculant la distance entre un récepteur au sol et plusieurs satellites. Cette mesure repose sur le temps que mettent les signaux radioélectriques à parcourir la distance entre le satellite et le récepteur. La précision du système GPS dépend donc d'une bonne compréhension des phénomènes relativistes : en effet, le temps écoulé diffère légèrement pour les satellites en orbite et les récepteurs situés à la surface de la Terre en raison des effets de la relativité restreinte et générale. Ces corrections relativistes sont cruciales pour garantir l’exactitude des mesures de distance et, par conséquent, de positionnement. </p><p>La partie pratique de ce cours propose deux études de cas concrètes pour illustrer l’utilisation du GPS dans l’analyse des déformations tectoniques et la surveillance sismique.</p><p>Dans le premier exemple, nous analysons les déplacements tectoniques en **Islande**, un territoire unique où la dorsale médio-atlantique divise la péninsule en deux plaques. À partir de mesures GPS recueillies sur deux stations situées de part et d’autre de la ride, nous calculons et comparons les vitesses de déplacement. Ces données révèlent la divergence des plaques et fournissent des informations précieuses sur le taux d’ouverture de la dorsale, illustrant ainsi la dynamique des plaques en temps réel.</p><p>Le second exemple nous mène en **Californie**, le long de la faille de San Andreas, l’une des zones tectoniques les plus actives du monde. En analysant les données GPS locales, nous identifions les mouvements relatifs des plaques Pacifique et Nord-Américaine, ce qui nous permet de comprendre la géométrie complexe de cette faille transformante. Ces mesures jouent un rôle essentiel dans l’évaluation du risque sismique en Californie, car elles offrent des indications précieuses sur la manière dont les contraintes tectoniques s’accumulent et se libèrent dans cette région à haut risque.</p><p>Ces deux applications démontrent la puissance des données GPS en géodésie spatiale pour surveiller les mouvements de la croûte terrestre, contribuant ainsi à une meilleure compréhension des mécanismes tectoniques et à la gestion des risques associés.</p></p>
+    </div>
+
+<h2 class='ficheItem'> Accéder aux documents PDF </h2>
+	    <div class="resources">
+    	    <a href="https://drive.google.com/file/d/14ru7PX8HQGL4UVHknXDVGxPMklpo1GNy/view?usp=sharing" class="resource-link" target="_blank"> GPS et mouvements tectoniques</a>
+	    </div>    
+</div>
+
+<!-- Bas de page -->
+<footer class="footer">
+    <p><strong>RocksandWalk</strong> &copy; <span id="current-year"></span> | Régis THIÉRY</p>
+</footer>
+
+<script>
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>

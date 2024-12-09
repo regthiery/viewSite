@@ -1,0 +1,210 @@
+TITLE0: QCM : QCM Formations de Versant
+TITLE1: QCM : Les formations de versant - Auto-évaluation
+TITLE2: Roches et Gravité: ça remue !
+
+UP: ../fiche04.html
+PREV: qcm02.html
+NEXT: qcm04.html
+
+NOSHUFFLE
+
+V: videos/d7.mp4
+
+Q: De quel torrent, qui alimente l'un des plus grands cônes de déjection de France,  est-il question dans cette vidéo ? 
+	G: Du torrent de Manival
+	B: Du torrent de Minerval
+	B: Du torrent de Narval
+	B: Du torrent de Roseval
+	C: Le torrent de Manival, situé dans le massif de la Chartreuse en Isère, est connu pour son cône de déjection spectaculaire, formé par l'accumulation de matériaux charriés lors de crues torrentielles.
+
+Q: Quelle est la quantité de matériaux qui a été retirée du chenal torrentiel de Manival en 25 ans ? 
+	G: 50 000 m<sup>3</sup> de matériaux.
+	B: 5 000 m<sup>3</sup> de matériaux.
+	B: 500 000 m<sup>3</sup> de matériaux.
+	B: 500 m<sup>3</sup> de matériaux.
+	C: Environ 50 000 m³ de matériaux ont été retirés du chenal torrentiel de Manival en 25 ans, témoignant de l'importance de l'entretien pour prévenir les risques d'inondation et de débordement dans cette zone sujette aux crues torrentielles.
+
+Q: Où se trouve le torrent du Manival ? 
+	I: images/d10.png &&
+	I: images/g02.png &&
+	G: Sur le flanc Est du Massif de la Chartreuse, au Nord de Grenoble.
+	B: Sur le flanc Ouest du Massif de la Chartreuse
+	B: Au Nord du Massif du Vercors
+	B: Sur le flanc ouest du Massif de Taillefer
+	C: Le torrent du Manival se situe dans le Massif de la Chartreuse, sur son flanc Est, et au Nord de Grenoble
+
+
+Q: Quelles sont les dimensions du cône de déjection de Manival ? 
+	I: images/d8.png &&
+	I: images/g04.png &&
+	I: images/g05.png &&
+	B: Un dénivelé entre le haut et le bas de la zone d'accumulation des dépôts de l'ordre de 1000 m.
+	G: Un dénivelé entre le haut et le bas de la zone d'accumulation des dépôts de l'ordre de 500 m.
+	B: Un cône de déjection couvrant une zone de 10 km<sup>2</sup>.
+	G: Un cône de déjection couvrant une zone de 4 km<sup>2</sup>.
+	C: Le cône de déjection de Manival est caractérisé par un dénivelé de 500 m entre le haut de la zone d'accumulation (point côté autour de 800 m) et le bas de la zone d'accumulation (point côté autour de 300 m), et il s'étend sur une surface d'environ 4 km², faisant de lui l'un des plus grands cônes torrentiels en France.
+
+
+Q: Le Manival fait partie des torrents à <em>clappes</em>. Que signifie cette expression ? 
+	G: Torrent à cailloux
+	B: Torrent intermittent
+	B: Torrent méchant
+	B: Torrent gentil
+	C: Les torrents à clappes transportent principalement des matériaux rocheux et des cailloux, souvent d'importantes quantités lors des crues.
+
+Q: Dans un système torrentiel, comment s'appelle la partie en altitude, constituée de matériaux érodables et soumise à une érosion intense ? 
+	I: images/g03.png &&
+	G: Un bassin de réception
+	B: Un bassin d'érosion
+	B: Un ombilic
+	B: Un gouffre 
+	C: Le bassin de réception est la zone où l'eau et les matériaux issus de l'érosion se rassemblent avant d'être transportés dans le chenal torrentiel.
+
+Q: Quels sont les phénomènes les plus dangereux produit par un torrent comme le torrent de Manival ? 
+	G: Des laves torrentielles
+	B: Des écoulements torrentiels
+	B: Des déferlantes torrentielles
+	B: Des nuées torrentielles
+	C: Les laves torrentielles sont des coulées d'eau, d'argiles et de débris, souvent soudaines et extrêmement destructrices, pouvant emporter tout sur leur passage.
+
+Q:  Quelle est la proportion d'eau dans ces laves torrentielles ? 
+	G: 20 à 50 % d'eau
+	B: 70 à 80 % d'eau
+	B: 10 à 20 % d'eau
+	B: 5 à 30% d'eau
+	C: Les laves torrentielles sont des mélanges de matériaux solides et d'eau, où la proportion d'eau (20 à 50 %) permet une fluidité suffisante pour générer des coulées rapides et destructrices. Les laves torrentielles contiennent donc 50 à 80% de matériaux.
+
+Q:  Une lave torrentielle est un phénomène 
+	G: qui se caractérise par des bouffées se succédant les unes après les autres.
+	B: lent et continu, sans bouffées.
+	B: qui se caractérise par un écoulement continu de matériaux boueux et homogènes
+	G: qui parfois, peut se manifester par une seule bouffée.
+	C: Les laves torrentielles sont souvent irrégulières, alternant entre des bouffées puissantes et de courtes pauses. Elles résultent d'un mélange de matériaux hétérogènes et d'eau, dévalant les pentes à grande vitesse.
+
+Q:  Par quel mécanisme (autre que les laves torrentielles), un torrent comme le torrent de Manival, transporte des matériaux vers le bas ? 
+	G: Le charriage	
+	B: Le soutirage
+	B: L'épierrage
+	G: La suspension
+	C: Un torrent transporte des matériaux par charriage (roulement ou glissement des blocs sur le fond) et par suspension (les particules fines sont entraînées dans l'eau en mouvement). Ces mécanismes sont complémentaires et dépendent de la taille des matériaux et de la vitesse de l'eau.
+
+Q:  Comment reconnaît-on les dépôts des charriage ? 
+	G: Ce sont des dépôts plus homogènes granulométriquement, avec un spectre granulométrique couvrant les limons, sables, graviers et les cailloux.
+	B: Ce sont des dépôts très hétérométriques et mal classés.
+	B: Ce sont des dépôts qui deviennent très cohésifs après le ressuyage.
+	B: Ce sont des dépôts qui peuvent renfermer des blocs de plusieurs dizaines de kg et plus.
+	C: Les dépôts de charriage sont plus homogènes en taille, avec une bonne répartition des matériaux, allant des plus fins (limons et sables) aux plus gros (graviers et cailloux), contrairement à d'autres types de dépôts plus hétérogènes.
+
+
+Q:  Comment reconnaît-on les dépôts de laves torrentielles des torrents ? 
+	B: Ce sont des dépôts plus homogènes granulométriquement, avec un spectre granulométrique couvrant les limons, sables, graviers et les cailloux.
+	G: Ce sont des dépôts très hétérométriques et mal classés.
+	G: Ce sont des dépôts qui deviennent très cohésifs après le ressuyage.
+	G: Ce sont des dépôts qui possèdent une matrice argileuse.
+	G: Ce sont des dépôts qui peuvent renfermer des blocs de plusieurs dizaines de kg et plus.
+	C: Les dépôts de laves torrentielles sont caractérisés par une grande hétérogénéité, incluant des matériaux de tailles variées, une matrice argileuse, et souvent une cohésion accrue après dessiccation, avec des blocs lourds et volumineux présents dans les couches.	
+
+
+Q: Quelle est la nature des roches érodées en altitude dans la zone d'alimentation du torrent de Manival ?
+	G: Des marnes et des marno-calcaires
+	B: Des micaschistes
+	B: Des schistes
+	B: Des dolomies
+	C: Les marnes et marno-calcaires, présentes dans la zone d'alimentation du torrent de Manival, sont des roches tendres, facilement érodables, qui contribuent à l'alimentation en matériaux fins et argileux du torrent.
+	
+Q: Quels types de dépôts de formations superficielles trouve-t-on dans le bassin d'érosion en altitude du torrent du Manival ?
+	G: Des cônes d'éboulis
+	B: Des grèzes litées
+	B: Des moraines
+	B: Des cônes de déjection	
+	C: Les cônes d’éboulis se forment par accumulation de matériaux grossiers, comme des blocs et graviers, issus de l’érosion mécanique des versants. Ils sont caractéristiques des zones en altitude, où la gravité transporte les débris en bas des pentes.
+	
+Q: Quelle est la différence entre une crue torrentielle et une lave torrentielle ?
+	G: Une crue torrentielle est un écoulement rapide d'eau, transportant des sédiments en suspension ou par charriage.  
+	G: Une lave torrentielle est un mélange dense de matériaux solides (blocs, graviers, limons) et d'eau, se comportant comme un fluide visqueux.  
+	B: Une crue torrentielle transporte toujours des blocs de grande taille, contrairement à une lave torrentielle.  
+	B: Une lave torrentielle est un phénomène exclusivement lié aux torrents alpins, alors que les crues torrentielles se produisent partout.  
+	C: Une crue torrentielle est dominée par le transport d’eau et de sédiments, tandis qu'une lave torrentielle est un mélange solide-liquide très dense, capable de déplacer de gros blocs et causant des dépôts mal classés.	
+
+Q: À quoi reconnait-on des dépôts de front de lave torrentielle ?
+	G: Ce sont des dépôts en amas, très hétérométriques, contenant des blocs de grande taille
+	G: Ces dépôts présentent une structure chaotique, sans stratification marquée.  
+	B: Ce sont des dépôts bien triés avec une granulométrie homogène.  
+	B: Ces dépôts sont toujours composés exclusivement de fines particules argileuses.  
+	C: Les dépôts de front de lave torrentielle se caractérisent par un amoncellement de blocs grossiers, mal classés, avec une absence de tri granulométrique.
+	
+Q: Quels dépôts sont les plus cohésifs ?	
+	G: Les dépôts de laves torrentielles.  
+	B: Les dépôts de charriage.  
+	C: Les dépôts de laves torrentielles sont très cohésifs en raison de leur matrice fine, souvent argileuse, qui durcit après ressuyage et qui lie les particules ensemble une fois le dépôt sec et compacté.	
+
+Q:  Pourquoi les habitants ont été attirés dans le passé par les terres des cônes de déjection comme le torrent de Manival ? 
+	G: C'étaient des terres fertiles, au-dessus des terres marécageuses de la vallée de l'Isère.
+	G: C'étaient des terres propices à la culture de la vigne.	
+	B: C'étaient des terres riches en bonnes pierres de construction.
+	B: Parce que ces terres sont très stables et sûres.
+	B: Parce que ces terres sont idéales pour l'urbanisation et la construction de maisons.
+	B: Parce que ces terres sont riches en minéraux précieux.
+	C: Les cônes de déjection sont formés de matériaux transportés par les torrents, ce qui donne un sol fertile, idéal pour les cultures, notamment la vigne, et propice à l'agriculture en général.
+
+Q:  Comment les habitants près d'un cône de déjection comme celui du torrent de Manival luttent pour limiter les problèmes ? 
+	G: Construire une digue de plus de deux mètres de haut
+	G: Construire des petits barrages transversaux et des seuils en pierre sèche 
+	pour casser l'énergie
+	des laves torrentielles et des écoulements torrentiels.
+	B: Engazonner les terres d'altitude pour limiter les effets du ruissellement.
+	B: Poser un géotextile au fond du chenal.
+	C: Les barrages et seuils en pierre sèche permettent de réduire la vitesse et l'énergie des écoulements torrentiels, réduisant ainsi les risques de laves torrentielles et d'érosion.	
+
+
+Q:  Comment traduire "laves torrentielles" en anglais ? 
+	G: Debris flow
+	B: Mud flow
+	B: Rockslide	
+	B: Landslide
+	C: "Debris flow" est le terme utilisé pour décrire un écoulement rapide de matériaux solides (comme des graviers, des cailloux, et de la boue), similaire aux laves torrentielles.
+
+
+Q:  Quel a été l'impact de l'homme sur les terrains de montagne dans le passé ? 
+	V: videos/d9.mp4
+	G: Au XIXe siècle, beaucoup de montagnes étaient dénudées, en raison de la déforestation intensive opérée au XVI-XVIIIe siècle.
+	G: Au XVIe-XIXe siècle, il fallait produire du bois de chauffe pour les habitants, ainsi que fournir du bois aux manufactures, à la marine, etc.
+	G: C'est l'essor du charbon qui a sauvé les forêts françaises au XIXe siècle.
+	B: Lors des périodes historiques, les forêts ont toujours été préservées en montagne.
+	C: La déforestation a eu des conséquences sur la stabilité des terrains, augmentant le risque d'érosion et de glissements de terrain.
+
+Q:  Est-ce que la politique de reforestation des terrains en montagne allait toujours de soi au XIXe siècle ? 
+	G: Non, il y avait de fortes oppositions des habitants de la montagne et du "lobby" agro-pastoral.	
+	B: Oui, car tout le monde était convaincu du bien-fondé de cette politique pour prévenir les dégâts dans les grandes villes (Lyon, ...).
+	C: La reforestation a finalement été perçue comme essentielle pour prévenir l'érosion et maintenir la stabilité des terrains.		
+
+Q:  Est-ce que les aménagements (seuils en pierre sèche, reforestation) réalisés au début du XIXe siècle résistent bien au cours du temps ? 
+	G: Non, il faut toujours surveiller et réparer les ouvrages.
+	B: Oui, les ouvrages résistent bien.
+	C: Il faut toujours surveiller et entretenir.
+
+Q: Quel est l'impact d'un défaut d'entretien ?  
+	G: Un défaut d'entretien des infrastructures de protection contre les risques naturels, comme les seuils en pierre sèche ou les systèmes de drainage, peut entraîner leur dégradation, réduisant ainsi leur efficacité
+	G: Cela peut aussi mener à des érosions ou des obstructions dans les systèmes de drainage, ce qui augmente le risque d'inondations, de glissements de terrain ou d'autres phénomènes naturels dangereux
+	G: En montagne, un mauvais entretien des aménagements peut entraîner une augmentation de la vulnérabilité des biens et des personnes dans la vallée
+	B: Un défaut d'entretien n'a pas d'impact significatif, car ces structures sont conçues pour être autonomes et ne nécessitent pas d'entretien.  
+	C: Le défaut d'entretien peut non seulement compromettre la sécurité des populations, mais aussi engendrer des coûts de réparation importants et des dommages environnementaux à long terme.
+	
+Q: Quels sont les avantages des barrages transversaux en pierre sèche ?
+	G: Ils permettent de réutiliser les grosses pierres à proximité
+	G: Ils permettent de stabiliser les talus latéraux 
+	G: Ils permettent de prévenir les éboulements latéraux
+	G: Ils permettent d'engazonner les talus
+	G: Ils "cassent" l'énergie du courant
+	B: Ils permettent d'accélérer le débit des torrents.
+	B: Ils permettent de remplacer complètement les digues en béton armé.
+	B: Ils empêchent totalement les laves torrentielles de se produire.
+	C: Les barrages transversaux en pierre sèche sont une méthode efficace et écologique, car ils utilisent les matériaux disponibles sur place. Ils stabilisent les pentes latérales en limitant leur érosion et en favorisant leur végétalisation, tout en réduisant l'énergie des écoulements dans le chenal.		
+	
+Q: Est-ce que la population locale est consciente du danger du torrent du Manival et de la nécessité de ces travaux de protection ?  
+	B: Oui, car l'histoire locale est marquée par des épisodes destructeurs liés au torrent.  
+	B: Oui, les travaux de protection sont perçus comme essentiels pour limiter les risques.  
+	G: Non, la population considère que le torrent ne représente aucun danger.  
+	G: Non, ces travaux sont souvent jugés inutiles et coûteux.  
+	G: Non, car la mémoire humaine est courte.  
+	C: Bien que certains habitants soient conscients des risques liés au torrent et de l'importance des travaux, d'autres sous-estiment ces dangers, influencés par une mémoire collective parfois limitée et court-termiste.

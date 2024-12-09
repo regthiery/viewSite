@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QCM : QCM Formations karstiques</title>
+    <link rel="stylesheet" href="../../../css/styleqcm1.css">
+</head>
+<body>
+
+<div class="nav-buttons">
+    <a href="../fiche06.html"   class="nav-button"  >Retour</a>
+    <a href="" class="nav-button"  disabled>Page précédente</a>
+    <a href="" class="nav-button"  disabled>Page suivante</a>
+</div>
+
+<div class="container">
+    <h1>QCM : Les formations karstiques - Auto-évaluation</h1>
+    <h2>De l'eau et du calcaire !</h2>
+    <form id="qcm-form">
+        <div class="question-box" id="q1-box">
+            <div class="question">1. Qu'est-ce qu'un karst ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/g03.jpg" alt="Image pour la question 1" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="A"> A) C'est une forme de relief, se développant en région à substrat carbonaté, et caractérisé par un ensemble de formes de dissolution en surface et en sous-sol. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="C"> B) C'est une forme d'altérite en pays à substrat carbonaté avec accumulation de gélifracts produit par une cryoclastie intense en contexte périglaciaire. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="B"> C) C'est un type de sol, peu épais et caillouteux, se formant en pays calcaire. </label>
+                <label><input type="radio" class="checkbox-margin" name="q1" value="D"> D) C'est un modelé caractéristique produit par l'érosion glaciaire en pays calcaire, se caractérisant par le développement de barres rocheuses autour de grandes dépressions. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Un karst se développe sur des roches solubles, principalement les calcaires et dolomies. Sous l'effet de l'eau riche en CO₂, ces roches subissent une dissolution chimique qui façonne des paysages uniques, comprenant des dolines, lapiés, avens et galeries souterraines. Ce processus donne naissance à un relief distinctif en surface et à des réseaux souterrains complexes.</p>
+		</div>
+        <div class="question-box" id="q2-box">
+            <div class="question">2. Quel est le processus majeur responsable de la formation des karsts ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="A"> A) L'action des eaux, dissolution et reprécipitation, sur des roches relativement solubles. </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="C"> B) La tectonisation intense de roches compétentes, se traduisant par l'effondrement de conduits, galeries et cavités souterraines. </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="B"> C) L'enlèvement, l'entraînement et le dépôt de matières solides par un écoulement d'eau de surface ou d'eau souterraine de forte énergie. </label>
+                <label><input type="radio" class="checkbox-margin" name="q2" value="D"> D) L'action d'une faune cavernicole creusant tout un réseau de galeries souterraines. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les karsts se forment principalement par la dissolution chimique de roches solubles comme le calcaire ou la dolomie, sous l'action de l'eau contenant du dioxyde de carbone (CO₂). Ce processus crée des paysages caractéristiques en surface (dolines, lapiés) et des réseaux de cavités souterraines (grottes, avens).</p>
+		</div>
+        <div class="question-box" id="q3-box">
+            <div class="question">3. Quel est l'origine du terme <em> karst </em> ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/g04.jpg" alt="Image pour la question 3" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="C"> A) D'un mot anglais désignant une région d'Ecosse, entre le Great Glen et les Monts Grampians. </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="B"> B) D'un mot islandais désignant un pays au sud de l'Islande, entre le Vatnafjöll et le Katla. </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="D"> C) D'un mot néerlandais désignant une ancienne colonie des Antilles Néerlandaises (île de Saint-Eustache). </label>
+                <label><input type="radio" class="checkbox-margin" name="q3" value="A"> D) D'un mot allemand désignant une région des Balkans, à cheval sur la Slovénie et la Croatie. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le terme karst provient de la région du Kras (ou Karst en allemand), située dans les Balkans, entre la Slovénie et la Croatie. Cette région, connue pour ses paysages calcaires, a donné son nom aux formations et processus géologiques associés.</p>
+		</div>
+        <div class="question-box" id="q4-box">
+            <div class="question">4. Qu'est-ce qu'un pseudokarst pour les spécialistes ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/g05.jpg" alt="Image pour la question 4" onclick="openModal(this);">
+				<p class="image-caption">Pseudokarst à Madagascar</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="D"> A) C'est un karst remanié par des processus ultérieurs (érosion glaciaire ou autre) qui en ont modifié les caractères initiaux. </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="C"> B) C'est un type de karst, non visible en surface, car masqué par des dépôts plus récents. </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="B"> C) C'est un karst développé en climat subaride ou aride </label>
+                <label><input type="radio" class="checkbox-margin" name="q4" value="A"> D) Un modelé analogue au karst, mais se développant dans des roches salines (halite, gypse, anhydrite), voire même dans des roches comme les granites. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le pseudokarst désigne des formations géologiques similaires au karst mais se formant dans des roches autres que les calcaires, comme les évaporites (gypses, etc), qui subissent également des processus de dissolution.</p>
+		</div>
+        <div class="question-box" id="q5-box">
+            <div class="question">5. Ci-dessous un extrait d'un rapport du BRGM sur les cavités souterraines dans les Hautes-Alpes. Pourquoi parle-t-on de <em>formes pseudo-karstiques</em>, et non de <em> formes karstiques </em> pour ces grottes, cavités et fissures élargies ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/b06.png" alt="Image pour la question 5" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class="image-container">
+				<img class="question-image" src="images/b05.png" alt="Image pour la question 5" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q5" value="A"> A) Parce que les roches impliquées ne sont pas des roches carbonatées. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q5" value="B"> B) Parce que les massifs de la zone interne alpine sont constitués de roches granitiques ou autres roches à priori non-karstifiables. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q5" value="C"> C) Parce que ces formes se sont développées sans intervention de l'eau, même si elles ressemblent aux formes karstiques. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q5" value="D"> D) Parce que la karstification est inopérante en haute-montagne. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les formes pseudo-karstiques désignent des cavités ou fissures élargies qui ressemblent à des formes karstiques classiques, mais qui se forment dans des roches non solubles (comme les granites). Ces formes résultent de processus différents, comme la désagrégation mécanique ou chimique spécifique à ces lithologies.</p>
+		</div>
+        <div class="question-box" id="q6-box">
+            <div class="question">6. Qu'est-ce qu'on appelle un poljé ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/b00.jpg" alt="Image pour la question 6" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="D"> A) un étang en pays karstique </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="C"> B) un système de culture céréalière en pays karstique </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="A"> C) une plaine en pays karstique </label>
+                <label><input type="radio" class="checkbox-margin" name="q6" value="B"> D) une prairie humide permanente en pays karstique </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Un poljé est une grande plaine fermée typique des paysages karstiques. Il est entouré de reliefs et souvent drainé par des pertes ou ponors qui évacuent les eaux en sous-sol, ce qui le distingue des plaines alluviales classiques.</p>
+		</div>
+        <div class="question-box" id="q7-box">
+            <div class="question">7. Il existe un site remarquable en Slovénie, qui s'appelle le lac de Cernika. Ce lac, d'environ 10 km de long et 5 km de large, disparaît l'été. Dans quelle structure géologique caractéristique de pays karstique se trouve le lac Cernika ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/b01.jpg" alt="Image pour la question 7" onclick="openModal(this);">
+				<p class="image-caption">en hiver</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class="image-container">
+				<img class="question-image" src="images/b02.jpg" alt="Image pour la question 7" onclick="openModal(this);">
+				<p class="image-caption">en été</p>
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="B"> A) Un ponor </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="A"> B) Un poljé </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="C"> C) Un polnor </label>
+                <label><input type="radio" class="checkbox-margin" name="q7" value="D"> D) Un ponjé </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le lac de Cernika se situe dans un poljé, une vaste plaine caractéristique des régions karstiques. En hiver et au printemps, les eaux s'accumulent pour former un lac temporaire, tandis qu'en été, elles s'infiltrent dans des pertes (ponors), laissant la plaine sèche et exploitable pour des activités agricoles.</p>
+		</div>
+        <div class="question-box" id="q8-box">
+            <div class="question">8. Les paysage de la baie d'Halong (ou baie d'Along) au Vietnam sont renommés pour leur beauté. Comment désigne-t'on ce type de karst tropical ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/b03.jpg" alt="Image pour la question 8" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="C"> A) Un karst à pointes </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="B"> B) Un karst à pics </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="A"> C) Un karst à tourelles </label>
+                <label><input type="radio" class="checkbox-margin" name="q8" value="D"> D) Un karst à pitons </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La baie d'Halong est un exemple emblématique de karst à tourelles. Ce type de relief tropical se caractérise par des formations calcaires abruptes et isolées, qui émergent au-dessus de plaines ou de plans d'eau, évoquant des tourelles naturelles. Ces formes sont dues à l'érosion différentielle intense en climat chaud et humide.</p>
+		</div>
+        <div class="question-box" id="q9-box">
+            <div class="question">9. Qu'est-ce qui caractérise l'écoulement des eaux dans un karst ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="A"> A) Il y a peu de ruissellement et d'écoulement de surface (à part dans les canyons). </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="C"> B) L'écoulement se répartit à part égales entre écoulement de surface et écoulement souterrain. </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="D"> C) Il y a peu d'écoulement de surface ou en profondeur, les karsts étant connus pour leur aridité.	 </label>
+                <label><input type="radio" class="checkbox-margin" name="q9" value="B"> D) L'écoulement se fait essentiellement en surface, les roches calcaires étant imperméables. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les terrains karstiques sont particulièrement propices aux écoulements souterrains, car les fissures et cavités naturelles favorisent l'infiltration rapide de l'eau. Ainsi, le ruissellement en surface est limité, sauf dans des reliefs marqués comme les canyons.</p>
+		</div>
+        <div class="question-box" id="q10-box">
+            <div class="question">10. Quelle est l'influence de la température sur la solubilité du carbonate de calcium dans la gamme de températures naturelles ?</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q10" value="A"> A) Le carbonate de calcium est plus soluble dans une eau froide que dans une eau chaude. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q10" value="D"> B) La température a bien une influence, mais c'est plus compliqué que cela.	 </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q10" value="C"> C) La température n'a pas d'effet sur la solubilité du carbonate de calcium. </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q10" value="B"> D) Le carbonate de calcium est plus soluble dans une eau chaude que dans une eau froide. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La solubilité du carbonate de calcium diminue avec l'augmentation de la température dans des eaux naturelles. </p>
+		</div>
+        <div class="question-box" id="q11-box">
+            <div class="question">11. Quel est l'effet de la température sur la solubilité du CO<sub>2</sub> dans l'eau dans les conditions ambiantes de surface ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="D"> A) La solubilité du CO<sub>2</sub> augmente, puis diminue avec la température. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="A"> B) La solubilité du CO<sub>2</sub> diminue avec la température. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="C"> C) La solubilité du CO<sub>2</sub> est indépendante de la température. </label>
+                <label><input type="radio" class="checkbox-margin" name="q11" value="B"> D) La solubilité du CO<sub>2</sub> augmente avec la température. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La solubilité des gaz comme le CO<sub>2</sub> dans l'eau diminue à mesure que la température augmente, car l'énergie thermique détruit le réseau de liaisons hydrogène dans les solutions aqueuses. <img class="question-image" src="images/g02.png"></p>
+		</div>
+        <div class="question-box" id="q12-box">
+            <div class="question">12. Comment s'appelle l'entonnoir qui se forme à la surface d'un plateau karstique ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/g06.jpg" alt="Image pour la question 12" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="A"> A) Un aven </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="C"> B) Un avin </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="B"> C) Un oven </label>
+                <label><input type="radio" class="checkbox-margin" name="q12" value="D"> D) Un ovin </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Un aven est une dépression naturelle en forme d'entonnoir qui se développe sur un plateau karstique, souvent par effondrement ou dissolution des calcaires.</p>
+		</div>
+        <div class="question-box" id="q13-box">
+            <div class="question">13. Comment s'appellent les ciselures ou rainures larges qui se forment à la surface des roches calcaires ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/g00.jpg" alt="Image pour la question 13" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="B"> A) Des lapias </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="E"> B) Des malopiés </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="C"> C) Des bopiés </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="D"> D) Des vanupiés </label>
+                <label><input type="radio" class="checkbox-margin" name="q13" value="A"> E) Des lapiés </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Les lapiés sont des formations caractéristiques des terrains calcaires, où l'érosion chimique, due à l'eau légèrement acide, creuse des rainures, fissures ou ciselures à leur surface. Un lapiaz désigne les surfaces lapiézées.</p>
+		</div>
+        <div class="question-box" id="q14-box">
+            <div class="question">14. Entre une roche calcaire affleurante et la même roche sous sol et couverture végétale, dans quel cas, la dissolution des carbonates est-elle plus intense ? </div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="C"> A) La dissolution est identique dans les deux cas. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="B"> B) La dissolution est plus forte lorsque la roche affleure à nu. </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="D"> C) Il n'y a pas de dissolution de la roche </label>
+                <label><input type="radio" class="checkbox-margin" name="q14" value="A"> D) La dissolution est plus forte lorsque la roche est recouverte par de la terre végétale. </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La dissolution des carbonates est plus intense sous une couverture de terre végétale, car cette dernière favorise la production de dioxyde de carbone (CO<sub>2</sub>) par l'activité biologique. Ce CO<sub>2</sub> réagit avec l'eau pour former de l'acide carbonique, ce qui intensifie le processus de dissolution chimique des carbonates.</p>
+		</div>
+        <div class="question-box" id="q15-box">
+            <div class="question">15. Ci-dessous un bloc-diagramme schématique d'un massif karstique. La vallée A a un profil en V, tandis que la vallée B a un profil en U (ou en auge).  Comment expliquer cette différence de morphologie entre ces deux vallées voisines ? </div>
+			<div class="image-container">
+				<img class="question-image" src="images/b04.png" alt="Image pour la question 15" onclick="openModal(this);">
+			</div>
+			<div id="imageModal" class="modal">
+			    <span class="close" onclick="closeModal()">&times;</span>
+			    <img class="modal-content" id="modalImage">
+			</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="C"> A) C'est parce que la vallée A est un ubac et que la vallée B est un adret </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="B"> B) C'est à cause de l'action des glaciers. La vallée B est une ancienne vallée glaciaire </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="D"> C) Cela ne peut s'expliquer que par des phénomènes tectoniques </label>
+                <label><input type="radio" class="checkbox-margin" name="q15" value="A"> D) C'est à cause des couches marneuses </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Le cours d'eau en B a creusé plus profondément son lit et a entaillé les couches marneuses. Le ruissellement, la solifluxion et glissements de terrain dans les marnes mettent en porte-à-faux les calcaires, qui s'écroulent en laissant des pentes raides. La vallée devient en même temps plus large. Au contraire, dans la vallée A, le cours d'eau n'a pas atteint les marnes. </p>
+		</div>
+        <div class="question-box" id="q16-box">
+            <div class="question">16. Quelle réaction chimique contrôle la formation d'un karst ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="B"> A) CaCO₃ + O₂ = CaO + CO₂ </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="D"> B) CaCO₃ + H₂O = Ca(HCO₃)₂ </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="A"> C) CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> = Ca<sup>2+</sup> + 2 HCO<sub>3</sub><sup>-</sup> </label>
+                <label><input type="radio" class="checkbox-margin" name="q16" value="C"> D) CaCO₃ + H₂O = Ca(OH)₂ + CO₂ </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> Cette réaction, CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> = Ca<sup>2+</sup> + 2 HCO<sub>3</sub><sup>-</sup>, est la principale réaction chimique dans la formation du karst. Elle se produit lorsque l'eau acide (due au CO₂ dissous) attaque les roches calcaires, entraînant la formation d'une solution d'hydrogéno-carbonate  de calcium, qui est la forme soluble du carbonate de calcium.</p>
+		</div>
+        <div class="question-box" id="q17-box">
+            <div class="question">17. Quelle est la grande particularité de la réaction de dissolution du calcaire dans une solution aqueuse ?</div>
+			<div class='options'>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="C"> A) La dissolution ne dépend pas de la quantité de gaz carbonique dans le milieu </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="A"> B) La dissolution est favorisée dans les milieux riches en gaz carbonique </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="D"> C) La dissolution est du type : solide + H<sub>2</sub>O = solide-OH + H<sup>+</sup> </label>
+                <label><input type="radio" class="checkbox-margin" name="q17" value="B"> D) La dissolution est empêchée dans les milieux riches en gaz carbonique </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> La présence de CO₂ favorise la dissolution du calcaire. C'est une conséquence du principe de modération, ou principe de Le Chatelier, qui précise que l'augmentation de la quantité d'un réactant (ici, CO<sub>2</sub>), déplace la réaction CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> = Ca<sup>2+</sup> + 2 HCO<sub>3</sub><sup>-</sup> de la gauche vers la droite, c'est-à-dire dans le sens d'une dissolution du carbonate de calcium.</p>
+		</div>
+        <div class="question-box" id="q18-box">
+            <div class="question">18. Quelles sont les conditions pour qu'un karst se développe ?</div>
+			<div class='options'>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="A"> A) Du calcaire </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="C"> B) De l'air </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="B"> C) De l'eau liquide </label>
+                <label><input type="checkbox" class="checkbox-margin" name="q18" value="D"> D) Des oxydes de fer </label>
+			</div>
+			<p class='feedback' style='display:none;'></p>
+			<p class='correct-answer' style='display:none;'></p>
+			<p class='comment' style='display:none;'><strong>Commentaire:</strong> POur que se développe un karst, il faut que le massif calcaire soit situé en altitude, émergé et au-dessus du niveau de base des eaux</p>
+		</div>
+
+        <div class="buttons">
+            <button type="button" onclick="evaluateQCM()">Corriger</button>
+            <button type="button" onclick="resetTest()">Recommencer</button>
+        </div>
+
+    </form>
+    <p id="result"></p>
+</div>
+
+<footer>
+    RocksandWalk - @ <script> document.write(new Date().getFullYear())</script> - Régis THIÉRY
+</footer>
+
+<script>
+    function evaluateQCM() {
+        const correctAnswers = {
+            "q1": ["A"],
+            "q2": ["A"],
+            "q3": ["A"],
+            "q4": ["A"],
+            "q5": ["A", "B"],
+            "q6": ["A"],
+            "q7": ["A"],
+            "q8": ["A"],
+            "q9": ["A"],
+            "q10": ["A", "D"],
+            "q11": ["A"],
+            "q12": ["A"],
+            "q13": ["A"],
+            "q14": ["A"],
+            "q15": ["A"],
+            "q16": ["A"],
+            "q17": ["A"],
+            "q18": ["A", "C", "B"],
+        };
+        
+
+        let score = 0;
+
+        function generateFeedbackText(goodAnswers, goodCount, questionBox) {
+            // Fonction utilitaire pour récupérer les 3 premières lettres d'une réponse
+    
+            function getAnswerLabel(value) {
+                const label = questionBox.querySelector(`input[value="${value}"]`).parentNode;
+                return label.textContent.trim().slice(0, 3); // Extrait les 3 premières lettres (ex: "A)")
+            }
+
+            if (goodAnswers.length === 0) {
+                return "Pas de bonne réponse !";
+            }
+
+            const formattedAnswers = goodAnswers.map(answer => getAnswerLabel(answer));
+
+            if (goodAnswers.length === 1) {
+                return `${formattedAnswers[0]} est ${goodCount === 1 ? "la" : "une"} bonne réponse.`;
+            }
+
+            if (goodAnswers.length > 1) {
+                return `${formattedAnswers.slice(0, -1).join(", ")} et ${formattedAnswers[formattedAnswers.length - 1]} sont de bonnes réponses.`;
+            }
+
+            return "";
+            }
+
+
+        for (let question in correctAnswers) {
+            const selected = Array.from(document.querySelectorAll(`input[name="${question}"]:checked`)).map(e => e.value);
+            const questionBox = document.getElementById(`${question}-box`);
+            const correctOptions = correctAnswers[question];
+            
+            const goodAnswers = selected.filter(val => correctOptions.includes(val));
+            let feedback = generateFeedbackText(goodAnswers, correctOptions.length, questionBox);
+
+            let isCorrect = selected.length === correctOptions.length && correctOptions.every(option => selected.includes(option));
+            questionBox.classList.toggle("correct", isCorrect);
+            questionBox.classList.toggle("incorrect", !isCorrect);
+
+            selected.forEach(val => {
+                const optionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (correctOptions.includes(val)) {
+                    optionLabel.style.fontWeight = "bold";
+                } else {
+                    optionLabel.classList.add("strikethrough");
+                }
+            });
+
+            correctOptions.forEach(val => {
+                const correctOptionLabel = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                if (!selected.includes(val)) {
+                    correctOptionLabel.style.fontWeight = "bold";
+                }
+            });
+
+            const correctAnswerLabel = questionBox.querySelector('.correct-answer');
+            const feedbackLabel = questionBox.querySelector('.feedback');
+            const commentBox = questionBox.querySelector('.comment');
+            if (feedbackLabel) {
+                feedbackLabel.style.display = 'block';
+                feedbackLabel.innerHTML = feedback;
+            }
+            if (commentBox) {
+                commentBox.style.display = 'block';
+            }
+           
+            // Mappage des bonnes réponses avec les lettres (A, B, C, D)
+            const correctAnswerLabels = correctOptions.map(val => {
+                const label = questionBox.querySelector(`input[value="${val}"]`).parentNode;
+                const text = label.textContent.trim();
+                return `${text}`;
+                });
+
+
+            let correctAnswerText = correctOptions.length === 1 
+                ? `Bonne réponse : ${correctAnswerLabels.join("; ")}`
+                : `Bonnes réponses : ${correctAnswerLabels.join("; ")}`;
+            
+            correctAnswerLabel.innerHTML = correctAnswerText;
+            correctAnswerLabel.style.display = 'block';
+
+            if (isCorrect) score+=goodAnswers.length;
+        }
+
+        const totalValues = Object.values(correctAnswers).reduce((acc, curr) => acc + curr.length, 0);
+        const result = document.getElementById("result");
+
+        if (score === 0) {
+            result.textContent = `Vous n'avez obtenu aucune bonne réponse sur ${totalValues}.`;
+        } else if (score === 1) {
+            result.textContent = `Vous avez obtenu 1 bonne réponse sur ${totalValues}.`;
+        } else {
+            result.textContent = `Vous avez obtenu ${score} bonnes réponses sur ${totalValues}.`;
+        }
+    }
+
+    function resetTest() {
+        window.location.reload();
+    }
+
+    function openModal(imgElement) {
+        var modal = document.getElementById("imageModal");
+        var modalImg = document.getElementById("modalImage");
+        modal.style.display = "block";
+        modalImg.src = imgElement.src;  // Utiliser l'image cliquée
+    }
+
+    function closeModal() {
+        var modal = document.getElementById("imageModal");
+        modal.style.display = "none";
+    }
+
+</script>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,161 @@
+TITLE0: QCM : QCM Formations karstiques
+TITLE1: QCM : Les formations karstiques - Auto-évaluation
+TITLE2: De l'eau et du calcaire !
+
+UP: ../fiche06.html
+PREV:
+NEXT: 
+
+NOSHUFFLE
+
+
+#-------------------------------------------------------------------------------
+# Les karsts
+#-------------------------------------------------------------------------------
+
+
+Q: Qu'est-ce qu'un karst ? 
+	I: images/g03.jpg &&
+	G: C'est une forme de relief, se développant en région à substrat carbonaté, et caractérisé par un ensemble de formes de dissolution en surface et en sous-sol.
+	B: C'est un type de sol, peu épais et caillouteux, se formant en pays calcaire.
+	B: C'est une forme d'altérite en pays à substrat carbonaté avec accumulation de gélifracts produit par une cryoclastie intense en contexte périglaciaire.
+	B: C'est un modelé caractéristique produit par l'érosion glaciaire en pays calcaire, se caractérisant par le développement de barres rocheuses autour de grandes dépressions.
+	C: Un karst se développe sur des roches solubles, principalement les calcaires et dolomies. Sous l'effet de l'eau riche en CO₂, ces roches subissent une dissolution chimique qui façonne des paysages uniques, comprenant des dolines, lapiés, avens et galeries souterraines. Ce processus donne naissance à un relief distinctif en surface et à des réseaux souterrains complexes.
+
+Q:  Quel est le processus majeur responsable de la formation des karsts ? 
+	G: L'action des eaux, dissolution et reprécipitation, sur des roches relativement solubles.
+	B: L'enlèvement, l'entraînement et le dépôt de matières solides par un écoulement d'eau de surface ou d'eau souterraine de forte énergie.
+	B: La tectonisation intense de roches compétentes, se traduisant par l'effondrement de conduits, galeries et cavités souterraines.
+	B: L'action d'une faune cavernicole creusant tout un réseau de galeries souterraines.
+	C: Les karsts se forment principalement par la dissolution chimique de roches solubles comme le calcaire ou la dolomie, sous l'action de l'eau contenant du dioxyde de carbone (CO₂). Ce processus crée des paysages caractéristiques en surface (dolines, lapiés) et des réseaux de cavités souterraines (grottes, avens).
+
+Q:  Quel est l'origine du terme <em> karst </em> ? 
+	I: images/g04.jpg &&
+	G: D'un mot allemand désignant une région des Balkans, à cheval sur la Slovénie et la Croatie.
+	B: D'un mot islandais désignant un pays au sud de l'Islande, entre le Vatnafjöll et le Katla.
+	B: D'un mot anglais désignant une région d'Ecosse, entre le Great Glen et les Monts Grampians.
+	B: D'un mot néerlandais désignant une ancienne colonie des Antilles Néerlandaises (île de Saint-Eustache).
+	C: Le terme karst provient de la région du Kras (ou Karst en allemand), située dans les Balkans, entre la Slovénie et la Croatie. Cette région, connue pour ses paysages calcaires, a donné son nom aux formations et processus géologiques associés.
+
+Q:  Qu'est-ce qu'un pseudokarst pour les spécialistes ? 
+	I: images/g05.jpg && Pseudokarst à Madagascar
+	G: Un modelé analogue au karst, mais se développant dans des roches salines (halite, gypse, anhydrite), voire même dans des roches comme les granites.
+	B: C'est un karst développé en climat subaride ou aride
+	B: C'est un type de karst, non visible en surface, car masqué par des dépôts plus récents.
+	B: C'est un karst remanié par des processus ultérieurs (érosion glaciaire ou autre) qui en ont modifié les caractères initiaux.
+	C: Le pseudokarst désigne des formations géologiques similaires au karst mais se formant dans des roches autres que les calcaires, comme les évaporites (gypses, etc), qui subissent également des processus de dissolution.
+
+Q:  Ci-dessous un extrait d'un rapport du BRGM sur les cavités souterraines dans les Hautes-Alpes. Pourquoi parle-t-on de <em>formes pseudo-karstiques</em>, et non de <em> formes karstiques </em> pour ces grottes, cavités et fissures élargies ? 
+	I: images/b06.png &&
+	I: images/b05.png &&
+	G: Parce que les roches impliquées ne sont pas des roches carbonatées.
+	G: Parce que les massifs de la zone interne alpine sont constitués de roches granitiques ou autres roches à priori non-karstifiables.
+	B: Parce que ces formes se sont développées sans intervention de l'eau, même si elles ressemblent aux formes karstiques.
+	B: Parce que la karstification est inopérante en haute-montagne.
+	C: Les formes pseudo-karstiques désignent des cavités ou fissures élargies qui ressemblent à des formes karstiques classiques, mais qui se forment dans des roches non solubles (comme les granites). Ces formes résultent de processus différents, comme la désagrégation mécanique ou chimique spécifique à ces lithologies.
+
+Q:  Qu'est-ce qu'on appelle un poljé ? 
+	I: images/b00.jpg &&
+	G: une plaine en pays karstique
+	B: une prairie humide permanente en pays karstique
+	B: un système de culture céréalière en pays karstique
+	B: un étang en pays karstique
+	C: Un poljé est une grande plaine fermée typique des paysages karstiques. Il est entouré de reliefs et souvent drainé par des pertes ou ponors qui évacuent les eaux en sous-sol, ce qui le distingue des plaines alluviales classiques.
+
+Q:  Il existe un site remarquable en Slovénie, qui s'appelle le lac de Cernika. Ce lac, d'environ 10 km de long et 5 km de large, disparaît l'été. Dans quelle structure géologique caractéristique de pays karstique se trouve le lac Cernika ? 
+	I: images/b01.jpg && en hiver
+	I: images/b02.jpg && en été
+	G: Un poljé
+	B: Un ponor
+	B: Un polnor
+	B: Un ponjé
+	C: Le lac de Cernika se situe dans un poljé, une vaste plaine caractéristique des régions karstiques. En hiver et au printemps, les eaux s'accumulent pour former un lac temporaire, tandis qu'en été, elles s'infiltrent dans des pertes (ponors), laissant la plaine sèche et exploitable pour des activités agricoles.
+
+Q: Les paysage de la baie d'Halong (ou baie d'Along) au Vietnam sont renommés pour leur beauté. Comment désigne-t'on ce type de karst tropical ? 
+	I: images/b03.jpg &&
+	G: Un karst à tourelles
+	B: Un karst à pics
+	B: Un karst à pointes
+	B: Un karst à pitons
+	C: La baie d'Halong est un exemple emblématique de karst à tourelles. Ce type de relief tropical se caractérise par des formations calcaires abruptes et isolées, qui émergent au-dessus de plaines ou de plans d'eau, évoquant des tourelles naturelles. Ces formes sont dues à l'érosion différentielle intense en climat chaud et humide.
+
+Q:  Qu'est-ce qui caractérise l'écoulement des eaux dans un karst ?
+	G: Il y a peu de ruissellement et d'écoulement de surface (à part dans les canyons).
+	Une grande partie de l'écoulement se fait sous terre.
+	B: L'écoulement se fait essentiellement en surface, les roches calcaires étant imperméables.
+	B: L'écoulement se répartit à part égales entre écoulement de surface et écoulement souterrain.
+	B: Il y a peu d'écoulement de surface ou en profondeur, les karsts étant connus pour leur aridité.	
+	C: Les terrains karstiques sont particulièrement propices aux écoulements souterrains, car les fissures et cavités naturelles favorisent l'infiltration rapide de l'eau. Ainsi, le ruissellement en surface est limité, sauf dans des reliefs marqués comme les canyons.
+
+Q:  Quelle est l'influence de la température sur la solubilité du carbonate de calcium dans la gamme de températures naturelles ?
+	G: Le carbonate de calcium est plus soluble dans une eau froide que dans une eau chaude.
+	B: Le carbonate de calcium est plus soluble dans une eau chaude que dans une eau froide.
+	B: La température n'a pas d'effet sur la solubilité du carbonate de calcium.
+	G: La température a bien une influence, mais c'est plus compliqué que cela.	
+	C: La solubilité du carbonate de calcium diminue avec l'augmentation de la température dans des eaux naturelles. 
+
+Q: Quel est l'effet de la température sur la solubilité du CO<sub>2</sub> dans l'eau dans les conditions ambiantes de surface ? 
+	G: La solubilité du CO<sub>2</sub> diminue avec la température.
+	B: La solubilité du CO<sub>2</sub> augmente avec la température.
+	B: La solubilité du CO<sub>2</sub> est indépendante de la température.
+	B: La solubilité du CO<sub>2</sub> augmente, puis diminue avec la température.
+	C: La solubilité des gaz comme le CO<sub>2</sub> dans l'eau diminue à mesure que la température augmente, car l'énergie thermique détruit le réseau de liaisons hydrogène dans les solutions aqueuses. <img class="question-image" src="images/g02.png">
+	
+	
+Q:  Comment s'appelle l'entonnoir qui se forme à la surface d'un plateau karstique ? 
+	I: images/g06.jpg &&
+	G: Un aven
+	B: Un oven
+	B: Un avin
+	B: Un ovin
+	C: Un aven est une dépression naturelle en forme d'entonnoir qui se développe sur un plateau karstique, souvent par effondrement ou dissolution des calcaires.
+
+
+Q:  Comment s'appellent les ciselures ou rainures larges qui se forment à la surface des roches calcaires ? 
+	I: images/g00.jpg &&	
+	G: Des lapiés
+	B: Des lapias
+	B: Des bopiés
+	B: Des vanupiés
+	B: Des malopiés
+	C: Les lapiés sont des formations caractéristiques des terrains calcaires, où l'érosion chimique, due à l'eau légèrement acide, creuse des rainures, fissures ou ciselures à leur surface. Un lapiaz désigne les surfaces lapiézées.
+
+Q:  Entre une roche calcaire affleurante et la même roche sous sol et couverture végétale, dans quel cas, la dissolution des carbonates est-elle plus intense ? 
+	G: La dissolution est plus forte lorsque la roche est recouverte par de la terre végétale.
+	B: La dissolution est plus forte lorsque la roche affleure à nu.
+	B: La dissolution est identique dans les deux cas.
+	B: Il n'y a pas de dissolution de la roche
+	C: La dissolution des carbonates est plus intense sous une couverture de terre végétale, car cette dernière favorise la production de dioxyde de carbone (CO<sub>2</sub>) par l'activité biologique. Ce CO<sub>2</sub> réagit avec l'eau pour former de l'acide carbonique, ce qui intensifie le processus de dissolution chimique des carbonates.
+
+
+Q:  Ci-dessous un bloc-diagramme schématique d'un massif karstique. La vallée A a un profil en V, tandis que la vallée B a un profil en U (ou en auge).  Comment expliquer cette différence de morphologie entre ces deux vallées voisines ? 
+	I: images/b04.png &&	
+	G: C'est à cause des couches marneuses
+	B: C'est à cause de l'action des glaciers. La vallée B est une ancienne vallée glaciaire
+	B: C'est parce que la vallée A est un ubac et que la vallée B est un adret
+	B: Cela ne peut s'expliquer que par des phénomènes tectoniques
+	C: Le cours d'eau en B a creusé plus profondément son lit et a entaillé les couches marneuses. Le ruissellement, la solifluxion et glissements de terrain dans les marnes mettent en porte-à-faux les calcaires, qui s'écroulent en laissant des pentes raides. La vallée devient en même temps plus large. Au contraire, dans la vallée A, le cours d'eau n'a pas atteint les marnes. 
+
+Q: Quelle réaction chimique contrôle la formation d'un karst ?
+	G: CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> = Ca<sup>2+</sup> + 2 HCO<sub>3</sub><sup>-</sup>
+	B: CaCO₃ + O₂ = CaO + CO₂
+	B: CaCO₃ + H₂O = Ca(OH)₂ + CO₂
+	B: CaCO₃ + H₂O = Ca(HCO₃)₂
+	C: Cette réaction, CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> = Ca<sup>2+</sup> + 2 HCO<sub>3</sub><sup>-</sup>, est la principale réaction chimique dans la formation du karst. Elle se produit lorsque l'eau acide (due au CO₂ dissous) attaque les roches calcaires, entraînant la formation d'une solution d'hydrogéno-carbonate  de calcium, qui est la forme soluble du carbonate de calcium.
+
+Q: Quelle est la grande particularité de la réaction de dissolution du calcaire dans une solution aqueuse ?
+	G: La dissolution est favorisée dans les milieux riches en gaz carbonique
+	B: La dissolution est empêchée dans les milieux riches en gaz carbonique
+	B: La dissolution ne dépend pas de la quantité de gaz carbonique dans le milieu
+	B: La dissolution est du type : solide + H<sub>2</sub>O = solide-OH + H<sup>+</sup>
+	C: La présence de CO₂ favorise la dissolution du calcaire. C'est une conséquence du principe de modération, ou principe de Le Chatelier, qui précise que l'augmentation de la quantité d'un réactant (ici, CO<sub>2</sub>), déplace la réaction CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> = Ca<sup>2+</sup> + 2 HCO<sub>3</sub><sup>-</sup> de la gauche vers la droite, c'est-à-dire dans le sens d'une dissolution du carbonate de calcium.
+	
+Q: Quelles sont les conditions pour qu'un karst se développe ?
+	G: Du calcaire
+	G: De l'eau liquide
+	G: De l'air
+	B: Des oxydes de fer
+	C: POur que se développe un karst, il faut que le massif calcaire soit situé en altitude, émergé et au-dessus du niveau de base des eaux
+		
+	
+	l'eau augmente l'acidité de l'eau, ce qui favorise la dissolution du calcaire (CaCO₃). Ce processus chimique forme du bicarbonate de calcium (Ca(HCO₃)₂), une substance soluble dans l'eau.

@@ -1,0 +1,24 @@
+TITLE0: Géoressources
+TITLE1: Matériaux de Carrière
+TITLE2: 
+
+UP: page01.html
+PREV: fiche02.html
+NEXT: fiche04.html
+
+I: carriere/images/e0.jpg
+
+
+SUMMARY:   Les matériaux de carrière regroupent une série de ressources géologiques, généralement abondantes et peu onéreuses, comme les pierres, les granulats, les sables, les calcaires, la silice, les feldspaths, les argiles, etc à partir desquels sont issus toute une série de produits essentiels pour l'économie dans le domaine de la construction, mais aussi de l'agriculture et de l'industrie comme le plâtre, la chaux, le ciment, le mortier, le béton, les tuiles et les briques, les céramiques sanitaires etle verre. Ce cours propose une exploration de ces ressources et un aperçu sur leur extraction, fabrication et utilisation.
+
+
+
+
+LEVEL: 3e année
+DURATION: 3 heures
+
+QCM:
+	TITLE: Testez vos connaissances sur les Matériaux de Carrière à l'aide de questions interactives.
+	LINK: carriere/qcm01.html	
+
+
