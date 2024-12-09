@@ -9,6 +9,8 @@ if (@ARGV != 2) {
 }
 
 my $input_file = $ARGV[0];
+print "INPUTFILE $input_file \n" ;
+
 my $css_basename = $ARGV[1];  # Nom de base du fichier CSS sans extension
 
 # Vérification que le fichier d'entrée contient le suffixe .txt
@@ -25,6 +27,7 @@ $base_file =~ s|\.txt$||;  # Retire l'extension .txt
 $path_only =~ s|data|html|g;  # Remplace 'data' par 'html'
 
 my $output_file = "./$path_only$base_file.html";  # Définir le chemin de sortie
+print "OUTPUTFILE $output_file \n" ;
 
 # Calculer le nombre de sous-dossiers pour déterminer la profondeur
 my $depth = () = $path_only =~ m|/|g;

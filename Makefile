@@ -19,8 +19,8 @@ FTP_SERVER = owl.o2switch.net
 
 INDEX=index
 
-DATA_DIR = ./data
-LOCAL_HTML_DIR = ./html
+DATA_DIR = data
+LOCAL_HTML_DIR = html
 CSS_DIR = $(DATA_DIR)/css
 TEST_DIR = ~/sites/rocksandwalk/gertrude/netlify
 TEST_HTML_DIR = $(TEST_DIR)/html
