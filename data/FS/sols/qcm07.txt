@@ -23,14 +23,14 @@ Q:  La figure ci-dessous présente une représentation simplifiée des facteurs 
 	B: Les ferrallitisols.
 	B: Les podzosols et chernosols.
 
-Q:  Dans quel sol du Référentiel pédologique trouve-t'on les teneurs les plus importantes en carbonates ? 
+Q:  Dans quel sol du Référentiel pédologique trouve-t-on les teneurs les plus importantes en carbonates ? 
 	G: Les calcosols.
 	B: Les calcisols.
 	B: Les vertisols.
 	B: Les chernosols.
 	B: Les luvisols.
 
-Q:  Dans quel sol du Référentiel pédologique trouve-t'on les teneurs les plus importantes en sodium ? 
+Q:  Dans quel sol du Référentiel pédologique trouve-t-on les teneurs les plus importantes en sodium ? 
 	G: Les sodisols.
 	B: Les calcisols.
 	B: Les vertisols.

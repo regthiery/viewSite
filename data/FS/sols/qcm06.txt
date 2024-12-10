@@ -8,7 +8,7 @@ NEXT: qcm07.html
 
 NOSHUFFLE
 
-Q:  Dans la terminologie du RP, comment désigne-t'on l'horizon enrichi en argiles TO des ferralitisols et oxydisols ? 
+Q:  Dans la terminologie du RP, comment désigne-t-on l'horizon enrichi en argiles TO des ferralitisols et oxydisols ? 
 	G: L'horizon F.
 	B: L'horizon FE.
 	B: L'horizon OX.
@@ -504,7 +504,7 @@ Q:  Pourquoi les chernozems sont des sols très fertiles (sous réserve que les 
 	G: Ce sont des sols avec de bonnes capacités nutritives pour les plantes.
 	B: Ce sont des sols sableux, leur conférant une bonne aération et un bon drainage.
 
-Q:  La carte ci-dessous montre les quantités de carbone organique accumulés dans les sols. Dans quels types de sols trouve-t'on les plus gros stocks en France ? 
+Q:  La carte ci-dessous montre les quantités de carbone organique accumulés dans les sols. Dans quels types de sols trouve-t-on les plus gros stocks en France ? 
 	I: images/16-sol2014-carte4a.pdf &&
 	G: Les andosols des massifs volcaniques (Cantal, Monts Dore, Aubrac, ...).
 	B: Les cambisols.
@@ -522,7 +522,7 @@ Q:  Dans le but de limiter l'augmentation de CO<sub>2</sub> dans l'atmosphère e
 	G: Favoriser les écosystèmes permettant d'augmenter la quantité de carbone stockée dans les sols.
 	B: Favoriser les écosystèmes relâchant beaucoup de CO<sub>2</sub> au dépens du carbone organique stockée dans les sols.
 
-Q:  Un chernozem est capable de stocker 500 tonnes de C par hectare. Quelle quantité cela représente-t'il par m<sup>2</sup> ? 
+Q:  Un chernozem est capable de stocker 500 tonnes de C par hectare. Quelle quantité cela représente-t-il par m<sup>2</sup> ? 
 	G: 50 kg par m<sup>2</sup>	
 	B: 500 kg par m<sup>2</sup>	
 	B: 5 kg par m<sup>2</sup>	
@@ -542,7 +542,7 @@ Q:  Quels sont les deux principaux facteurs de fragilité des chernozems ?
 	B: Ce sont des sols sensibles à des remontées capillaires de solutions salées.
 	C: Les fortes pluies ravinent ces sols. Lorsqu'ils s'assèchent, ils deviennent poussiéreux et ils sont alors sensibles à l'érosion éolienne (formation de nuages de poussières). La sécheresse est aussi à l'origine d'incendies. 
 
-Q:  Pour la mise en culture des steppes à chernozems, les russes ont développé des systèmes d'irrigation pour compenser la pluviométrie relativement faible du climat continental (de l'ordre de 500 mm d'eau par an). Quels effets secondaires, positifs ou négatifs, cela a-t'il entraîné ? 
+Q:  Pour la mise en culture des steppes à chernozems, les russes ont développé des systèmes d'irrigation pour compenser la pluviométrie relativement faible du climat continental (de l'ordre de 500 mm d'eau par an). Quels effets secondaires, positifs ou négatifs, cela a-t-il entraîné ? 
 	G: Cela booste l'activité des micro-organismes, notamment en été.
 	G: La minéralisation de l'humus est accélérée, libérant des sels minéraux (potassium, phosphates, ...)
 	G: Le stock de carbone organique diminue.

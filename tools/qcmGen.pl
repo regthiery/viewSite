@@ -324,7 +324,7 @@ print $out <<'EOF';
 </div>
 
 <footer>
-    RocksandWalk - @ <script> document.write(new Date().getFullYear())</script> - Régis THIÉRY
+    GeoCool - @ <script> document.write(new Date().getFullYear())</script> - Régis THIÉRY
 </footer>
 
 <script>

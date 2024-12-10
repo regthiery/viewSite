@@ -139,7 +139,7 @@ print $out "</div>\n\n";
 # Continue avec le reste du HTML
 print $out <<"HTML";
 <footer class="footer">
-    <p><strong>RocksandWalk</strong> &copy; <span id="current-year"></span> | Régis THIÉRY</p>
+    <p><strong>GeoCool</strong> &copy; <span id="current-year"></span> | Régis THIÉRY</p>
 </footer>
 
 <script>

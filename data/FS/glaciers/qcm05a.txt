@@ -107,7 +107,7 @@ Q: Au vu du diagramme ci-dessous, quels sont les deux grands mécanismes de form
 	B: Les courants qui font dériver la banquise au large.
 	C: Les polynies se forment principalement par deux mécanismes : la chaleur océanique, qui empêche la glace de se reformer en raison des eaux plus chaudes remontant à la surface, et l’action des vents, qui éloignent la glace déjà formée, laissant une zone libre d’eau. Ces phénomènes expliquent leur localisation récurrente dans certaines régions.
 
-Q: Comment désigne-t'on les glaciers immenses recouvrant les terres continentales sur des des millions de km<sup>2</sup> ? 
+Q: Comment désigne-t-on les glaciers immenses recouvrant les terres continentales sur des des millions de km<sup>2</sup> ? 
 	G: Des inlandsis
 	B: Des inlandices
 	B: Des outlandsis

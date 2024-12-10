@@ -56,7 +56,7 @@ Q:  Dans les podzols, à quoi est due la formation du liseré noir juste en-dess
 	B: &Agrave; des reprécipitations d'oxydes du fer.
 	C: Le liseré noir sous l'horizon blanchi dans les podzols est dû à l'accumulation de matières organiques complexes (acides fulviques et humiques) qui se déplacent depuis l'horizon supérieur éluvié et se déposent juste en dessous, souvent accompagnées d'aluminium ou de fer complexé.	
 
-Q:  Quel type d'humus trouve-t'on dans l'horizon de surface d'un podzol ? 
+Q:  Quel type d'humus trouve-t-on dans l'horizon de surface d'un podzol ? 
 	I: images/e17.png &&
 	G: Le mor
 	B: Le moder
@@ -114,7 +114,7 @@ Q:  Qu'est-ce qu'on appelle la texture de l'horizon d'un sol ?
 	B: La disposition et l'orientation des grains du sol.
 	C: La texture du sol se réfère à la proportion relative des différentes tailles de particules minérales (argile, limon, sable) dans un sol. C'est la réponse A qui définit correctement la texture.	
 
-Q:  Qu'appelle-t'on les minéraux primaires dans un sol ? 
+Q:  Qu'appelle-t-on les minéraux primaires dans un sol ? 
 	G: Les minéraux issus de la désagrégation mécanique des roches.
 	B: Les minéraux issus de la désagrégation mécanique de roches du socle.
 	B: Les minéraux issus de la désagrégation mécanique de roches magmatiques.

@@ -53,15 +53,17 @@ ensure_dirs:
 	@mkdir -p $(TEST_HTML_DIR)/TDU/Images  
 
 sync:
-	rsync -av --include='*/' --include='*.mp4'  --exclude='*' data/ html/
-	rsync -av --include='*/' --include='*.jpg'  --exclude='*' data/ html/
-	rsync -av --include='*/' --include='*.png'  --exclude='*' data/ html/
-	rsync -av --include='*/' --include='*.webp' --exclude='*' data/ html/
-	rsync -av --include='*/' --include='*.jpeg' --exclude='*' data/ html/
-	rsync -av --include='*/' --include='*.gif'  --exclude='*' data/ html/
-	rsync -av --include='*/' --include='*.svg'  --exclude='*' data/ html/
-	rsync -av --include='*/' --include='*.pdf'  --exclude='*' data/ html/
-	rsync -av --include='*/' --include='*.css'  --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.mp4'      --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.jpg'      --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.png'      --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.webp'     --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.jpeg'     --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.gif'      --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.svg'      --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.pdf'      --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.css'      --exclude='*' data/ html/
+	rsync -av --include='*/' --include='.htaccess'  --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.html'     --exclude='*' data/ html/
 
 
 run_index:

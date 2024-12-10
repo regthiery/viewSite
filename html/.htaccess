@@ -1,0 +1,22 @@
+# Forcer HTTPS
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} !on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Désactiver l'accès direct aux répertoires
+Options -Indexes
+
+ErrorDocument 403 /403.html
+
+
+# Activer le module de réécriture
+RewriteEngine On
+
+# Page personnalisée pour l'erreur 404
+ErrorDocument 404 /404.html
+
+# Rediriger toutes les requêtes non trouvées vers la page 404
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.*$ /404.html [L]

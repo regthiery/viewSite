@@ -36,7 +36,7 @@ Q:  Ci-dessous une photo d'une carrière de grouines en Lorraine. Dans quels end
 	B: Dans les plaines alluviales.
 	C: Les grouines (grèzes litées) se retrouvent principalement sur les versants. Elles résultent de processus périglaciaires, notamment le gel-dégel, qui favorisent la fragmentation et l'accumulation des matériaux rocheux sur les pentes.
 
-Q:  Dans quel cas utilise-t'on l'expression <em>en aval pendage</em> ? 
+Q:  Dans quel cas utilise-t-on l'expression <em>en aval pendage</em> ? 
 	G: Pour désigner des formations ayant un pendage dans le même sens que la pente du versant.
 	B: Pour désigner des formations ayant un pendage plus fort que la pente.
 	B: Pour désigner des formations ayant un pendage plus faible que la pente.
@@ -90,7 +90,7 @@ Q:  Cette vidéo montre un chantier avant son terrassement par une pelle mécani
 	B: Ce sont des argiles gonflantes.
 	C: La liquéfaction survient lorsque le sol saturé en eau perd sa cohésion sous l'effet d'une surcharge ou de vibrations, se comportant temporairement comme un fluide. Dans un tel cas, des précautions doivent être prises avant de poursuivre les travaux pour éviter des accidents ou des effondrements.
 
-Q:  Cette photo montre une dispositif de protection aménagé en bas d'un versant instable, sujet à des chutes de blocs ou glissements de terrain. Il est constitué d'un fossé et d'une levée de terre renforcé par un enrochement drainant du côté du versant. Comment appelle-t'on ce dispositif ? 
+Q:  Cette photo montre une dispositif de protection aménagé en bas d'un versant instable, sujet à des chutes de blocs ou glissements de terrain. Il est constitué d'un fossé et d'une levée de terre renforcé par un enrochement drainant du côté du versant. Comment appelle-t-on ce dispositif ? 
 	I: images/d0.jpg &&
 	G: Un merlon
 	B: Un perlon

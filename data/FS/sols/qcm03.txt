@@ -25,7 +25,7 @@ Q: L'humus présente une affinité particulière avec certains minéraux en
 	B: Les carbonates.
 	C: Ces associations avec les argiles et les oxydes de fer permettent à l'humus de mieux se stabiliser dans le sol, contribuant ainsi à la fertilité et à la rétention des nutriments.	
 
-Q: Comment appelle-t'on les différentes zones, généralement horizontales,
+Q: Comment appelle-t-on les différentes zones, généralement horizontales,
 	qu'on peut distinguer sur la coupe d'un sol ? 
 	G: Les horizons
 	B: Les pédons
@@ -33,7 +33,7 @@ Q: Comment appelle-t'on les différentes zones, généralement horizontales,
 	B: Les penons.
 	C: Les horizons représentent les différentes couches qui composent un sol, chaque horizon ayant des caractéristiques spécifiques, comme la couleur, la texture et la composition.	
 
-Q: Où trouve-t'on les sols actifs les plus anciens ? 
+Q: Où trouve-t-on les sols actifs les plus anciens ? 
 	G: A la surface des grands boucliers africains et sud-africains.
 	B: Dans l'Himalaya.
 	B: Dans le Massif Central.

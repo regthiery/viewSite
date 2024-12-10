@@ -71,7 +71,7 @@ Q:  Il existe un site remarquable en Slovénie, qui s'appelle le lac de Cernika.
 	B: Un ponjé
 	C: Le lac de Cernika se situe dans un poljé, une vaste plaine caractéristique des régions karstiques. En hiver et au printemps, les eaux s'accumulent pour former un lac temporaire, tandis qu'en été, elles s'infiltrent dans des pertes (ponors), laissant la plaine sèche et exploitable pour des activités agricoles.
 
-Q: Les paysage de la baie d'Halong (ou baie d'Along) au Vietnam sont renommés pour leur beauté. Comment désigne-t'on ce type de karst tropical ? 
+Q: Les paysage de la baie d'Halong (ou baie d'Along) au Vietnam sont renommés pour leur beauté. Comment désigne-t-on ce type de karst tropical ? 
 	I: images/b03.jpg &&
 	G: Un karst à tourelles
 	B: Un karst à pics

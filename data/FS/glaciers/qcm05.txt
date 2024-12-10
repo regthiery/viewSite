@@ -8,15 +8,16 @@ NEXT: qcm05a.html
 
 NOSHUFFLE
 
-Q: Lors de la fonte des glaçons dans un pastis, que se passe-t'il ? <br><img src="images/c1.jpg" width="50%">
+Q: Que se passe-t-il quand les glaçons fondent dans le verre de pastis ? <br><img src="images/c1.jpg" width="50%">
 	G: Le niveau de liquide dans le verre ne bouge pas.
 	B: Le niveau de liquide monte dans le verre.
 	B: Le niveau de liquide descend dans le verre.
 	B: Cela dépend du degré d'alcool du buveur
 	B: Cela dépend du degré d'alcool du pastis
+	B: La question ne se pose pas, le verre est vidé avant
 	C: rho1 Vi = rho1 v1 + rho2 v2  (conservation de la masse)<br>Vf = v1 + vd1    (volume final)<br>rho1 vd1 = rho2 v2   (poussée d'Archimède)<br>deltaV = Vf - Vi = v1 + vd1 - Vi<br>deltaV = v1 + vd1 - v1 - rho2/rho1 v2<br>deltaV = v1 - v1 = 0<br> <img src="images/c0.jpg">
 
-Q: Comment appelle-t'on ces fragments de glace flottante, souvent de forme polygonale et qui peuvent s'enchevêtrer ou s'empiler ?
+Q: Comment appelle-t-on ces fragments de glace flottante, souvent de forme polygonale et qui peuvent s'enchevêtrer ou s'empiler ?
 	I: images/c3.jpg &&
 	I: images/c2.jpg &&
 	G: Des floes

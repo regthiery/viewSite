@@ -19,7 +19,7 @@ Q:  Où se trouvent les Ruines de Séchilienne, connu pour être un versant inst
 	C: Dans la vallée de la Romanche
 
 
-Q:  Les Ruines de Séchilienne se présent sous la forme d'... 
+Q:  Les Ruines de Séchilienne se présentent sous la forme d'... 
 	I: images/d11.jpg &&
 	G: un cône d'éboulis.
 	B: un cône de déjection.
