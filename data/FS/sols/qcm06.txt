@@ -31,7 +31,7 @@ Q:  L'halloysite est un minéral qui se développe parfois dans les 1ers stades 
 	B: C'est un hydroxyde de fer.
 	B: C'est un composé amorphe constitué de silice et de Fe<sup>3+</sup>.	
 
-Q:  Ce sol, développé sous climat tropical semi-aride, présente <ul> <li> un horizon noir, épais et argileux, </li> <li> sur un horizon d'accumulation calcaire. </li> </ul> Quel est ce sol ? 
+Q:  Ce sol, développé sous climat tropical semi-aride, présente <ul style="text-align: left"> <li> un horizon noir, épais et argileux, </li> <li> sur un horizon d'accumulation calcaire. </li> </ul> Quel est ce sol ? 
 	I: images/e40.jpg &&
 	G: Un vertisol.
 	B: Un chernozem.
@@ -44,14 +44,14 @@ Q:  Qu'est-ce qui caractérise un vertisol ?
 	B: Ce sont des sols calcaires.
 	B: Ce sont des sols, riches en kaolinite.
 
-Q:  Ce sol, développé sous climat méditerranéen sub-aride, présente: <ul> <li> un horizon A, riche en argiles gonflantes, </li> <li> un horizon S à structure pédologique, </li> <li> un horizon Bca avec nodules calcaires. </li> </ul> Quel est ce sol ?
+Q:  Ce sol, développé sous climat méditerranéen sub-aride, présente: <ul style="text-align: left"> <li> un horizon A, riche en argiles gonflantes, </li> <li> un horizon S à structure pédologique, </li> <li> un horizon Bca avec nodules calcaires. </li> </ul> Quel est ce sol ?
 	I: images/e41.jpg &&
 	G: Un vertisol.
 	B: Un andosol.
 	B: Un calcosol.
 	B: Un chernozem.	
 
-Q:  Ce sol, développé sous climat méditerranéen sub-aride, présente: <ul> <li> un horizon A, riche en argiles gonflantes, </li> <li> un horizon S à structure pédologique, </li> <li> un horizon Bca avec nodules calcaires. </li> </ul> Quel est ce sol ?
+Q:  Ce sol, développé sous climat méditerranéen sub-aride, présente: <ul style="text-align: left"> <li> un horizon A, riche en argiles gonflantes, </li> <li> un horizon S à structure pédologique, </li> <li> un horizon Bca avec nodules calcaires. </li> </ul> Quel est ce sol ?
 	I: images/e42.png &&
 	G: Un vertisol.
 	B: Un andosol.
@@ -65,7 +65,7 @@ Q:  Selon la WRB, qu'est-ce qu'un phaeozem ?
 	G: C'est un sol lessivé, notamment pendant les saisons humides.
 	B: C'est un sol développé sous climat tropical.
 
-Q:  Selon WRB, quel est ce sol ? On précise que:  <ul> <li> ce sol est fortement salé, </li> <li> ce sol se trouve dans un endroit à forte évapo-transpiration et à précipitation faible, </li> <li> des cristaux de sel sont visibles en surface.</ul>
+Q:  Selon WRB, quel est ce sol ? On précise que:  <ul style="text-align: left"> <li> ce sol est fortement salé, </li> <li> ce sol se trouve dans un endroit à forte évapo-transpiration et à précipitation faible, </li> <li> des cristaux de sel sont visibles en surface.</ul>
 	I: images/e43.png &&
 	I: images/e44.png &&
 	G: Un solonchak.
@@ -73,7 +73,7 @@ Q:  Selon WRB, quel est ce sol ? On précise que:  <ul> <li> ce sol est fortemen
 	B: Un podzol.
 	B: Un vertisol.
 
-Q:  Selon la WRB, quel est ce sol ? On précise que: <ul><li> ce sol est salé, </li><li> l'horizon de subsurface est riche en argiles à structure columnaire, </li><li> des cristaux de sel sont visibles en surface,</li><li> le sol est riche en sodium et magnésium adsorbé, </li><li> ce sol se trouve dans des zones à été chaud et sec. </li> </ul>
+Q:  Selon la WRB, quel est ce sol ? On précise que: <ul style="text-align: left"><li> ce sol est salé, </li><li> l'horizon de subsurface est riche en argiles à structure columnaire, </li><li> des cristaux de sel sont visibles en surface,</li><li> le sol est riche en sodium et magnésium adsorbé, </li><li> ce sol se trouve dans des zones à été chaud et sec. </li> </ul>
 	I: images/e45.png &&
 	I: images/e46.png &&
 	B: Un solonchak.
@@ -81,7 +81,7 @@ Q:  Selon la WRB, quel est ce sol ? On précise que: <ul><li> ce sol est salé, 
 	B: Un podzol.
 	B: Un vertisol.
 
-Q:  Selon la WRB, quel est ce sol ?  On précise que:  <ul> <li> ce sol est riche en argiles gonflantes, </li> <li> ce sol se rétracte et gonfle selon , </li> <li> des cristaux de sel sont visibles en surface,</li> <li> le sol est riche en sodium et magnésium adsorbé, </li>	 <li> ce sol se trouve dans des zones à été chaud et sec. </li> </ul>
+Q:  Selon la WRB, quel est ce sol ?  On précise que:  <ul style="text-align: left"> <li> ce sol est riche en argiles gonflantes, </li> <li> ce sol se rétracte et gonfle selon , </li> <li> des cristaux de sel sont visibles en surface,</li> <li> le sol est riche en sodium et magnésium adsorbé, </li>	 <li> ce sol se trouve dans des zones à été chaud et sec. </li> </ul>
 	I: images/e47.png &&
 	I: images/e48.png &&
 	B: Un solonchak.

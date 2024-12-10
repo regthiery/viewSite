@@ -9,7 +9,7 @@ NEXT: qcm06.html
 NOSHUFFLE
 
 
-Q: Un sol est un milieu complexe formé par plusieurs processus: <ul> <li>l'altération des roches,</li> <li>l'action des êtres vivants</li> <li>et des transferts de matière.</li></ul>  A la longue, ces phénomènes font apparaître des couches différenciées sur une tranche verticale d'un sol. Comment appelle-t-on ces couches ? 
+Q: Un sol est un milieu complexe formé par plusieurs processus: <ul style="text-align: left"> <li>l'altération des roches,</li> <li>l'action des êtres vivants</li> <li>et des transferts de matière.</li></ul>  A la longue, ces phénomènes font apparaître des couches différenciées sur une tranche verticale d'un sol. Comment appelle-t-on ces couches ? 
 	B: des lits
 	B: des strates
 	B: des dépôts
@@ -477,7 +477,7 @@ Q:  Quel est le stock de matières organiques en moyenne dans un andosol ?
 	B: Environ 5 kg par m<sup>2</sup>.
 	B: Environ 1 kg par m<sup>2</sup>.
 
-Q:  Quel est ce sol selon le RP ?  Le solum comporte :  <ul> <li> un horizon rouge ferrallitique (1), </li> <li> et un horizon d'altération sur gneiss (2). </li> </ul>  La coupe fait 2 mètres d'épaisseur. 	
+Q:  Quel est ce sol selon le RP ?  Le solum comporte :  <ul style="text-align: left"> <li> un horizon rouge ferrallitique (1), </li> <li> et un horizon d'altération sur gneiss (2). </li> </ul>  La coupe fait 2 mètres d'épaisseur. 	
 	I: images/e38.jpg &&
 	G: Un ferrallitisol.
 	B: Un oxydisol.
