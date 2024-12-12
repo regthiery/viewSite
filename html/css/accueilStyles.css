@@ -1,0 +1,281 @@
+/* Conteneur du titre principal */
+.main-title {
+    background-color: #333; /* Fond sombre pour contraster avec le texte */
+    color: white; /* Couleur du texte */
+    text-align: center;
+    padding: 1.5em 0; /* Espacement intérieur */
+    margin-top: -5px; /* Réduction d'écart entre l'image et le titre */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Ombre légère */
+}
+
+.main-title h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.main-title p {
+    font-size: 1.2em;
+    margin: 0.5em 0 0;
+}
+
+/* Style de base */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    position: relative;
+    width: 100%;
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    max-height: 500px;
+}
+
+.header-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+.header-content h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.header-content p {
+    font-size: 1.5em;
+}
+
+/* Navigation */
+nav {
+    background-color:  #333;
+    color: white;
+    padding: 0.5em 0;
+    text-align: center;
+    width: 100%; /* Prend toute la largeur de la page */
+    box-sizing: border-box;
+    margin-bottom: 35px; /* Ajout de marge en-dessous de la barre de navigation */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Utilise Flexbox pour un alignement horizontal */
+    justify-content: center; /* Centre les éléments horizontalement */
+    flex-wrap: wrap; /* Permet de passer à la ligne si nécessaire */
+}
+
+nav ul li {
+    margin: 0 1em; /* Espacement horizontal */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 0.5em 1em; /* Ajoute de l'espace cliquable autour des liens */
+    display: inline-block; /* Rend le lien plus interactif */
+}
+
+
+/* Style spécifique pour les petits écrans */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column; /* Aligne verticalement les items */
+        text-align: left; /* Optionnel : aligner les liens à gauche */
+        padding: 0;
+    }
+
+    nav ul li {
+        margin: 0.5em 0; /* Ajoute de l'espace vertical entre les items */
+    }
+}
+
+/* Cards */
+.cards {
+    display: flex;
+    justify-content: space-around;
+    gap: 2em;
+    padding: 3em 0;
+    flex-wrap: wrap; /* Assure une mise en page adaptable */
+}
+
+.card {
+    width: 300px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.card h3 {
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+.card p {
+    font-size: 1em;
+    margin-top: 10px;
+    color: #555;
+}
+
+.card a {
+    text-decoration: none;
+    color: #007BFF;
+    margin-top: 10px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 2em;
+    color: #6c757d;
+    padding: 10px;
+    border-top: 1px solid #cfd8dc;
+}
+
+
+/* Section du message principal */
+.main-message {
+    display: flex; /* Crée deux colonnes */
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+    gap: 2em; /* Espace entre les colonnes */
+    background-color: #f9f9f9; /* Couleur de fond douce */
+    border-radius: 10px;
+    margin: 2em auto;
+    max-width: 900px; /* Largeur maximale de la section */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    flex-wrap: wrap; /* S'adapte aux petits écrans */
+}
+
+/* Colonne texte */
+.message-text {
+    flex: 1; /* Prend tout l'espace disponible restant */
+}
+
+.message-text h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 0.5em;
+}
+
+.message-text p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Colonne image */
+.message-image {
+    flex: 1; /* Prend la moitié de l'espace disponible */
+    text-align: center;
+}
+
+.message-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Media query pour écrans plus petits */
+@media (max-width: 768px) {
+    .main-message {
+        flex-direction: column; /* Passe l'image en dessous du texte */
+    }
+}
+
+/* Style du bouton "C'est parti !" */
+.cta-button {
+    display: inline-block;
+    margin-top: 1.5em; /* Espace entre le texte et le bouton */
+    padding: 0.8em 1.5em;
+    background-color: #333; /* Couleur de fond sombre */
+    color: #f9f9f9; /* Couleur du texte clair */
+    font-size: 1.1em; /* Taille du texte */
+    font-weight: normal; /* Poids du texte */
+    text-decoration: none; /* Supprime le soulignement */
+    border-radius: 5px; /* Bords arrondis */
+    border: 1px solid #555; /* Bordure subtile */
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Animation au survol */
+}
+
+/* Interaction au survol */
+.cta-button:hover {
+    background-color: #555; /* Couleur légèrement plus claire au survol */
+    transform: translateY(-2px); /* Léger déplacement vers le haut */
+}
+
+/* Style des listes contenant les liens */
+ul {
+    list-style-type: none; /* Supprime les puces */
+    padding: 0; /* Retire le padding par défaut */
+    margin: 0; /* Retire les marges par défaut */
+}
+
+/* Style pour chaque élément de la liste */
+ul li {
+    margin-bottom: 1.2em; /* Ajoute de l'espace entre les éléments */
+}
+
+/* Style des liens */
+ul li a {
+    display: block; /* Rend le lien cliquable sur toute la largeur */
+    font-size: 1.2em; /* Augmente la taille de la police */
+    font-weight: bold; /* Accentue les liens */
+    color: #0056b3; /* Bleu moderne */
+    text-decoration: none; /* Supprime le soulignement */
+    padding: 0.7em 1em; /* Ajoute un padding autour du texte */
+    border-radius: 8px; /* Coins arrondis */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+
+/* Classe pour mettre en évidence une partie du texte */
+.highlight {
+    background-color: #fdf1d4; /* Jaune clair pour attirer l'attention */
+    border-left: 4px solid #f0a500; /* Bande verticale pour un effet visuel */
+    padding: 0.2em 0.5em; /* Espacement interne pour une meilleure lisibilité */
+    font-weight: bold; /* Texte en gras pour renforcer l'importance */
+    border-radius: 4px; /* Coins légèrement arrondis pour un look moderne */
+    color: #333; /* Couleur de texte pour assurer une bonne lisibilité */
+    display: inline-block; /* Pour un alignement naturel avec le texte environnant */
+}
+
+
+/* Interaction au survol */
+ul li a:hover {
+    background-color: #f0f8ff; /* Fond clair au survol */
+    color: #ff4500; /* Couleur orange vif pour attirer l'attention */
+}
+
+/* Adaptation aux petits écrans */
+@media (max-width: 1200px) {
+    ul li a {
+        font-size: 1.1em; /* Taille légèrement ajustée */
+        padding: 0.6em 0.8em; /* Réduction légère du padding */
+    }
+}

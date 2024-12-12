@@ -1,0 +1,423 @@
+/* Styles de base */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px; /* Taille de base */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    max-width: 1200px;
+    text-align: center;
+    padding: 2em;
+}
+
+.paragraph {
+    line-height: 1.6;
+    text-align: left;
+    text-indent: 20px;
+    margin: 2em auto;
+    font-size: 1rem; /* Équivalent à 16px */
+    max-width: 600px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
+    margin-bottom: 1em;
+}
+
+.header h1,
+h1 {
+    color: #004466;
+    font-size: 1.8rem; /* Ajusté à 28.8px */
+    line-height: 1.2;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+h1 span {
+    display: block;
+    font-size: 1.2rem; /* 19.2px */
+    margin-top: 0.5em;
+}
+
+h2 {
+    margin-top: 0.5em;
+    color: #333;
+    font-size: 1.4rem; /* 22.4px */
+}
+
+h2 span {
+    font-style: italic;
+    color: #006680;
+}
+
+.subtitle {
+    display: block;
+    font-size: 0.9rem; /* 14.4px */
+    color: #666;
+    margin-top: 0.3em;
+}
+
+/* Grille pour les cards */
+.card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    align-items: stretch;
+    gap: 1.5em;
+    margin: 3em 1em;
+
+    max-width: 1200px;
+    padding: 0 1em; 
+}
+
+
+
+/* Styles pour les cards */
+.card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 1.5em;
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    color: #005580;
+    border-bottom: 2px solid #004466;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card-content {
+    padding: 15px;
+}
+
+.cardTitle1 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+}
+
+.cardTitle2 {
+    font-size: 1.0rem;
+    color: #005580;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 8px;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 1.1;
+}
+
+.card-text {
+    font-size: 0.95rem; /* 15.2px */
+    color: #555;
+    line-height: 1.6;
+}
+
+.card-link {
+	text-decoration: none;
+}
+
+/* Section et boutons supplémentaires */
+.nav-buttons .button,
+.resource-link,
+.nav-button {
+    font-size: 1rem; /* Assure une taille uniforme sur les boutons */
+    padding: 0.8em 1.2em;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.footer,
+.evaluation p,
+.sommaire p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+
+
+/* Centrage de l'illustration */
+.illustration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+    margin: 2em auto; /* Assure un centrage horizontal dans le conteneur principal */
+    padding: 1em 0;
+}
+
+.illustration img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+/* Bouton de retour */
+.back-button {
+    text-align: left;
+    margin-bottom: 1em;
+}
+
+.back-button .button {
+    background-color: #004466;
+    color: #fff;
+    padding: 0.5em 0.8em;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.back-button .button:hover {
+    background-color: #00334d;
+}
+
+/* Boutons de navigation */
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    margin: 1em 0; /* Plus d'espacement par rapport au titre */
+}
+
+.small-button {
+    font-size: 0.9em; /* Taille de police plus petite */
+    padding: 0.5em 1em; /* Réduction du rembourrage */
+}
+
+.button {
+    background-color: #004466;
+    color: #fff;
+    padding: 0.8em 1.2em;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #00334d;
+}
+
+.button[disabled] {
+    pointer-events: none;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Barre de navigation en haut */
+.top-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+/* Boutons de navigation */
+.top-navigation .button {
+    background-color: #004466;
+    color: #fff;
+    padding: 0.6em 1.2em;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.9em;
+    transition: background-color 0.3s;
+}
+
+.top-navigation .button:hover {
+    background-color: #00334d;
+}
+
+/* Conteneur de la fiche */
+.fiche-container {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 2em;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Titre et illustration */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
+    margin-bottom: 1em;
+}
+
+.header h1 {
+    color: #004466;
+    font-size: 1.8em;
+    margin: 0;
+}
+
+.fiche-illustration {
+    max-width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Section d'informations principales */
+.info-section {
+    font-size: 1em;
+    margin-bottom: 1em;
+    display: flex;
+    gap: 1.5em;
+    color: #666;
+}
+
+/* Sommaire */
+.sommaire {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.sommaire h2 {
+    color: #004466;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.ficheItem {
+    color: #004466;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.sommaire p {
+    font-size: 0.95em;
+    line-height: 1.6;
+    color: #333;
+    text-align: justify;
+}
+
+/* Liens vers les ressources */
+.resources {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin: 10px;
+}
+
+.resource-link {
+    display: inline-block;
+    padding: 0.8em;
+    background-color: #004466;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.resource-link:hover {
+    background-color: #00334d;
+}
+
+/* Boutons de navigation */
+.nav-buttons {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1em;
+    margin-bottom: 1.5em;
+}
+
+.nav-button {
+    padding: 0.6em 1.2em;
+    background-color: #004466;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.nav-button:hover {
+    background-color: #00334d;
+}
+
+.nav-button[disabled] {
+    pointer-events: none;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+
+/* Section Auto-évaluation / QCM */
+.evaluation {
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid #ddd;
+}
+
+.evaluation h2 {
+    color: #004466;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.evaluation p {
+    font-size: 0.95em;
+    line-height: 1.6;
+    color: #333;
+    text-align: justify;
+    margin-bottom: 1em;
+}
+
+
+
+/* Responsivité */
+@media (max-width: 768px) {
+    .top-navigation {
+        flex-direction: column;
+        gap: 0.5em;
+    }
+    .top-navigation .button {
+        width: 100%;
+        text-align: center;
+    }
+    .card-grid {
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer {
+        font-size: 0.8rem;
+        padding: 0.8em;
+    }
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .resources {
+        gap: 0.8em;
+    }
+}

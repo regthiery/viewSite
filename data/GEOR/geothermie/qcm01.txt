@@ -37,6 +37,31 @@ Q: Quelle est la valeur moyenne du gradient géothermique dans l'asthénosphère
 	B: 60°C/km
 	C: Le gradient géothermique dans l'asthénosphère est généralement faible, autour de 0.3°C/km.
 	
+Q: Le gradient géothermique peut se donner en °C/km ou en K/km	?
+	G: Oui, car une variation de 1°C est égale à une variation de 1 K.  
+	B: Non, car les °C et les K ne sont pas des unités compatibles pour les gradients.  
+	B: Non, car le gradient géothermique s'exprime uniquement en K/km.  
+	B: Non, car le gradient géothermique est indépendant des unités utilisées.  
+	C: Une variation de 1°C correspond exactement à une variation de 1 K, car les deux échelles ont la même graduation. L'unité choisie n'affecte pas le calcul du gradient géothermique.
+	
+Q: La carte suivante montre les gradients géothermiques dans une région du Montana aux États-Unis. Ces gradients sont exprimés en °F/100 Ft. Quelle est la valeur d'un gradient géothermique de 30°C/km en  °F/100 Ft ?  <em> (On indique: °F = °C x 9/5 + 32 et 1 feet = 30.48 cm) </em>
+	I: images/03a.jpg &&
+	G: Environ 2,62 °F/100 Ft.  
+	B: Environ 5,12 °F/100 Ft.  
+	B: Environ 11,4 °F/100 Ft.  
+	B: Environ 0,85 °F/100 Ft.  
+	C: Pour convertir 30°C/km en °F/100 Ft, il faut d'abord convertir 30°C en °F (en multipliant par 1,8), puis ajuster les unités en passant de kilomètres à pieds. On obtient 
+	<ul style="text-align: left;">
+		<li> 30°C => 30*9/5 + 32 = 86°F </li>
+		<li> 1 km => 1000 m => 1e5 cm => 1e5 cm / 30.48 cm/feet => 1e5/30.48 feet </li>
+		<li> 86 / 1e5 * 30.48 ~ 0.02621 °F / Ft </li>
+		<li> 2.62 °F / 100 Ft </li>
+	</ul>
+	<img class="question-image" src="images/03.jpg" >
+	
+	
+	: \( 30 \times 1,8 \times \frac{1}{10} \approx 1,65 \).
+	
 Q: Qu'indique la valeur du gradient géothermique dans l'asthénophère sur le mode de transfert thermique qui s'y exerce ?
 	G: Une mode de transfert thermique par convection
 	B: Un mode de transfert thermique par conduction
@@ -70,7 +95,13 @@ Q: En déduire une conductivité thermique moyenne des roches dans la croûte te
 	B: 10 W/m/K 
 	B: 0.1 W/m/K
 	B: 0.3 W/m/K
-	C: La conductivité thermique moyenne des roches dans la croûte terrestre est d'environ 3 W/m/K. Cette valeur reflète la capacité de la croûte terrestre à conduire la chaleur, bien que cette conductivité puisse varier en fonction de la composition minéralogique des roches.
+	C: La conductivité thermique moyenne des roches dans la croûte terrestre est d'environ 3 W/m/K. Cette valeur reflète la capacité de la croûte terrestre à conduire la chaleur, bien que cette conductivité puisse varier en fonction de la composition minéralogique des roches. Cette valeur se déduit de la question précédente:
+	<ul style="text-align: left;"> 
+		<li>Flux (W/m2) = lambda (W/m/K) x gradient géothermique (K/m) </li>
+		<li> Flux géothermique de 80 mW / m2 </li>
+		<li> et un gradient de 30 K/ km, soit 30e-3 K/m </li>
+		<li> cela nous fait donc une conductivité lambda de 80e-3 / 30e-3  ~ 3  W/m/K </li>
+	</ul>	
 	
 Q: Quelle est la source de chaleur principale dans la croûte terrestre ?  
 	G: La désintégration des éléments radioactifs  

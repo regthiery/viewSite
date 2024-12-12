@@ -2,7 +2,7 @@ TITLE0: GeoCool
 TITLE1: Géologie - Terre dans l'Univers
 TITLE2: Licence 1ère année
 
-UP: ../index.html
+UP: ../index0.html
 
 PREV: ../FS/page01.html
 NEXT: ../GEOR/page01.html

@@ -1,0 +1,21 @@
+TITLE0: GeoCool
+TITLE1: Cours de Géologie<br>Sciences de la Terre et de l'Univers
+TITLE2: Régis THIÉRY
+
+CARD:
+	TITLE1: Cours Géologie
+	TITLE2: (Licence 1ère année)
+	LINK: TDU/page01.html
+
+CARD:
+	TITLE1: Géoressources : énergie et matières premières
+	TITLE2: (Licence 2e année)
+	LINK: GEOR/page01.html
+
+CARD:
+	TITLE1: Géologie des Formations Superficielles
+	TITLE2: (Licence 3e année)
+	LINK: FS/page01.html
+
+I: Images/pict00.jpg
+

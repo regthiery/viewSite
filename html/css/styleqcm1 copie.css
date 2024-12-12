@@ -1,0 +1,297 @@
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+
+
+
+
+/* Conteneur principal */
+.container {
+    background-color: #f0f8ff;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #005f73;
+    text-align: center;
+}
+
+/* Pied de page */
+footer {
+    text-align: center;
+    margin-top: 2em;
+    color: #6c757d;
+    padding: 10px;
+    border-top: 1px solid #cfd8dc;
+}
+
+
+
+.container {
+	background-color: #f0f8ff;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #005f73;
+    text-align: center;
+}
+
+.question-box {
+    margin-bottom: 20px; 
+    padding: 1em;
+    border: 1px solid #bde0fe; 
+    border-radius: 10px;
+    background-color: #e0f2f1; 
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 1.5em 0;
+    text-align: center;
+}
+
+.question {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    color: #005f73; 
+}
+
+.question-image {
+    max-width: 100%; 
+    height: auto;    
+    object-fit: cover; 
+    display: block;  
+    margin: 0 auto; 
+}
+
+/*
+.question-image {
+    width: auto; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+}
+*/
+
+
+.image-container {
+    text-align: center;  /* Centre le contenu (image et texte) horizontalement */
+    margin-bottom: 5px;
+}
+
+.image-caption {
+    margin-top: 5px;   /* Un petit espace entre l'image et la légende */
+    font-size: 14px;    /* Ajustez la taille de la police si nécessaire */
+    color: #555;        /* Couleur de la légende, ajustez selon vos préférences */
+}
+
+/* Le style pour le modal */
+.modal {
+    display: none; /* Initialement caché */
+    position: fixed;
+    z-index: 1; /* Au-dessus de tout le reste */
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* Fond sombre */
+    text-align: center;
+}
+
+.modal-content {
+    max-width: 100vw; /* Prendre 100% de la largeur de la fenêtre parente */
+    max-height: 100vh; /* Prendre 100% de la hauteur de la fenêtre parente */
+    min-width: 70%;  /* Donne une taille minimale de 50% de la largeur de la fenêtre */
+    min-height: 90%; /* Donne une taille minimale de 50% de la hauteur de la fenêtre */
+    object-fit: contain; /* Conserver les proportions sans déformation */
+    margin: auto; /* Centrer l'image dans la fenêtre */
+}
+
+/* Le bouton de fermeture */
+.close {
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
+
+.question-video {
+    width: 100%;   /* La vidéo prend toute la largeur du conteneur parent */
+    height: auto;  /* La hauteur s'ajuste proportionnellement */
+}
+
+.options {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.options label {
+    width: 100%; /* Assure que chaque label occupe toute la largeur */
+    text-align: left; /* Alignement du texte à gauche */
+}
+
+label {
+    display: block; 
+    margin-bottom: 5px; 
+    padding-left: 25px; 
+    position: relative; 
+}
+
+
+input[type="checkbox"] {
+    position: absolute;
+    left: 0; 
+    top: 0; 
+}
+
+input[type="radio"] {
+    position: absolute;
+    left: 0; 
+    top: 0; 
+}
+
+
+.comment {
+    font-style: italic; 
+    margin-top: 10px;
+    color: #555; 
+}
+
+
+.buttons {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #007bff; 
+    color: white; 
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; 
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.correct {
+    background-color: #e0f7fa; /* Cyan clair */
+    color: #004d4d; /* Texte en cyan foncé pour le contraste */
+}
+
+.incorrect {
+    background-color: #fee9e9; 
+    color: #991c1c; 
+}
+
+
+
+
+.strikethrough {
+    text-decoration: line-through; 
+    color: #dc3545;
+}
+
+.feedback {
+    font-weight: bold;
+    color: #155724; 
+    background-color: #d4edda; 
+    border: 1px solid #c3e6cb; 
+    padding: 8px; 
+    border-radius: 4px; 
+    margin-top: 5px; 
+}
+
+.correct-answer {
+	font-weight: bold;
+    color: green; 
+    margin-top: 5px; 
+}
+
+
+/* Boutons de navigation */
+.nav-buttons {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1em;
+    margin-bottom: 1.5em;
+}
+
+.nav-button {
+    padding: 0.6em 1.2em;
+    background-color: #004466;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.nav-button:hover {
+    background-color: #00334d;
+}
+
+.nav-button[disabled] {
+    pointer-events: none;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.video-container iframe {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+

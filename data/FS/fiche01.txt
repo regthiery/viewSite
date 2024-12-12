@@ -21,6 +21,6 @@ PDF:
 
 QCM:
 	TITLE: Testez vos connaissances sur les formations superficielles à l'aide de questions interactives.
-	LINK: qcm01.html	
+	LINK: introduction/qcm01.html	
 
 

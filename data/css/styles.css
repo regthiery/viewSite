@@ -11,6 +11,40 @@ body {
     align-items: center;
 }
 
+
+/* Navigation */
+nav {
+    background-color: #005f73; /* Harmonisé avec les titres */
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+    width: 100%; /* Prend toute la largeur de la page */
+    box-sizing: border-box;
+    margin-bottom: 35px; /* Ajout de marge en-dessous de la barre de navigation */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #007bff; /* Légère variation pour l'effet hover */
+}
+
+
 .container {
     max-width: 1200px;
     text-align: center;

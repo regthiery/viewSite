@@ -114,6 +114,7 @@ my $up_disabled = $up ? "" : 'disabled';
 my $prev_disabled = $prev ? "" : 'disabled';
 my $next_disabled = $next ? "" : 'disabled';
 
+my $root_path = "../" x $depth;  # Génère le chemin relatif pour le CSS
 
 # Écrit le contenu HTML
 print $out <<"HTML";
@@ -126,6 +127,16 @@ print $out <<"HTML";
     <link rel="stylesheet" href="$css_file">
 </head>
 <body>
+
+    <nav>
+        <ul>
+            <li><a href="${root_path}index.html">Accueil</a></li>
+            <li><a href="${root_path}index0.html">Cours</a></li>
+            <li><a href="${root_path}videos.html">Videos</a></li>
+            <li><a href="${root_path}apropos.html">À propos</a></li>
+        </ul>
+    </nav>
+
 
 <!-- Barre de navigation avec les boutons en rangée -->
 <div class="top-navigation">

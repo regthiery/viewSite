@@ -64,6 +64,7 @@ sync:
 	rsync -av --include='*/' --include='*.css'      --exclude='*' data/ html/
 	rsync -av --include='*/' --include='.htaccess'  --exclude='*' data/ html/
 	rsync -av --include='*/' --include='*.html'     --exclude='*' data/ html/
+	rsync -av --include='*/' --include='*.css'      --exclude='*' data/ html/
 
 
 run_index:

@@ -2,7 +2,7 @@ TITLE0: Formations Superficielles
 TITLE1: À la surface des Continents :<br> <span>les Formations Superficielles !</span>
 TITLE2: Un cours essentiel pour comprendre les processus géologiques de surface
 
-UP: ../index.html
+UP: ../index0.html
 
 PREV: ../GEOR/page01.html
 NEXT: ../TDU/page01.html

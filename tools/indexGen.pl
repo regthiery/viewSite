@@ -28,7 +28,8 @@ my $output_file = "$path_only$base_file.html";  # Définir le chemin de sortie
 
 # Calculer le nombre de sous-dossiers pour déterminer la profondeur
 my $depth = () = $path_only =~ m|/|g;
-my $css_path = "./" x $depth;  # Génère le chemin relatif pour le CSS
+$depth -=1 ;
+my $css_path = "../" x $depth;  # Génère le chemin relatif pour le CSS
 
 # Vérifier l'existence du dossier de sortie, le créer si nécessaire
 unless (-d "./$path_only") {
@@ -87,6 +88,9 @@ close $fh;
 # Génère le fichier HTML
 open my $out, '>', $output_file or die "Impossible de créer le fichier '$output_file': $!\n";
 
+$depth -= 1 ;
+my $root_path = "../" x $depth;  # Génère le chemin relatif pour le CSS
+
 # Écrit le contenu HTML
 print $out <<"HTML";
 <!DOCTYPE html>
@@ -97,7 +101,19 @@ print $out <<"HTML";
     <title>$title0</title>
     <link rel="stylesheet" href="$css_file">
 </head>
+
+
 <body>
+
+    <nav>
+        <ul>
+            <li><a href="${root_path}index.html">Accueil</a></li>
+            <li><a href="${root_path}index0.html">Cours</a></li>
+            <li><a href="${root_path}videos.html">Videos</a></li>
+            <li><a href="${root_path}apropos.html">À propos</a></li>
+        </ul>
+    </nav>
+
 
 <div class="container">
     <h1>$title1</h1>

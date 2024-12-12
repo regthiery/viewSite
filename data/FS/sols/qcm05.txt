@@ -430,52 +430,61 @@ Q:  Quels sont les sols qui présentent les meilleurs RUM ?
 	B: Les sols argileux.
 	B: Les sols graveleux.
 	B: Les sols pierreux.
+	C: Le RUM (Réservoir Utile en Eau) est particulièrement élevé dans les sols limoneux, car ils retiennent bien l'eau tout en permettant une bonne aération et un drainage modéré.	
 
 Q:  Donner un ordre de grandeur de la RUM d'un sol limoneux ? 
 	G: Environ 20-25 cm/m de sol.
 	B: Environ 30-35 cm/m de sol.
 	B: Environ 10-15 cm/m de sol.
 	B: Environ 5-10 cm/m de sol.
+	C: Les sols limoneux ont une Réserve Utile en Eau (RUM) typique de 20 à 25 cm/m de sol, ce qui correspond à leur capacité optimale à retenir l'eau disponible pour les plantes.	
 
 Q:  Donner un ordre de grandeur de la RUM d'un sol sableux ? 
 	B: Environ 20-25 cm/m de sol.
 	B: Environ 30-35 cm/m de sol.
 	B: Environ 10-15 cm/m de sol.
 	G: Environ 5-10 cm/m de sol.
+	C: Les sols sableux ont une faible Réserve Utile en Eau (RUM), généralement comprise entre 5 et 10 cm/m de sol, en raison de leur faible capacité de rétention d'eau et de leur drainage rapide.	
 
 Q:  Quel type de sols va-t-on trouver sur des scories volcaniques dans une carrière abandonnée depuis une vingtaine d'années ? 
 	G: Un régosol.
 	B: Un andosol.
 	B: Un sol brun.
 	B: Un vertisol.
+	C: Un régosol se forme sur des matériaux peu altérés, comme les scories volcaniques, dans des environnements où le sol a eu peu de temps pour évoluer, comme dans une carrière abandonnée depuis une vingtaine d'années.
 
 Q:  Quelles sont les particularités des andosols au toucher ? 
 	G: Ils ont une structure grumeleuse très fine.
 	G: &Agrave; l'état sec, les mottes sont pulvérulents, sans  cohésion entre elles.
 	G: &Agrave; l'état humide, les mottes éclatent sous la pression des doigts.
 	B: Ils forment des grosses mottes de terre.
+	C: Les andosols se distinguent par leur structure grumeleuse très fine et leur faible cohésion, ce qui les rend pulvérulents à sec et friables sous pression à l'état humide. Cela reflète leur composition riche en matériaux volcaniques amorphes.	
 
 Q:  Qu'est-ce que la <em> thixotropie </em> ? 
 	G: C'est la propriété d'un matériau qui voit sa viscosité chuter quand on lui applique une certaine pression.
 	B: C'est la propriété d'un matériau qui se solidifie quand on lui applique une certaine pression.
 	B: C'est la propriété d'un matériau qui se dilate quand on lui applique une certaine pression.
 	B: C'est la propriété d'un matériau qui bout quand on lui applique une certaine pression.
+	C: La thixotropie est une propriété de certains matériaux, comme des sols argileux saturés, qui deviennent moins visqueux ou plus fluides sous l'effet d'une agitation ou d'une pression, puis retrouvent leur consistance initiale au repos.
 
 Q:  Quel pourcentage de surface	des terres émergées occcupent les andosols dans le monde ? 
 	G: Environ 1%.
 	B: Environ 5%.
 	B: Environ 10%.
 	B: Environ 15%.
+	C: Les andosols, des sols volcaniques riches en matière organique et en minéraux spécifiques, ne couvrent qu'environ 1 % des terres émergées. Ils se trouvent principalement dans les zones volcaniques.	
 
 Q:  Est-ce que les andosols sont généralement des sols fertiles ? 
 	G: Oui.
 	B: Non.
+	C: Les andosols sont généralement très fertiles en raison de leur richesse en matière organique et en minéraux volcaniques, bien qu'ils puissent nécessiter une gestion appropriée dans certaines conditions climatiques ou agricoles.	
 
 Q:  Quel est le stock de matières organiques en moyenne dans un andosol ? 
 	G: Environ 25 kg par m<sup>2</sup>.
 	B: Environ 10 kg par m<sup>2</sup>.
 	B: Environ 5 kg par m<sup>2</sup>.
 	B: Environ 1 kg par m<sup>2</sup>.
+	C: Les andosols sont parmi les sols les plus riches en matières organiques, avec un stock moyen d'environ 25 kg par m². Cette richesse contribue à leur fertilité exceptionnelle et à leur capacité à stocker du carbone.	
 
 Q:  Quel est ce sol selon le RP ?  Le solum comporte :  <ul style="text-align: left"> <li> un horizon rouge ferrallitique (1), </li> <li> et un horizon d'altération sur gneiss (2). </li> </ul>  La coupe fait 2 mètres d'épaisseur. 	
 	I: images/e38.jpg &&
@@ -483,14 +492,16 @@ Q:  Quel est ce sol selon le RP ?  Le solum comporte :  <ul style="text-align: l
 	B: Un oxydisol.
 	B: Un fersialsol.
 	B: Un ferruginosol.
+	C: Un ferrallitisol est un sol tropical ou subtropical avec un horizon ferrallitique marqué par la présence de fer et d'aluminium, souvent sous des climats chauds et humides. Le gneiss comme roche mère et l'épaisseur de la coupe corroborent cette classification.
 
 Q:  Quelle est la différence entre un ferrallitisol et un oxydisol ? 
 	G: Les ferrallitisols ne comportent pas de niveaux durcis (cuirasses, carapaces) comme les oxydisols.
 	B: Les oxydisols ne comportent pas de niveaux durcis (cuirasses, carapaces) comme les ferrallitisols.
+	C: Les ferrallitisols et les oxydisols sont tous deux des sols tropicals riches en oxydes de fer et d'aluminium, mais la principale différence réside dans la présence de niveaux durcis, typiques des oxydisols, qui se forment sous l'effet de l'humidité et du climat chaud.	
 
 Q:  Dans la terminologie utilisée par le RP, que désigne l'horizon <em>OX</em> ? 
 	G: C'est un horizon riche en oxydes et hydroxydes de fer et d'aluminium.
 	B: C'est un horizon riche en oxydes et hydroxydes de Fe<sup>2+</sup> et d'aluminium.
 	B: C'est un horizon riche en sulfates de fer.
 	B: C'est un horizon riche en carbonates de fer.
-
+	C: L'horizon <em>OX</em> est caractérisé par une accumulation d'oxydes et d'hydroxydes de fer et d'aluminium, formés sous des conditions climatiques chaudes et humides, typiques des sols tropicaux et subtropicaux.

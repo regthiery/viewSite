@@ -175,6 +175,9 @@ my $up_disabled = $up ? "" : 'disabled';
 my $prev_disabled = $prev ? "" : 'disabled';
 my $next_disabled = $next ? "" : 'disabled';
 
+my $root_path = "../" x $depth;  # Génère le chemin relatif pour le CSS
+
+
 print $out <<EOF;
 <!DOCTYPE html>
 <html lang="fr">
@@ -186,10 +189,20 @@ print $out <<EOF;
 </head>
 <body>
 
+    <nav>
+        <ul>
+            <li><a href="${root_path}index.html">Accueil</a></li>
+            <li><a href="${root_path}index0.html">Cours</a></li>
+            <li><a href="${root_path}videos.html">Videos</a></li>
+            <li><a href="${root_path}apropos.html">À propos</a></li>
+        </ul>
+    </nav>
+
+
 <div class="nav-buttons">
     <a href="$up"   class="nav-button"  $up_disabled>Retour</a>
-    <a href="$prev" class="nav-button"  $prev_disabled>Page précédente</a>
-    <a href="$next" class="nav-button"  $next_disabled>Page suivante</a>
+    <a href="$prev" class="nav-button"  $prev_disabled>QCM précédent</a>
+    <a href="$next" class="nav-button"  $next_disabled>QCM suivant</a>
 </div>
 
 <div class="container">

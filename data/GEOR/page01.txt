@@ -2,7 +2,7 @@ TITLE0: GeoCool
 TITLE1: Géoressources - Énergie et Matières Premières
 TITLE2: Licence 2e année
 
-UP: ../index.html
+UP: ../index0.html
 
 PREV: ../TDU/page01.html
 NEXT: ../FS/page01.html

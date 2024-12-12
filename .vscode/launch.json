@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Perl-Debug",
             "program": "${workspaceFolder}/tools/qcmGen.pl",
-            "args": [ "data/FS/sols/qcm04.txt", "styleqcm1"],
+            "args": [ "data/FS/qcm01.txt", "styleqcm1"],
             "stopOnEntry": true,
             "reloadModules": true
         }
